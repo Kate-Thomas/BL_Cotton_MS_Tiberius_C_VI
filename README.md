@@ -1,4 +1,4 @@
-# BL_Cotton_MS_Tiberius_C_VI
+# An edition of prayers from British Library, Cotton MS Tiberius C VI
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
