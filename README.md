@@ -25,7 +25,7 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 The unifying theme of the texts is, of course, the psalms: the psalter prefaces on ff. 19-20, and the Dicti Sancti Augustini on ff. 27-8, teach why the psalms are so important; the inclusion of the illustrated guide to musical instruments on ff. 16-18 was presumably intended to illuminate how the psalms of David were intended to be sung; and the set of prayer programmes on ff. 21-7 are largely based upon the psalms.
 <param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-#
+
 As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4.
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
@@ -34,11 +34,9 @@ As a number of interesting texts and images can be found on the thirty unedited 
 ## Contents of the manuscript
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-The items shown in <b>bold</b> are those which are covered in the present edition.
-
-2r-7r: computistical texts
-
-7v-16r: Images from the Bible
+The items shown in <b>bold</b> are those which are covered in the present edition.<nbsp;>
+2r-7r: computistical texts<nbsp;>
+7v-16r: Images from the Bible<nbsp;>
 
 16v-18r: <em>Nabulum est quod grece dicitur tympanum</em>
 
