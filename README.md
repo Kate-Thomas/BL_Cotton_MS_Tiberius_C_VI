@@ -4,7 +4,7 @@
 <param ve-config 
        title="An edition of prayers from British Library, Cotton MS Tiberius C VI"
        author="Kate Thomas"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://access.bl.uk/item/viewer/ark:/81055/vdc_100189742516.0x000001.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=[https://access.bl.uk/item/viewer/ark:/81055/vdc_100189742516.0x000001.jpg](https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x000023/full/90,/0/default.jpg)" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
