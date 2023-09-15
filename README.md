@@ -14,9 +14,11 @@
 
 ##About the manuscript
 
-London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.[^1]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^2]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^3]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <em>De laude psalmorum</em>.[^4]
+London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.[^1][^2]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <em>De laude psalmorum</em>.[^5]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
+<param ve-entity eid="Q23308"> <!-- British Library -->
+<param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 # 
@@ -464,6 +466,7 @@ respice qs ad huanc famuluam tuuam· ill.
 
 # References
 
-[^1]: [Gneuss and Lapidge, <em>Anglo-Saxon Manuscripts</em>, no. 378]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01017373831])[; Ker, <em>Catalogue</em>, no. 199]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01006720410])
-[^2]: A. P. Campbell (ed.), <em>The Tiberius Psalter, Edited From British Museum MS Cotton Tiberius C vi</em> (Ottawa, 1974).  A facsimile of the whole manuscript has been published in Phillip Pulsiano (ed.), <em>Psalters I</em>, Anglo-Saxon Manuscripts in Microfiche Facsimile, 2 (Binghampton, 1994).
-[^3]: Francis Wormald, ‘An English Eleventh-Century Psalter with Pictures: British Museum, Cotton MS Tiberius C. VI’, Walpole Society, 38 (1962), 1-14.
+[^1]: [Gneuss and Lapidge, <em>Anglo-Saxon Manuscripts</em>, no. 378]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01017373831])
+[^2]: [Ker, <em>Catalogue</em>, no. 199]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01006720410])
+[^3]: A. P. Campbell (ed.), <em>The Tiberius Psalter, Edited From British Museum MS Cotton Tiberius C vi</em> (Ottawa, 1974).  A facsimile of the whole manuscript has been published in Phillip Pulsiano (ed.), <em>Psalters I</em>, Anglo-Saxon Manuscripts in Microfiche Facsimile, 2 (Binghampton, 1994).
+[^4]: Francis Wormald, ‘An English Eleventh-Century Psalter with Pictures: British Museum, Cotton MS Tiberius C. VI’, Walpole Society, 38 (1962), 1-14.
