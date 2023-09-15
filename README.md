@@ -21,17 +21,14 @@
 London, British Library Cotton Tiberius C. vi, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster Winchester, probably dating from the mid-1060s.[^1]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^2]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^3]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <em>De laude psalmorum</em>.[^4]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
-
-
-# 
-The unifying theme of the texts is, of course, the psalms: the psalter prefaces on ff. 19-20, and the Dicti Sancti Augustini on ff. 27-8, teach why the psalms are so important; the inclusion of the illustrated guide to musical instruments on ff. 16-18 was presumably intended to illuminate how the psalms of David were intended to be sung; and the set of prayer programmes on ff. 21-7 are largely based upon the psalms.
-
-#
-As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4.
-
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-
+# 
+The unifying theme of the texts is, of course, the psalms: the psalter prefaces on ff. 19-20, and the Dicti Sancti Augustini on ff. 27-8, teach why the psalms are so important; the inclusion of the illustrated guide to musical instruments on ff. 16-18 was presumably intended to illuminate how the psalms of David were intended to be sung; and the set of prayer programmes on ff. 21-7 are largely based upon the psalms.
+<param ve-image seq="45"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+#
+As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4.
 
 
 ## Contents of the manuscript
@@ -39,7 +36,6 @@ As a number of interesting texts and images can be found on the thirty unedited 
 The items shown in <b>bold</b> are those which are covered in the present edition.
 
 2r-7r: computistical texts
-
 7v-16r: Images from the Bible
 
 16v-18r: <em>Nabulum est quod grece dicitur tympanum</em>
