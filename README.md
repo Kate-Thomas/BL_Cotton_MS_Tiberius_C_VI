@@ -240,33 +240,13 @@ QUICUMQUE PRO PECCATIS PENITENTIAM  s. uoluerit AGERE ET MERTEM suam corporali a
 
 [6. Two prayers for chanting the psalter]
 
-[fol. 30r] ‘Suscipere digneris, Domine Deus omnipotens, hos uersiculos consecratos, quos ego ac sindignus peccator decantare cupio in honore nominis tui, pro me misero peccatore et pro omnibus facinoribus meis, siue actis, dictis, cogitationibus, iniquitatibus concupiscentis, siue omnibus neglegentiis meis magis ac minimis, ut uersiculi isti proficiant mihi ad uitam ęternam, spatium adiuuando et ad ueram penitentiam faciendo, per dominum.’
-
-‘Deus in adiutorium meum intende’ trib uicibus.
------------------------------------------------
-‘Presta queso omnipotens et misericors deus ut intelligenter et libenter adque perspicue merear audiri tius enim adiutoriis omni modis indigeo, ut ualeam cum concessa gratia aliquatenus uerba tuę maiestatis cantare, per dominum nostrum.’
-
-
-## Sources and analogues
-
-1. This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.
-
-2. This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Of these, Tiberius C. vi is the only Anglo-Saxon manuscript,  and this does not contain the whole text, but only the eighth section (item no. 2) and a kind of summary (item no. 5).  De laude psalmorum begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.
-
-De laude psalmorum is of particular note for its encouragement of the reader to choose amongst the psalms in order to suit his or her own needs in prayer.  Accordingly, the words ‘si vis’ and ‘si te volueris’ abound in it, along with an emphasis on the importance of praying to God ‘intima mente’ (the phrase occurs eight times in the full treatise).  The eighth and final reason why one would wish to pray with the psalter is ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’,  for this purpose, only one psalm is given, the long 118th psalm ‘Beati immaculati’.  After this follows a brief closing paragraph on the value of the psalter.  In Tiberius, the eighth part of De laude psalmorum and the closing paragraph appear.
-
-4. In 1965, Roger Fowler published what he called A Late Old English Handbook for the use of a Confessor.   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton Tiberius A. iii (N). 
-Unknown to Fowler, the text also appears at this point in Tiberius C. vi, with only minor differences from his source texts.  This text, is a Latin ordo confessionis attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
-
-5. In N, Handbook I is followed immediately by the vernacular confession which Fowler prints as Handbook II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.   The second copy of I in D is followed by other Latin texts of confession and absolution.   Tiberius C. vi departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
-
-6. Black refers to this text as a ‘summary of uses 1-8’ of De laude psalmorum.  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.
-
-7. These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed to the Venerable Bede.
+[fol. 30r] ‘Suscipere digneris, Domine Deus omnipotens, hos uersiculos consecratos, quos ego ac sindignus peccator decantare cupio in honore nominis tui, pro me misero peccatore et pro omnibus facinoribus meis, siue actis, dictis, cogitationibus, iniquitatibus concupiscentis, siue omnibus neglegentiis meis magis ac minimis, ut uersiculi isti proficiant mihi ad uitam ęternam, spatium adiuuando et ad ueram penitentiam faciendo, per dominum.’  ‘Deus in adiutorium meum intende’ trib uicibus.  ‘Presta queso omnipotens et misericors deus ut intelligenter et libenter adque perspicue merear audiri tius enim adiutoriis omni modis indigeo, ut ualeam cum concessa gratia aliquatenus uerba tuę maiestatis cantare, per dominum nostrum.’
 
 ## Notes
 
 1. Oratio cuiusdam nominis Dei: a guide to morning prayer
+
+This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.
 
 1.1: qui pecularius orare uoluerit et furtiua orationes quesierit: this clearly marks out the text as being for individual use.
 
@@ -283,12 +263,19 @@ Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surre
 
 2. Section 8 and epilogue of De laude psalmorum
 
+This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Of these, Tiberius C. vi is the only Anglo-Saxon manuscript,  and this does not contain the whole text, but only the eighth section (item no. 2) and a kind of summary (item no. 5).  De laude psalmorum begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.
+
+De laude psalmorum is of particular note for its encouragement of the reader to choose amongst the psalms in order to suit his or her own needs in prayer.  Accordingly, the words ‘si vis’ and ‘si te volueris’ abound in it, along with an emphasis on the importance of praying to God ‘intima mente’ (the phrase occurs eight times in the full treatise).  The eighth and final reason why one would wish to pray with the psalter is ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’,  for this purpose, only one psalm is given, the long 118th psalm ‘Beati immaculati’.  After this follows a brief closing paragraph on the value of the psalter.  In Tiberius, the eighth part of De laude psalmorum and the closing paragraph appear.
+
 2.1: exercere virtutis: in the sources used as a basis for Black’s edition, the opening sentence appears as ‘exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’.
 
 2.2: in via qui ambulaveris: this does not appear in the sources edited by Black.
 
 
 3.  Old English Handbook I
+
+In 1965, Roger Fowler published what he called A Late Old English Handbook for the use of a Confessor.   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton Tiberius A. iii (N). 
+Unknown to Fowler, the text also appears at this point in Tiberius C. vi, with only minor differences from his source texts.  This text, is a Latin ordo confessionis attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
 
 3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.
 
@@ -303,6 +290,8 @@ Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surre
 
 4. Confessional ordo with priest
 
+In N, Handbook I is followed immediately by the vernacular confession which Fowler prints as Handbook II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.   The second copy of I in D is followed by other Latin texts of confession and absolution.   Tiberius C. vi departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
+
 4.1: Ego confiteor ... Supplico te Dei sacerdos: these prayers appear together in the Libellus Turonensis. 
 
 4.xx: Adesto, domine ... Domine Deus noster, qui offensione nostra: these prayers appear in the absolution of penitents in the Pontificale Lanaletense, fols. 112v-3r.  G. H. Doble, ed., Pontificale Lanaletense, p. 77.
@@ -311,6 +300,8 @@ Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surre
 
 
 5. Short version of De laude psalmorum
+
+Black refers to this text as a ‘summary of uses 1-8’ of De laude psalmorum.  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.
 
 5.1: Sententia Leonis papae: complete versions of the text are attributed to Alcuin, Leo and Augustine. 
 
@@ -332,6 +323,8 @@ Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surre
 
 
 6. Two prayers for chanting the psalter
+
+These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed to the Venerable Bede.
 
 6.1: Suscipere digneris: this prayer appears in the Vespasian Psalter. 
 
