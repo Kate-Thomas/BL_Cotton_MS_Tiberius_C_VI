@@ -15,13 +15,72 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# About the manuscript
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+London, British Library Cotton MS Tiberius is a psalter dating from the late eleventh to the mid-twelfth century, originating from Winchester, perhaps from the Old Minster.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
+# Contents of the manuscript
+
+<em>2r-7r:</em> computistical texts
+
+7v-16r: Images from the Bible
+
+16v-18r: <i>Nabulum est quod grece dicitur tympanum</i>
+An illustrated text on Biblical musical instruments
+
+18v: Image of Christ in majesty
+
+19r-20r: Origo prophetie de regis psalmorum
+Psalter preface
+
+20r-v: Incipit expositio Psalteri
+Psalter preface
+
+21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer
+Instructions
+Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’
+Psalm: ‘Domine, labia mea aperies’ with Gloria
+Psalms
+Confessional prayer: ‘Omnipotens sempiterne Deus’
+
+22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)
+Psalm: ‘Beati immaculati’
+Teaching on the importance of reading the psalms
+
+23r-27r: section I of the ‘Old English Handbook’ (solitary confessional ordo)
+Instructions for prayer
+Prayer to the Virgin and saints for their intercessions
+Litany
+Creed
+
+24r-27r: confessional ordo with a priest
+Confessional prayer: ‘Ego confiteor tibi pater cęli’
+Capitum and response together before the altar
+Psalms and prayers of absolution
+
+27r-v: Short version of the complete ‘De laude psalmorum’
+Reasons for singing the psalms, and which psalms one should sing
+
+27v-28v: Dicti Sancti Augustini
+On the power of the psalms
+
+28v-30r: De septiformes Spiritus Sanctus/Isaias se witega
+Latin homily on the Holy Spirit
+Extended Old English translation of the above, glossed in Middle English
+
+30r: Prayers for chanting the psalms
+‘Suscipere digneris’
+ ‘Presta queso omnipotens’
+
+30v: Image of King David with musicians
+
+31r-129v: Gallican psalter
+
+
+
+
 
 ## Image
 
