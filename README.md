@@ -18,7 +18,7 @@
 
 ## About the manuscript
 
-London, British Library Cotton Tiberius C. vi, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster Winchester, probably dating from the mid-1060s.[^1]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^2]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^3]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <em>De laude psalmorum</em>.[^4]
+London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster Winchester, probably dating from the mid-1060s.[^1]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^2]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^3]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <em>De laude psalmorum</em>.[^4]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-image seq="50"
@@ -34,7 +34,8 @@ As a number of interesting texts and images can be found on the thirty unedited 
 
 
 ## Contents of the manuscript
-
+<param ve-image seq="73"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 The items shown in <b>bold</b> are those which are covered in the present edition.
 
 2r-7r: computistical texts
@@ -106,18 +107,23 @@ Extended Old English translation of the above, glossed in Middle English
 30v: Image of King David with musicians
 
 31r-129v: Gallican psalter
-<param ve-image seq="73"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
 
 ## Edition
 
 [1. Oratio cuiusdam nominis Dei: a guide to morning prayer]
 
 [21v] Oratio cuiusdam nominis Dei.  [P]rimitus enim insinuat et docet eum qui pecularius orare uoluerit et furtiua orationes quesierit quem ad modum agi debeat qualiter misericordia dei prouocet ut indulgentiam pro peccatis quibus gessit obtineat.  Inde uero, cum a somno surrexit erit, signum crucis fronte inpremat, sancte trinitatis nomine confitetur, ita dicens: ‘Sancta trinitas esto mihi cooperatrix’.
+<param ve-image seq="55"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+       
 Et cum requisita naturę petierit, cum silentio properans ad ęcclesiam, flectens genua cum capite in terra deposito dicoratione dominica, et surgens incip[e]re uersum ‘Domine labia mea aperies et os meum adnuntiauit laudem tuam’.
+
 Ipso expleto, cum gloria incipit psalterio: ‘Domine quid multiplicati sunt’, deinde ‘Domine ne in furore tuo’ (i), inde ‘Ad te domine leuaui’, inde ‘Domine ne in furore tuo’ (ii),inde quinquagesimo ‘Miserere mei deus secundum magnam’, inde ‘Miserere mei deus, miserere mei’, inde ‘Inclina domine aurem tuam’, inde ‘Domine deus saluus męę’, inde ‘Uenite exultemus domino’, inde ‘Domine exaudi orationem meam’ (primus), inde ‘Benedic anima mea domino et omnia’, inde ‘Domine exaudi orationem meam’ (ii).
+
 Post unum quoque psalmum, dans gloriam deo genua flectendo cum capite deuoluto in terra, percuti- [fol. 22r] ens pecem, reuoluens in corde suo, dicens: ‘Peccaui, domine, peccaui; miserere mei, et quia pondera peccatorum meorum me pregrauant, non ualeo surgere nisi tu, qui pius et misericors es, iuberis.  Exsurge, domine, adiuua me, et libera me propter nomen tuum.’  Deinde quantos psalmos uolueris per ordinem canebis, nouissime uero sequeris istam orationem et praeuoces super te misericordiam dei et uenientem ex misericordiam a deo cons[e]queris et mitias exorare:
-	‘Omnipotens sempiterne deus, rex regum et dominus dominantium, creator omnium uniuersarum quę in cęlis sunt et quę super terram et omnis abyssos deorsum, qui unigenitum filium tuum, dominum nostrum iesum christum, de spiritu sancto conceptum et natum de maria uirgine de sede maiestatis tuę ad terram descendere et carnem humani generis sumere et crucem passionis pro nobis subirę fecisti.  Exaudi me, miserum et infelicem, ad te clamantem et te humiliter deprecantem, pro uniuersis malis meis que gessi, quia peccaui nimis in uita mea, suadente inimico humani generis, consentiente prauę uoluptatis meae, delectantem seditatem carnis inmunditię meae.  Peccaui nimis more meo, peccaui deus mers et coram te et coram angelis tuis.  [H]eu mihi! quia [fol.22v] non sareueritus facie tua.  Templum corporis mei de opere iniquitatis coinquinaui; animam meam in carne positam male pollui.  Quid ergo dicturus sum, miser, cum ante tremendi diuine maiestatis tuę potentiam uenero adiudicandum?  Si iustus ante te uix saluabitur, ego peccator et infelix, ubi parebo?  Da mihi, deus meus, lacrimas ut lugere merear scelera mea que gessi; succurre mihi, deus meus, succurrite mihi, angeli dei, priusquam me obsorbeat ignis eternus. Mouete et mouere lacrime; mouete fletu oculi mei flumina lacrimarum, inrigate maxillas meas, inrigate genas meas.  Quid ultra faciam, domine, quid respondebo?  Nichil inuenio ubi fugiam nisi ad te.  Tu es deus meus, tu es redemptor meus, tu es spes mea, tu es refugium meum.  In te est decantatio meo semper, in te confidit anima mea.  Precor te, domine, antequam distutias me, miserere mei.’
+
+‘Omnipotens sempiterne deus, rex regum et dominus dominantium, creator omnium uniuersarum quę in cęlis sunt et quę super terram et omnis abyssos deorsum, qui unigenitum filium tuum, dominum nostrum iesum christum, de spiritu sancto conceptum et natum de maria uirgine de sede maiestatis tuę ad terram descendere et carnem humani generis sumere et crucem passionis pro nobis subirę fecisti.  Exaudi me, miserum et infelicem, ad te clamantem et te humiliter deprecantem, pro uniuersis malis meis que gessi, quia peccaui nimis in uita mea, suadente inimico humani generis, consentiente prauę uoluptatis meae, delectantem seditatem carnis inmunditię meae.  Peccaui nimis more meo, peccaui deus mers et coram te et coram angelis tuis.  [H]eu mihi! quia [fol.22v] non sareueritus facie tua.  Templum corporis mei de opere iniquitatis coinquinaui; animam meam in carne positam male pollui.  Quid ergo dicturus sum, miser, cum ante tremendi diuine maiestatis tuę potentiam uenero adiudicandum?  Si iustus ante te uix saluabitur, ego peccator et infelix, ubi parebo?  Da mihi, deus meus, lacrimas ut lugere merear scelera mea que gessi; succurre mihi, deus meus, succurrite mihi, angeli dei, priusquam me obsorbeat ignis eternus. Mouete et mouere lacrime; mouete fletu oculi mei flumina lacrimarum, inrigate maxillas meas, inrigate genas meas.  Quid ultra faciam, domine, quid respondebo?  Nichil inuenio ubi fugiam nisi ad te.  Tu es deus meus, tu es redemptor meus, tu es spes mea, tu es refugium meum.  In te est decantatio meo semper, in te confidit anima mea.  Precor te, domine, antequam distutias me, miserere mei.’
 
 
 [2. Section 8 and epilogue of De laude psalmorum]
