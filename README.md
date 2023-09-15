@@ -1,20 +1,15 @@
 # An edition of prayers from British Library, Cotton MS Tiberius C VI
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
 <param ve-config 
        title="An edition of prayers from British Library, Cotton MS Tiberius C VI"
        author="Kate Thomas"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://www.bl.uk/britishlibrary/~/media/bl/global/anglo%20saxons/collection%20items/tiberius-psalter-cotton_ms_tiberius_c_vi_f015v.jpg"
        layout="vertical">
-
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
-
-
-
 
 ## About the manuscript
 
