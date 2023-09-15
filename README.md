@@ -2,13 +2,14 @@
 <param ve-config 
        title="An edition of prayers from British Library, Cotton MS Tiberius C VI"
        author="Kate Thomas"
-       banner="https://www.bl.uk/britishlibrary/~/media/bl/global/anglo%20saxons/collection%20items/tiberius-psalter-cotton_ms_tiberius_c_vi_f015v.jpg"
+       banner="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x00001e/1923,1569,2771,1833/800,/0/default.jpg"
        layout="vertical">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
+
 ## About the manuscript
 
 London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster Winchester, probably dating from the mid-1060s.[^1]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^2]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^3]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <em>De laude psalmorum</em>.[^4]
