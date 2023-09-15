@@ -12,8 +12,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
-<param ve-image 
-       manifest="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x000024">
+
 
 
 
@@ -22,6 +21,8 @@
 London, British Library Cotton Tiberius C. vi, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster Winchester, probably dating from the mid-1060s.[^1]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^2]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^3]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <em>De laude psalmorum</em>.[^4]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
+<param ve-image 
+       manifest="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x000024/full/90,/0/default.jpg?t=1694766286364">
 
 The unifying theme of the texts is, of course, the psalms: the psalter prefaces on ff. 19-20, and the Dicti Sancti Augustini on ff. 27-8, teach why the psalms are so important; the inclusion of the illustrated guide to musical instruments on ff. 16-18 was presumably intended to illuminate how the psalms of David were intended to be sung; and the set of prayer programmes on ff. 21-7 are largely based upon the psalms.
 
