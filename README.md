@@ -24,7 +24,7 @@ The unifying theme of the texts is, of course, the psalms: the psalter prefaces 
 As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4.
 
 <param ve-image seq="13"
-       manifest="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x000024/full/max/0manifest.json">
+       manifest="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x000024/full/max/0/manifest.json">
 
 ## Contents of the manuscript
 
