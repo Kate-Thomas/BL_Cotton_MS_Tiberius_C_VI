@@ -45,10 +45,13 @@ An illustrated text on Biblical musical instruments
 18v: Image of Christ in majesty
 
 19r-20r: Origo prophetie de regis psalmorum
+
 Psalter preface
 
 20r-v: Incipit expositio Psalteri
+
 Psalter preface
+
 <b>
 21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer
 
@@ -79,8 +82,11 @@ Litany
 Creed
 
 24r-27r: confessional ordo with a priest
+
 Confessional prayer: ‘Ego confiteor tibi pater cęli’
+
 Capitum and response together before the altar
+
 Psalms and prayers of absolution
 
 27r-v: Short version of the complete ‘De laude psalmorum’
