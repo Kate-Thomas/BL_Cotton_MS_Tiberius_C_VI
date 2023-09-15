@@ -13,7 +13,7 @@
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-image 
-       manifest="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x000024/full/90,/0/default.jpg?t=1694766286364">
+       manifest="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x000024">
 
 
 
