@@ -12,8 +12,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+
 
 ## About the manuscript
 
@@ -49,20 +48,31 @@ Psalter preface
 Psalter preface
 
 <b>21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer
+
 Instructions
+
 Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’
+
 Psalm: ‘Domine, labia mea aperies’ with Gloria
+
 Psalms
+
 Confessional prayer: ‘Omnipotens sempiterne Deus’
 
 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)
+
 Psalm: ‘Beati immaculati’
+
 Teaching on the importance of reading the psalms
 
 23r-27r: section I of the ‘Old English Handbook’ (solitary confessional ordo)
+
 Instructions for prayer
+
 Prayer to the Virgin and saints for their intercessions
+
 Litany
+
 Creed
 
 24r-27r: confessional ordo with a priest
@@ -71,7 +81,9 @@ Capitum and response together before the altar
 Psalms and prayers of absolution
 
 27r-v: Short version of the complete ‘De laude psalmorum’
-Reasons for singing the psalms, and which psalms one should sing</b>
+
+Reasons for singing the psalms, and which psalms one should sing
+</b>
 
 27v-28v: Dicti Sancti Augustini
 On the power of the psalms
@@ -80,9 +92,15 @@ On the power of the psalms
 Latin homily on the Holy Spirit
 Extended Old English translation of the above, glossed in Middle English
 
-<b>30r: Prayers for chanting the psalms
+<b>
+	
+30r: Prayers for chanting the psalms
+	
 ‘Suscipere digneris’
- ‘Presta queso omnipotens’</b>
+
+ ‘Presta queso omnipotens’
+
+</b>
 
 30v: Image of King David with musicians
 
