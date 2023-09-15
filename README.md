@@ -4,7 +4,7 @@
 <param ve-config 
        title="An edition of prayers from British Library, Cotton MS Tiberius C VI"
        author="Kate Thomas"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://access.bl.uk/item/viewer/ark:/81055/vdc_100189742516.0x000001#?c=0&m=0&s=0&cv=49&xywh=1606%2C982%2C3156%2C1882" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
