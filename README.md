@@ -22,7 +22,7 @@ London, British Library Cotton Tiberius C. vi, or the Tiberius Psalter, is a glo
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-image 
-       manifest="https://access.bl.uk/item/viewer/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+       manifest="https://access.bl.uk/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 The unifying theme of the texts is, of course, the psalms: the psalter prefaces on ff. 19-20, and the Dicti Sancti Augustini on ff. 27-8, teach why the psalms are so important; the inclusion of the illustrated guide to musical instruments on ff. 16-18 was presumably intended to illuminate how the psalms of David were intended to be sung; and the set of prayer programmes on ff. 21-7 are largely based upon the psalms.
 
