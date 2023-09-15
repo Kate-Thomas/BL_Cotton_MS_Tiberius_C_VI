@@ -34,12 +34,11 @@ As a number of interesting texts and images can be found on the thirty unedited 
 ## Contents of the manuscript
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-<div>The items shown in <b>bold</b> are those which are covered in the present edition.
+The items shown in <b>bold</b> are those which are covered in the present edition.
 
-2r-7r: computistical texts
-7v-16r: Images from the Bible
-
-16v-18r: <em>Nabulum est quod grece dicitur tympanum</em>
+2r-7r: computistical texts<nbsp;>
+7v-16r: Images from the Bible<nbsp;>
+16v-18r: <em>Nabulum est quod grece dicitur tympanum</em><nbsp;>
 
 An illustrated text on Biblical musical instruments
 
@@ -103,7 +102,7 @@ Extended Old English translation of the above, glossed in Middle English
 
 30v: Image of King David with musicians
 
-31r-129v: Gallican psalter</div>
+31r-129v: Gallican psalter
 
 
 ## Edition
