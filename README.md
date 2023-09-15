@@ -122,18 +122,30 @@ Extended Old English translation of the above, glossed in Middle English
 
 [2. Section 8 and epilogue of De laude psalmorum]
 
-Si te volueris intim[a m]ente exercere virtutis, Lavdie decanta semper psalmum ‘Beati inmaculati in via qui ambulaveris’. Et licet suisque ad obitum uitę huius psalmi uirtutem contemplaueris atque scrutaueris numquam perfecte illum ut puto [fol. 23r] intellegere potes.  In quo nullus uersus est in quo non sit uel uia dei uel lex uel mandatum seu praecęptum dei, uerba aut iustificationes uel iudicia aut sermones dei describi.  Et ideo tibi opus ut per diuersos libros animo diffundaris.
-In psalterio solo usque ad obitum uitę habes materiam legendi, scrutandi, docendi, in quo inuenias prophetas, euangelii atque apostolos et omnis diuinos libros spiritaliter ęque intellegitur, ex parte tractatos atque discriptos et priorem atque secundum aduentum deum; ibi reperies prophetato incarnationem quoque hac passionem resurrectionemque atque ascensionem dominicam et omnem uirtutem diuinorum dictorum in psalmis inuenies, si intima mente perscruteris et ad medelam intimi intellectur per dei gratiam perueneris.
+Si te volueris intim[a m]ente exercere virtutis, Lavdie decanta semper psalmum ‘Beati inmaculati in via qui ambulaveris’. Et licet suisque ad obitum uitę huius psalmi uirtutem contemplaueris atque scrutaueris numquam perfecte illum ut puto
+<param ve-image seq="57"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[fol. 23r] intellegere potes.  In quo nullus uersus est in quo non sit uel uia dei uel lex uel mandatum seu praecęptum dei, uerba aut iustificationes uel iudicia aut sermones dei describi.  Et ideo tibi opus ut per diuersos libros animo diffundaris.  In psalterio solo usque ad obitum uitę habes materiam legendi, scrutandi, docendi, in quo inuenias prophetas, euangelii atque apostolos et omnis diuinos libros spiritaliter ęque intellegitur, ex parte tractatos atque discriptos et priorem atque secundum aduentum deum; ibi reperies prophetato incarnationem quoque hac passionem resurrectionemque atque ascensionem dominicam et omnem uirtutem diuinorum dictorum in psalmis inuenies, si intima mente perscruteris et ad medelam intimi intellectur per dei gratiam perueneris.
+<param ve-image seq="58"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 
 [3. Section I of the Old English Handbook]
 
 Incipit ordo confessionis sacerdotum et omnium clericorum secundum Hieronimum tractatorem qualiter confiteri debeat christianum peccata sua.  Quando quis uoluerit confessionem facere peccatorum suorum, uiriliter agat, quia inde uenit quia inde uenit [sic] indulgentia et quia sine confessione nulla est inuenia.  Confessio enim sanat, confessio iustificat, confessio ueniam peccatis donat.
-Inprimis igitur prosternat se humiliter super terram in conspectu dei, adorationem [fol. 23v] et lacrimas fundens, roget beatam mariam cum sanctis apostolis et martyribus et confessoribus ut ipsi intercedant, ut deus omnipotens dignetur dare ei sapientiam perfectam et ueram intellegentiam ad confitendum peccata sua, ita dicendo tribus vicibus:
-‘Sancta maria ora pro me peccatore ad dominum ut merear possidere uitam ęternam amen.  Sancte michael ora pro me peccatore.  Sancte gabriel ora pro me peccatore.  Sancte raphael ora pro me peccatore. Omnis sancti angeli orate pro me peccatore.  Omnes sancti angeli orate pro me peccatore ad dominum ut merear possidere uitam ęternam amen.  Sancte petre ora pro me peccatore.  Sancte paule ora pro me peccatore.  Sancte andręę ora pro me peccatore.  Sancte Iacobe ora pro me peccatore.  Sancte iohannes ora pro me peccatore.  Omnis sancti apostoli orate pro me peccatore ad dominum, ut merear possidere uitam ęternam, amen.  Sancte stephane ora pro me peccatore.  Sancte clemens ora pro me peccatore.  Omnis sancti martyres orate pro me peccatore ad dominum, ut merear possidere uitam ęternam, amen.  Sancte leo ora pro me peccatore.  Sancte silus ora pro me peccatore.  Sancte donate ora pro me peccatore.  Omnes sancti confessores orate pro me ad dominum ut merear possidere uitam ęternam, amen.’
-	Post hec autem cum fiducia surgens confiteatur penitens credulitatem suam, dicens: [fol. 24r]
-‘Credo in unum deum patrem omnipotentem, credo in filium, credo et in spiritum sanctum, credo uitam post mortem, credo me resurgere in die iudicii et hęc omnia, credo in deum uiuum, amen.’
-	Post hęc iterum dicat humiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a:
+Inprimis igitur prosternat se humiliter super terram in conspectu dei, adorationem
+<param ve-image seq="58"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[fol. 23v] et lacrimas fundens, roget beatam mariam cum sanctis apostolis et martyribus et confessoribus ut ipsi intercedant, ut deus omnipotens dignetur dare ei sapientiam perfectam et ueram intellegentiam ad confitendum peccata sua, ita dicendo tribus vicibus:
+‘Sancta maria ora pro me peccatore ad dominum ut merear possidere uitam ęternam amen.  Sancte michael ora pro me peccatore.  Sancte gabriel ora pro me peccatore.  Sancte raphael ora pro me peccatore. Omnis sancti angeli orate pro me peccatore.  Omnes sancti angeli orate pro me peccatore ad dominum ut merear possidere uitam ęternam amen.  Sancte petre ora pro me peccatore.  Sancte paule ora pro me peccatore.  Sancte andręę ora pro me peccatore.  Sancte Iacobe ora pro me peccatore.  Sancte iohannes ora pro me peccatore.  Omnis sancti apostoli orate pro me peccatore ad dominum, ut merear possidere uitam ęternam, amen.  Sancte stephane ora pro me peccatore.  Sancte clemens ora pro me peccatore.  Omnis sancti martyres orate pro me peccatore ad dominum, ut merear possidere uitam ęternam, amen.  Sancte leo ora pro me peccatore.  Sancte silus ora pro me peccatore.  Sancte donate ora pro me peccatore.  Omnes sancti confessores orate pro me ad dominum ut merear possidere uitam ęternam, amen.’  Post hec autem cum fiducia surgens confiteatur penitens credulitatem suam, dicens:
+<param ve-image seq="59"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+ 
+ [fol. 24r] ‘Credo in unum deum patrem omnipotentem, credo in filium, credo et in spiritum sanctum, credo uitam post mortem, credo me resurgere in die iudicii et hęc omnia, credo in deum uiuum, amen.’  Post hęc iterum dicat humiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a:
+ <param ve-image seq="60"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 
 [4. Confessional ordo with priest]
@@ -141,15 +153,30 @@ Inprimis igitur prosternat se humiliter super terram in conspectu dei, adoration
 ‘Ego confiteor tibi, pater cęli et terrę, coram hoc altare tuo sancto et istius loci reliquiis et coram sacerdote tuo, omnia peccata mea et quicquid dei pietas mihi ad memoriam reducit, de cogitationibus malis et sermonibus otiosis siue inmundis et operibus prauis quocumque ego feci contra precępta dei.
 	Ego confiteor omnia odia cordis et corporis mei, inuidias, detractiones, periuria, furta, maledicta, conuitia, turpiloquia, scurrilitates, mendacia, irrisiones, murmurationes, adolationes, tristitias, uigilias inutiles, carnales concupiscentias, iessimas, propter corporis mei suauitates.
 	Ego confiteor quia dei precepta postposui et transgressus sum per superbiam et elationem et pigritiam et uoluptates inmundas.  Perpetraui autem fornicationes, pollutiones, luxurias, ębrietates, commessationes, homicidia, manifeste, et occulte in anima et corpore.
-	Ego confiteor quia ad patrem meum et matrem, fratres et sorores, patruos et ammittas, cum sobrinos siue [fol. 24v] omnis propinquos et parentes meos secundum precęptum et Dei uoluntatem honoris obsequium non exhibui nec in necessitatibus eorum prout potui adfui et omnis christianos sicut Deus precepit non dilexi.  Mulierem et filios et filias sorores et nepotes vel ętiam omnis filias domus meę non correxi sed luxoriosas et adulteras et fornicarias ęnutriui et non prohibui Dominum diem ac sollempnitates sanctorum non digne nec Deo acceptabile duxi nec custodiui et nescentibus non adnuntiaui sed ębriose et luxoriosę in ipsis me pollui et alios adinuitaui et incitaui, decimas omnium bonorum meorum non reddi sed latrocinia 7 furta abscondidi et commedi.
+	Ego confiteor quia ad patrem meum et matrem, fratres et sorores, patruos et ammittas, cum sobrinos siue
+ <param ve-image seq="60"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+ 
+ [fol. 24v] omnis propinquos et parentes meos secundum precęptum et Dei uoluntatem honoris obsequium non exhibui nec in necessitatibus eorum prout potui adfui et omnis christianos sicut Deus precepit non dilexi.  Mulierem et filios et filias sorores et nepotes vel ętiam omnis filias domus meę non correxi sed luxoriosas et adulteras et fornicarias ęnutriui et non prohibui Dominum diem ac sollempnitates sanctorum non digne nec Deo acceptabile duxi nec custodiui et nescentibus non adnuntiaui sed ębriose et luxoriosę in ipsis me pollui et alios adinuitaui et incitaui, decimas omnium bonorum meorum non reddi sed latrocinia 7 furta abscondidi et commedi.
 	Ego confiteor quod infirmos et incarcere positos non uisitaui, nudos non cooperui, hospites propter Deum non suscepi, nec eos pedes laui, esurientes 7 sitientes non refici, dolentes et flentes non consolatus sum, inter se discordantes siue parentes meos siue christianos rixantes plus ad iram quam ad pacem incitatui quod credere debui credidi.
 	Ego confiteor quia multum peccaui, in uisu, auditu, gustu, odoratu et tactu, et multa mala cogitaui et perpetraui et cum mala uoluntate consensi, mala dedi consilia contra Dei preceptum et Dei uoluntate.
-	Ego confiteor quia in sanctam Dei ęcclesia multa mala cogitaui [fol. 25r] et locutus fui et petraui inordinare et superbe intra sanctam ęcclesiam steti, osculantes sedi, aspexi, perrexi, iacui, consensi, intraui, tetigi et similiter exiui in omnibus locis ubicumque uoluptas corporis mei me perduxit et mecum perseuerauit et osculo nefando pollutus fui.  Per sanctam altare et in ęcclesia consecrata et in cruce benedicta et per sanctas reliquias et per Dei nomen et sanctorum nomina et corpora iuraui et periuraui.
+	Ego confiteor quia in sanctam Dei ęcclesia multa mala cogitaui
+ <param ve-image seq="61"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+ 
+ [fol. 25r] et locutus fui et petraui inordinare et superbe intra sanctam ęcclesiam steti, osculantes sedi, aspexi, perrexi, iacui, consensi, intraui, tetigi et similiter exiui in omnibus locis ubicumque uoluptas corporis mei me perduxit et mecum perseuerauit et osculo nefando pollutus fui.  Per sanctam altare et in ęcclesia consecrata et in cruce benedicta et per sanctas reliquias et per Dei nomen et sanctorum nomina et corpora iuraui et periuraui.
 	Ego confiteor quia omnipotenti Deo et omnibus sanctis et omnibus hominibus bonis inobędiens, contentiosus, inuidiosus, iracundus, auarus, cupidus, rapax, incredulus consecratum Dei mynisterium et reliquias et sanctos libros et sanctam uasa indignus et pollutus tetigi et portaui et orationem meam neglegenter in conspectu Dei effudi propter cogitationes inanes et cor lapideum.
 	Ego confiteor quia corpus Dei et sanguinem pollutus corde et corpore sine confessione et pęnitentia scienter indignus accepi et eum non custodiui nec iudicium Domini super me perhorrui.
-	Ego confiteor quia ieiunia et psalmodias et orationes et secutiones post cruces debes nudus uestigus incedere sicut deus pręcepit agere cum omni humilitate cordis et corporis sicut idipsum ędictum fuit, a regibus et imperatoribus non custodiui nęc adimpleui [fol. 25v] episcopos, presbiteros, abbates, monachos, canonicos et omnis clericos ęcclesię Dei sicut debui non amaui nęc dilexi nec honoris obsequium eis praebui sicut Deus praecępit, sed memetipsum per carnalia desideria et per malam uoluntatem et per mala opera contaminaui, de bone staui perdidi et uoluntarię diabolo consensi et impeccatis memetipsum subdidi.  Debis autem omnibus atque aliis innumerabilibus que contra Christi Dei uoluntatem et omnium sanctorum ut legem christianam feci et duro corde perpetraui siu eius opere vel ętiam inassiduitate et delectione peccati siue in die siue in nocte horis atque momentis, siue uigilans siue dormiens, siue qualicumque causa cogitasse, uoluisse contra Dei uoluntatem.
+	Ego confiteor quia ieiunia et psalmodias et orationes et secutiones post cruces debes nudus uestigus incedere sicut deus pręcepit agere cum omni humilitate cordis et corporis sicut idipsum ędictum fuit, a regibus et imperatoribus non custodiui nęc adimpleui
+ <param ve-image seq="62"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+ 
+ [fol. 25v] episcopos, presbiteros, abbates, monachos, canonicos et omnis clericos ęcclesię Dei sicut debui non amaui nęc dilexi nec honoris obsequium eis praebui sicut Deus praecępit, sed memetipsum per carnalia desideria et per malam uoluntatem et per mala opera contaminaui, de bone staui perdidi et uoluntarię diabolo consensi et impeccatis memetipsum subdidi.  Debis autem omnibus atque aliis innumerabilibus que contra Christi Dei uoluntatem et omnium sanctorum ut legem christianam feci et duro corde perpetraui siu eius opere vel ętiam inassiduitate et delectione peccati siue in die siue in nocte horis atque momentis, siue uigilans siue dormiens, siue qualicumque causa cogitasse, uoluisse contra Dei uoluntatem.
 	Sic ego hodie tibi Deus cęli et terrę omnia confiteor coram sancto altare tuo in pura et uera confessione et uoluntate ad ęmendandum et hęc omnia peccata de incęps dimittendum.  Ut tu, omnipotens Deus, qui dixisti, ‘Nolo mortem peccatoris, sed ut conuertatur et uiuat,’ miserearis animę meae et parcas et remittas et deleas omnia delicta mea praeterita praesentia et futura inminentia et perducas me absque macula per tuam magnam misericordiam tuam in uitam ęternam ad omnium consortiam sanctorum et ad gaudia angelorum in cęlo habitantium, amen.  Per.’
-	[fol. 26r] ‘Supplico te Dei sacerdos ut debis omnibus sis mihi testis in diem iudicii, ne gaudeat de me inimicus meus et digne pro me domini clementiam deprecare, ut donet mihi ueniam et indulgentiam et remissionem omnium peccatorum predictorum hic et in ęterna in secula seculorum, amen.’
+ <param ve-image seq="63"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">**
+ 
+ [fol. 26r] ‘Supplico te Dei sacerdos ut debis omnibus sis mihi testis in diem iudicii, ne gaudeat de me inimicus meus et digne pro me domini clementiam deprecare, ut donet mihi ueniam et indulgentiam et remissionem omnium peccatorum predictorum hic et in ęterna in secula seculorum, amen.’
 
 TVNC CVM IPSO PROSTERNATE IPSE SACERDOS INTER ALTARE EISI FIERI POTEST AMEO PARITER CVM FLETV DICAN DEINDE DICAT SACERDOS HAEC CAPITA ET PENITENS RESPONDEAT:
 ‘Conuerte nos salutans noster’
@@ -173,7 +200,11 @@ Gloria pariter.
 ET POST HEC OMNIA DICAT ---- AVT DIACONUS COLLECTAS SVPER INCLINATUM EIUS CAPVT DICENS:
 ‘Dominus uobiscum’
 ‘Et cum spiritu tuo’
-‘Exaudi, domine, preces nostras et confitentium ---- [fol. 26v] tibi parce peccatis ut quos conscientię reatur accussat indulgentię tuę miserationis absoluat.’  Per.
+‘Exaudi, domine, preces nostras et confitentium ----
+<param ve-image seq="64"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[fol. 26v] tibi parce peccatis ut quos conscientię reatur accussat indulgentię tuę miserationis absoluat.’  Per.
 ALIA:
 ‘Adesto, domine, supplicationibus nostris nescit ab hoac famuloa tuoa ill. clementię tuę longinqua miratio sana uulneror eius quere mitte peccat ut nullis a te iniquitatibus separatas tibi Domine ualeat adherere.  Per.’
 ALIA:
@@ -183,9 +214,15 @@ ET ITERUM PROSTERNANT SE SUPER TERRAM DOMINO CELI SACERDOS COMMENDET PENITENTEM 
 ‘Confirma hoc deus quod operitus es in nobis’
 CAPITVLVM usque ‘Benedictus deus’. Gloria.
 
-ET SIC PONGGOMNIA CVLPIS REVELATIS ACCIPIAT PENITENS PENITENTIA MISERICORDITER ME VIAM [fol. 27r] ET MEMORITER OBSERVET ET IMPLEAT EAM ET ITERUM DICAT EI SACERDOS:
+ET SIC PONGGOMNIA CVLPIS REVELATIS ACCIPIAT PENITENS PENITENTIA MISERICORDITER ME VIAM
+<param ve-image seq="65"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[fol. 27r] ET MEMORITER OBSERVET ET IMPLEAT EAM ET ITERUM DICAT EI SACERDOS:
 ‘Dominus custodite ab omni malo’ usque in finem.
 Et recedat humiliter ab eo in domum suam.
+<param ve-image seq="66"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 
 [5. Short version of De laude psalmorum]
@@ -201,7 +238,11 @@ QUICUMQUE PRO PECCATIS PENITENTIAM  s. uoluerit AGERE ET MERTEM suam corporali a
 ‘Ad te, domine, leuaui’
 ‘Iudica me domine quoniam’
 ‘Dominus inluminatio mea’
-‘Beati quorum’ [fol 27v]
+‘Beati quorum’
+<param ve-image seq="66"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+       
+[fol 27v]
 ‘Benedica dominum’
 ‘Domine ne in furore tuo’ (ii) quem ad modu.
 ‘Deus auribus nostris.’
@@ -235,12 +276,15 @@ QUICUMQUE PRO PECCATIS PENITENTIAM  s. uoluerit AGERE ET MERTEM suam corporali a
 ‘Exaltabo te deus meus’
 ‘Laudate dominum de celis’
 ‘Benedicite omnia opera domini domino’
-
 [ ... ]
+<param ve-image seq="67"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [6. Two prayers for chanting the psalter]
 
 [fol. 30r] ‘Suscipere digneris, Domine Deus omnipotens, hos uersiculos consecratos, quos ego ac sindignus peccator decantare cupio in honore nominis tui, pro me misero peccatore et pro omnibus facinoribus meis, siue actis, dictis, cogitationibus, iniquitatibus concupiscentis, siue omnibus neglegentiis meis magis ac minimis, ut uersiculi isti proficiant mihi ad uitam ęternam, spatium adiuuando et ad ueram penitentiam faciendo, per dominum.’  ‘Deus in adiutorium meum intende’ trib uicibus.  ‘Presta queso omnipotens et misericors deus ut intelligenter et libenter adque perspicue merear audiri tius enim adiutoriis omni modis indigeo, ut ualeam cum concessa gratia aliquatenus uerba tuę maiestatis cantare, per dominum nostrum.’
+<param ve-image seq="72"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 ## Notes
 
