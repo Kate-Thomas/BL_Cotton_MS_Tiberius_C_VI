@@ -15,7 +15,12 @@
   h2 {
     color: green;
   }
+  .rubric {
+    color: red;
+  }
 </style>
+![image](https://github.com/Kate-Thomas/BL_Cotton_MS_Tiberius_C_VI/assets/80705157/47471fb0-5471-457b-9d2a-f9e733928484)
+
 
 ## About the manuscript
 
@@ -39,25 +44,25 @@ As a number of interesting texts and images can be found on the thirty unedited 
 ## Contents of the manuscript
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-The items shown in <b>bold</b> are those which are covered in the present edition.
+The items shown in <b>bold</b> are those which are covered in the present edition.<br>
 .2r-7r: computistical texts<br>
 .7v-16r: Images from the Bible<br>
 .16v-18r: <em>Nabulum est quod grece dicitur tympanum</em><br>
 An illustrated text on Biblical musical instruments<br>
-18v Image of Christ in majesty<br>
-19r-20r Origo prophetie de regis psalmorum<br>
+.18v: Image of Christ in majesty<br>
+.19r-20r: Origo prophetie de regis psalmorum<br>
 Psalter preface<br>
 <!-- Is the psalter preface actually a separate text?  Check -->
 20r-v Incipit expositio Psalteri<br>
 Psalter preface<br>
 <!-- Is the psalter preface actually a separate text?  Check -->
-<b>21v-22v Oratio cuiusdam nominis Dei: a guide to morning prayer<br>
+<b>.21v-22v: <em></em>Oratio cuiusdam nominis Dei</b></em>: a guide to morning prayer<br>
 Instructions<br>
 Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’<br>
 Psalm: ‘Domine, labia mea aperies’ with Gloria<br>
 Psalms<br>
 Confessional prayer: ‘Omnipotens sempiterne Deus’<br>
-22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
+.22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
 Psalm: ‘Beati immaculati’<br>
 Teaching on the importance of reading the psalms<br>
 23r-27r: section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
@@ -86,7 +91,7 @@ Extended Old English translation of the above, glossed in Middle English<br>
 ## Edition
 
 <b>1. <em>Oratio cuiusdam nominis Dei</em>: a guide to morning prayer</b><br>
-[21v] <p style="color:red;">Oratio cuiusdam nominis Dei.</p><br>
+[21v] Oratio cuiusdam nominis Dei.<br>
 [P]rimitus enim insinuat et docet eum qui<br>
 pecularius orare uoluerit et furtiua orati-<br>
 ones quesierit quem ad modum agi debeat qualiter<br>
