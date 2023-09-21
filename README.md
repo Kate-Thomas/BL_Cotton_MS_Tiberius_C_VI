@@ -12,7 +12,7 @@
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <style>
-  h3 {
+  h2 {
     color: green;
   }
 </style>
@@ -39,10 +39,10 @@ As a number of interesting texts and images can be found on the thirty unedited 
 ## Contents of the manuscript
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-The items shown in <b>bold</b> are those which are covered in the present edition.<br>
-2r-7r computistical texts<br>
-7v-16r Images from the Bible<br>
-16v-18r <em>Nabulum est quod grece dicitur tympanum</em><br>
+The items shown in <b>bold</b> are those which are covered in the present edition.
+.2r-7r: computistical texts<br>
+.7v-16r: Images from the Bible<br>
+.16v-18r: <em>Nabulum est quod grece dicitur tympanum</em><br>
 An illustrated text on Biblical musical instruments<br>
 18v Image of Christ in majesty<br>
 19r-20r Origo prophetie de regis psalmorum<br>
@@ -86,7 +86,7 @@ Extended Old English translation of the above, glossed in Middle English<br>
 ## Edition
 
 <b>1. <em>Oratio cuiusdam nominis Dei</em>: a guide to morning prayer</b><br>
-[21v] <style="color: red;">Oratio cuiusdam nominis Dei.</style><br>
+[21v] <p style="color:red;">Oratio cuiusdam nominis Dei.</p><br>
 [P]rimitus enim insinuat et docet eum qui<br>
 pecularius orare uoluerit et furtiua orati-<br>
 ones quesierit quem ad modum agi debeat qualiter<br>
