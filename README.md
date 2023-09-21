@@ -53,10 +53,10 @@ Psalter preface
 Psalter preface
 
 <b>
-21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer</b>
-Instructions
-Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’
-Psalm: ‘Domine, labia mea aperies’ with Gloria
+21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer</b><br>
+Instructions<br>
+Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’<br>
+Psalm: ‘Domine, labia mea aperies’ with Gloria<br>
 
 Psalms
 
