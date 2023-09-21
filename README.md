@@ -11,6 +11,11 @@
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
+<style>
+  h2 {
+    color: red;
+  }
+</style>
 
 ## About the manuscript
 
@@ -35,7 +40,6 @@ As a number of interesting texts and images can be found on the thirty unedited 
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 The items shown in <b>bold</b> are those which are covered in the present edition.<br>
-<br>
 2r-7r: computistical texts<br>
 7v-16r: Images from the Bible<br>
 16v-18r: <em>Nabulum est quod grece dicitur tympanum</em><br>
@@ -79,9 +83,12 @@ Extended Old English translation of the above, glossed in Middle English<br>
 
 ## Edition
 
-[1. Oratio cuiusdam nominis Dei: a guide to morning prayer]
-
-[21v] Oratio cuiusdam nominis Dei.  [P]rimitus enim insinuat et docet eum qui pecularius orare uoluerit et furtiua orationes quesierit quem ad modum agi debeat qualiter misericordia dei prouocet ut indulgentiam pro peccatis quibus gessit obtineat.  Inde uero, cum a somno surrexit erit, signum crucis fronte inpremat, sancte trinitatis nomine confitetur, ita dicens: ‘Sancta trinitas esto mihi cooperatrix’.  Et cum requisita naturę petierit, cum silentio properans ad ęcclesiam, flectens genua cum capite in terra deposito dicoratione dominica, et surgens incip[e]re uersum ‘Domine labia mea aperies et os meum adnuntiauit laudem tuam’.  Ipso expleto, cum gloria incipit psalterio: ‘Domine quid multiplicati sunt’, deinde ‘Domine ne in furore tuo’ (i), inde ‘Ad te domine leuaui’, inde ‘Domine ne in furore tuo’ (ii),inde quinquagesimo ‘Miserere mei deus secundum magnam’, inde ‘Miserere mei deus, miserere mei’, inde ‘Inclina domine aurem tuam’, inde ‘Domine deus saluus męę’, inde ‘Uenite exultemus domino’, inde ‘Domine exaudi orationem meam’ (primus), inde ‘Benedic anima mea domino et omnia’, inde ‘Domine exaudi orationem meam’ (ii).  Post unum quoque psalmum, dans gloriam deo genua flectendo cum capite deuoluto in terra, percuti-
+<b>1. <em>Oratio cuiusdam nominis Dei</em>: a guide to morning prayer</b><br>
+[21v] <h2>Oratio cuiusdam nominis Dei.</h2><br>
+[P]rimitus enim insinuat et docet eum qui<br>
+pecularius orare uoluerit et furtiua orati-<br>
+ones quesierit quem ad modum agi debeat qualiter<br>
+misericordia dei prouocet ut indulgentiam pro peccatis quibus gessit obtineat.  Inde uero, cum a somno surrexit erit, signum crucis fronte inpremat, sancte trinitatis nomine confitetur, ita dicens: ‘Sancta trinitas esto mihi cooperatrix’.  Et cum requisita naturę petierit, cum silentio properans ad ęcclesiam, flectens genua cum capite in terra deposito dicoratione dominica, et surgens incip[e]re uersum ‘Domine labia mea aperies et os meum adnuntiauit laudem tuam’.  Ipso expleto, cum gloria incipit psalterio: ‘Domine quid multiplicati sunt’, deinde ‘Domine ne in furore tuo’ (i), inde ‘Ad te domine leuaui’, inde ‘Domine ne in furore tuo’ (ii),inde quinquagesimo ‘Miserere mei deus secundum magnam’, inde ‘Miserere mei deus, miserere mei’, inde ‘Inclina domine aurem tuam’, inde ‘Domine deus saluus męę’, inde ‘Uenite exultemus domino’, inde ‘Domine exaudi orationem meam’ (primus), inde ‘Benedic anima mea domino et omnia’, inde ‘Domine exaudi orationem meam’ (ii).  Post unum quoque psalmum, dans gloriam deo genua flectendo cum capite deuoluto in terra, percuti-
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
