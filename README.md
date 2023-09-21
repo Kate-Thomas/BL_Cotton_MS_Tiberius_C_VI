@@ -53,12 +53,9 @@ Psalter preface
 Psalter preface
 
 <b>
-21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer
-
+21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer</b>
 Instructions
-
 Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’
-
 Psalm: ‘Domine, labia mea aperies’ with Gloria
 
 Psalms
@@ -91,20 +88,17 @@ Psalms and prayers of absolution
 
 27r-v: Short version of the complete ‘De laude psalmorum’
 
-Reasons for singing the psalms, and which psalms one should sing</b>
+Reasons for singing the psalms, and which psalms one should sing
 
 27v-28v: Dicti Sancti Augustini
 On the power of the psalms
 
 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega
-Latin homily on the Holy Spirit
-Extended Old English translation of the above, glossed in Middle English
-
+	Latin homily on the Holy Spirit
+	Extended Old English translation of the above, glossed in Middle English
 <b>30r: Prayers for chanting the psalms
-	
 ‘Suscipere digneris’
-
- ‘Presta queso omnipotens’</b>
+‘Presta queso omnipotens’</b>
 
 30v: Image of King David with musicians
 
