@@ -15,12 +15,8 @@
   h2 {
     color: green;
   }
-  .rubric {
-    color: red;
-  }
 </style>
 ![image](https://github.com/Kate-Thomas/BL_Cotton_MS_Tiberius_C_VI/assets/80705157/47471fb0-5471-457b-9d2a-f9e733928484)
-
 
 ## About the manuscript
 
