@@ -11,11 +11,7 @@
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
-<style>
-  h2 {
-    color: green;
-  }
-</style>
+
 ![image](https://github.com/Kate-Thomas/BL_Cotton_MS_Tiberius_C_VI/assets/80705157/47471fb0-5471-457b-9d2a-f9e733928484)
 
 ## About the manuscript
