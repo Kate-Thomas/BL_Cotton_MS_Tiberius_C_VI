@@ -34,75 +34,47 @@ As a number of interesting texts and images can be found on the thirty unedited 
 ## Contents of the manuscript
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-The items shown in <b>bold</b> are those which are covered in the present edition.
-
-2r-7r: computistical texts<nbsp;>
-7v-16r: Images from the Bible<nbsp;>
-16v-18r: <em>Nabulum est quod grece dicitur tympanum</em><nbsp;>
-
-An illustrated text on Biblical musical instruments
-
-18v: Image of Christ in majesty
-
-19r-20r: Origo prophetie de regis psalmorum
-
-Psalter preface
-
-20r-v: Incipit expositio Psalteri
-
-Psalter preface
-
-<b>
-21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer</b><br>
+The items shown in <b>bold</b> are those which are covered in the present edition.<br>
+<br>
+2r-7r: computistical texts<br>
+7v-16r: Images from the Bible<br>
+16v-18r: <em>Nabulum est quod grece dicitur tympanum</em><br>
+An illustrated text on Biblical musical instruments<br>
+18v: Image of Christ in majesty<br>
+19r-20r: Origo prophetie de regis psalmorum<br>
+Psalter preface<br>
+20r-v: Incipit expositio Psalteri<br>
+Psalter preface<br>
+<b>21v-22v: Oratio cuiusdam nominis Dei: a guide to morning prayer<br>
 Instructions<br>
 Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’<br>
 Psalm: ‘Domine, labia mea aperies’ with Gloria<br>
-
-Psalms
-
-Confessional prayer: ‘Omnipotens sempiterne Deus’
-
-22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)
-
-Psalm: ‘Beati immaculati’
-
-Teaching on the importance of reading the psalms
-
-23r-27r: section I of the ‘Old English Handbook’ (solitary confessional ordo)
-
-Instructions for prayer
-
-Prayer to the Virgin and saints for their intercessions
-
-Litany
-
-Creed
-
-24r-27r: confessional ordo with a priest
-
-Confessional prayer: ‘Ego confiteor tibi pater cęli’
-
-Capitum and response together before the altar
-
-Psalms and prayers of absolution
-
-27r-v: Short version of the complete ‘De laude psalmorum’
-
-Reasons for singing the psalms, and which psalms one should sing
-
-27v-28v: Dicti Sancti Augustini
-On the power of the psalms
-
-28v-30r: De septiformes Spiritus Sanctus/Isaias se witega
-	Latin homily on the Holy Spirit
-	Extended Old English translation of the above, glossed in Middle English
-<b>30r: Prayers for chanting the psalms
-‘Suscipere digneris’
-‘Presta queso omnipotens’</b>
-
-30v: Image of King David with musicians
-
-31r-129v: Gallican psalter
+Psalms<br>
+Confessional prayer: ‘Omnipotens sempiterne Deus’<br>
+22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
+Psalm: ‘Beati immaculati’<br>
+Teaching on the importance of reading the psalms<br>
+23r-27r: section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
+Instructions for prayer<br>
+Prayer to the Virgin and saints for their intercessions<br>
+Litany<br>
+Creed<br>
+24r-27r: confessional ordo with a priest<br>
+Confessional prayer: ‘Ego confiteor tibi pater cęli’<br>
+Capitum and response together before the altar<br>
+Psalms and prayers of absolution<br>
+27r-v: Short version of the complete ‘De laude psalmorum’<br>
+Reasons for singing the psalms, and which psalms one should sing</b><br>
+27v-28v: Dicti Sancti Augustini<br>
+On the power of the psalms<br>
+<b>28v-30r: De septiformes Spiritus Sanctus/Isaias se witega</b><br>
+Latin homily on the Holy Spirit<br>
+Extended Old English translation of the above, glossed in Middle English<br>
+<b>30r: Prayers for chanting the psalms<br>
+‘Suscipere digneris’<br>
+‘Presta queso omnipotens’</b><br>
+30v: Image of King David with musicians<br>
+31r-129v: Gallican psalter<br>
 
 
 ## Edition
