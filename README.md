@@ -16,7 +16,7 @@
     color: green;
   }
 em {
-  font-color: red;
+  color: red;
 }	
 </style>
 
