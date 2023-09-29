@@ -82,8 +82,8 @@ Extended Old English translation of the above, glossed in Middle English<br>
 
 ## Edition
 
-<b>1. <em>Oratio cuiusdam nominis Dei</em>: a guide to morning prayer</b><br>
-[21v] Oratio cuiusdam nominis Dei.<br>
+<b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
+[21v] <em>Oratio cuiusdam nominis Dei.</em><br>
 [P]rimitus enim insinuat et docet eum qui<br>
 pecularius orare uoluerit et furtiua orati-<br>
 ones quesierit quem ad modum agi debeat qualiter<br>
