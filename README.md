@@ -15,8 +15,8 @@
   h2 {
     color: green;
   }
-.description em {
-  color: red;
+em {
+  font-color: red;
 }	
 </style>
 
