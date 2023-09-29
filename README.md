@@ -15,11 +15,14 @@
   h2 {
     color: green;
   }
+.description em {
+  color: red;
+}	
 </style>
 
 ## About the manuscript
 
-London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.[^1][^2]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <em>De laude psalmorum</em>.[^5]
+London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.[^1][^2]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
@@ -42,7 +45,7 @@ As a number of interesting texts and images can be found on the thirty unedited 
 The items shown in <b>bold</b> are those which are covered in the present edition.<br>
 .2r-7r: computistical texts<br>
 .7v-16r: Images from the Bible<br>
-.16v-18r: <em>Nabulum est quod grece dicitur tympanum</em><br>
+.16v-18r: <i>Nabulum est quod grece dicitur tympanum</i><br>
 An illustrated text on Biblical musical instruments<br>
 .18v: Image of Christ in majesty<br>
 .19r-20r: Origo prophetie de regis psalmorum<br>
@@ -51,7 +54,7 @@ Psalter preface<br>
 20r-v Incipit expositio Psalteri<br>
 Psalter preface<br>
 <!-- Is the psalter preface actually a separate text?  Check -->
-<b>.21v-22v: <em></em>Oratio cuiusdam nominis Dei</b></em>: a guide to morning prayer<br>
+<b>.21v-22v: <i></i>Oratio cuiusdam nominis Dei</b></i>: a guide to morning prayer<br>
 Instructions<br>
 Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’<br>
 Psalm: ‘Domine, labia mea aperies’ with Gloria<br>
@@ -90,7 +93,15 @@ Extended Old English translation of the above, glossed in Middle English<br>
 [P]rimitus enim insinuat et docet eum qui<br>
 pecularius orare uoluerit et furtiua orati-<br>
 ones quesierit quem ad modum agi debeat qualiter<br>
-misericordia dei prouocet ut indulgentiam pro peccatis quibus gessit obtineat.  Inde uero, cum a somno surrexit erit, signum crucis fronte inpremat, sancte trinitatis nomine confitetur, ita dicens: ‘Sancta trinitas esto mihi cooperatrix’.  Et cum requisita naturę petierit, cum silentio properans ad ęcclesiam, flectens genua cum capite in terra deposito dicoratione dominica, et surgens incip[e]re uersum ‘Domine labia mea aperies et os meum adnuntiauit laudem tuam’.  Ipso expleto, cum gloria incipit psalterio: ‘Domine quid multiplicati sunt’, deinde ‘Domine ne in furore tuo’ (i), inde ‘Ad te domine leuaui’, inde ‘Domine ne in furore tuo’ (ii),inde quinquagesimo ‘Miserere mei deus secundum magnam’, inde ‘Miserere mei deus, miserere mei’, inde ‘Inclina domine aurem tuam’, inde ‘Domine deus saluus męę’, inde ‘Uenite exultemus domino’, inde ‘Domine exaudi orationem meam’ (primus), inde ‘Benedic anima mea domino et omnia’, inde ‘Domine exaudi orationem meam’ (ii).  Post unum quoque psalmum, dans gloriam deo genua flectendo cum capite deuoluto in terra, percuti-
+misericordia dei prouocet ut indulgentiam pro peccatis<br>
+quibus gessit obtineat.  Inde uero, cum a somno<br>
+surrexit erit, signum crucis fronte inpremat sanctę<br>
+trinitatis nomine confitetur, ita dicens: ‘Sancta tri-<br>
+nitas esto mihi cooperatrix’.  Et cum requisita na-<br>
+turę petierit, cum silentio properans ad ęccl<i>esi</i>am,<br>
+flectens genua cum capite in terra deposito dico-<br>
+ratione dominica, et surgens incip[e]re uersum<br>
+D<i>omi</i>ne labia mea ap<i>er</i>ies et os meum adnuntiauit laudem tuam’.  Ipso expleto, cum gloria incipit psalterio: ‘Domine quid multiplicati sunt’, deinde ‘Domine ne in furore tuo’ (i), inde ‘Ad te domine leuaui’, inde ‘Domine ne in furore tuo’ (ii),inde quinquagesimo ‘Miserere mei deus secundum magnam’, inde ‘Miserere mei deus, miserere mei’, inde ‘Inclina domine aurem tuam’, inde ‘Domine deus saluus męę’, inde ‘Uenite exultemus domino’, inde ‘Domine exaudi orationem meam’ (primus), inde ‘Benedic anima mea domino et omnia’, inde ‘Domine exaudi orationem meam’ (ii).  Post unum quoque psalmum, dans gloriam deo genua flectendo cum capite deuoluto in terra, percuti-
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -445,7 +456,7 @@ respice qs ad huanc famuluam tuuam· ill.
 
 # References
 
-[^1]: [Gneuss and Lapidge, <em>Anglo-Saxon Manuscripts</em>, no. 378]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01017373831])
-[^2]: [Ker, <em>Catalogue</em>, no. 199]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01006720410])
-[^3]: A. P. Campbell (ed.), <em>The Tiberius Psalter, Edited From British Museum MS Cotton Tiberius C vi</em> (Ottawa, 1974).  A facsimile of the whole manuscript has been published in Phillip Pulsiano (ed.), <em>Psalters I</em>, Anglo-Saxon Manuscripts in Microfiche Facsimile, 2 (Binghampton, 1994).
+[^1]: [Gneuss and Lapidge, <i>Anglo-Saxon Manuscripts</i>, no. 378]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01017373831])
+[^2]: [Ker, <i>Catalogue</i>, no. 199]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01006720410])
+[^3]: A. P. Campbell (ed.), <i>The Tiberius Psalter, Edited From British Museum MS Cotton Tiberius C vi</i> (Ottawa, 1974).  A facsimile of the whole manuscript has been published in Phillip Pulsiano (ed.), <i>Psalters I</i>, Anglo-Saxon Manuscripts in Microfiche Facsimile, 2 (Binghampton, 1994).
 [^4]: Francis Wormald, ‘An English Eleventh-Century Psalter with Pictures: British Museum, Cotton MS Tiberius C. VI’, Walpole Society, 38 (1962), 1-14.
