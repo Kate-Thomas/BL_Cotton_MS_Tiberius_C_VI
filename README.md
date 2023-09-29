@@ -20,7 +20,7 @@ em {
 }	
 </style>
 
-## About the manuscript
+## About the manuscript<!--Cut this section right down to the most important stuff-->
 
 London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.[^1][^2]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
@@ -28,10 +28,6 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <param ve-image seq="50"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-
-The unifying theme of the texts is, of course, the psalms: the psalter prefaces on ff. 19-20, and the Dicti Sancti Augustini on ff. 27-8, teach why the psalms are so important; the inclusion of the illustrated guide to musical instruments on ff. 16-18 was presumably intended to illuminate how the psalms of David were intended to be sung; and the set of prayer programmes on ff. 21-7 are largely based upon the psalms.
-<param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4.
@@ -43,18 +39,16 @@ As a number of interesting texts and images can be found on the thirty unedited 
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 The items shown in <b>bold</b> are those which are covered in the present edition.<br>
-.2r-7r: computistical texts<br>
-.7v-16r: Images from the Bible<br>
-.16v-18r: <i>Nabulum est quod grece dicitur tympanum</i><br>
-An illustrated text on Biblical musical instruments<br>
+
+2r-7r: computistical texts<br>
+7v-16r: Images from the Bible<br>
+16v-18r: An illustrated text on Biblical musical instruments (<i>Nabulum est quod grece dicitur tympanum</i>)<br>
 .18v: Image of Christ in majesty<br>
-.19r-20r: Origo prophetie de regis psalmorum<br>
-Psalter preface<br>
+.19r-20r: Psalter preface (<i>Origo prophetie de regis psalmorum</i>)<br>
 <!-- Is the psalter preface actually a separate text?  Check -->
-20r-v Incipit expositio Psalteri<br>
-Psalter preface<br>
+20r-v: Psalter preface (<i>Incipit expositio Psalteri</i>)<br>
 <!-- Is the psalter preface actually a separate text?  Check -->
-<b>.21v-22v: <i></i>Oratio cuiusdam nominis Dei</b></i>: a guide to morning prayer<br>
+<b>.21v-22v: A guide to morning prayer (<i>Oratio cuiusdam nominis Dei</i>)</b><br>
 Instructions<br>
 Prayer: ‘Sancta Trinitas, esto mihi cooperatrix’<br>
 Psalm: ‘Domine, labia mea aperies’ with Gloria<br>
@@ -101,7 +95,19 @@ nitas esto mihi cooperatrix’.  Et cum requisita na-<br>
 turę petierit, cum silentio properans ad ęccl<i>esi</i>am,<br>
 flectens genua cum capite in terra deposito dico-<br>
 ratione dominica, et surgens incip[e]re uersum<br>
-D<i>omi</i>ne labia mea ap<i>er</i>ies et os meum adnuntiauit laudem tuam’.  Ipso expleto, cum gloria incipit psalterio: ‘Domine quid multiplicati sunt’, deinde ‘Domine ne in furore tuo’ (i), inde ‘Ad te domine leuaui’, inde ‘Domine ne in furore tuo’ (ii),inde quinquagesimo ‘Miserere mei deus secundum magnam’, inde ‘Miserere mei deus, miserere mei’, inde ‘Inclina domine aurem tuam’, inde ‘Domine deus saluus męę’, inde ‘Uenite exultemus domino’, inde ‘Domine exaudi orationem meam’ (primus), inde ‘Benedic anima mea domino et omnia’, inde ‘Domine exaudi orationem meam’ (ii).  Post unum quoque psalmum, dans gloriam deo genua flectendo cum capite deuoluto in terra, percuti-
+D<i>omi</i>ne labia mea ap<i>er</i>ies et os meum adnuntiauit<br>
+laudem tuam.  Ipso expleto, cum gloria incipit psal-<br>
+terio: ‘Domine quid multiplicati sunt’, deinde ‘Domine<br>
+ne in furore tuo’ (i), inde ‘Ad te domine leuaui’, inde<br>
+‘Domine ne in furore tuo’ (ii),inde quinquagesimo<br>
+‘Miserere mei deus secundum magnam’, inde ‘Miserere<br>
+mei deus, miserere mei’, inde ‘Inclina domine aurem<br>
+tuam’, inde ‘Domine deus saluus męę’, inde ‘Uenite ex-<br>
+ultem<i>us</i> domino’, inde ‘Domine exaudi orationem meam<br>
+primus inde ‘Benedic anima mea domino et omnia<br>
+inde ‘Domine exaudi orationem meam’ (ii).  Post unu<i>m</i><br>
+quoque psalmum, dans gloriam deo genua flec -<br>
+tendo cum capite deuoluto in terra, percuti-
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
