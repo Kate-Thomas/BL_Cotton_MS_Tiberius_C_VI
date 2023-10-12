@@ -44,10 +44,8 @@ The items shown in <b>bold</b> are those which are covered in the present editio
 .7v-16r: Images from the Bible<br>
 .16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
 .18v: Image of Christ in majesty<br>
-.19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br>
-<!-- Is the psalter preface actually a separate text?  Check -->
-.20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br>
-<!-- Is the psalter preface actually a separate text?  Check -->
+.19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+.20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 <b>.21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
 .22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
 .23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
@@ -59,10 +57,10 @@ The items shown in <b>bold</b> are those which are covered in the present editio
 .31r-129v: Gallican psalter<br>
 
 
-## Edition <!--OK up to end of line 97-->
+## Edition <!--OK up to end of line 74-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
-[21v] <em>Oratio cuiusdam nominis Dei.</em><br>
+[21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
 ones quesierit que<i>m</i> ad modu<i>m</i> agi debeat qualiter<br>
