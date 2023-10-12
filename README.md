@@ -39,13 +39,14 @@ As a number of interesting texts and images can be found on the thirty unedited 
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 The items shown in <b>bold</b> are those which are covered in the present edition.<br>
-
-.2r-7r: computistical texts<br>
-.7v-16r: Images from the Bible<br>
-.16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
-.18v: Image of Christ in majesty<br>
-.19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-.20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+<param ve-image seq="73"
+manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+·2r-7r: computistical texts<br>
+·7v-16r: Images from the Bible<br>
+·16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
+·18v: Image of Christ in majesty<br>
+·19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+·20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 <b>.21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
 .22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
 .23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
