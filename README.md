@@ -80,21 +80,21 @@ Extended Old English translation of the above, glossed in Middle English<br>
 31r-129v: Gallican psalter<br>
 
 
-## Edition
+## Edition <!--OK up to end of line 97-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>Oratio cuiusdam nominis Dei.</em><br>
-[P]rimitus enim insinuat et docet eum qui<br>
-pecularius orare uoluerit et furtiua orati-<br>
-ones quesierit quem ad modum agi debeat qualiter<br>
-misericordia dei prouocet ut indulgentiam pro peccatis<br>
-quibus gessit obtineat.  Inde uero, cum a somno<br>
-surrexit erit, signum crucis fronte inpremat sanctę<br>
-trinitatis nomine confitetur, ita dicens: ‘Sancta tri-<br>
-nitas esto mihi cooperatrix’.  Et cum requisita na-<br>
-turę petierit, cum silentio properans ad ęccl<i>esi</i>am,<br>
-flectens genua cum capite in terra deposito dico-<br>
-ratione dominica, et surgens incip[e]re uersum<br>
+[P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
+pecularius orare uoluerit & furtiua orati-<br>
+ones quesierit que<i>m</i> ad modu<i>m</i> agi debeat qualiter<br>
+mis<i>eri</i>c<i>or</i>dia<i>m</i> dei p<i>ro</i>uocet ut indulgentia<i>m</i> p<i>ro</i> peccatis<br>
+quib<i>us</i> gessit obtineat · Inde uero, cu<i>m</i> a somno<br>
+surrexit erit, signu<i>m</i> crucis fronte inpremat s<i>an</i>c<i>t</i>ę<br>
+trinitatis nomine confitet<i>ur</i>, ita dicens; <b>S<i>an</i>c<i>t</i>a tri-<br>
+nitas esto mihi coop<i>er</i>atrix</b>;  Et cu<i>m</i> requisita na-<br>
+turę petierit · Cum silentio p<i>ro</i>perans ad ęccl<i>esi</i>am,<br>
+flectens genua cu<i>m</i> capite in terra deposito dico-<br>
+ratione dominica & surgens incip[e]re uersum·<br>
 D<i>omi</i>ne labia mea ap<i>er</i>ies et os meum adnuntiauit<br>
 laudem tuam.  Ipso expleto, cum gloria incipit psal-<br>
 terio: ‘Domine quid multiplicati sunt’, deinde ‘Domine<br>
