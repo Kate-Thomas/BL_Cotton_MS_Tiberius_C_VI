@@ -39,26 +39,24 @@ As a number of interesting texts and images can be found on the thirty unedited 
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 The items shown in <b>bold</b> are those which are covered in the present edition.<br>
-<param ve-image seq="73"
-manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-·2r-7r: computistical texts<br>
-·7v-16r: Images from the Bible<br>
-·16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
-·18v: Image of Christ in majesty<br>
-·19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-·20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-<b>.21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
-.22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
-.23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
-.27r-v: Short version of the complete ‘De laude psalmorum’</b><br>
-.27v-28v: Dicti Sancti Augustini<br>
-<b>.28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)</b><br>
-<b>.30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
-.30v: Image of King David with musicians<br>
-.31r-129v: Gallican psalter<br>
+· 2r-7r: computistical texts<br>
+· 7v-16r: Images from the Bible<br>
+· 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
+· 18v: Image of Christ in majesty<br>
+· 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+· 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+<b>· 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
+· 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
+· 23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
+· 27r-v: Short version of the complete ‘De laude psalmorum’</b><br>
+· 27v-28v: Dicti Sancti Augustini<br>
+<b>· 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)</b><br>
+<b>· 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
+· 30v: Image of King David with musicians<br>
+· 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--OK up to end of line 74-->
+## Edition <!--OK up to end of line 76-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -73,10 +71,10 @@ nitas esto mihi coop<i>er</i>atrix</b>;  Et cu<i>m</i> requisita na-<br>
 turę petierit · Cum silentio p<i>ro</i>perans ad ęccl<i>esi</i>am,<br>
 flectens genua cu<i>m</i> capite in terra deposito dico-<br>
 ratione dominica & surgens incip[e]re uersum·<br>
-D<i>omi</i>ne labia mea ap<i>er</i>ies et os meum adnuntiauit<br>
-laudem tuam.  Ipso expleto, cum gloria incipit psal-<br>
-terio: ‘Domine quid multiplicati sunt’, deinde ‘Domine<br>
-ne in furore tuo’ (i), inde ‘Ad te domine leuaui’, inde<br>
+<b>D<i>omi</i>ne labia mea ap<i>er</i>ies et os meu<i>m</i> adnuntiauit<br>
+laude<i>m</i> tua<i>m</i></b>· Ipso expleto, cu<i>m</i> gl<i>ori</i>a · Incipit psal-<br>
+terio · <b>D<i>omi</i>ne quid multiplicati sunt</b>· Deinde <b>d<i>omi</i>ne<br>
+ne in furore tuo</b> (i), inde ‘Ad te domine leuaui’, inde<br>
 ‘Domine ne in furore tuo’ (ii),inde quinquagesimo<br>
 ‘Miserere mei deus secundum magnam’, inde ‘Miserere<br>
 mei deus, miserere mei’, inde ‘Inclina domine aurem<br>
