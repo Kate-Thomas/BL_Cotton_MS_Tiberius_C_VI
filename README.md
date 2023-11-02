@@ -56,7 +56,7 @@ The items shown in <b>bold</b> are those which are covered in the present editio
 · 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--OK up to end of line 76-->
+## Edition <!--OK up to end of line 76; 76-88 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -74,16 +74,16 @@ ratione dominica & surgens incip[e]re uersum·<br>
 <b>D<i>omi</i>ne labia mea ap<i>er</i>ies et os meu<i>m</i> adnuntiauit<br>
 laude<i>m</i> tua<i>m</i></b>· Ipso expleto, cu<i>m</i> gl<i>ori</i>a · Incipit psal-<br>
 terio · <b>D<i>omi</i>ne quid multiplicati sunt</b>· Deinde <b>d<i>omi</i>ne<br>
-ne in furore tuo</b> (i), inde ‘Ad te domine leuaui’, inde<br>
-‘Domine ne in furore tuo’ (ii),inde quinquagesimo<br>
-‘Miserere mei deus secundum magnam’, inde ‘Miserere<br>
-mei deus, miserere mei’, inde ‘Inclina domine aurem<br>
-tuam’, inde ‘Domine deus saluus męę’, inde ‘Uenite ex-<br>
-ultem<i>us</i> domino’, inde ‘Domine exaudi orationem meam<br>
-primus inde ‘Benedic anima mea domino et omnia<br>
-inde ‘Domine exaudi orationem meam’ (ii).  Post unu<i>m</i><br>
-quoque psalmum, dans gloriam deo genua flec -<br>
-tendo cum capite deuoluto in terra, percuti-
+ne in furore tuo</b> ·i· Inde ad te d<i>omi</i>ne Leuaui · Inde<br>
+d<i>omi</i>ne ne in furore tuo ·ii· Inde quinquagesimo<br>
+miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>dum magna<i>m</i> · Inde miserere<br>
+mei d<i>eu</i>s· miserere mei · Inde inclina d<i>omi</i>ne aurem<br>
+tua<i>m</i> · Inde d<i>omi</i>ne d<i>eu</i>s saluus męę·Inde uenite ex-<br>
+ultem<i>us</i> d<i>omi</i>no · Inde D<i>omi</i>ne exaudi oratione<i>m</i> mea<i>m</i> ·<br>
+prim<i>us</i> · Inde benedic anima mea d<i>omi</i>no <i>et</i> omnia·<br>
+Inde d<i>omi</i>ne exaudi oratione<i>m</i> meam ·ii· Post unu<i>m</i><br>
+quoq<i>ue</i> psalmu<i>m</i> dans gl<i>ori</i>am deo genua flec-<br>
+tendo cum capite deuoluto interra· P<i>er</i>cuti-<br>
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
