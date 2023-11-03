@@ -30,7 +30,7 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4.
+As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4. Abbreviations have been expanded, and spacing has been normalised.
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -39,10 +39,10 @@ As a number of interesting texts and images can be found on the thirty unedited 
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 The items shown in <b>bold</b> are those which are covered in the present edition.<br>
-· 2r-7r: computistical texts<br>
-· 7v-16r: Images from the Bible<br>
-· 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
-· 18v: Image of Christ in majesty<br>
+ff. 2r-7r: computistical texts<br>
+ff. 7v-16r: Images from the Bible<br>
+ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
+ff. 18v: Image of Christ in majesty<br>
 · 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 · 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 <b>· 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
@@ -56,7 +56,7 @@ The items shown in <b>bold</b> are those which are covered in the present editio
 · 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--OK up to end of line 76; 76-88 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-117 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -87,7 +87,32 @@ tendo cum capite deuoluto interra· P<i>er</i>cuti-<br>
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[fol. 22r] ens pecem, reuoluens in corde suo, dicens: ‘Peccaui, domine, peccaui; miserere mei, et quia pondera peccatorum meorum me pregrauant, non ualeo surgere nisi tu, qui pius et misericors es, iuberis.  Exsurge, domine, adiuua me, et libera me propter nomen tuum.’  Deinde quantos psalmos uolueris per ordinem canebis, nouissime uero sequeris istam orationem et praeuoces super te misericordiam dei et uenientem ex misericordiam a deo cons[e]queris et mitias exorare: ‘Omnipotens sempiterne deus, rex regum et dominus dominantium, creator omnium uniuersarum quę in cęlis sunt et quę super terram et omnis abyssos deorsum, qui unigenitum filium tuum, dominum nostrum iesum christum, de spiritu sancto conceptum et natum de maria uirgine de sede maiestatis tuę ad terram descendere et carnem humani generis sumere et crucem passionis pro nobis subirę fecisti.  Exaudi me, miserum et infelicem, ad te clamantem et te humiliter deprecantem, pro uniuersis malis meis que gessi, quia peccaui nimis in uita mea, suadente inimico humani generis, consentiente prauę uoluptatis meae, delectantem seditatem carnis inmunditię meae.  Peccaui nimis more meo, peccaui deus mers et coram te et coram angelis tuis.  [H]eu mihi! quia
+[fol. 22r]ens pece<i>m</i> reuolueris incorde · suo dicens · Peccaui<br>
+d<i>omi</i>ne peccaui miserere mei <i>et</i> quia pondera pec-<br>
+cator<i>um</i> meor<i>um</i> me pregrauant non ualeo surgere<br>
+nisi tu qui pius <i>et</i> misericors es iuberis exsurge<br>
+d<i>omi</i>ne adiuua me <i>et</i> libera me p<i>ro</i>pter nomen tuu<i>m</i>;<br>
+Deinde quantos psalmos uolueris p<i>er</i> ordinem<br>
+canebis; Nouissime uero sequeris ista<i>m</i> oratione<i>m</i><br>
+<i>et</i> p<i>rae</i>uoces sup<i>er</i> te mis<i>eri</i>c<i>or</i>dia<i>m</i> dei <i>et</i> ueniente<i>m</i> <i>ex</i> miseri<br>
+cordia<i>m</i> a deo cons[e]queris <i>et</i>mitias exorare ·<br>
+OM<i>NI</i>P<i>OTEN</i>S SEMPITERNE D<i>EU</i>S REX REGU<i>M</i> ET D<i>OMI</i>N<i>U</i>S<br>
+dominantiu<i>m</i> creator omniu<i>m</i> uniuersaru<i>m</i><br>
+quę in cęlis sunt <i>et</i> quę sup<i>er</i> terra<i>m</i> <i>et</i>om<i>ni</i>s abyssos<br>
+deorsu<i>m</i> qui unigenitu<i>m</i> filiu<i>m</i> tuu<i>m</i> d<i>omi</i>n<i>u</i>m n<i>ost</i>r<i>u</i>m<br>
+i<i>esu</i>m <i>christu</i>m de sp<i>irit</i>u s<i>an</i>c<i>t</i>o conceptu<i>m</i> <i>et</i> natu<i>m</i> de maria<br>
+uirgine de sede maiestatis tuę ad terram<br>
+descendere <i>et</i> carne<i>m</i> humani generis sumere<br>
+<i>et</i> cruce<i>m</i> passionis p<i>ro</i> nobis subiręfecisti · Exau-<br>
+di me miseru<i>m</i> <i>et</i> infelice<i>m</i> ad te clamantem<br>
+<i>et</i> te humiliter deprecante<i>m</i> p<i>ro</i> uniuersis malis<br>
+meis que gessi quia peccaui nimis in uita<br>
+mea suadente inimico humani generis ·<br>
+Consentiente prauę uoluptatis meae · Delec<br>
+tante<i>m</i> seditate<i>m</i> carnis inmunditię meae;<br>
+Peccaui nimis more meo peccaui deus m<i>er</i>s<i>et</i>-<br>
+<!--mersetcoram??  Check this-->
+cora<i>m</i> te <i>et</i> cora<i>m</i> ang<i>e</i>lis tuis [H]eu mihi quia<br>
 <param ve-image seq="56"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
