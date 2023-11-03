@@ -43,17 +43,17 @@ ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
 ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
 ff. 18v: Image of Christ in majesty<br>
-· 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-· 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-<b>· 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
-· 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
-· 23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
-· 27r-v: Short version of the complete ‘De laude psalmorum’</b><br>
-· 27v-28v: Dicti Sancti Augustini<br>
-<b>· 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)</b><br>
-<b>· 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
-· 30v: Image of King David with musicians<br>
-· 31r-129v: Gallican psalter<br>
+ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+<b>ff. 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
+ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
+ff. 23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
+f. 27r-v: Short version of the complete ‘De laude psalmorum’</b><br>
+ff. 27v-28v: Dicti Sancti Augustini<br>
+<b>ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)</b><br>
+<b>f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
+f· 30v: Image of King David with musicians<br>
+ff· 31r-129v: Gallican psalter<br>
 
 
 ## Edition <!--checked against images up to end of line 76; 76-117 needs to be checked against the images-->
@@ -75,28 +75,28 @@ ratione dominica & surgens incip[e]re uersum·<br>
 laude<i>m</i> tua<i>m</i></b>· Ipso expleto, cu<i>m</i> gl<i>ori</i>a · Incipit psal-<br>
 terio · <b>D<i>omi</i>ne quid multiplicati sunt</b>· Deinde <b>d<i>omi</i>ne<br>
 ne in furore tuo</b> ·i· Inde ad te d<i>omi</i>ne Leuaui · Inde<br>
-d<i>omi</i>ne ne in furore tuo ·ii· Inde quinquagesimo<br>
-miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>dum magna<i>m</i> · Inde miserere<br>
-mei d<i>eu</i>s· miserere mei · Inde inclina d<i>omi</i>ne aurem<br>
-tua<i>m</i> · Inde d<i>omi</i>ne d<i>eu</i>s saluus męę·Inde uenite ex-<br>
-ultem<i>us</i> d<i>omi</i>no · Inde D<i>omi</i>ne exaudi oratione<i>m</i> mea<i>m</i> ·<br>
-prim<i>us</i> · Inde benedic anima mea d<i>omi</i>no <i>et</i> omnia·<br>
-Inde d<i>omi</i>ne exaudi oratione<i>m</i> meam ·ii· Post unu<i>m</i><br>
+<b>d<i>omi</i>ne ne in furore tuo</b> ·ii· Inde quinquagesimo<br>
+<b>miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>dum magna<i>m</i></b> · Inde <b>miserere<br>
+mei d<i>eu</i>s· miserere mei</b> · Inde <b>inclina d<i>omi</i>ne aurem<br>
+tua<i>m</i></b> · Inde <b>d<i>omi</i>ne d<i>eu</i>s saluus męę</b> ·Inde <b>uenite ex-<br>
+ultem<i>us</i> d<i>omi</i>no</b> · Inde <b>D<i>omi</i>ne exaudi oratione<i>m</i> mea<i>m</i></b> ·<br>
+prim<i>us</i> · Inde <b>benedic anima mea d<i>omi</i>no <i>et</i> omnia</b> ·<br>
+Inde <b>d<i>omi</i>ne exaudi oratione<i>m</i> meam</b> ·ii· Post unu<i>m</i><br>
 quoq<i>ue</i> psalmu<i>m</i> dans gl<i>ori</i>am deo genua flec-<br>
 tendo cum capite deuoluto interra· P<i>er</i>cuti-<br>
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[fol. 22r]ens pece<i>m</i> reuolueris incorde · suo dicens · Peccaui<br>
+[fol. 22r]ens pece<i>m</i> reuolueris incorde · suo dicens · <b>Peccaui<br>
 d<i>omi</i>ne peccaui miserere mei <i>et</i> quia pondera pec-<br>
 cator<i>um</i> meor<i>um</i> me pregrauant non ualeo surgere<br>
 nisi tu qui pius <i>et</i> misericors es iuberis exsurge<br>
-d<i>omi</i>ne adiuua me <i>et</i> libera me p<i>ro</i>pter nomen tuu<i>m</i>;<br>
+d<i>omi</i>ne adiuua me <i>et</i> libera me p<i>ro</i>pter nomen tuu<i>m</i></b>;<br>
 Deinde quantos psalmos uolueris p<i>er</i> ordinem<br>
 canebis; Nouissime uero sequeris ista<i>m</i> oratione<i>m</i><br>
 <i>et</i> p<i>rae</i>uoces sup<i>er</i> te mis<i>eri</i>c<i>or</i>dia<i>m</i> dei <i>et</i> ueniente<i>m</i> <i>ex</i> miseri<br>
 cordia<i>m</i> a deo cons[e]queris <i>et</i>mitias exorare ·<br>
-OM<i>NI</i>P<i>OTEN</i>S SEMPITERNE D<i>EU</i>S REX REGU<i>M</i> ET D<i>OMI</i>N<i>U</i>S<br>
+<b>OM<i>NI</i>P<i>OTEN</i>S SEMPITERNE D<i>EU</i>S REX REGU<i>M</i> ET D<i>OMI</i>N<i>U</i>S<br>
 dominantiu<i>m</i> creator omniu<i>m</i> uniuersaru<i>m</i><br>
 quę in cęlis sunt <i>et</i> quę sup<i>er</i> terra<i>m</i> <i>et</i>om<i>ni</i>s abyssos<br>
 deorsu<i>m</i> qui unigenitu<i>m</i> filiu<i>m</i> tuu<i>m</i> d<i>omi</i>n<i>u</i>m n<i>ost</i>r<i>u</i>m<br>
@@ -110,19 +110,41 @@ meis que gessi quia peccaui nimis in uita<br>
 mea suadente inimico humani generis ·<br>
 Consentiente prauę uoluptatis meae · Delec<br>
 tante<i>m</i> seditate<i>m</i> carnis inmunditię meae;<br>
-Peccaui nimis more meo peccaui deus m<i>er</i>s<i>et</i>-<br>
-<!--mersetcoram??  Check this-->
+Peccaui nimis more meo peccaui deus m<i>er</i>s<i>et</i>-<br><!--mersetcoram??  Check this-->
 cora<i>m</i> te <i>et</i> cora<i>m</i> ang<i>e</i>lis tuis [H]eu mihi quia<br>
 <param ve-image seq="56"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[fol.22v] non sum reueritus facie tua.  Templum corporis mei de opere iniquitatis coinquinaui; animam meam in carne positam male pollui.  Quid ergo dicturus sum, miser, cum ante tremendi diuine maiestatis tuę potentiam uenero adiudicandum?  Si iustus ante te uix saluabitur, ego peccator et infelix, ubi parebo?  Da mihi, deus meus, lacrimas ut lugere merear scelera mea que gessi; succurre mihi, deus meus, succurrite mihi, angeli dei, priusquam me obsorbeat ignis eternus. Mouete et mouere lacrime; mouete fletu oculi mei flumina lacrimarum, inrigate maxillas meas, inrigate genas meas.  Quid ultra faciam, domine, quid respondebo?  Nichil inuenio ubi fugiam nisi ad te.  Tu es deus meus, tu es redemptor meus, tu es spes mea, tu es refugium meum.  In te est decantatio meo semper, in te confidit anima mea.  Precor te, domine, antequam distutias me, miserere mei.’
+[fol.22v]non sum<!--check this--> reuerit<i>us</i> facie tua · Templu<i>m</i> corporis mei de<br>
+opere iniquitatis coinquinaui · Anima<i>m</i> mea<i>m</i><br>
+in carne posita<i>m</i> male pollui · Quid ergo dictu<br>
+rus su<i>m</i> miser cu<i>m</i> ante tremendi diuine maie<br>
+statis tuę potentia<i>m</i> uenero ad iudicandum;<br>
+Si iust<i>us</i> ante te uix saluabit<i>ur</i> ego peccator <i>et</i><br>
+infelix ubi parebo · Da mihi d<i>eu</i>s m<i>eu</i>s lacrimas<br>
+ut lugere merear scelera mea q<i>ue</i> gessi succurre<br>
+mihi d<i>eu</i>s m<i>eu</i>s succurrite mihi angeli dei prius<br>
+qua<i>m</i> me obsorbeat ignis et<i>er</i>nus · Mouete <i>et</i><br>
+mouere lacrime · Mouete fletu oculi mei<br>
+flumina lacrimaru<i>m</i> inrigate maxillas meas<br>
+inrigate genas meas · Quid ultra facia<i>m</i>&nbsp; d<i>omi</i>n<i>e</i><br>
+quid respondebo nichil inuenio ubi fugia<i>m</i><br>
+nisi ad te · Tu es d<i>eu</i>s m<i>eu</i>s · Tu es rede<i>m</i>ptor m<i>eu</i>s · Tu es<br>
+spes mea · Tu es refugiu<i>m</i> meu<i>m</i> · In te est decan<br>
+tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
+Precor te d<i>omi</i>ne antequa<i>m</i> distutias me miserere<br>
+mei</b>
 <param ve-image seq="57"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [2. Section 8 and epilogue of De laude psalmorum]
-
-Si te volueris intim[a m]ente exercere virtutis, Lavdie decanta semper psalmum ‘Beati inmaculati in via qui ambulaveris’. Et licet suisque ad obitum uitę huius psalmi uirtutem contemplaueris atque scrutaueris numquam perfecte illum ut puto
+SI TE VOLVERIS INTIMENTE EXER<br>
+CERE VIRTVTIS · LAVDIE DECANTA<br>
+SEMP<i>ER</i> PSALMU<i>M</i> BEATI INMACVLATI<br>
+IN VIA QUI AMBVLAVERIS ·<br>
+ET LICET SUISQ<i>UE</i> AD OBITU<i>M</i> UITĘ HUIUS<br>
+psalmi uirtute<i>m</i> conte<i>m</i>plaueris atque<br>
+scrutaueris · nu<i>m</i>qua<i>m</i> p<i>er</i>fecte illu<i>m</i> ut puto<br>
 <param ve-image seq="57"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
