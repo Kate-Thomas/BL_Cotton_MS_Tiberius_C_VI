@@ -52,8 +52,8 @@ f. 27r-v: Short version of the complete ‘De laude psalmorum’</b><br>
 ff. 27v-28v: Dicti Sancti Augustini<br>
 <b>ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)</b><br>
 <b>f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
-f· 30v: Image of King David with musicians<br>
-ff· 31r-129v: Gallican psalter<br>
+f. 30v: Image of King David with musicians<br>
+ff. 31r-129v: Gallican psalter<br>
 
 
 ## Edition <!--checked against images up to end of line 76; 76-178 needs to be checked against the images-->
@@ -163,6 +163,8 @@ rectione<i>m</i>q<i>ue</i> atq<i>ue</i> ascensione<i>m</i> dominica<i>m et</i> o
 uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
 tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m intimi in<br>
 tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris ·<br>
+<param ve-image seq="58"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <b>[3. Section I of the Old English Handbook]</b><br>
 INCIPIT ORDO CON<br>
@@ -176,16 +178,60 @@ inde uenit · quia inde uenit [<i>sic</i>] indulgentia<br>
 fessio eni<i>m</i> sanat · Confessio iustificat · Confessio<br>
 uenia<i>m</i> peccatis donat · Inprimis igit<i>ur</i> p<i>ro</i>sternat<br>
 se humilit<i>er</i> super t<i>er</i>ra<i>m</i> in conspectu d<i>e</i>i adorationem<br>
-
-<param ve-image seq="58"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-Incipit ordo confessionis sacerdotum et omnium clericorum secundum Hieronimum tractatorem qualiter confiteri debeat christianum peccata sua.  Quando quis uoluerit confessionem facere peccatorum suorum, uiriliter agat, quia inde uenit quia inde uenit [sic] indulgentia et quia sine confessione nulla est inuenia.  Confessio enim sanat, confessio iustificat, confessio ueniam peccatis donat.
-Inprimis igitur prosternat se humiliter super terram in conspectu dei, adorationem
 <param ve-image seq="58"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[fol. 23v] et lacrimas fundens, roget beatam mariam cum sanctis apostolis et martyribus et confessoribus ut ipsi intercedant, ut deus omnipotens dignetur dare ei sapientiam perfectam et ueram intellegentiam ad confitendum peccata sua, ita dicendo tribus vicibus:
+[fol. 23v] <i>et</i> lacrimas fundens rog<i>et</i> beata<i>m</i> maria<i>m</i> cum s<i>an</i>c<i>t</i>is<br>
+ap<i>osto</i>lis <i>et</i> martyrib<i>us</i> <i>et</i> confessorib<i>us</i> ut ipsi inter-<br>
+cedant · ut d<i>eu</i>s om<i>n</i>ipo<i>ten</i>s dignet<i>ur</i> dare ei sapientia<i>m<br>
+p<i>er</i>fecta<i>m</i> <i>et</i> uera<i>m</i> intellegentia<i>m</i> ad confitendum<br>
+peccata sua · Ita dicendo· TRIBUS VICIB<i>US</i><br>
+S<i>an</i>cta maria ora p<i>ro</i> me peccatore ad d<i>omi</i>n<i>u</i>m ut merear<br>
+possidere uita<i>m</i> ęt<i>er</i>nam am<i>en</i> · S<i>anct</i>e michael ora p<i>ro</i> me<br>
+peccatore · S<i>an</i>c<i>t</i>e gabriel ora p<i>ro</i> me peccatore ;<br>
+
+Sancte raphael ora prome peccatore · Omnis sancti angeli
+
+orate prome peccatore · Omnes sancti angeli
+
+orate pro me peccatore addominum utmerear possi-
+
+dere uitam ęternam amen · Sancte petre ora prome pecca
+
+tore · Sancte paule ora prome peccatore · Sancte an-
+
+dręę ora prome peccatore · Sancte Iacobe ora prome
+
+peccatore · Sancte iohannes ora prome peccatore·
+
+Omnis sancti apostoli orate prome peccatore addominum·ut
+
+merear possidere uitam ęternam amen · Sancte stephane
+
+ora prome peccatore · Sancte clemens ora prome pecca
+
+tore·Omnissancti martyres orate prome peccatore
+
+addominum · ut merear possidere uitam ęternam amen.
+
+Sancteleo ora prome peccatore · Sancte silus ora prome
+
+peccatore · Sancte donate ora prome peccatore ·
+
+Omnes sancti confessores orate prome ad dominum· utmerear
+
+possidere uitam ęternam amen; post hec avtem cvm
+
+fidvcia svrgens confiteatvr peni
+
+tens credvlitatem svam dicens .
+
+
+
+<i>et</i> lacrimas fundens roget beatam mariam cum sanctis apostolis et martyribus et confessoribus ut ipsi intercedant, ut deus omnipotens dignetur dare ei sapientiam perfectam et ueram intellegentiam ad confitendum peccata sua, ita dicendo tribus vicibus:
 ‘Sancta maria ora pro me peccatore ad dominum ut merear possidere uitam ęternam amen.  Sancte michael ora pro me peccatore.  Sancte gabriel ora pro me peccatore.  Sancte raphael ora pro me peccatore. Omnis sancti angeli orate pro me peccatore.  Omnes sancti angeli orate pro me peccatore ad dominum ut merear possidere uitam ęternam amen.  Sancte petre ora pro me peccatore.  Sancte paule ora pro me peccatore.  Sancte andręę ora pro me peccatore.  Sancte Iacobe ora pro me peccatore.  Sancte iohannes ora pro me peccatore.  Omnis sancti apostoli orate pro me peccatore ad dominum, ut merear possidere uitam ęternam, amen.  Sancte stephane ora pro me peccatore.  Sancte clemens ora pro me peccatore.  Omnis sancti martyres orate pro me peccatore ad dominum, ut merear possidere uitam ęternam, amen.  Sancte leo ora pro me peccatore.  Sancte silus ora pro me peccatore.  Sancte donate ora pro me peccatore.  Omnes sancti confessores orate pro me ad dominum ut merear possidere uitam ęternam, amen.’  Post hec autem cum fiducia surgens confiteatur penitens credulitatem suam, dicens:
+
+
 <param ve-image seq="59"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
