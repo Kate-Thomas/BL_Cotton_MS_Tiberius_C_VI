@@ -56,7 +56,7 @@ f· 30v: Image of King David with musicians<br>
 ff· 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-117 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-178 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -137,7 +137,7 @@ mei</b>
 <param ve-image seq="57"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[2. Section 8 and epilogue of De laude psalmorum]
+<b>[2. Section 8 and epilogue of De laude psalmorum]</b><br>
 SI TE VOLVERIS INTIMENTE EXER<br>
 CERE VIRTVTIS · LAVDIE DECANTA<br>
 SEMP<i>ER</i> PSALMU<i>M</i> BEATI INMACVLATI<br>
@@ -148,13 +148,37 @@ scrutaueris · nu<i>m</i>qua<i>m</i> p<i>er</i>fecte illu<i>m</i> ut puto<br>
 <param ve-image seq="57"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[fol. 23r] intellegere potes.  In quo nullus uersus est in quo non sit uel uia dei uel lex uel mandatum seu praecęptum dei, uerba aut iustificationes uel iudicia aut sermones dei describi.  Et ideo tibi opus ut per diuersos libros animo diffundaris.  In psalterio solo usque ad obitum uitę habes materiam legendi, scrutandi, docendi, in quo inuenias prophetas, euangelii atque apostolos et omnis diuinos libros spiritaliter ęque intellegitur, ex parte tractatos atque discriptos et priorem atque secundum aduentum deum; ibi reperies prophetato incarnationem quoque hac passionem resurrectionemque atque ascensionem dominicam et omnem uirtutem diuinorum dictorum in psalmis inuenies, si intima mente perscruteris et ad medelam intimi intellectur per dei gratiam perueneris.
+[fol. 23r] intellegere potes · In quo nullus uersus est in quo<br>
+non sit uel uia dei · <i>ue</i>l · lex <i>ue</i>l · mandatu<i>m</i> seu p<i>rae</i>cęptum dei<br>
+uerba aut iustificationes · <i>ue</i>l · iudicia aut sermo<br>
+nes dei describi · Et id<i>e</i>o tibi opus ut p<i>er</i> diu<i>er</i>sos li<br>
+bros animo diffundaris · In psalterio solo usq<i>ue</i><br>
+ad obitu<i>m</i> uitę habes materia<i>m</i> legendi scrutandi<br>
+docendi in quo inuenias p<i>ro</i>ph<i>et</i>as · Euangelii atq<i>ue</i><br>
+ap<i>osto</i>los <i>et</i> om<i>ni</i>s diuinos libros spiritaliter ęque<br>
+intellegit<i>ur</i> ex parte tractatos atq<i>ue</i> discriptos<br>
+<i>et</i> priore<i>m</i> atq<i>ue</i> s<i>e</i>c<i>un</i>d<i>u</i>m aduentu<i>m</i> d<i>eu</i>m ibi reperies pro<br>
+ph<i>et</i>ato incarnatione<i>m</i> quoq<i>ue</i> hac passione<i>m</i> resur<br>
+rectione<i>m</i>q<i>ue</i> atq<i>ue</i> ascensione<i>m</i> dominica<i>m et</i> omne<i>m</i><br>
+uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
+tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m intimi in<br>
+tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris ·<br>
+
+<b>[3. Section I of the Old English Handbook]</b><br>
+INCIPIT ORDO CON<br>
+FESSIONIS SACERDOTV<i>M</i> ET OMNIU<i>M</i> CLERI<br>
+CORV<i>M</i> SECVNDV<i>M</i> HIERONIMV<i>M</i> TRACTA<br>
+TORE<i>M</i> QVALITER C<i>ON</i>FIT<i>ER</i>I DEBEAT <i>CHRIST</i>IAN<i>UM</i> PECCATA SUA</br>
+QUANDO QUIS UOLUERIT CONFESSIONE<i>M</i><br>
+facere peccator<i>um</i> suor<i>um</i> uirilit<i>er</i> agat quia<br>
+inde uenit · quia inde uenit [<i>sic</i>] indulgentia<br>
+<i>et</i> quia sine c<i>on</i>fessione nulla est inuenia · Con<br>
+fessio eni<i>m</i> sanat · Confessio iustificat · Confessio<br>
+uenia<i>m</i> peccatis donat · Inprimis igit<i>ur</i> p<i>ro</i>sternat<br>
+se humilit<i>er</i> super t<i>er</i>ra<i>m</i> in conspectu d<i>e</i>i adorationem<br>
+
 <param ve-image seq="58"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-
-
-[3. Section I of the Old English Handbook]
-
 Incipit ordo confessionis sacerdotum et omnium clericorum secundum Hieronimum tractatorem qualiter confiteri debeat christianum peccata sua.  Quando quis uoluerit confessionem facere peccatorum suorum, uiriliter agat, quia inde uenit quia inde uenit [sic] indulgentia et quia sine confessione nulla est inuenia.  Confessio enim sanat, confessio iustificat, confessio ueniam peccatis donat.
 Inprimis igitur prosternat se humiliter super terram in conspectu dei, adorationem
 <param ve-image seq="58"
