@@ -30,7 +30,7 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4. Abbreviations have been expanded, and spacing has been normalised.
+<!--Some of this text won't be necessary-->As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4. Abbreviations have been expanded, and spacing has been normalised.
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -161,7 +161,7 @@ intellegit<i>ur</i> ex parte tractatos atq<i>ue</i> discriptos<br>
 ph<i>et</i>ato incarnatione<i>m</i> quoq<i>ue</i> hac passione<i>m</i> resur<br>
 rectione<i>m</i>q<i>ue</i> atq<i>ue</i> ascensione<i>m</i> dominica<i>m et</i> omne<i>m</i><br>
 uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
-tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m intimi in<br>
+tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m</i> intimi in<br>
 tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris ·<br>
 <param ve-image seq="58"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
@@ -186,7 +186,7 @@ ap<i>osto</i>lis <i>et</i> martyrib<i>us</i> <i>et</i> confessorib<i>us</i> ut i
 cedant · ut d<i>eu</i>s om<i>n</i>ipo<i>ten</i>s dignet<i>ur</i> dare ei sapientia<i>m<br>
 p<i>er</i>fecta<i>m</i> <i>et</i> uera<i>m</i> intellegentia<i>m</i> ad confitendum<br>
 peccata sua · Ita dicendo· TRIBUS VICIB<i>US</i><br>
-S<i>an</i>cta maria ora p<i>ro</i> me peccatore ad d<i>omi</i>n<i>u</i>m ut merear<br>
+<b>S<i>an</i>cta maria ora p<i>ro</i> me peccatore ad d<i>omi</i>n<i>u</i>m ut merear<br>
 possidere uita<i>m</i> ęt<i>er</i>nam am<i>en</i> · S<i>anct</i>e michael ora p<i>ro</i> me<br>
 peccatore · S<i>an</i>c<i>t</i>e gabriel ora p<i>ro</i> me peccatore ;<br>
 S<i>an</i>c<i>t</i>e raphael ora <i>pro</i> me peccatore · Om<i>ni</i>s s<i>an</i>c<i>t</i>i ang<i>e</i>li<br>
@@ -204,16 +204,16 @@ ad d<i>omi</i>n<i>u</i>m · ut merear possidere uita<i>m</i> ęt<i>er</i>na<i>m<
 S<i>an</i>c<i>t</i>e leo ora p<i>ro</i>me peccatore · S<i>an</i>c<i>t</i>e silus ora p<i>ro</i> me<br>
 peccatore · S<i>an</i>ct<i>e</i> donate ora p<i>ro</i> me peccatore ·<br>
 Om<i>ne</i>s s<i>an</i>c<i>t</i>i confessores orate p<i>ro</i> me ad d<i>omi</i>n<i>u</i>m · ut merear<br>
-possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i>; POST HEC AVTE<i>M</i> CV<i>M</i><br>
+possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i>;</b> POST HEC AVTE<i>M</i> CV<i>M</i><br>
 FIDVCIA SVRGENS CONFITEAT<i>VR</i> PENI<br>
 TENS CREDVLITATE<i>M</i> SVA<i>M</i> DICENS .<br>
 <param ve-image seq="59"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
- [24r] Credo in unu<i>m</i> d<i>eu</i>m patre<i>m</i> om<i>n</i>ipotente<i>m</i> · Credo<br>
+ [24r] <b>Credo in unu<i>m</i> d<i>eu</i>m patre<i>m</i> om<i>n</i>ipotente<i>m</i> · Credo<br>
 in filiu<i>m</i> · Credo <i>et</i> in sp<i>iritu</i>m s<i>an</i>c<i>tu</i>m · Credo uitam<br>
 post morte<i>m</i> · Credo me resurgere in die iudicii<br>
-<i>et</i> hęc om<i>n</i>ia · Credo in d<i>eu</i>m uiuu<i>m</i> · am<i>en</i> ·
+<i>et</i> hęc om<i>n</i>ia · Credo in d<i>eu</i>m uiuu<i>m</i> · am<i>en</i> ·</b><br>
 <param ve-image seq="60"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -221,7 +221,7 @@ post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 P<i>OST</i> HĘC ITERU<i>M</i><br>
 DICAT HVMILITER CORA<i>M</i> D[EO] ET [CORA]M<br>
 <p>SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
-Ego confiteor tibi pater cęli <i>et</i> terrę cora<i>m</i> hoc<br>
+<b></b>Ego confiteor tibi pater cęli <i>et</i> terrę cora<i>m</i> hoc<br>
 altare tuo s<i>an</i>cto · <i>et</i> istius loci reliquiis · et<br>
 cora<i>m</i> sacerdote tuo om<i>n</i>ia peccata mea · <i>et</i> quic-<br>
 quid d<i>e</i>i pietas mihi ad memoria<i>m</i> reducit · Decogi-<br>
@@ -239,13 +239,13 @@ inmundas· P<i>er</i>petraui aute<i>m</i> fornicationes · polluti<br>
 ones · luxurias · ębrietates · co<i>m</i>messationes · homici<br>
 dia · manifeste · <i>et</i> occulte · in anima · <i>et</i> corpore ·<br>
 Ego confiteor quia ad patre<i>m</i> meu<i>m</i> <i>et</i> matre<i>m</i> · fr<i>atre</i>s<br>
-<i>et</i> sorores · patruos <i>et</i> a<i>m</i>mittas · c<i>um</i> sobrinos siue<br>
+<i>et</i> sorores · patruos <i>et</i> a<i>m</i>mittas · c<i>um</i> sobrinos siue</p>b><br>
 <param ve-image seq="60"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [24v] 
 
-om<i>ni</i>s p<i>ro</i>pinquos· <i>et</i>parentes meos s<i>e</i>c<i>un</i>d<i>u</i>m p<i>re</i>cęptum<br>
+<b>om<i>ni</i>s p<i>ro</i>pinquos· <i>et</i>parentes meos s<i>e</i>c<i>un</i>d<i>u</i>m p<i>re</i>cęptum<br>
 
 <i>et</i> dei uoluntate<i>m</i> honoris obsequiu<i>m</i> · nonexhibui<br>
 
@@ -291,30 +291,120 @@ mala uoluntate consensi· mala dedicon-<br>
 
 silia c<i>on</i>trad<i>e</i>ip<i>re</i>ceptu<i>m</i>· <i>et</i> d<i>e</i>i uoluntate · Ego con-<br>
 
-fiteor q<i>ui</i>ains<i>an</i>c<i>t</i>a<i>m</i> dei ęccl<i>esi</i>a multa mala cogitaui·<br>
-
-
-
-
-
-omnis propinquos et parentes meos secundum precęptum et Dei uoluntatem honoris obsequium non exhibui nec in necessitatibus eorum prout potui adfui et omnis christianos sicut Deus precepit non dilexi.  Mulierem et filios et filias sorores et nepotes vel ętiam omnis filias domus meę non correxi sed luxoriosas et adulteras et fornicarias ęnutriui et non prohibui Dominum diem ac sollempnitates sanctorum non digne nec Deo acceptabile duxi nec custodiui et nescentibus non adnuntiaui sed ębriose et luxoriosę in ipsis me pollui et alios adinuitaui et incitaui, decimas omnium bonorum meorum non reddi sed latrocinia 7 furta abscondidi et commedi.
-	Ego confiteor quod infirmos et incarcere positos non uisitaui, nudos non cooperui, hospites propter Deum non suscepi, nec eos pedes laui, esurientes 7 sitientes non refici, dolentes et flentes non consolatus sum, inter se discordantes siue parentes meos siue christianos rixantes plus ad iram quam ad pacem incitatui quod credere debui credidi.
-	Ego confiteor quia multum peccaui, in uisu, auditu, gustu, odoratu et tactu, et multa mala cogitaui et perpetraui et cum mala uoluntate consensi, mala dedi consilia contra Dei preceptum et Dei uoluntate.
-	Ego confiteor quia in sanctam Dei ęcclesia multa mala cogitaui
- <param ve-image seq="61"
+fiteor q<i>ui</i>ains<i>an</i>c<i>t</i>a<i>m</i> dei ęccl<i>esi</i>a multa mala cogitaui·</b><br>
+<param ve-image seq="61"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
- [fol. 25r] et locutus fui et petraui inordinare et superbe intra sanctam ęcclesiam steti, osculantes sedi, aspexi, perrexi, iacui, consensi, intraui, tetigi et similiter exiui in omnibus locis ubicumque uoluptas corporis mei me perduxit et mecum perseuerauit et osculo nefando pollutus fui.  Per sanctam altare et in ęcclesia consecrata et in cruce benedicta et per sanctas reliquias et per Dei nomen et sanctorum nomina et corpora iuraui et periuraui.
-	Ego confiteor quia omnipotenti Deo et omnibus sanctis et omnibus hominibus bonis inobędiens, contentiosus, inuidiosus, iracundus, auarus, cupidus, rapax, incredulus consecratum Dei mynisterium et reliquias et sanctos libros et sanctam uasa indignus et pollutus tetigi et portaui et orationem meam neglegenter in conspectu Dei effudi propter cogitationes inanes et cor lapideum.
-	Ego confiteor quia corpus Dei et sanguinem pollutus corde et corpore sine confessione et pęnitentia scienter indignus accepi et eum non custodiui nec iudicium Domini super me perhorrui.
-	Ego confiteor quia ieiunia et psalmodias et orationes et secutiones post cruces debes nudus uestigus incedere sicut deus pręcepit agere cum omni humilitate cordis et corporis sicut idipsum ędictum fuit, a regibus et imperatoribus non custodiui nęc adimpleui
- <param ve-image seq="62"
+ [25r] 
+
+<b><i>et</i>locut<i>us</i> fui <i>et</i>petraui inordinare <i>et</i> sup<i>er</i>be intra<br>
+
+s<i>an</i>ctam ęccl<i>esi</i>am steti · osculantes sedi · aspexi·p<i>er</i>rexi·<br>
+
+iacui · consensi· intraui·tetigi· <i>et</i>similit<i>er</i> exiui·<br>
+
+inom<i>ni</i>b<i>us</i> locis ubicu<i>m</i>q<i>ue</i> uoluptas corporismei·<br>
+
+mep<i>er</i>duxit <i>et</i>mecu<i>m</i> p<i>er</i>seuerauit <i>et</i>osculo nefando<br>
+
+pollut<i>us</i> fui· P<i>er</i>s<i>an</i>c<i>t</i>am altare <i>et</i> inęccl<i>esi</i>a consecrata<br>
+
+<i>et</i>incruce benedicta·<i>et</i>p<i>er</i>s<i>an</i>ctas reliquias· <i>et</i>p<i>er</i>dei<br>
+
+nomen <i>et</i>s<i>an</i>c<i>t</i>or<i>um</i> nomina <i>et</i>corpora iuraui <i>et</i>per<br>
+
+iuraui· Ego confiteor· quia om<i>n</i>ipotenti deo <i>et</i><br>
+
+om<i>n</i>ib<i>us</i> s<i>an</i>c<i>t</i>is <i>et</i>om<i>n</i>ib<i>us</i> hominib<i>us</i> bonis inobędiens·<br>
+
+contentiosus· inuidiosus· iracundus· auarus·<br>
+
+cupidus· rapax· incredulus· consecratu<i>m</i> dei<br>
+
+mynisteriu<i>m</i>· <i>et</i>reliquias· <i>et</i>s<i>an</i>c<i>t</i>os libros· <i>et</i>s<i>an</i>c<i>t</i>a<i>m</i> uasa<br>
+
+indign<i>us</i> <i>et</i>pollut<i>us</i> tetigi ·<i>et</i>portaui· <i>et</i>oratione<i>m</i><br>
+
+mea<i>m</i> neglegenter· inconspectudei effudi· p<i>ro</i>pt<i>er</i><br>
+
+cogitationes inanes <i>et</i>cor lapideu<i>m</i>· Ego c<i>on</i>fiteor<br>
+
+quia corpus dei <i>et</i>sanguine<i>m</i> pollut<i>us</i> corde<br>
+
+<i>et</i>corpore sine confessione <i>et</i>pęnitentia scient<i>er</i><br>
+
+indign<i>us</i> accepi <i>et</i>eu<i>m</i>noncustodiui· nec iudiciu<i>m</i><br>
+
+d<i>omi</i>ni sup<i>er</i>me p<i>er</i>horrui · Ego c<i>on</i>fiteor·quia ieiunia<br>
+
+<i>et</i>psalmodias· <i>et</i>orationes· <i>et</i>secutiones post<br>
+
+cruces debes nudus uestigus incedere sic<i>ut</i> d<i>eu</i>s<br>
+
+pręcepit agere cu<i>m</i> om<i>n</i>i humilitate cordis <i>et</i><br>
+
+corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · aregibus·<br>
+
+<i>et</i> imperatorib<i>us</i> noncustodiui · nęc adimpleui·</b><br>
+<param ve-image seq="62"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
- [fol. 25v] episcopos, presbiteros, abbates, monachos, canonicos et omnis clericos ęcclesię Dei sicut debui non amaui nęc dilexi nec honoris obsequium eis praebui sicut Deus praecępit, sed memetipsum per carnalia desideria et per malam uoluntatem et per mala opera contaminaui, de bone staui perdidi et uoluntarię diabolo consensi et impeccatis memetipsum subdidi.  Debis autem omnibus atque aliis innumerabilibus que contra Christi Dei uoluntatem et omnium sanctorum ut legem christianam feci et duro corde perpetraui siu eius opere vel ętiam inassiduitate et delectione peccati siue in die siue in nocte horis atque momentis, siue uigilans siue dormiens, siue qualicumque causa cogitasse, uoluisse contra Dei uoluntatem.
-	Sic ego hodie tibi Deus cęli et terrę omnia confiteor coram sancto altare tuo in pura et uera confessione et uoluntate ad ęmendandum et hęc omnia peccata de incęps dimittendum.  Ut tu, omnipotens Deus, qui dixisti, ‘Nolo mortem peccatoris, sed ut conuertatur et uiuat,’ miserearis animę meae et parcas et remittas et deleas omnia delicta mea praeterita praesentia et futura inminentia et perducas me absque macula per tuam magnam misericordiam tuam in uitam ęternam ad omnium consortiam sanctorum et ad gaudia angelorum in cęlo habitantium, amen.  Per.’
- <param ve-image seq="63"
+[25v] 
+ 
+<b>Episcopos p<i>re</i>sbit<i>er</i>os · abbates· monachos· canonicos· <i>et</i><br>
+
+om<i>ni</i>s clericos ęccl<i>esi</i>ę dei sicut debui nonamaui nęc<br>
+
+dilexi nec honoris obsequiu<i>m</i> eis p<i>rae</i>bui sic<i>ut</i> d<i>eu</i>s p<i>rae</i>cępit<br>
+
+Sed mem<i>et</i>ipsu<i>m</i> p<i>er</i>carnalia desideria · <i>et</i> p<i>er</i>mala<i>m</i><br>
+
+uoluntate<i>m</i> · <i>et</i> p<i>er</i>mala op<i>er</i>a contaminaui · debone<br>
+
+stauip<i>er</i>didi· <i>et</i> uoluntarię diabolo consensi <i>et</i>im<br>
+
+peccatis mem<i>et</i>ipsu<i>m</i> subdidi · Debis aute<i>m</i> om<i>n</i>ib<i>us</i><br>
+
+atq<i>ue</i> aliis innumerabilib<i>us</i> quecontra <i>christ</i>i deiuo<br>
+
+luntate<i>m</i> <i>et</i> omniu<i>m</i> s<i>an</i>c<i>t</i>or<i>um</i> utlege<i>m</i> <i>chr</i>i<i>sti</i>ana<i>m</i> feci·<i>et</i><br>
+
+duro corde p<i>er</i>petraui siu ei<i>us</i> op<i>er</i>e<i>ve</i>lętia<i>m</i> inassidui-<br>
+
+tate <i>et</i>delectione peccati siue indie siue innoc<br>
+
+te ·horis atq<i>ue</i> momentis·siue uigila<i>n</i>s· siue dor<br>
+
+miens· siue quali cu<i>m</i>q<i>ue</i>causa cogitasse uoluisse<br>
+
+contra dei uoluntate<i>m</i>· Sic ego hodie tibid<i>eu</i>s cęli<br>
+
+<i>et</i>terrę om<i>n</i>ia confiteor cora<i>m</i> s<i>an</i>c<i>t</i>o altare tuo in<br>
+
+pura <i>et</i>uera confessione <i>et</i>uoluntate adęm<i>en</i><br>
+
+dandu<i>m</i> <i>et</i>hęc om<i>n</i>ia peccata de incęps dimit·<br>
+
+tendu<i>m</i>· Vt tu om<i>n</i>ip<i>oten</i>s d<i>eu</i>s quidixisti nolo morte<i>m</i><br>
+
+peccatoris· sedut conuertat<i>ur</i> <i>et</i>uiuat·Misere<br>
+
+-aris animę meae <i>et</i> parcas· <i>et</i>remittas <i>et</i><br>
+
+deleas om<i>n</i>ia delicta mea p<i>rae</i>terita p<i>rae</i>sentia<br>
+
+<i>et</i>futura inminentia <i>et</i>p<i>er</i>ducas me absque<br>
+
+macula · p<i>er</i>tua<i>m</i> magna<i>m</i> mis<i>eri</i>c<i>or</i>dia<i>m</i> tua<i>m</i> inuita<i>m</i><br>
+
+ęt<i>er</i>na<i>m</i>· adomniu<i>m</i> consortia<i>m</i> s<i>anct</i>or<i>um</i> <i>et</i>adgaudia<br>
+
+angeloru<i>m</i> incęlo habitantiu<i>m</i> ameN· p<i>er</i>·</b><br>
+<param ve-image seq="63"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">**
+ 
+ 
+ 
  
  [fol. 26r] ‘Supplico te Dei sacerdos ut debis omnibus sis mihi testis in diem iudicii, ne gaudeat de me inimicus meus et digne pro me domini clementiam deprecare, ut donet mihi ueniam et indulgentiam et remissionem omnium peccatorum predictorum hic et in ęterna in secula seculorum, amen.’
 
