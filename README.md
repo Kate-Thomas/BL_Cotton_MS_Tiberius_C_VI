@@ -201,7 +201,7 @@ merear possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i> · S<i>an</i>c<
 ora p<i>ro</i> me peccatore · S<i>an</i>c<i>t</i>e clemens ora p<i>ro</i> me pecca<br>
 tore · Om<i>ni</i>s s<i>an</i>c<i>t</i>i martyres orate p<i>ro</i> me peccatore<br>
 ad d<i>omi</i>n<i>u</i>m · ut merear possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i>.<br>
-S<i>an</i>c<i>t</i>e leo ora p<i>ro</i>me peccatore · S<i>an</i>c<i>t</i>e silus ora p<i>ro</i> me<br>
+S<i>an</i>c<i>t</i>e leo ora p<i>ro</i> me peccatore · S<i>an</i>c<i>t</i>e silus ora p<i>ro</i> me<br>
 peccatore · S<i>an</i>ct<i>e</i> donate ora p<i>ro</i> me peccatore ·<br>
 Om<i>ne</i>s s<i>an</i>c<i>t</i>i confessores orate p<i>ro</i> me ad d<i>omi</i>n<i>u</i>m · ut merear<br>
 possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i>;</b> POST HEC AVTE<i>M</i> CV<i>M</i><br>
