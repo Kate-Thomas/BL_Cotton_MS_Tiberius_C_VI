@@ -56,7 +56,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-242 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-298 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -111,11 +111,11 @@ mea suadente inimico humani generis ·<br>
 Consentiente prauę uoluptatis meae · Delec<br>
 tante<i>m</i> seditate<i>m</i> carnis inmunditię meae;<br>
 Peccaui nimis more meo peccaui deus m<i>er</i>s<i>et</i>-<br><!--mersetcoram??  Check this-->
-cora<i>m</i> te <i>et</i> cora<i>m</i> ang<i>e</i>lis tuis [H]eu mihi quia<br>
+cora<i>m</i> te <i>et</i> cora<i>m</i> ang<i>e</i>lis tuis [H]eu mihi quia</b><br>
 <param ve-image seq="56"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[22v] non sum<!--check this--> reuerit<i>us</i> facie tua · Templu<i>m</i> corporis mei de<br>
+[22v] <b>non sum<!--check this--> reuerit<i>us</i> facie tua · Templu<i>m</i> corporis mei de<br>
 opere iniquitatis coinquinaui · Anima<i>m</i> mea<i>m</i><br>
 in carne posita<i>m</i> male pollui · Quid ergo dictu<br>
 rus su<i>m</i> miser cu<i>m</i> ante tremendi diuine maie<br>
@@ -239,7 +239,7 @@ inmundas· P<i>er</i>petraui aute<i>m</i> fornicationes · polluti<br>
 ones · luxurias · ębrietates · co<i>m</i>messationes · homici<br>
 dia · manifeste · <i>et</i> occulte · in anima · <i>et</i> corpore ·<br>
 Ego confiteor quia ad patre<i>m</i> meu<i>m</i> <i>et</i> matre<i>m</i> · fr<i>atre</i>s<br>
-<i>et</i> sorores · patruos <i>et</i> a<i>m</i>mittas · c<i>um</i> sobrinos siue</p>b><br>
+<i>et</i> sorores · patruos <i>et</i> a<i>m</i>mittas · c<i>um</i> sobrinos siue</b><br>
 <param ve-image seq="60"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -271,57 +271,31 @@ fiteor q<i>ui</i>a in s<i>an</i>c<i>t</i>a<i>m</i> dei ęccl<i>esi</i>a multa ma
 <param ve-image seq="61"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
-[25r] 
-
-<b><i>et</i>locut<i>us</i> fui <i>et</i>petraui inordinare <i>et</i> sup<i>er</i>be intra<br>
-
-s<i>an</i>ctam ęccl<i>esi</i>am steti · osculantes sedi · aspexi·p<i>er</i>rexi·<br>
-
-iacui · consensi· intraui·tetigi· <i>et</i>similit<i>er</i> exiui·<br>
-
-inom<i>ni</i>b<i>us</i> locis ubicu<i>m</i>q<i>ue</i> uoluptas corporismei·<br>
-
-mep<i>er</i>duxit <i>et</i>mecu<i>m</i> p<i>er</i>seuerauit <i>et</i>osculo nefando<br>
-
-pollut<i>us</i> fui· P<i>er</i>s<i>an</i>c<i>t</i>am altare <i>et</i> inęccl<i>esi</i>a consecrata<br>
-
-<i>et</i>incruce benedicta·<i>et</i>p<i>er</i>s<i>an</i>ctas reliquias· <i>et</i>p<i>er</i>dei<br>
-
-nomen <i>et</i>s<i>an</i>c<i>t</i>or<i>um</i> nomina <i>et</i>corpora iuraui <i>et</i>per<br>
-
-iuraui· Ego confiteor· quia om<i>n</i>ipotenti deo <i>et</i><br>
-
-om<i>n</i>ib<i>us</i> s<i>an</i>c<i>t</i>is <i>et</i>om<i>n</i>ib<i>us</i> hominib<i>us</i> bonis inobędiens·<br>
-
-contentiosus· inuidiosus· iracundus· auarus·<br>
-
-cupidus· rapax· incredulus· consecratu<i>m</i> dei<br>
-
-mynisteriu<i>m</i>· <i>et</i>reliquias· <i>et</i>s<i>an</i>c<i>t</i>os libros· <i>et</i>s<i>an</i>c<i>t</i>a<i>m</i> uasa<br>
-
-indign<i>us</i> <i>et</i>pollut<i>us</i> tetigi ·<i>et</i>portaui· <i>et</i>oratione<i>m</i><br>
-
-mea<i>m</i> neglegenter· inconspectudei effudi· p<i>ro</i>pt<i>er</i><br>
-
-cogitationes inanes <i>et</i>cor lapideu<i>m</i>· Ego c<i>on</i>fiteor<br>
-
-quia corpus dei <i>et</i>sanguine<i>m</i> pollut<i>us</i> corde<br>
-
-<i>et</i>corpore sine confessione <i>et</i>pęnitentia scient<i>er</i><br>
-
-indign<i>us</i> accepi <i>et</i>eu<i>m</i>noncustodiui· nec iudiciu<i>m</i><br>
-
-d<i>omi</i>ni sup<i>er</i>me p<i>er</i>horrui · Ego c<i>on</i>fiteor·quia ieiunia<br>
-
-<i>et</i>psalmodias· <i>et</i>orationes· <i>et</i>secutiones post<br>
-
+[25r] <b><i>et</i> locut<i>us</i> fui <i>et</i> petraui inordinare <i>et</i> sup<i>er</i>be intra<br>
+s<i>an</i>ctam ęccl<i>esi</i>am steti · osculantes sedi · aspexi · p<i>er</i>rexi ·<br>
+iacui · consensi · intraui · tetigi · <i>et</i> similit<i>er</i> exiui ·<br>
+in om<i>ni</i>b<i>us</i> locis ubicu<i>m</i>q<i>ue</i> uoluptas corporis mei ·<br>
+me p<i>er</i>duxit <i>et</i> mecu<i>m</i> p<i>er</i>seuerauit <i>et</i> osculo nefando<br>
+pollut<i>us</i> fui· P<i>er</i> s<i>an</i>c<i>t</i>am altare <i>et</i> in ęccl<i>esi</i>a consecrata<br>
+<i>et</i> in cruce benedicta ·<i>et</i> p<i>er</i> s<i>an</i>ctas reliquias · <i>et</i> p<i>er</i> dei<br>
+nomen <i>et</i> s<i>an</i>c<i>t</i>or<i>um</i> nomina <i>et</i> corpora iuraui <i>et</i> per<br>
+iuraui · Ego confiteor · quia om<i>n</i>ipotenti deo <i>et</i><br>
+om<i>n</i>ib<i>us</i> s<i>an</i>c<i>t</i>is <i>et</i> om<i>n</i>ib<i>us</i> hominib<i>us</i> bonis inobędiens ·<br>
+contentiosus · inuidiosus · iracundus · auarus ·<br>
+cupidus · rapax · incredulus · consecratu<i>m</i> dei<br>
+mynisteriu<i>m</i> · <i>et</i> reliquias · <i>et</i> s<i>an</i>c<i>t</i>os libros · <i>et</i> s<i>an</i>c<i>t</i>a<i>m</i> uasa<br>
+indign<i>us</i> <i>et</i> pollut<i>us</i> tetigi · <i>et</i> portaui · <i>et</i> oratione<i>m</i><br>
+mea<i>m</i> neglegenter · in conspectu dei effudi · p<i>ro</i>pt<i>er</i><br>
+cogitationes inanes <i>et</i>cor lapideu<i>m</i> · Ego c<i>on</i>fiteor<br>
+quia corpus dei <i>et</i> sanguine<i>m</i> pollut<i>us</i> corde<br>
+<i>et</i> corpore sine confessione <i>et</i> pęnitentia scient<i>er</i><br>
+indign<i>us</i> accepi <i>et</i> eu<i>m</i>non custodiui · nec iudiciu<i>m</i><br>
+d<i>omi</i>ni sup<i>er</i> me p<i>er</i>horrui · Ego c<i>on</i>fiteor · quia ieiunia<br>
+<i>et</i> psalmodias · <i>et</i> orationes · <i>et</i> secutiones post<br>
 cruces debes nudus uestigus incedere sic<i>ut</i> d<i>eu</i>s<br>
-
 pręcepit agere cu<i>m</i> om<i>n</i>i humilitate cordis <i>et</i><br>
-
-corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · aregibus·<br>
-
-<i>et</i> imperatorib<i>us</i> noncustodiui · nęc adimpleui·</b><br>
+corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · a regibus ·<br>
+<i>et</i> imperatorib<i>us</i> non custodiui · nęc adimpleui ·</b><br>
 <param ve-image seq="62"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
