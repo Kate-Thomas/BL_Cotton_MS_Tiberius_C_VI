@@ -244,58 +244,34 @@ Ego confiteor quia ad patre<i>m</i> meu<i>m</i> <i>et</i> matre<i>m</i> · fr<i>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [24v] 
-
-<b>om<i>ni</i>s p<i>ro</i>pinquos· <i>et</i>parentes meos s<i>e</i>c<i>un</i>d<i>u</i>m p<i>re</i>cęptum<br>
-
-<i>et</i> dei uoluntate<i>m</i> honoris obsequiu<i>m</i> · nonexhibui<br>
-
-nec· innecessitatib<i>us</i> eor<i>um</i> p<i>ro</i>ut potui adfui <i>et</i>om<i>ni</i>s <i>christ</i>i<br>
-
-anos sicut d<i>eu</i>s p<i>re</i>cepit n<i>on</i>dilexi · Muliere<i>m</i> <i>et</i>filios<br>
-
-<i>et</i>filias sorores <i>et</i> nepotes <i>ve</i>l ętia<i>m</i> om<i>ni</i>s filias dom<i>us</i><br>
-
-meę n<i>on</i>correxi· sedluxoriosas <i>et</i> adulteras <i>et</i>forni<br>
-
-carias ęnutriui <i>et</i> n<i>on</i>p<i>ro</i>hibui· D<i>omi</i>n<i>u</i>m die<i>m</i> ac solle<i>m</i>pni<br>
-
-tates s<i>an</i>ct<i>o</i>r<i>um</i> nondigne nec deo acceptabile duxi<br>
-
-nec custodiui <i>et</i> nescentib<i>us</i> n<i>on</i>adnuntiaui · sedębri<br>
-
-ose <i>et</i> luxoriosę inipsis me pollui · <i>et</i>alios adinui-<br>
-
+<b>om<i>ni</i>s p<i>ro</i>pinquos· <i>et</i> parentes meos s<i>e</i>c<i>un</i>d<i>u</i>m p<i>re</i>cęptum<br>
+<i>et</i> dei uoluntate<i>m</i> honoris obsequiu<i>m</i> · non exhibui<br>
+nec · innecessitatib<i>us</i> eor<i>um</i> p<i>ro</i>ut potui adfui <i>et</i> om<i>ni</i>s <i>christ</i>i<br>
+anos sicut d<i>eu</i>s p<i>re</i>cepit n<i>on</i> dilexi · Muliere<i>m</i> <i>et</i> filios<br>
+<i>et</i> filias sorores <i>et</i> nepotes <i>ve</i>l ętia<i>m</i> om<i>ni</i>s filias dom<i>us</i><br>
+meę n<i>on</i> correxi · sed luxoriosas <i>et</i> adulteras <i>et</i> forni<br>
+carias ęnutriui <i>et</i> n<i>on</i> p<i>ro</i>hibui · D<i>omi</i>n<i>u</i>m die<i>m</i> ac solle<i>m</i>pni<br>
+tates s<i>an</i>ct<i>o</i>r<i>um</i> non digne nec deo acceptabile duxi<br>
+nec custodiui <i>et</i> nescentib<i>us</i> n<i>on</i> adnuntiaui · sedębri<br>
+ose <i>et</i> luxoriosę in ipsis me pollui · <i>et</i> alios adinui-<br>
 taui <i>et</i> incitaui · Decimas om<i>n</i>iu<i>m</i> bonor<i>um</i> meor<i>um</i><br>
-
-non reddi sed latrocinia 7furta abscondidi <i>et</i>co<i>m</i><br>
-
+non reddi sed latrocinia 7 furta abscondidi <i>et</i> co<i>m</i><br>
 medi· Ego c<i>on</i>fiteor q<i>uo</i>d infirmos <i>et</i> incarcere positos<br>
-
-n<i>on</i>uisitaui · nudo<i>s</i> noncoop<i>er</i>ui · hospites p<i>ro</i>pt<i>er</i> d<i>eu</i>m non<br>
-
-suscepi· nec eos pedes laui · esurientes· 7sitientes<br>
-
-n<i>on</i> refici ·Dolentes <i>et</i> flentes n<i>on</i>consolat<i>us</i> su<i>m</i>· int<i>er</i>se<br>
-
-discordantes· siue parentes meos· siue <i>ch</i>r<i>ist</i>ianos<br>
-
-rixantes plusadira<i>m</i> qua<i>m</i> adpace<i>m</i> incitatuiq<i>uo</i>d<br>
-
+n<i>on</i> uisitaui · nudo<i>s</i> non coop<i>er</i>ui · hospites p<i>ro</i>pt<i>er</i> d<i>eu</i>m non<br>
+suscepi · nec eos pedes laui · esurientes· 7 sitientes<br>
+n<i>on</i> refici · Dolentes <i>et</i> flentes n<i>on</i> consolat<i>us</i> su<i>m</i>· int<i>er</i> se<br>
+discordantes · siue parentes meos · siue <i>ch</i>r<i>ist</i>ianos<br>
+rixantes plus ad ira<i>m</i> qua<i>m</i> ad pace<i>m</i> incitatui q<i>uo</i>d<br>
 credere debui credidi · Ego c<i>on</i>fiteor q<i>ui</i>a multu<i>m</i><br>
-
-peccaui inuisu· auditu·gustu· odoratu· <i>et</i>tactu·<br>
-
-<i>et</i> multa·mala cogitaui· <i>et</i>p<i>er</i>petraui· <i>et</i>cum<br>
-
-mala uoluntate consensi· mala dedicon-<br>
-
-silia c<i>on</i>trad<i>e</i>ip<i>re</i>ceptu<i>m</i>· <i>et</i> d<i>e</i>i uoluntate · Ego con-<br>
-
-fiteor q<i>ui</i>ains<i>an</i>c<i>t</i>a<i>m</i> dei ęccl<i>esi</i>a multa mala cogitaui·</b><br>
+peccaui in uisu· auditu · gustu · odoratu · <i>et</i> tactu ·<br>
+<i>et</i> multa · mala cogitaui · <i>et</i> p<i>er</i>petraui · <i>et</i> cum<br>
+mala uoluntate consensi· mala dedi con-<br>
+silia c<i>on</i>tra d<i>e</i>i p<i>re</i>ceptu<i>m</i> · <i>et</i> d<i>e</i>i uoluntate · Ego con-<br>
+fiteor q<i>ui</i>a in s<i>an</i>c<i>t</i>a<i>m</i> dei ęccl<i>esi</i>a multa mala cogitaui ·</b><br>
 <param ve-image seq="61"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
- [25r] 
+[25r] 
 
 <b><i>et</i>locut<i>us</i> fui <i>et</i>petraui inordinare <i>et</i> sup<i>er</i>be intra<br>
 
@@ -573,6 +549,8 @@ In N, Handbook I is followed immediately by the vernacular confession which Fowl
 4.xx: Dominus custodite ab omni malo: a list of prayers in a confessional ordo in the Libellus Turonensis includes ‘Domine custodi eos ab omni malo. Custodi animas eorum domine’.
 
 4.xx: The prayers ‘Adesto, Domine’ and ‘Domine Deus noster, qui offensione nostra’ have both had glosses adding feminine grammatical forms describing the speaker, for example: "respice qs ad huanc famuluam tuuam· ill."
+
+4.xx<!--May be in the wrong place-->: two interesting uses of '7', usually found in Old English, for 'et'
 
 
 #5. Short version of De laude psalmorum
