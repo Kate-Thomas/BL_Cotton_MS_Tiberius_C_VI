@@ -527,7 +527,7 @@ In N, Handbook I is followed immediately by the vernacular confession which Fowl
 
 4.xx: The prayers ‘Adesto, Domine’ and ‘Domine Deus noster, qui offensione nostra’ have both had glosses adding feminine grammatical forms describing the speaker, for example: "respice qs ad huanc famuluam tuuam· ill."
 
-4.xx<!--May be in the wrong place-->: two interesting uses of '7', usually found in Old English, for 'et'
+4.xx<!--May be in the wrong place.  And wouldn't it be more consistent to use "[et]"?-->: two interesting uses of '7', usually found in Old English, for 'et'
 
 
 #5. Short version of De laude psalmorum
