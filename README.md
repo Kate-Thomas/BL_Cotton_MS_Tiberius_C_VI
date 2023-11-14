@@ -56,7 +56,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-298 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-326 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -299,65 +299,35 @@ corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · a regibus ·<br>
 <param ve-image seq="62"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-***************
-
-
-[25v] 
- 
-<b>Episcopos p<i>re</i>sbit<i>er</i>os · abbates· monachos· canonicos· <i>et</i><br>
-
-om<i>ni</i>s clericos ęccl<i>esi</i>ę dei sicut debui nonamaui nęc<br>
-
+[25v] <b>Episcopos p<i>re</i>sbit<i>er</i>os · abbates · monachos · canonicos · <i>et</i><br>
+om<i>ni</i>s clericos ęccl<i>esi</i>ę dei sicut debui non amaui nęc<br>
 dilexi nec honoris obsequiu<i>m</i> eis p<i>rae</i>bui sic<i>ut</i> d<i>eu</i>s p<i>rae</i>cępit<br>
-
-Sed mem<i>et</i>ipsu<i>m</i> p<i>er</i>carnalia desideria · <i>et</i> p<i>er</i>mala<i>m</i><br>
-
-uoluntate<i>m</i> · <i>et</i> p<i>er</i>mala op<i>er</i>a contaminaui · debone<br>
-
-stauip<i>er</i>didi· <i>et</i> uoluntarię diabolo consensi <i>et</i>im<br>
-
+Sed mem<i>et</i>ipsu<i>m</i> p<i>er</i> carnalia desideria · <i>et</i> p<i>er</i> mala<i>m</i><br>
+uoluntate<i>m</i> · <i>et</i> p<i>er</i> mala op<i>er</i>a contaminaui · de bone<br>
+staui<!--I don't think I've divided the word up correctly--> p<i>er</i>didi · <i>et</i> uoluntarię diabolo consensi <i>et</i> im<br>
 peccatis mem<i>et</i>ipsu<i>m</i> subdidi · Debis aute<i>m</i> om<i>n</i>ib<i>us</i><br>
-
-atq<i>ue</i> aliis innumerabilib<i>us</i> quecontra <i>christ</i>i deiuo<br>
-
-luntate<i>m</i> <i>et</i> omniu<i>m</i> s<i>an</i>c<i>t</i>or<i>um</i> utlege<i>m</i> <i>chr</i>i<i>sti</i>ana<i>m</i> feci·<i>et</i><br>
-
-duro corde p<i>er</i>petraui siu ei<i>us</i> op<i>er</i>e<i>ve</i>lętia<i>m</i> inassidui-<br>
-
-tate <i>et</i>delectione peccati siue indie siue innoc<br>
-
-te ·horis atq<i>ue</i> momentis·siue uigila<i>n</i>s· siue dor<br>
-
-miens· siue quali cu<i>m</i>q<i>ue</i>causa cogitasse uoluisse<br>
-
-contra dei uoluntate<i>m</i>· Sic ego hodie tibid<i>eu</i>s cęli<br>
-
-<i>et</i>terrę om<i>n</i>ia confiteor cora<i>m</i> s<i>an</i>c<i>t</i>o altare tuo in<br>
-
-pura <i>et</i>uera confessione <i>et</i>uoluntate adęm<i>en</i><br>
-
-dandu<i>m</i> <i>et</i>hęc om<i>n</i>ia peccata de incęps dimit·<br>
-
-tendu<i>m</i>· Vt tu om<i>n</i>ip<i>oten</i>s d<i>eu</i>s quidixisti nolo morte<i>m</i><br>
-
-peccatoris· sedut conuertat<i>ur</i> <i>et</i>uiuat·Misere<br>
-
--aris animę meae <i>et</i> parcas· <i>et</i>remittas <i>et</i><br>
-
+atq<i>ue</i> aliis innumerabilib<i>us</i> que contra <i>christ</i>i dei uo<br>
+luntate<i>m</i> <i>et</i> omniu<i>m</i> s<i>an</i>c<i>t</i>or<i>um</i> ut lege<i>m</i> <i>chr</i>i<i>sti</i>ana<i>m</i> feci · <i>et</i><br>
+duro corde p<i>er</i>petraui siu[e]<!--I had "siu eius", check I'm right here--> i<i>us</i> op<i>er</i>e<i> ve</i>l ętia<i>m</i> inassidui-<br>
+tate <i>et</i> delectione peccati siue in die siue in noc<br>
+te · horis atq<i>ue</i> momentis · siue uigila<i>n</i>s · siue dor<br>
+miens · siue quali cu<i>m</i>q<i>ue</i> causa cogitasse uoluisse<br>
+contra dei uoluntate<i>m</i> · Sic ego hodie tibi d<i>eu</i>s cęli<br>
+<i>et</i> terrę om<i>n</i>ia confiteor cora<i>m</i> s<i>an</i>c<i>t</i>o altare tuo in<br>
+pura <i>et</i> uera confessione <i>et</i> uoluntate ad ęm<i>en</i><br>
+dandu<i>m</i> <i>et</i> hęc om<i>n</i>ia peccata deincęps dimit ·<br>
+tendu<i>m</i> · Vt tu om<i>n</i>ip<i>oten</i>s d<i>eu</i>s qui dixisti nolo morte<i>m</i><br>
+peccatoris · sed ut conuertat<i>ur</i> <i>et</i> uiuat · Misere<br>
+-aris animę meae <i>et</i> parcas· <i>et</i> remittas <i>et</i><br>
 deleas om<i>n</i>ia delicta mea p<i>rae</i>terita p<i>rae</i>sentia<br>
-
-<i>et</i>futura inminentia <i>et</i>p<i>er</i>ducas me absque<br>
-
-macula · p<i>er</i>tua<i>m</i> magna<i>m</i> mis<i>eri</i>c<i>or</i>dia<i>m</i> tua<i>m</i> inuita<i>m</i><br>
-
-ęt<i>er</i>na<i>m</i>· adomniu<i>m</i> consortia<i>m</i> s<i>anct</i>or<i>um</i> <i>et</i>adgaudia<br>
-
-angeloru<i>m</i> incęlo habitantiu<i>m</i> ameN· p<i>er</i>·</b><br>
+<i>et</i> futura inminentia <i>et</i> p<i>er</i>ducas me absque<br>
+macula · p<i>er</i> tua<i>m</i> magna<i>m</i> mis<i>eri</i>c<i>or</i>dia<i>m</i> tua<i>m</i> in uita<i>m</i><br>
+ęt<i>er</i>na<i>m</i> · ad omniu<i>m</i> consortia<i>m</i> s<i>anct</i>or<i>um</i> <i>et</i> ad gaudia<br>
+angeloru<i>m</i> in cęlo habitantiu<i>m</i> ameN · p<i>er</i> ·</b><br>
 <param ve-image seq="63"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">**
- 
- 
- 
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+*********************
  
  [fol. 26r] ‘Supplico te Dei sacerdos ut debis omnibus sis mihi testis in diem iudicii, ne gaudeat de me inimicus meus et digne pro me domini clementiam deprecare, ut donet mihi ueniam et indulgentiam et remissionem omnium peccatorum predictorum hic et in ęterna in secula seculorum, amen.’
 
