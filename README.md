@@ -132,7 +132,7 @@ quid respondebo nichil inuenio ubi fugia<i>m</i><br>
 nisi ad te · Tu es d<i>eu</i>s m<i>eu</i>s · Tu es rede<i>m</i>ptor m<i>eu</i>s · Tu es<br>
 spes mea · Tu es refugiu<i>m</i> meu<i>m</i> · In te est decan<br>
 tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
-Precor te d<i>omi</i>ne antequa<i>m</i> distutias me miserere<br>
+Precor te d<i>omi</i>ne antequa<i>m</i> discutias<!--Check this, I had "distutias"--> me miserere<br>
 mei</b>
 <param ve-image seq="57"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
@@ -183,7 +183,7 @@ se humilit<i>er</i> super t<i>er</i>ra<i>m</i> in conspectu d<i>e</i>i adoration
 
 [23v] <i>et</i> lacrimas fundens rog<i>et</i> beata<i>m</i> maria<i>m</i> cum s<i>an</i>c<i>t</i>is<br>
 ap<i>osto</i>lis <i>et</i> martyrib<i>us</i> <i>et</i> confessorib<i>us</i> ut ipsi inter-<br>
-cedant · ut d<i>eu</i>s om<i>n</i>ipo<i>ten</i>s dignet<i>ur</i> dare ei sapientia<i>m<br>
+cedant · ut d<i>eu</i>s om<i>n</i>ipo<i>ten</i>s dignet<i>ur</i> dare ei sapientia<i>m</i><br>
 p<i>er</i>fecta<i>m</i> <i>et</i> uera<i>m</i> intellegentia<i>m</i> ad confitendum<br>
 peccata sua · Ita dicendo· TRIBUS VICIB<i>US</i><br>
 <b>S<i>an</i>cta maria ora p<i>ro</i> me peccatore ad d<i>omi</i>n<i>u</i>m ut merear<br>
@@ -220,8 +220,8 @@ post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 <b>[4. Confessional ordo with priest]</b><br>
 P<i>OST</i> HĘC ITERU<i>M</i><br>
 DICAT HVMILITER CORA<i>M</i> D[EO] ET [CORA]M<br>
-<p>SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
-<b></b>Ego confiteor tibi pater cęli <i>et</i> terrę cora<i>m</i> hoc<br>
+SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
+<b>Ego confiteor tibi pater cęli <i>et</i> terrę cora<i>m</i> hoc<br>
 altare tuo s<i>an</i>cto · <i>et</i> istius loci reliquiis · et<br>
 cora<i>m</i> sacerdote tuo om<i>n</i>ia peccata mea · <i>et</i> quic-<br>
 quid d<i>e</i>i pietas mihi ad memoria<i>m</i> reducit · Decogi-<br>
@@ -298,7 +298,10 @@ corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · a regibus ·<br>
 <i>et</i> imperatorib<i>us</i> non custodiui · nęc adimpleui ·</b><br>
 <param ve-image seq="62"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
- 
+
+***************
+
+
 [25v] 
  
 <b>Episcopos p<i>re</i>sbit<i>er</i>os · abbates· monachos· canonicos· <i>et</i><br>
