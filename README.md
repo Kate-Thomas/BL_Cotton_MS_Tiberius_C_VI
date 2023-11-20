@@ -56,7 +56,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-326 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-354 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -326,34 +326,32 @@ macula · p<i>er</i> tua<i>m</i> magna<i>m</i> mis<i>eri</i>c<i>or</i>dia<i>m</i
 angeloru<i>m</i> in cęlo habitantiu<i>m</i> ameN · p<i>er</i> ·</b><br>
 <param ve-image seq="63"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-
-*********************
  
- [fol. 26r] ‘Supplico te Dei sacerdos ut debis omnibus sis mihi testis in diem iudicii, ne gaudeat de me inimicus meus et digne pro me domini clementiam deprecare, ut donet mihi ueniam et indulgentiam et remissionem omnium peccatorum predictorum hic et in ęterna in secula seculorum, amen.’
-
-TVNC CVM IPSO PROSTERNATE IPSE SACERDOS INTER ALTARE EISI FIERI POTEST AMEO PARITER CVM FLETV DICAN DEINDE DICAT SACERDOS HAEC CAPITA ET PENITENS RESPONDEAT:
-‘Conuerte nos salutans noster’
-‘Conuertere domine usquequo’
-‘Adiutori nostrum’
-‘In nomine domini’
-‘Fiat misericordia tua domine’
-‘Ostende nobis domine’
-
-ET POSTEA QUA CONFESSVS FVERIT PECCATA SVA, ANTE ALTARE DICAT:
-‘Domine ne in furore tuo’ (iii)
-Et ‘Miserere mei deus’ usque in finem cum gloria
-Et ‘Quid gloriaris’ usque ‘Uidebunt iusti et timebunt’
-Et ‘Uenite exultemus domino’ usque ‘Nolite obdurare corda uestra’
-Et ‘Iubilate domino, omnis terra seruite domino’ usque in finem
-Et ‘Benedic anima mea domino et omnia’ usque ‘iuuentus tua’ cum gloria.
-ET POSTEA SVRGENTES PARITER DICANT
-‘Vias tuas domine demonstra mihi’ usque ‘Bonitatem tuam domine’.
-Gloria pariter.
-
-ET POST HEC OMNIA DICAT ---- AVT DIACONUS COLLECTAS SVPER INCLINATUM EIUS CAPVT DICENS:
-‘Dominus uobiscum’
-‘Et cum spiritu tuo’
-‘Exaudi, domine, preces nostras et confitentium ----
+[fol. 26r] <b>Supplico te dei sacerdos ut debis om<i>n</i>ib<i>us</i> sis mihi testis<br>
+in die<i>m</i> iudicii · ne gaudeat . de me inimicus m<i>eu</i>s<i>et</i><br>
+digne p<i>ro</i> me d<i>omi</i>ni clem<i>en</i>tia<i>m</i> deprecare · ut don<i>et</i> mihi<br>
+uenia<i>m</i> <i>et</i> indulgentia<i>m</i> <i>et</i>remissione<i>m</i> omnium<br>
+peccatoru<i>m</i> predictoru<i>m</i> hic <i>et</i> in ęterna in secula<br>
+seculor<i>um</i> . am<i>en</i></b> . TVNC CVM IPSO P<i>RO</i>STERNATE<br><!--this is probably capitalised-->
+IPSE SACERDOS INTER ALTARE EISI FIERI<br>
+POTEST AMEO PARITER CV<i>M</i> FLETV DICAN<br><!--CHECK THIS!!-->
+DEINDE DICAT SACERDOS HAEC CAPITA<br>
+ET PENITENS RESPONDEAT<br>
+<b>Conuerte nos salutans n<i>oste</i>r · Conuertere d<i>omi</i>ne usq<i>ue</i>quo · Adiutori<br>
+n<i>ost</i>r<i>u</i>m in nomine d<i>omi</i>ni · Fiat mis<i>eri</i>c<i>or</i>dia tua d<i>omi</i>ne · Ostende nobis d<i>omi</i>n<i>e</i></b><br>
+ET POSTEA QUA CONFESSVS · FVERIT PECCA<br><!--This is probably capitalised-->
+TA SVA ANTE ALTARE DICAT ·<br>
+<b>D<i>omi</i>ne ne in furore tuo ·iii· Et miserere mei d<i>eu</i>s usq<i>ue</i> in finem ·</b><br>
+Cu<i>m</i> gl<i>ori</i>a · Et <b>quid gl<i>ori</i>aris</b> usq<i>ue</i> uidebunt iusti <i>et</i>timebunt ·<br>
+Et <b>uenite exultem<i>us</i> d<i>omi</i>no</b> usq<i>ue</i> nolite obdurare corda ura · Et<br>
+<b>iubilate d<i>omi</i>no om<i>n</i>is terra</b> · <b>seruite d<i>omi</i>no</b> usq<i>ue</i> in fine<i>m</i> · Et <b>bene<br>
+dic anima mea d<i>omi</i>no <i>et</i> om<i>n</i>ia</b> usq<i>ue</i> iuuentus tua · Cu<i>m</i> gl<i>ori</i>a<br>
+ET POSTEA SVRGENTES PARIT<i>ER</i> DICANT<br>
+<b>Vias tuas d<i>omi</i>ne demonstra mihi</b> . usq<i>ue</i> bonitate<i>m</i> tua<i>m</i> domine .<br>
+Gl<i>ori</i>a· parit<i>er</i> · ET POST HEC OM<i>N</i>IA DICAT ----<br><!--CHECK THIS!!-->
+AVT DIACON<i>US</i> COLL<i>EC</i>TAS SVP<i>ER</i> INCLINATU<i>M</i><br>
+EI<i>US</i> CAPVT DICENS · D<i>omi</i>n<i>u</i>s uobiscum · Et cu<i>m</i> sp<i>irit</i>u tuo ·<br>
+Ex audi d<i>omi</i>ne preces n<i>ost</i>ras <i>et</i> confitentiu<i>m</i> ----<br><!--CHECK THIS!!-->
 <param ve-image seq="64"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
