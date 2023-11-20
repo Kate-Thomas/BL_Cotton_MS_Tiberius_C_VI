@@ -35,7 +35,7 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<!--Some of this text won't be necessary-->As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4. Abbreviations have been expanded, and spacing has been normalised.
+<!--Will probably need to change this-->As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4. Abbreviations have been expanded, and spacing has been normalised.
 <param ve-image seq="55"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -61,7 +61,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-354 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-384 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -215,7 +215,7 @@ TENS CREDVLITATE<i>M</i> SVA<i>M</i> DICENS .<br>
 <param ve-image seq="59"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
- [24r] <b>Credo in unu<i>m</i> d<i>eu</i>m patre<i>m</i> om<i>n</i>ipotente<i>m</i> · Credo<br>
+[24r] <b>Credo in unu<i>m</i> d<i>eu</i>m patre<i>m</i> om<i>n</i>ipotente<i>m</i> · Credo<br>
 in filiu<i>m</i> · Credo <i>et</i> in sp<i>iritu</i>m s<i>an</i>c<i>tu</i>m · Credo uitam<br>
 post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 <i>et</i> hęc om<i>n</i>ia · Credo in d<i>eu</i>m uiuu<i>m</i> · am<i>en</i> ·</b><br>
@@ -355,22 +355,33 @@ ET POSTEA SVRGENTES PARIT<i>ER</i> DICANT<br>
 <b>Vias tuas d<i>omi</i>ne demonstra mihi</b> . usq<i>ue</i> bonitate<i>m</i> tua<i>m</i> domine .<br>
 Gl<i>ori</i>a· parit<i>er</i> · ET POST HEC OM<i>N</i>IA DICAT ----<br><!--CHECK THIS!!-->
 AVT DIACON<i>US</i> COLL<i>EC</i>TAS SVP<i>ER</i> INCLINATU<i>M</i><br>
-EI<i>US</i> CAPVT DICENS · D<i>omi</i>n<i>u</i>s uobiscum · Et cu<i>m</i> sp<i>irit</i>u tuo ·<br>
-Ex audi d<i>omi</i>ne preces n<i>ost</i>ras <i>et</i> confitentiu<i>m</i> ----<br><!--CHECK THIS!!-->
+EI<i>US</i> CAPVT DICENS · <b>D<i>omi</i>n<i>u</i>s uobiscum · Et cu<i>m</i> sp<i>irit</i>u tuo ·<br>
+Exaudi d<i>omi</i>ne preces n<i>ost</i>ras <i>et</i> confitentiu<i>m</i> ----</b><br><!--CHECK THIS!!-->
 <param ve-image seq="64"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[26v] tibi parce peccatis ut quos conscientię reatur accussat indulgentię tuę miserationis absoluat.’  Per.
-ALIA:
-‘Adesto, domine, supplicationibus nostris nescit ab hoac famuloa tuoa ill. clementię tuę longinqua miratio sana uulneror eius quere mitte peccat ut nullis a te iniquitatibus separatas tibi Domine ualeat adherere.  Per.’
-ALIA:
-‘Domine Deus noster, qui offensione nostra non uinceris, sed satisfactione preclaris, respice quos ad huanc famuluam tuuam· ill. quere tibi peccasse grauiter confitetur.  Tuum est enim oblutionem criminum dare et ueniam prestare peccantibus qui dixisti te male uitam peccatorum quam mortem concede ergo domine hoc ut et tibi penitentię excubias cęlebret, et correptis actibus suis confiteri sibi ate sempiterna gaudia cęlebretur.  Per.’
-
-ET ITERUM PROSTERNANT SE SUPER TERRAM DOMINO CELI SACERDOS COMMENDET PENITENTEM ET DICANT PARITER HOC:
-‘Confirma hoc deus quod operitus es in nobis’
-CAPITVLVM usque ‘Benedictus deus’. Gloria.
-
-ET SIC PONGGOMNIA CVLPIS REVELATIS ACCIPIAT PENITENS PENITENTIA MISERICORDITER ME VIAM
+[26v] <b>tibi parce peccatis ut quos conscientię reat<i>ur</i> accussat<br>
+indulgentię tuę miserationis absoluat · p<i>er</i> ·</b> ALIA<br>
+Adesto d<i>omi</i>ne supplicationib<i>us</i> n<i>ost</i>r<i>i</i>s nescit ab ho<sup>a</sup>c<br><!--CHECK THIS!!-->
+famulo<sup>a</sup> tuo<sup>a</sup> ill. clem<i>en</i>tię tuę longinqua<br>
+miratio sana uulneror ei<i>us</i> quere mitte peccat ·<br>
+ut nullis a te iniquitatib<i>us</i> separatas tibi d<i>omi</i>ne<br>
+ualeat adherere · p<i>er</i> ·</b> ALIA<br>
+<b>D<i>omi</i>ne d<i>eu</i>s n<i>oste</i>r qui offensione n<i>ost</i>ra non uinceris ·<br>
+sed satisfactione preclaris · respice q<i>uo</i>s ad<br>
+hu<sup>a</sup>nc famulu<sup>a</sup>m tuu<sup>a</sup>m · ill. quere tibi peccasse gra<br>
+uiter confitet<i>ur</i> tuu<i>m</i> est eni<i>m</i> oblutione<i>m</i> criminu<i>m</i><br>
+dare · <i>et</i> uenia<i>m</i> prestare peccantib<i>us</i> qui dixisti<br>
+te male uita<i>m</i> peccator<i>um</i> qua<i>m</i> morte<i>m</i> concede<br>
+ergo d<i>omi</i>ne hoc ut <i>et</i> tibi penitentię excubias cęle<br>
+bret · <i>et</i> correptis actib<i>us</i> suis confiteri sibi a te<br>
+sempiterna gaudia cęlebretur · p<i>er</i></b> · ET ITERU<i>M</i><br>
+P<i>RO</i>STERNANT SE SUP<i>ER</i> T<i>ER</i>RA<i>M</i> D<i>OMI</i>NO CELI SACERDOS<br>
+CO<i>M</i>MENDET PENITENTE<i>M</i> <i>ET</i> DICANT PARITER HOC<br>
+<b>Confirma hoc deus quod operitus es in nobis</b> CAPITVLV<i>M</i><br>
+usque . benedictus deus . Gloria ET SIC P<sup>O</sup>NGG OM<i>N</i>IA<br><!--CHECK THIS!!-->
+CVLPIS REVELATIS ACCIPIAT PENITENS<br>
+PENITENTIA MISERICORDITER ME VIAM<br>
 <param ve-image seq="65"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
