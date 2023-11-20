@@ -391,7 +391,7 @@ usque in finem . Et recedat humiliter ab eo ind omum sua<i>m</i>;<br>
 <param ve-image seq="66"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[5. Short version of De laude psalmorum]
+<b>[5. Short version of De laude psalmorum]</b><br>
 [27r] SENTENTIA LEONIS PAPAE<br>
 QUICU<i>M</i>QUE P<i>RO</i> PECCATIS PENITENTIA<i>M</i><sup>s. uoluerit</sup> AGERE · ET M<i>ER</i>TE<i>M</i><br>
 sua<i>m</i> corporali ac spiritali <i>et</i> letitia inluminari <sup>s. uoluerit</sup><br>
