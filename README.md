@@ -327,7 +327,7 @@ angeloru<i>m</i> in cęlo habitantiu<i>m</i> ameN · p<i>er</i> ·</b><br>
 <param ve-image seq="63"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
-[fol. 26r] <b>Supplico te dei sacerdos ut debis om<i>n</i>ib<i>us</i> sis mihi testis<br>
+[26r] <b>Supplico te dei sacerdos ut debis om<i>n</i>ib<i>us</i> sis mihi testis<br>
 in die<i>m</i> iudicii · ne gaudeat . de me inimicus m<i>eu</i>s<i>et</i><br>
 digne p<i>ro</i> me d<i>omi</i>ni clem<i>en</i>tia<i>m</i> deprecare · ut don<i>et</i> mihi<br>
 uenia<i>m</i> <i>et</i> indulgentia<i>m</i> <i>et</i>remissione<i>m</i> omnium<br>
@@ -355,7 +355,7 @@ Ex audi d<i>omi</i>ne preces n<i>ost</i>ras <i>et</i> confitentiu<i>m</i> ----<b
 <param ve-image seq="64"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[fol. 26v] tibi parce peccatis ut quos conscientię reatur accussat indulgentię tuę miserationis absoluat.’  Per.
+[26v] tibi parce peccatis ut quos conscientię reatur accussat indulgentię tuę miserationis absoluat.’  Per.
 ALIA:
 ‘Adesto, domine, supplicationibus nostris nescit ab hoac famuloa tuoa ill. clementię tuę longinqua miratio sana uulneror eius quere mitte peccat ut nullis a te iniquitatibus separatas tibi Domine ualeat adherere.  Per.’
 ALIA:
@@ -369,7 +369,7 @@ ET SIC PONGGOMNIA CVLPIS REVELATIS ACCIPIAT PENITENS PENITENTIA MISERICORDITER M
 <param ve-image seq="65"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[fol. 27r] ET MEMORITER OBSERVET ET IMPLEAT EAM ET ITERUM DICAT EI SACERDOS:
+[27r] ET MEMORITER OBSERVET ET IMPLEAT EAM ET ITERUM DICAT EI SACERDOS:
 ‘Dominus custodite ab omni malo’ usque in finem.
 Et recedat humiliter ab eo in domum suam.
 <param ve-image seq="66"
@@ -393,7 +393,7 @@ QUICUMQUE PRO PECCATIS PENITENTIAM  s. uoluerit AGERE ET MERTEM suam corporali a
 <param ve-image seq="66"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
        
-[fol 27v]
+[27v]
 ‘Benedica dominum’
 ‘Domine ne in furore tuo’ (ii) quem ad modu.
 ‘Deus auribus nostris.’
@@ -433,7 +433,7 @@ QUICUMQUE PRO PECCATIS PENITENTIAM  s. uoluerit AGERE ET MERTEM suam corporali a
 
 [6. Two prayers for chanting the psalter]
 
-[fol. 30r] ‘Suscipere digneris, Domine Deus omnipotens, hos uersiculos consecratos, quos ego ac sindignus peccator decantare cupio in honore nominis tui, pro me misero peccatore et pro omnibus facinoribus meis, siue actis, dictis, cogitationibus, iniquitatibus concupiscentis, siue omnibus neglegentiis meis magis ac minimis, ut uersiculi isti proficiant mihi ad uitam ęternam, spatium adiuuando et ad ueram penitentiam faciendo, per dominum.’  ‘Deus in adiutorium meum intende’ trib uicibus.  Ðis gebed baeda sang æt ðam saltere.  ‘Presta queso omnipotens et misericors deus ut intelligenter et libenter adque perspicue merear audiri tius enim adiutoriis omni modis indigeo, ut ualeam cum concessa gratia aliquatenus uerba tuę maiestatis cantare, per dominum nostrum.’
+[30r] ‘Suscipere digneris, Domine Deus omnipotens, hos uersiculos consecratos, quos ego ac sindignus peccator decantare cupio in honore nominis tui, pro me misero peccatore et pro omnibus facinoribus meis, siue actis, dictis, cogitationibus, iniquitatibus concupiscentis, siue omnibus neglegentiis meis magis ac minimis, ut uersiculi isti proficiant mihi ad uitam ęternam, spatium adiuuando et ad ueram penitentiam faciendo, per dominum.’  ‘Deus in adiutorium meum intende’ trib uicibus.  Ðis gebed baeda sang æt ðam saltere.  ‘Presta queso omnipotens et misericors deus ut intelligenter et libenter adque perspicue merear audiri tius enim adiutoriis omni modis indigeo, ut ualeam cum concessa gratia aliquatenus uerba tuę maiestatis cantare, per dominum nostrum.’
 <param ve-image seq="72"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
