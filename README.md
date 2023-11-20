@@ -442,7 +442,7 @@ QUICUMQUE PRO PECCATIS PENITENTIAM  s. uoluerit AGERE ET MERTEM suam corporali a
 <param ve-image seq="72"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-## Notes
+## Notes and analogues
 
 <h3>1. Oratio cuiusdam nominis Dei: a guide to morning prayer</h3>
 
@@ -475,7 +475,7 @@ De laude psalmorum is of particular note for its encouragement of the reader to 
 <h3>3.  Old English Handbook I</h3>
 
 In 1965, Roger Fowler published what he called A Late Old English Handbook for the use of a Confessor.   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton Tiberius A. iii (N). 
-Unknown to Fowler, the text also appears at this point in Tiberius C. vi, with only minor differences from his source texts.  This text, is a Latin ordo confessionis attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
+Unknown to Fowler, the text also appears at this point in Tiberius C. vi, with only minor differences from his source texts.  This text, is a Latin <i>ordo confessionis</i> attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
 
 3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.
 
@@ -507,7 +507,9 @@ In N, Handbook I is followed immediately by the vernacular confession which Fowl
 
 Black refers to this text as a ‘summary of uses 1-8’ of De laude psalmorum.  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.
 
-5.1: Sententia Leonis papae: complete versions of the text are attributed to Alcuin, Leo and Augustine. 
+Black reports that about a third of the manuscripts containing the full text of De laude psalmorum attribute it to St Augustine and others name Jerome, whereas Rome, Biblioteca nazionale central Sessoriana 71 ascribes authorship to Alcuin.  Following André Wilmart, both Black and Donald A. Bullough accept De laude psalmorum as indeed being Alcuin’s work,  although Jean Chazelas and Stephan Waldhoff have argued to the contrary. 
+
+5.1: Sententia Leonis papae: complete versions of the text are attributed to Alcuin, Leo and Augustine.<!--I.e. elsewhere?-->
 
 5.2: Quicumque pro peccatis penitentiam (si uoluerit) agere et mentem suam corporali ac spiritali et letitia inluminari (si uoluerit): in the full treatise, this corresponds to use 1 of the psalms, ‘Si vis pro peccatis tuis paenitentiam agere et confessionem peccatorum tuorum et veniam rogare delictis ... celerrimam invenies clementiam Dei totam mentem spiritali gaudio ac laetitia inluminare’
 
@@ -532,68 +534,7 @@ These prayers, the final text immediately preceding the psalter itself, were app
 
 6.1: Suscipere digneris: this prayer appears in the Vespasian Psalter. 
 
-6.2: Ðis gebed baeda sang:
-
-
-## Attributions<!--Maybe just put this in the notes-->
-
-Three of the texts edited above are attributed to respected authorities.  3 is attributed to St Jerome, 5 to Pope Leo, and the second prayer in 6 to the Venerable Bede.  The attribution of 3 is found in all of Fowler’s sources except for Corpus Christi College 201.   As for 5, Black reports that about a third of the manuscripts containing the full text of De laude psalmorum attribute it  to St Augustine and others name Jerome, whereas Rome, Biblioteca nazionale central Sessoriana 71 ascribes authorship to Alcuin.  Following André Wilmart, both Black and Donald A. Bullough accept De laude psalmorum as indeed being Alcuin’s work,  although Jean Chazelas and Stephan Waldhoff have argued to the contrary. 
-
-## Analogues<!--Cut this section right down-->
-
-It is clearly apparent that the preface to the Tiberius Psalter draws on De laude psalmorum, not by simply copying it, but by selecting from it, editing it, developing it.  The only part of the text which is reproduced exactly is 2, the eighth use of the psalms, which only prescribes one psalm to sing, albeit the very long Psalm 118, ‘Beati immaculati’.  It is likely that this section of the treatise appealed to the compiler because, like the Dicti Sancti Augustini on fols. 27v-28r, it teaches why the psalms are so important for all kinds of prayer.
-	5 is more loosely based upon De laude psalmorum, but the opening paragraph clearly draws upon it:
-
-Phrase in Tiberius
-Phrase in De laude psalmorum 
-Quicumque pro peccatis penitentiam  s. uoluerit agere	Si vis pro peccatis tuis paenitentiam agere (DLPs use 1, ll. 141-2)
-et mentem suam corporali ac spiritali et letitia inluminari s. uoluerit	et celerrimam invenies clementiam Dei totam mentem spiritali gaudio ac laetitia inluminare (use 1, ll, 152-4)
-et deum omnipotentem eiusque maiestatem laudare s. uoluerit	Si vis omnipotentem Deum laudare et ipsius maiestati omniumque (use 3, ll. 171-2)
-et pro carnalibus aut spiritalibus tribulationibus orare s. uoluerit	Si diversis tribulationibus afflictus sis et vel humanis vel spiritalibus temptationibus undique adstrictus (use 4, ll. 187-9)
-Et si sibi presens uita fustidiosa fuerit	Si tibi praesens vita fastidiosa sit (use 5, ll. 202-3)
-et uoluerit uitam cęlestem requirere	
-et si se in tribulatione a Deo derelictum esse cognouerit	Si te in tribulationibus a Deo derelictum intellegas (use 6, ll. 211-12)
-et si se uoluerit in diuinus laudibus exercere	Si volueris intima mente exercere te in divinis laudibus (use 8, ll. 232-3)
-et se exaudiri a Deo et pro se eum expugnare contra inimicos suos et ab inopia miseriaque se eripi; et se in innocentiam melioris uitę a Deo constitui s. uoluerit; et se in inluminari s. uoluerit protegi et saluari a Deo; et accipere remissionem peccatorem s. uoluerit; et se in diuersis tribulationibus angelica opitulatione custodiri s. uoluerit; et se spiritalibus armis muniri ac defendi s. uoluerit animam suam a periculis infernalibus eruere uoluerit hos psalmos decantet per singulos dies preter dominicos	
-
-The psalms prescribed in the two texts do not quite match up, but there is a distinct overlap:
-
-<!--Find a better way of doing this-->
-
-	De laude psalmorum
-	Not in DLPs	Use 1 	Use 2	Use 3	Use 4	Use 5	Use 6	Use 7	Use 8
-Present in Tiberius	5, 11, 13-15, 25-6, 56, 71, 122, 137-41	6
-31
-37
-50
-101
-129
-142	16
-24
-53
-66
-69, 85	102-3
-114
-116
-135
-148
-	21
-63
-68
-	62
-83
-	12, 43, 54	33
-102
-144
-	118
-Absent from Tiberius			70	104-6, 110-13, 115, 117, 134, 145-7, 149-50		41	30
-55		
-
-Only those psalms prescribed for the third use, ‘[s]i vis omnipotentem Deum laudare et ipsius maiestati omniumque’, receive significant omissions.  The primary difference between the psalms given in Tiberius and those in De laude psalmorum is that Tiberius abandons all distinctions between the eight different uses and lists its forty-six psalms all together, in strict numerical order; De laude psalmorum, by contrast, selects a group of psalms for each particular purpose, without presenting them in numerical order within each section.  Without the principle of self-selection which is so strong a characteristic of De laude psalmorum, according to which the reader must choose the set of psalms which best fits his or her circumstances, the reader of Tiberius is simply told that they are all good for many purposes, and is instructed to sing them ‘per singulos dies preter dominicos’.
-
-
-
-
+6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number-->
 
 
 # References
