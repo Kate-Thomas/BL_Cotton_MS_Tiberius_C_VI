@@ -61,7 +61,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-416 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-448 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -416,42 +416,36 @@ D<i>eu</i>s d<i>eu</i>s m<i>eu</i>s respice· Ad te d<i>omi</i>ne leuaui · Iudi
 d<i>omi</i>ne q<i>ua</i>m · D<i>omi</i>n<i>u</i>s inluminatio mea · Beati quor<i>um</i></b><br>
 <param ve-image seq="66"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-     
-[27v]
-‘Benedica dominum’
-‘Domine ne in furore tuo’ (ii) quem ad modu.
-‘Deus auribus nostris.’
-‘Miserere mei deus secundum’
-‘Deus in nomine tuo’
-‘Exaudi deus oratione meam et ne d[eprecor].’
-‘Miserere mei deus, miserere mei.’
-‘Deus, deus meus ad te d[e luce].’
-‘Exaudi deus orat[ionem meam] cum dep[recor]’
-‘Deus misereatur nostri.’
-‘Saluum me fac deus’
-‘Deus in adiutorium’
-‘In te domine speraui’ (ii)
-‘Quam dilecta’
-‘Inclina domine’
-‘Domine exaudi’ (i)
-‘Benedic anima mea Domino et omnia’
-‘Benedic anima mea domino deus deus meus’
-‘Dilexi quoniam’
-‘Laudate dominum omnes’
-‘Beati inmaculati’
-‘Ad te leuaui oculos’
-‘De profundis’
-‘Confitemini domino quoniam bonus’
-‘Confitebor tibi Domine’
-‘Domine probasti me’
-‘Eripe me domine’
-‘Domine clamaui’
-‘Uoce mea’
-‘Domine exaudi or[ationem]’
-‘Exaltabo te deus meus’
-‘Laudate dominum de celis’
-‘Benedicite omnia opera domini domino’
-[ ... ]
+
+[27v] <b>Benedica d<i>omi</i>n<i>u</i>m · D<i>omi</i>ne ne in furore tuo</b> ·ii· <b>Que<i>m</i> ad<br><!--CHECK THIS PAGE, SOME ABBREVIATIONS NOT CORRECT?-->
+modu<i>m</i>. D<i>eu</i>s aurib<i>us</i> n<i>ost</i>ris · Miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>d<i>u</i>m ·<br>
+D<i>eu</i>s in nomine tuo· Exaudid<i>eu</i>s oratione mea<i>m</i></b> <i>et</i> ne d.<br>
+<b>Miserere mei d<i>eu</i>s miserere mei. D<i>eu</i>s d<i>eu</i>s m<i>eu</i>s ad te d.<br>
+Exaudi d<i>eu</i>s orat</b> cu<i>m</i> dep. <b>D<i>eu</i>s misereat<i>ur</i> n<i>ost</i>ri. Saluu<i>m</i><br>
+me fac d<i>eu</i>s. D<i>eu</i>s in adiutoriu<i>m</i>. In te d<i>omi</i>ne speraui</b> ·ii·<br>
+<b>Qua<i>m</i> dilecta· Inclina d<i>omi</i>ne D<i>omi</i>ne exaudi</b> ·i·<br>
+<b>Benedic anima mea d<i>eus et</i> om<i>n</i>ia· Benedic anima<br>
+mea d<i>omi</i>no d<i>eus</i> d<i>eu</i>s m<i>eu</i>s. Dilexi q<i>ua</i>m· Laudate d<i>o</i>mi<i>n</i>um<br> 
+om<i>ni</i>s· Beati inmaculati· Ad te leuauioculos ·<br>
+De p<i>ro</i>fundis · Confitemini d<i>omi</i>no q<i>ua</i>m bon<i>us</i> · Confite<br>
+bor tibi d<i>eus</i>· D<i>omi</i>ne p<i>ro</i>basti me · Eripe me d<i>omi</i>ne.<br>
+D<i>omi</i>ne clamaui · Uoce mea · D<i>omi</i>ne exaudi or[ationem]<br>
+Exaltabo te d<i>eu</i>s m<i>eu</i>s. Laudate d<i>omi</i>n<i>u</i>m de celis ·<br>
+Benedicite om<i>n</i>ia op<i>er</i>a d<i>omi</i>ni d<i>omi</i>no ·</b><br>
+<param ve-image seq="67"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+<b>[<i>Dicti sancti Augustini</i>]</b><br>
+CANTICU<i>M</i> PSALMOR<i>UM</i> · ANIMAS DECORAUIT · IN<br>
+uitat angelos · in adiutoriu<i>m</i> · Effugiat de-<br>
+mones · Expellit tenebras · Efficit s<i>an</i>c<i>t</i>itate<i>m</i><br>
+homini peccatori · Refectio mentis est · Delet pec-<br>
+cata · Similis e<i>m</i>elemosinis s<i>an</i>c<i>t</i>or<i>um</i> . Parat fide<i>m</i>·sicut<br>
+sol illuminat · Sicut aqua s<i>an</i>c<i>t</i>ificat · Sic<i>ut</i> ignis exurit;<br>
+Sicut foliu<i>m</i> defluit · D<i>omi</i>n<i>u</i>m ostendit · Diabolu<i>m</i> offen-<br>
+dit · Uoluntate<i>m</i> illicita<i>m</i> exunguit · Oleu<i>m</i> mis<i>eri</i>c<i>or</i>dię est .<br>
+Sors angelor<i>um</i> ęlecta · Asperitate<i>m</i> deicit · Omne<i>m</i><br>
+furore<i>m</i> deprimit · Iracundia<i>m</i> frangit · Laus dei ·<br>
 <param ve-image seq="67"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
