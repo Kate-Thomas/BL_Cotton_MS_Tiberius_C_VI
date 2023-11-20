@@ -14,11 +14,11 @@
 <style>
   h2 {
     color: green;
-    font-size: 3.5em;
+    font-size: 2em;
   }
   h3 {
     color: green;
-    font-size: 2em;
+    font-size: 1.5em;
   }
 em {
   color: red;
