@@ -61,7 +61,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-384 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-416 needs to be checked against the images-->
 
 <b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
@@ -385,30 +385,38 @@ PENITENTIA MISERICORDITER ME VIAM<br>
 <param ve-image seq="65"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[27r] ET MEMORITER OBSERVET ET IMPLEAT EAM ET ITERUM DICAT EI SACERDOS:
-‘Dominus custodite ab omni malo’ usque in finem.
-Et recedat humiliter ab eo in domum suam.
+[27r] ET MEMORIT<i>ER</i> OBSERVET <i>ET</i> IMPLEAT EA<i>M</i> ET ITERU<i>M</i><br>
+DICAT EI SACERDOS · <b>D<i>omi</i>n<i>u</i>s custodite ab omni malo</b><br>
+usque in finem . Et recedat humiliter ab eo ind omum sua<i>m</i>;<br>
 <param ve-image seq="66"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-
 
 [5. Short version of De laude psalmorum]
-
-SENTENTIA LEONIS PAPAE
-QUICUMQUE PRO PECCATIS PENITENTIAM  s. uoluerit AGERE ET MERTEM suam corporali ac spiritali et letitia inluminari s. uoluerit et deum omnipotentem eiusque maiestatem laudare s. uoluerit et pro carnalibus aut spiritalibus tribulationibus orare s. uoluerit.  Et si sibi presens uita fustidiosa fuerit; et uoluerit uitam cęlestem requirere; et si se in tribulatione a Deo derelictum esse cognouerit; et si se uoluerit in diuinus laudibus exercere, et se exaudiri a Deo et pro se eum expugnare contra inimicos suos et ab inopia miseriaque se eripi; et se in innocentiam melioris uitę a Deo constitui s. uoluerit; et se in inluminari s. uoluerit protegi et saluari a Deo; et accipere remissionem peccatorem s. uoluerit; et se in diuersis tribulationibus angelica opitulatione custodiri s. uoluerit; et se spiritalibus armis muniri ac defendi s. uoluerit animam suam a periculis infernalibus eruere uoluerit hos psalmos decantet per singulos dies preter dominicos:
-
-‘Domine quid multiplicabo’
-‘Uerba mea’
-‘Domine ne infui’
-‘Saluum me fac deus’ usque quod ‘Exaudi domine iusti’
-‘Deus, deus meus, respice’
-‘Ad te, domine, leuaui’
-‘Iudica me domine quoniam’
-‘Dominus inluminatio mea’
-‘Beati quorum’
+[27r] SENTENTIA LEONIS PAPAE<br>
+QUICU<i>M</i>QUE P<i>RO</i> PECCATIS PENITENTIA<i>M</i><sup>s. uoluerit</sup> AGERE · ET M<i>ER</i>TE<i>M</i><br>
+sua<i>m</i> corporali ac spiritali <i>et</i> letitia inluminari <sup>s. uoluerit</sup><br>
+<i>et</i> deu<i>m</i> om<i>n</i>ipotente<i>m</i> ei<i>us</i>q<i>ue</i> maiestate<i>m</i> laudare <sup>s. uoluerit</sup> <i>et</i> p<i>ro</i><br>
+carnalib<i>us</i> aut spiritalib<i>us</i> tribulationib<i>us</i> orare <sup>s. uoluerit</sup><br> 
+Et si sibi presens uita fustidiosa fuerit · Et uoluerit<br><!--CHECK FUSTIDIOSA-->
+uita<i>m</i> cęleste<i>m</i> requirere <i>et</i> si se in tribulatione a deo<br>
+derelictu<i>m</i> esse cognouerit · Et si se uoluerit in<br>
+diuinus laudib<i>us</i> exercere · <i>et</i> se exaudiri a deo·<br>
+et p<i>ro</i> se eum expugnare contra inimicos suos ·<br>
+<i>et</i> ab inopia miseriaq<i>ue</i> se eripi · <i>et</i> se in innocentia<i>m</i><br>
+melioris uitę adeo constitui <sup>s. uoluerit</sup> <i>et</i>se in inluminari · <sup>s. uoluerit</sup><br><!--ADEO OR A DEO?  CHECK BLACK-->
+p<i>ro</i>tegi <i>et</i> saluari a deo <i>et</i>accip<i>er</i>e remissionem<br>
+peccatorem · <sup>s. uoluerit</sup> <i>et</i> se in diuersis tribulationib<i>us</i><br>
+angelica opitulatione custodiri· <sup>s. uoluerit</sup> <i>et</i> se spiritalib<i>us</i><br>
+armis muniri ac defendi· <sup>s. uoluerit</sup> animam suam<br>
+a p<i>er</i>iculis infernalib<i>us</i> eruere uoluerit hos psal<br>
+mos decant<i>et</i> p<i>er</i> singulos dies preter dominicos.<br>
+<b>D<i>omi</i>ne quid multiplic<i>abo</i>· Uerba mea· D<i>omi</i>ne ne infui·<br>
+Saluu<i>m</i> me fac d<i>eus</i>.</b> Usq<i>ue</i> quod· <b>Exaudi d<i>omi</i>ne iusti<br>
+D<i>eu</i>s d<i>eu</i>s m<i>eu</i>s respice· Ad te d<i>omi</i>ne leuaui · Iudica me<br>
+d<i>omi</i>ne q<i>ua</i>m · D<i>omi</i>n<i>u</i>s inluminatio mea · Beati quor<i>um</i></b><br>
 <param ve-image seq="66"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-       
+     
 [27v]
 ‘Benedica dominum’
 ‘Domine ne in furore tuo’ (ii) quem ad modu.
