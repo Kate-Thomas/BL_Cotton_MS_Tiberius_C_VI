@@ -50,7 +50,7 @@ ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with t
 ff. 23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
 f. 27r-v: Short version of the complete ‘De laude psalmorum’</b><br>
 ff. 27v-28v: Dicti Sancti Augustini<br>
-<b>ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)</b><br>
+ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)<br>
 <b>f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
