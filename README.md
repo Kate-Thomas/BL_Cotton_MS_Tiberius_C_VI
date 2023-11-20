@@ -16,7 +16,7 @@
     color: green;
     font-size: 2em;
   }
-  h3 {
+  h4 {
     color: green;
     font-size: 1.5em;
   }
