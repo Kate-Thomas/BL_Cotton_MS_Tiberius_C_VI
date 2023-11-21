@@ -513,35 +513,35 @@ usurpatio scientię · Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s pietatis 
 sp<i>iritu</i>s impietates · alt<i>er</i> peior · false pietatis · obtentus ·<br>
 Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s · timoris dei · Cui contrarius est sp<i>iritu</i>s temeri<br>
 tatis · alter · peior · dolus ficte religiositatis ·, ------<br>
-<sub>&nbsp;&nbsp;&nbsp;þe p<i>ro</i>phet&nbsp;wrot</sub><br>
+<sub>&nbsp;&nbsp;&nbsp;þe p<i>ro</i>phet&nbsp;&nbsp;wrot</sub><br>
 Isaias se witega awrat on þylce on ænglisc<br>
-<sub>&nbsp;prophecy by þe holigost&nbsp;&nbsp;&nbsp;sebyn</sub><br>
+<sub>&nbsp;&nbsp;prophecy by þe holigost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sebyn</sub><br>
 his witegunge be þan halgan gaste · 7 be his seofan<br>
-<sub>fold geftys þo sebyn fold gyfte bet--</sub><br>
+<sub>fold&nbsp;&nbsp;geftys&nbsp;þo sebyn fold gyfte bet--</sub><br>
 fealdan gifu · þa seofanfeald angyfa fynd þus<br>
 <sub>y called&nbsp;yn latyn</sub><br>
 gehatene · Sapientia · on leden · þ<i>æt</i>is wisdom on englisc<br>
 <sub>&nbsp;&nbsp;yn latyn&nbsp;vndstandyng</sub><br>
-Intellect<i>us</i> on leden · 7 andgyt on englisc ·Consiliu<i>m</i> · on<br>
-<sup>latyn                  reed</sup><br>
+Intellect<i>us</i> on leden · 7 andgyt on englisc · Consiliu<i>m</i> · on<br>
+<sub>latyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reed</sub><br>
 leden · þ<i>æt</i> is ræd on englisc · Fortitudo · on leden· and<br>
-<sup>gostly     strength                                                            and god</sup><br>
+<sub>gostly     strength                                                            and god</sub><br>
 modes strengð on englisc · Scientia· on leden· 7 god in<br>
-<sup>-----                                                                 -------</sup><br>
+<sub>-----                                                                 -------</sub><br>
 gehyd on englisc · Pietas · on leden · 7 arfæstnys on<br>
-<sup>                                                                 goddys fer</sup><br>
+<sub>                                                                 goddys fer</sub><br>
 englisc · Timor d<i>omi</i>ni on leden · godes ege on englisc ·<br>
-<sup>         sebyn     fold       gyftys                 divelled</sup><br> 
+<sub>         sebyn     fold       gyftys                 divelled</sub><br> 
 Þas seofan fealdan gyfa soðlice wunedon on<br>
-<sup>ovr         sabyor                           abownddantly     after</sup><br>
+<sub>ovr         sabyor                           abownddantly     after</sub><br>
 uru<i>m</i> hælende criste · eall be fullu<i>m</i> þingu<i>m</i> æfter<br>
-<sup>þe           man       god        ful          myghtyly    þe holy</sup><br>
+<sub>þe           man       god        ful          myghtyly    þe holy</sub><br>
 þære menniscnysse swiðe mihtlice · 7 se halega ·<br>
-<sup>gost    hem dep<i>er</i>tes day   ly             yet     gode     holy             ---------</sup><br>
+<sub>gost    hem dep<i>er</i>tes day   ly             yet     gode     holy             ---------</sub><br>
 gast  hi todælþ dæghwa<i>m</i>lice git godes halgu<i>m</i> mannu<i>m</i><br>
-<sup>as it fled hym                     on---y by his pol----           and  his gostly</sup><br>
+<sub>as it fled hym                     on---y by his pol----           and  his gostly</sub><br>
 be þa<i>m</i>þehi<i>m</i> gewyrð · ælcu<i>m</i> be his mæðe · 7 his modes<br>
-<sup>defere                      þ<i>æt</i>      man</sup><br>
+<sub>defere                      þ<i>æt</i>      man</sub><br>
 geornfulnysse · Se man hæfð wisdom · þe wislice<br>
 <param ve-image seq="69"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
