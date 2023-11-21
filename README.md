@@ -26,7 +26,7 @@
   }
 th, td {
   padding-top: 10px;
-  border-spacing: 30px;
+  padding-right: 40px;
   float: left;
 }
 </style>
