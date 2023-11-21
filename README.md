@@ -46,24 +46,45 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 The items shown in <b>bold</b> are those which are covered in the present edition.<br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
-ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
+<b></b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)</b><br>
 ff. 18v: Image of Christ in majesty<br>
 ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 <b>ff. 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
 ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
 ff. 23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
-f. 27r-v: Short version of the complete ‘De laude psalmorum’</b><br>
+f. 27r-v: Short version of the complete ‘De laude psalmorum’<br>
 ff. 27v-28v: Dicti Sancti Augustini<br>
 ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)<br>
-<b>f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
+f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-448 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-504 needs to be checked against the images-->
 
-<b>[1. <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
+<b>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</b>
+INSERT TEXT HERE<br>
+<param ve-image seq="45"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+INSERT TEXT HERE<br>
+<param ve-image seq="46"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+INSERT TEXT HERE<br>
+<param ve-image seq="47"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+INSERT TEXT HERE<br>
+<param ve-image seq="48"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+INSERT TEXT HERE<br>
+<param ve-image seq="49"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+<b>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
@@ -142,7 +163,7 @@ mei</b>
 <param ve-image seq="57"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<b>[2. Section 8 and epilogue of De laude psalmorum]</b><br>
+<b>[Section 8 and epilogue of De laude psalmorum]</b><br>
 SI TE VOLVERIS INTIMENTE EXER<br>
 CERE VIRTVTIS · LAVDIE DECANTA<br>
 SEMP<i>ER</i> PSALMU<i>M</i> BEATI INMACVLATI<br>
@@ -171,7 +192,7 @@ tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris �
 <param ve-image seq="58"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<b>[3. Section I of the Old English Handbook]</b><br>
+<b>[Section I of the Old English Handbook]</b><br>
 INCIPIT ORDO CON<br>
 FESSIONIS SACERDOTV<i>M</i> ET OMNIU<i>M</i> CLERI<br>
 CORV<i>M</i> SECVNDV<i>M</i> HIERONIMV<i>M</i> TRACTA<br>
@@ -222,7 +243,7 @@ post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 <param ve-image seq="60"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<b>[4. Confessional ordo with priest]</b><br>
+<b>[Confessional ordo with priest]</b><br>
 P<i>OST</i> HĘC ITERU<i>M</i><br>
 DICAT HVMILITER CORA<i>M</i> D[EO] ET [CORA]M<br>
 SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
@@ -391,7 +412,7 @@ usque in finem . Et recedat humiliter ab eo ind omum sua<i>m</i>;<br>
 <param ve-image seq="66"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<b>[5. Short version of De laude psalmorum]</b><br>
+<b>[Short version of De laude psalmorum]</b><br>
 [27r] SENTENTIA LEONIS PAPAE<br>
 QUICU<i>M</i>QUE P<i>RO</i> PECCATIS PENITENTIA<i>M</i><sup>s. uoluerit</sup> AGERE · ET M<i>ER</i>TE<i>M</i><br>
 sua<i>m</i> corporali ac spiritali <i>et</i> letitia inluminari <sup>s. uoluerit</sup><br>
@@ -426,7 +447,7 @@ me fac d<i>eu</i>s. D<i>eu</i>s in adiutoriu<i>m</i>. In te d<i>omi</i>ne sperau
 <b>Qua<i>m</i> dilecta· Inclina d<i>omi</i>ne D<i>omi</i>ne exaudi</b> ·i·<br>
 <b>Benedic anima mea d<i>eus et</i> om<i>n</i>ia· Benedic anima<br>
 mea d<i>omi</i>no d<i>eus</i> d<i>eu</i>s m<i>eu</i>s. Dilexi q<i>ua</i>m· Laudate d<i>o</i>mi<i>n</i>um<br> 
-om<i>ni</i>s· Beati inmaculati· Ad te leuauioculos ·<br>
+om<i>ni</i>s· Beati inmaculati· Ad te leuaui oculos ·<br>
 De p<i>ro</i>fundis · Confitemini d<i>omi</i>no q<i>ua</i>m bon<i>us</i> · Confite<br>
 bor tibi d<i>eus</i>· D<i>omi</i>ne p<i>ro</i>basti me · Eripe me d<i>omi</i>ne.<br>
 D<i>omi</i>ne clamaui · Uoce mea · D<i>omi</i>ne exaudi or[ationem]<br>
@@ -436,7 +457,7 @@ Benedicite om<i>n</i>ia op<i>er</i>a d<i>omi</i>ni d<i>omi</i>no ·</b><br>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <b>[<i>Dicti sancti Augustini</i>]</b><br>
-CANTICU<i>M</i> PSALMOR<i>UM</i> · ANIMAS DECORAUIT · IN<br>
+[27v] CANTICU<i>M</i> PSALMOR<i>UM</i> · ANIMAS DECORAUIT · IN<br>
 uitat angelos · in adiutoriu<i>m</i> · Effugiat de-<br>
 mones · Expellit tenebras · Efficit s<i>an</i>c<i>t</i>itate<i>m</i><br>
 homini peccatori · Refectio mentis est · Delet pec-<br>
@@ -449,7 +470,44 @@ furore<i>m</i> deprimit · Iracundia<i>m</i> frangit · Laus dei ·<br>
 <param ve-image seq="67"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[6. Two prayers for chanting the psalter]
+[28r] assidua similis est melli · Canticu<i>m</i> psalmor<i>um</i> · canticu<i>m</i><br>
+electu<i>m</i> est apud d<i>ominu</i>m · Om<i>n</i>e peccatu<i>m</i> expellit uinculu<i>m</i><br>
+caritatis emundat · Om<i>n</i>ia penetrat · om<i>n</i>ia suffert ·<br>
+om<i>n</i>ia implet · om<i>n</i>ia s<i>an</i>c<i>t</i>ificat · om<i>n</i>ia punificat·  Anima<i>m</i><br>
+magnificat · cor letificat · turre<i>m</i> excęlsam ędificat ·<br>
+O saperit malu<i>m</i> occidit · p<i>er</i>fectione<i>m</i> instruit · excęlsa<br>
+demonstrat · Desideriu<i>m</i> regni cęlestis est pace<i>m</i> inter<br>
+corpus <i>et</i> anima<i>m</i> facit · Igne<i>m</i> spiritale<i>m</i> in corde suc<br>
+cendit · ab omnib<i>us</i> uitus sollicitudo est · Canticum<br>
+psalmor<i>um</i> carmen bonu<i>m</i> · cotidię radice<i>m</i> malorum<br>
+euellit · Sicut lorica induit · sicut galea defendit ·<br>
+Spes salutis est · consolatio doloris· p<i>er</i>fectio laboris ·<br>
+Notitię ueri luminis est · fons s<i>an</i>c<i>t</i>itatis est · Hominem<br>
+iuuene<i>m</i> castigat regnu<i>m</i> dei sup<i>er</i> terra<i>m</i> dat · tedium<br>
+animę detrabit · Tuba mirabilis est · Qui diligit<br>
+canticu<i>m</i> psalmor<i>um</i> · assiduę non potest peccatum<br>
+agere · Qui habet laude<i>m</i> dei in corde suo · in postreino<br><!--WHAT ARE THESE WORDS??-->
+apud d<i>eu</i>m gaudebit · <i>et</i>anima sua in cęlo morabit<i>ur</i> ·<br>
+Bonu<i>m</i> est semp<i>er</i> corde orare · bonu<i>m</i> est <i>et</i> ia<i>m</i> <i>et</i>sono uocis<br>
+d<i>eu</i>m psalmis hymnis glorificare · psallendi enim<br>
+utilitas tristia corda consolat<i>ur</i> · gratiores inertes<br>
+facit · inertes excitat · fastidioses oblectat pecca-<br>
+tores ad lamentu<i>m</i> inuitat;
+<param ve-image seq="68"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+<b>[<i>De septiformes Spiritus Sanctus/Isaias se witega</i> (homily on the Holy Spirit)]</b>
+[28r] DE SEPTIFORMES<br>
+SP<i>IRITU</i>S S<i>AN</i>C<i>TU</i>S P<i>RO</i> SEPTERNARIA OP<i>ER</i>ATIONE ISAIA PRO<br> 
+ph<i>et</i>a testante septiformis esse credatur<br> 
+in bono · Sp<i>iritu</i>s a <i>et</i>iam nequa<i>m</i> septiformis desig<br> 
+nat<i>ur</i> · Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s sapientię cui ę contrario in aliis<br>
+<param ve-image seq="68"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+
+
+[Two prayers for chanting the psalter]
 
 [30r] ‘Suscipere digneris, Domine Deus omnipotens, hos uersiculos consecratos, quos ego ac sindignus peccator decantare cupio in honore nominis tui, pro me misero peccatore et pro omnibus facinoribus meis, siue actis, dictis, cogitationibus, iniquitatibus concupiscentis, siue omnibus neglegentiis meis magis ac minimis, ut uersiculi isti proficiant mihi ad uitam ęternam, spatium adiuuando et ad ueram penitentiam faciendo, per dominum.’  ‘Deus in adiutorium meum intende’ trib uicibus.  Ðis gebed baeda sang æt ðam saltere.  ‘Presta queso omnipotens et misericors deus ut intelligenter et libenter adque perspicue merear audiri tius enim adiutoriis omni modis indigeo, ut ualeam cum concessa gratia aliquatenus uerba tuę maiestatis cantare, per dominum nostrum.’
 <param ve-image seq="72"
