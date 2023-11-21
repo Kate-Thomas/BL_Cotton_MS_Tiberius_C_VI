@@ -60,7 +60,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-598 needs to be checked against the images-->
+## Edition <!--need to check against the images-->
 
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
 INSERT TEXT HERE<br>
@@ -83,7 +83,7 @@ INSERT TEXT HERE<br>
 <param ve-image seq="49"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<b>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</b><br>
+<h4>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</h4><br>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
@@ -162,7 +162,7 @@ mei</b>
 <param ve-image seq="57"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<b>[Section 8 and epilogue of De laude psalmorum]</b><br>
+<h4>[Section 8 and epilogue of De laude psalmorum]</h4><br>
 SI TE VOLVERIS INTIMENTE EXER<br>
 CERE VIRTVTIS · LAVDIE DECANTA<br>
 SEMP<i>ER</i> PSALMU<i>M</i> BEATI INMACVLATI<br>
@@ -495,7 +495,7 @@ tores ad lamentu<i>m</i> inuitat;
 <param ve-image seq="68"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<b>[<i>De septiformes Spiritus Sanctus/Isaias se witega</i> (homily on the Holy Spirit)]</b>
+<h4>[<i>De septiformes Spiritus Sanctus/Isaias se witega</i> (homily on the Holy Spirit)]</h4><br>
 [28r] DE SEPTIFORMES<br>
 SP<i>IRITU</i>S S<i>AN</i>C<i>TU</i>S P<i>RO</i> SEPTERNARIA OP<i>ER</i>ATIONE ISAIA PRO<br> 
 ph<i>et</i>a testante septiformis esse credatur<br> 
@@ -588,7 +588,7 @@ fulla deofol forgifð abroðennysse þ<i>æt</i> se man<br>
 abreþe on ælcere neode nahtlice æfre · 7 eac þ<i>æt</i> he<br>
 Inwige hine sylfne mihtigne · Ongean þa<i>m</i> ingehyde<br>
 se hetola deofol sylð nytenysse nahtlicu<i>m</i> mannu<i>m</i><br>
-7 eac þ<i>æt</i> hi hiwion þ<i>æt</i>hi ingehyd habban · Ongean þære<br>
+7 eac þ<i>æt</i> hi hiwion þ<i>æt</i> hi ingehyd habban · Ongean þære<br>
 arfæstnysse · he sylþ arleasnysse · þ<i>æt</i> he ne arige<br>
 ------ mæðige his underþeoddu<i>m</i> · ne his gelicu<i>m</i> · <br>
 7 eac þ<i>æt</i> he hiwige swilce he arfæstnysse · Ongean godes ege<br>
@@ -599,26 +599,25 @@ s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
 <param ve-image seq="71"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-
 [30r] oððe þæs gramlican deofles·<br> 
-Suscipere digneris d<i>omi</i>ne d<i>eu</i>s omnipotens·<br> 
-hos uersiculos consecratos quos ego acsin<br> 
-dignus peccator decantare cupio inhonore<br> 
-nominis tui prome misero peccatore <i>et</i>pro<br> 
-omnibus facinoribus meis siue actis dictis<br> 
-cogitationibus iniquitatibus concupiscen<br> 
-tis siue omnibus neglegentiis meis magis<br> 
-ac minimis utuersiculi isti proficiant mihi<br> 
-aduitam ęternam · spatium adiuuando·<br> 
-<i>et</i>adueram penitentiam faciendo · p<i>er</i> d<i>omi</i>n<i>u</i>m<br> 
-Deus inadiutorium meu<i>m</i> intende· trib· uicibus·<br> 
-<p>-----------------------------------------------<br> 
-Presta queso omnipotens <i>et</i>misericorsd<i>eu</i>s<br> 
-ut intelligenter <i>et</i>libenter adque per<br> 
-spicue merear audiri tius enim adiutoriis<br> 
-omni modis indigeo ut ualeam cum concessa<br> 
-gratia ali quatenus uerba tuę maiestatis<br> 
-cantare · per dominum n<i>ost</i>r<i>u</i>m;<br> 
+<b>Suscipere digneris d<i>omi</i>ne d<i>eu</i>s omnipotens ·<br>
+hos uersiculos consecratos quos ego ac sin<br><!--CHECK!!!-->
+dignus peccator decantare cupio in honore<br>
+nominis tui pro me misero peccatore <i>et</i> pro<br>
+omnibus facinoribus meis siue actis dictis<br>
+cogitationibus iniquitatibus concupiscen<br>
+tis siue omnibus neglegentiis meis magis<br>
+ac minimis ut uersiculi isti proficiant mihi<br>
+ad uitam ęternam · spatium adiuuando ·<br>
+<i>et</i> ad ueram penitentiam faciendo · p<i>er</i> d<i>omi</i>n<i>u</i>m<br>
+Deus inadiutorium meu<i>m</i> intende</b> · trib · uicibus ·<br>
+-----------------------------------------------<br><!--PROBABLY IN RED-->
+<b>Presta queso omnipotens <i>et</i> misericors d<i>eu</i>s<br>
+ut intelligenter <i>et</i> libenter adque per<br>
+spicue merear audiri tius enim adiutoriis<br>
+omni modis indigeo ut ualeam cum concessa<br>
+gratia aliquatenus uerba tuę maiestatis<br>
+cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br> 
 <param ve-image seq="72"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -628,9 +627,8 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;<br>
 
 
 
- 
 
-## Notes and analogues
+<h2>Notes and analogues</h2>
 
 <h3><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h3>
 
