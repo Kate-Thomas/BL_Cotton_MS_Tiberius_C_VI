@@ -24,9 +24,6 @@
     color: blue;
     font-weight: bold;
   }
-em {
-  color: red;
-}
 th, td {
   padding-top: 10px;
   padding-right: 20px;
