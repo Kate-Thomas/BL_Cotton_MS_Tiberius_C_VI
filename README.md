@@ -24,9 +24,16 @@
     color: blue;
     font-weight: bold;
   }
+  h5 {
+  color: red;
+  }
 em {
   color: red;
-}	
+}
+th, td {
+  padding-top: 10px;
+  padding-right: 10px;
+}
 </style>
 
 ## About the manuscript<!--Cut this section right down to the most important stuff-->
@@ -63,10 +70,9 @@ ff. 31r-129v: Gallican psalter<br>
 ## Edition <!--need to check against the images-->
 
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
-[16v]
 <table>
 <tr>
-<td>Nabulum est quod grece<br>
+<td>[16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
 dinem del dae id est in<br>
@@ -101,7 +107,7 @@ INSERT TEXT HERE<br>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</h4>
-[21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
+[21v] <h5>ORATIO CUIUSDAM NOMINIS DEI ·</h5><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
 ones quesierit que<i>m</i> ad modu<i>m</i> agi debeat qualiter<br>
