@@ -46,7 +46,7 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 The items shown in <b>bold</b> are those which are covered in the present edition.<br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
-<b></b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)</b><br>
+<b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)</b><br>
 ff. 18v: Image of Christ in majesty<br>
 ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
@@ -55,13 +55,13 @@ ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with t
 ff. 23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
 f. 27r-v: Short version of the complete ‘De laude psalmorum’<br>
 ff. 27v-28v: Dicti Sancti Augustini<br>
-ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English glossed in Middle English)<br>
+ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in Middle English)<br>
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-545 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-572 needs to be checked against the images-->
 
 <b>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</b>
 INSERT TEXT HERE<br>
@@ -546,8 +546,33 @@ geornfulnysse · Se man hæfð wisdom · þe wislice<br>
 <param ve-image seq="69"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
+[29r] drihtnes willan · mid godu<i>m</i> weorcu<i>m</i> symle · Ane se hafð<br> 
+godne ræd þehi<i>m</i> geredaþ æfre hwæt him to dorme sy ·<br>
+7 hwæt to forlætenne · And se hæfð modes stregðe<br>
+þe micel mæg forberan · 7 on eallu<i>m</i> earfoð nyssu<i>m </i> ·<br>
+æfre bið geþyldig · 7 eft on godu<i>m</i> gelimpu<i>m</i> ne forlæt hir<br>
+anrædnysse · And se hæfð god ingehyd þe godnysse<br>
+lufað 7 biþ betera wið innan þon<i>ne</i> he wiðutan bið gesewen ·<br>
+can him gescead betwux foþ 7 leas · Se hæfð arfæstnysse<br>
+þear fæst bið him sylf 7 mæþe can on mannu<i>m</i> on his<br>
+modes godnysse · geon his gelicu<i>m</i> · geon læssu<i>m</i> mannu<i>m</i> ·<br>
+7 nele forseon ne gescyndan oþerne · Godes ege is seo<br><!--CHECK WORD DIVISION-->
+seofoðe þissera gastlicra gyfa · 7 seo gyfu is angin<br>
+ealles wisdomes · 7 se þe godes ege hæfð · ne forlæt he<br>
+nan þing · Se man þe bið bedæled eallu<i>m</i> þysu<i>m</i> gyfu<i>m</i> ·<br>
+nis he na godes man · ne to gode ne belimpð but on hegyt<br>
+ge eastinge godes gyfe æt hi<i>m</i> · Nu hæfð se yfela gife ·<br>
+7 se ungesewenlica feond seofanfealde ungifa<br>
+wiþer ræde þisu<i>m</i> gifu<i>m</i> · þaht dælð his mannum<br>
+þe him gehyrsumiað · 7 godes gyfa ne gymeð ·<br>
+ne godes ege nabbað · þa yfelan ungyfa þæfar<br>
+leafarid-------fyndon þus gehatene on leden<br><!--BECOMES HARD TO READ HERE-->
+spræce In sapientia · þ<i>æt</i> is dysig · oððe dwæsnys · Stidtitia<br>
+þ<i>æt</i> is sumt ny· In p<i>ro</i>uidentia · þ<i>æt</i> is rectleafnys ·<br>
+butriifo re scrawunge; Ignauia · þ<i>æt</i> is abraðennys<br>
 
 
+ 
 
 ## Notes and analogues
 
