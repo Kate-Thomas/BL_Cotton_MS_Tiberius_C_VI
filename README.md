@@ -20,6 +20,10 @@
     color: blue;
     font-size: 1.5em;
   }
+  h4 {
+    color: blue;
+    font-weight: bold;
+  }
 em {
   color: red;
 }	
@@ -27,7 +31,7 @@ em {
 
 ## About the manuscript<!--Cut this section right down to the most important stuff-->
 
-London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.[^1][^2]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include guides to prayer and confession (ff. 21v-27v), line drawings (ff. 7v-16r, 18v, 30v), texts on computus (ff. 2r-7r), psalter prefaces (ff. 19r-20v, 27v-28v), and a short guide to Biblical musical instruments (ff. 16v-18r).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
+London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.[^1][^2]   The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include texts on computus (ff. 2r-7r), line drawings (ff. 7v-16r, 18v, 30v), a short guide to Biblical musical instruments (ff. 16v-18r), psalter prefaces (ff. 19r-20v, 27v-28v), and guides to prayer and confession (ff. 21v-27v).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
@@ -35,15 +39,10 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<!--Will probably need to change this-->As a number of interesting texts and images can be found on the thirty unedited folios, I have needed to be selective.  I have therefore focused solely on this last-mentioned sequence of texts on ff. 21v-27v, and the prayers on f. 30, the written texts specifically intended for use in prayer and confession with the words of the psalms, as opposed to homilies and texts which more generally teach about what the psalter is.  The edited folios are summarised in greater detail here.  It is to be noted that, although most texts in this manuscript fall fairly neatly into separate texts, those which I have numbered 3 and 4 were clearly intended to be used as a single confessional ordo.  I have separated them out for the purposes of this edition in order to demonstrate how text 3 appears elsewhere in Anglo-Saxon confessional collections, but followed by another Latin confession to be used in place of text 4. Abbreviations have been expanded, and spacing has been normalised.
-<param ve-image seq="55"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-
-
 ## Contents of the manuscript
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
-The items shown in <b>bold</b> are those which are covered in the present edition.<br>
+This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
 <b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)</b><br>
@@ -52,7 +51,7 @@ ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!--
 f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 <b>ff. 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
 ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
-ff. 23r-27r: Section I of the ‘Old English Handbook’ (solitary confessional ordo)<br>
+ff. 23r-27r: Section I of the <i>Old English Handbook</i> (solitary confessional ordo)<br>
 f. 27r-v: Short version of the complete ‘De laude psalmorum’<br>
 ff. 27v-28v: Dicti Sancti Augustini<br>
 ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in Middle English)<br>
@@ -61,9 +60,9 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-572 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-598 needs to be checked against the images-->
 
-<b>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</b>
+<h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
 INSERT TEXT HERE<br>
 <param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
@@ -570,6 +569,63 @@ leafarid-------fyndon þus gehatene on leden<br><!--BECOMES HARD TO READ HERE-->
 spræce In sapientia · þ<i>æt</i> is dysig · oððe dwæsnys · Stidtitia<br>
 þ<i>æt</i> is sumt ny· In p<i>ro</i>uidentia · þ<i>æt</i> is rectleafnys ·<br>
 butriifo re scrawunge; Ignauia · þ<i>æt</i> is abraðennys<br>
+<param ve-image seq="70"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[29v] þ<i>æt</i> is arleasnys · temeritas · þis dyfelic dyrstignys · alc<br>
+wisdom is of gode · for ðam þe god sylf is wisdom 7 ælc<br><!--CHECK "IS"-->
+man bið eadig þe hæfð þone wisdom · gif helm gen<br><!--NOT SURE, CHECK-->
+lif gelodgað mid wisdome · Se wisdom is halig þæt hal<br>
+gan gastes gyfu· 7 se deoful forgyfð þær togeanes dysyg<br>
+þ<i>æt</i> he wisdomes ne gyme ne wislie ne libbe; 7gyt þæt<br>
+forcuðrtis þ<i>æt</i> he telle hime wisne · 7 bið swa gehiwod ·<br><!--DEFINITELY CHECK THIS LINE-->
+swilce he wissie · Ongean þa<i>m</i> 7gyte fed tofol forgifð<br><!--CHECK-->
+stuntnysse · 7 eac þ<i>æt</i> he hwige swylce he 7gyt ful sy ·<br>
+Ongean þa<i>m</i> wislican ræde · se wiþer ræda deofol seld<br>
+receleasnysse his underþeoddu<i>m</i> · 7 eac þ<i>æt</i> he hiwige swilce<br>
+he rædfæst sy· Ongean þæs modes strengþe se man<br>
+fulla deofol forgifð abroðennysse þ<i>æt</i> se man<br>
+abreþe on ælcere neode nahtlice æfre · 7 eac þ<i>æt</i> he<br>
+Inwige hine sylfne mihtigne · Ongean þa<i>m</i> ingehyde<br>
+se hetola deofol sylð nytenysse nahtlicu<i>m</i> mannu<i>m</i><br>
+7 eac þ<i>æt</i> hi hiwion þ<i>æt</i>hi ingehyd habban · Ongean þære<br>
+arfæstnysse · he sylþ arleasnysse · þ<i>æt</i> he ne arige<br>
+------ mæðige his underþeoddu<i>m</i> · ne his gelicu<i>m</i> · <br>
+7 eac þ<i>æt</i> he hiwige swilce he arfæstnysse · Ongean godes ege<br>
+s----------lica deofol sylð dyr--------------------------ddwæs<br>
+l--------------------------------------------------------------------<br>
+s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
+------------------------þearu<i>m</i> ma---------------g· þone<br>
+<param ve-image seq="71"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+
+[30r] oððe þæs gramlican deofles·<br> 
+Suscipere digneris d<i>omi</i>ne d<i>eu</i>s omnipotens·<br> 
+hos uersiculos consecratos quos ego acsin<br> 
+dignus peccator decantare cupio inhonore<br> 
+nominis tui prome misero peccatore <i>et</i>pro<br> 
+omnibus facinoribus meis siue actis dictis<br> 
+cogitationibus iniquitatibus concupiscen<br> 
+tis siue omnibus neglegentiis meis magis<br> 
+ac minimis utuersiculi isti proficiant mihi<br> 
+aduitam ęternam · spatium adiuuando·<br> 
+<i>et</i>adueram penitentiam faciendo · p<i>er</i> d<i>omi</i>n<i>u</i>m<br> 
+Deus inadiutorium meu<i>m</i> intende· trib· uicibus·<br> 
+<p>-----------------------------------------------<br> 
+Presta queso omnipotens <i>et</i>misericorsd<i>eu</i>s<br> 
+ut intelligenter <i>et</i>libenter adque per<br> 
+spicue merear audiri tius enim adiutoriis<br> 
+omni modis indigeo ut ualeam cum concessa<br> 
+gratia ali quatenus uerba tuę maiestatis<br> 
+cantare · per dominum n<i>ost</i>r<i>u</i>m;<br> 
+<param ve-image seq="72"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+<h4>[Miniature of King David and his musicians]</h4>
+<param ve-image seq="73"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
 
 
  
