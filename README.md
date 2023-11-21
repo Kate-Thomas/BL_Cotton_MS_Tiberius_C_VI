@@ -513,11 +513,11 @@ usurpatio scientię · Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s pietatis 
 sp<i>iritu</i>s impietates · alt<i>er</i> peior · false pietatis · obtentus ·<br>
 Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s · timoris dei · Cui contrarius est sp<i>iritu</i>s temeri<br>
 tatis · alter · peior · dolus ficte religiositatis ·, ------<br>
-<sup>            þe p<i>ro</i>phet    wrot</sup><br>
+<sub>            þe p<i>ro</i>phet    wrot</sub><br>
 Isaias se witega awrat on þylce on ænglisc<br>
-<sup>            prophecy  by þe      holigost                               sebyn</sup><br>
+<sub>            prophecy  by þe      holigost                               sebyn</sub><br>
 his witegunge be þan halgan gaste · 7 be his seofan<br>
-<sup>fold        geftys    þo sebyn     fold       gyfte   bet--</sup><br>
+<sub>fold        geftys    þo sebyn     fold       gyfte   bet--</sub><br>
 fealdan gifu · þa seofanfeald angyfa fynd þus<br>
 <sup>y called                              yn latyn</sup><br>
 gehatene · Sapientia · on leden · þ<i>æt</i>is wisdom on englisc<br>
