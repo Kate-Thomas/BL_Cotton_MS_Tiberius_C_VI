@@ -507,15 +507,14 @@ nat<i>ur</i> · Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s sapientię cui ę c
 
 
 
-[Two prayers for chanting the psalter]
 
-[30r] ‘Suscipere digneris, Domine Deus omnipotens, hos uersiculos consecratos, quos ego ac sindignus peccator decantare cupio in honore nominis tui, pro me misero peccatore et pro omnibus facinoribus meis, siue actis, dictis, cogitationibus, iniquitatibus concupiscentis, siue omnibus neglegentiis meis magis ac minimis, ut uersiculi isti proficiant mihi ad uitam ęternam, spatium adiuuando et ad ueram penitentiam faciendo, per dominum.’  ‘Deus in adiutorium meum intende’ trib uicibus.  Ðis gebed baeda sang æt ðam saltere.  ‘Presta queso omnipotens et misericors deus ut intelligenter et libenter adque perspicue merear audiri tius enim adiutoriis omni modis indigeo, ut ualeam cum concessa gratia aliquatenus uerba tuę maiestatis cantare, per dominum nostrum.’
-<param ve-image seq="72"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+
+
 
 ## Notes and analogues
 
-<h3>1. Oratio cuiusdam nominis Dei: a guide to morning prayer</h3>
+<h3><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h3>
 
 This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.
 
@@ -532,7 +531,7 @@ Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surre
 1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton Galba A. xiv).
 
 
-<h3>2. Section 8 and epilogue of De laude psalmorum</h3>
+<h3>Section 8 and epilogue of <i>De laude psalmorum</i></h3>
 
 This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Of these, Tiberius C. vi is the only Anglo-Saxon manuscript,  and this does not contain the whole text, but only the eighth section (item no. 2) and a kind of summary (item no. 5).  De laude psalmorum begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.
 
@@ -543,7 +542,7 @@ De laude psalmorum is of particular note for its encouragement of the reader to 
 2.2: in via qui ambulaveris: this does not appear in the sources edited by Black.
 
 
-<h3>3.  Old English Handbook I</h3>
+<h3><i>Old English Handbook</i> I</h3>
 
 In 1965, Roger Fowler published what he called A Late Old English Handbook for the use of a Confessor.   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton Tiberius A. iii (N). 
 Unknown to Fowler, the text also appears at this point in Tiberius C. vi, with only minor differences from his source texts.  This text, is a Latin <i>ordo confessionis</i> attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
@@ -559,7 +558,7 @@ Unknown to Fowler, the text also appears at this point in Tiberius C. vi, with o
 3.5: coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.  In the other sources, this instruction is followed by the prayer ‘Preueniat hunc famulum tuum’.
 
 
-<h3>4. Confessional ordo with priest</h3>
+<h3>Confessional <i>ordo</i> with priest</h3>
 
 In N, Handbook I is followed immediately by the vernacular confession which Fowler prints as Handbook II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.   The second copy of I in D is followed by other Latin texts of confession and absolution.   Tiberius C. vi departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
 
@@ -574,7 +573,7 @@ In N, Handbook I is followed immediately by the vernacular confession which Fowl
 4.xx<!--May be in the wrong place.  And wouldn't it be more consistent to use "[et]"?-->: two interesting uses of '7', usually found in Old English, for 'et'
 
 
-<h3>5. Short version of De laude psalmorum</h3>
+<h3>Short version of <i>De laude psalmorum</i></h3>
 
 Black refers to this text as a ‘summary of uses 1-8’ of De laude psalmorum.  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.
 
@@ -599,7 +598,7 @@ Black reports that about a third of the manuscripts containing the full text of 
 5.9: Domine quid multiplicati, Uerba mea ... Saluum me fac deus ... Dixit insipiens in corde suo ... Domine quis habitabit ... Conserva me Domine ... Iudica me Domine quoniam ego ... Dominus inluminatio mea ... Miserere mei Deus ... Deus iudicium tuum regi da ... Ad te levaui oculos... Confitebor tibi Domine, Domine probasti me, Eripe me domine, Domine clamaui, Uoce mea: these psalms do not appear in De laude psalmorum; likewise, nineteen of the forty-eight psalms which are prescribed in De laude psalmorum do not appear in Tiberius.
 
 
-<h3>6. Two prayers for chanting the psalter</h3>
+<h3>Two prayers for chanting the psalter</h3>
 
 These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed to the Venerable Bede.
 
