@@ -513,15 +513,15 @@ usurpatio scientię · Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s pietatis 
 sp<i>iritu</i>s impietates · alt<i>er</i> peior · false pietatis · obtentus ·<br>
 Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s · timoris dei · Cui contrarius est sp<i>iritu</i>s temeri<br>
 tatis · alter · peior · dolus ficte religiositatis ·, ------<br>
-<sub>            þe p<i>ro</i>phet    wrot</sub><br>
+<sub>&nbsp;&nbsp;&nbsp;þe p<i>ro</i>phet&nbsp;wrot</sub><br>
 Isaias se witega awrat on þylce on ænglisc<br>
-<sub>            prophecy  by þe      holigost                               sebyn</sub><br>
+<sub>&nbsp;prophecy by þe holigost&nbsp;&nbsp;&nbsp;sebyn</sub><br>
 his witegunge be þan halgan gaste · 7 be his seofan<br>
-<sub>fold        geftys    þo sebyn     fold       gyfte   bet--</sub><br>
+<sub>fold geftys þo sebyn fold gyfte bet--</sub><br>
 fealdan gifu · þa seofanfeald angyfa fynd þus<br>
-<sup>y called                              yn latyn</sup><br>
+<sub>y called&nbsp;yn latyn</sub><br>
 gehatene · Sapientia · on leden · þ<i>æt</i>is wisdom on englisc<br>
-<sup>                     yn latyn         vndstandyng</sup><br>
+<sub>&nbsp;&nbsp;yn latyn&nbsp;vndstandyng</sub><br>
 Intellect<i>us</i> on leden · 7 andgyt on englisc ·Consiliu<i>m</i> · on<br>
 <sup>latyn                  reed</sup><br>
 leden · þ<i>æt</i> is ræd on englisc · Fortitudo · on leden· and<br>
