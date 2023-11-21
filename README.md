@@ -24,15 +24,12 @@
     color: blue;
     font-weight: bold;
   }
-  h5 {
-  color: red;
-  }
 em {
   color: red;
 }
 th, td {
   padding-top: 10px;
-  padding-right: 10px;
+  padding-right: 20px;
 }
 </style>
 
@@ -86,6 +83,25 @@ corde eius contrarię<br>
 sunt abimo · in altum<br>
 </td>
 </tr>
+<tr>
+<td>
+Hoc est tympanum<br>
+hoc est forma tympanitym<br>
+panum pellis pillacis est<br>
+in flaxa abens calamos<br>
+is in labiis <i>et</i> unum<br>
+in collo<br>
+</td>
+<td>
+Hoc est forma cy-<br>
+thare quis prius<br>
+fuit cytharista · id est ·<br>
+toba filius stellę <i>etiem</i> res<br><!--CHECK-->
+<i>et</i> psalterium ab eis<br>
+ortum distar ut<br>
+in modulo<br>
+</td>
+</tr>
 </table>
 <param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
@@ -107,7 +123,7 @@ INSERT TEXT HERE<br>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</h4>
-[21v] <h5>ORATIO CUIUSDAM NOMINIS DEI ·</h5><br>
+[21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
 ones quesierit que<i>m</i> ad modu<i>m</i> agi debeat qualiter<br>
