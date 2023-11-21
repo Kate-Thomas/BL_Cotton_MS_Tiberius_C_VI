@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
-       title="An edition of prayers from British Library, Cotton MS Tiberius C VI"
+       title="An edition of short texts from British Library, Cotton MS Tiberius C VI"
        author="Kate Thomas"
        banner="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x00001e/1923,1569,2771,1833/800,/0/default.jpg"
        layout="vertical">
@@ -83,7 +83,7 @@ INSERT TEXT HERE<br>
 <param ve-image seq="49"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<h4>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</h4><br>
+<h4>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</h4>
 [21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
@@ -140,7 +140,7 @@ cora<i>m</i> te <i>et</i> cora<i>m</i> ang<i>e</i>lis tuis [H]eu mihi quia</b><b
 <param ve-image seq="56"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[22v] <b>non sum<!--check this--> reuerit<i>us</i> facie tua · Templu<i>m</i> corporis mei de<br>
+[22v] <b>non sum reuerit<i>us</i> facie tua · Templu<i>m</i> corporis mei de<br><!--check this-->
 opere iniquitatis coinquinaui · Anima<i>m</i> mea<i>m</i><br>
 in carne posita<i>m</i> male pollui · Quid ergo dictu<br>
 rus su<i>m</i> miser cu<i>m</i> ante tremendi diuine maie<br>
@@ -191,7 +191,7 @@ tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris �
 <param ve-image seq="58"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<b>[Section I of the Old English Handbook]</b><br>
+<h4>[Section I of the Old English Handbook]</h4>
 INCIPIT ORDO CON<br>
 FESSIONIS SACERDOTV<i>M</i> ET OMNIU<i>M</i> CLERI<br>
 CORV<i>M</i> SECVNDV<i>M</i> HIERONIMV<i>M</i> TRACTA<br>
@@ -407,7 +407,7 @@ PENITENTIA MISERICORDITER ME VIAM<br>
 
 [27r] ET MEMORIT<i>ER</i> OBSERVET <i>ET</i> IMPLEAT EA<i>M</i> ET ITERU<i>M</i><br>
 DICAT EI SACERDOS · <b>D<i>omi</i>n<i>u</i>s custodite ab omni malo</b><br>
-usque in finem . Et recedat humiliter ab eo ind omum sua<i>m</i>;<br>
+usque in finem . Et recedat humiliter ab eo in domum sua<i>m</i>;<br>
 <param ve-image seq="66"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -515,19 +515,19 @@ tatis · alter · peior · dolus ficte religiositatis ·, ------<br>
 <sub>&nbsp;&nbsp;&nbsp;þe p<i>ro</i>phet&nbsp;&nbsp;wrot</sub><br>
 Isaias se witega awrat on þylce on ænglisc<br>
 <sub>&nbsp;&nbsp;prophecy by þe holigost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sebyn</sub><br>
-his witegunge be þan halgan gaste · 7 be his seofan<br>
+his witegunge be þan halgan gaste · <i>and</i> be his seofan<br>
 <sub>fold&nbsp;&nbsp;geftys&nbsp;þo sebyn fold gyfte bet--</sub><br>
 fealdan gifu · þa seofanfeald angyfa fynd þus<br>
 <sub>y called&nbsp;yn latyn</sub><br>
 gehatene · Sapientia · on leden · þ<i>æt</i>is wisdom on englisc<br>
 <sub>&nbsp;&nbsp;yn latyn&nbsp;vndstandyng</sub><br>
-Intellect<i>us</i> on leden · 7 andgyt on englisc · Consiliu<i>m</i> · on<br>
+Intellect<i>us</i> on leden · <i>and</i> andgyt on englisc · Consiliu<i>m</i> · on<br>
 <sub>latyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reed</sub><br>
 leden · þ<i>æt</i> is ræd on englisc · Fortitudo · on leden· and<br>
 <sub>gostly     strength                                                            and god</sub><br>
-modes strengð on englisc · Scientia· on leden· 7 god in<br>
+modes strengð on englisc · Scientia· on leden· <i>and</i> god in<br>
 <sub>-----                                                                 -------</sub><br>
-gehyd on englisc · Pietas · on leden · 7 arfæstnys on<br>
+gehyd on englisc · Pietas · on leden · <i>and</i> arfæstnys on<br>
 <sub>                                                                 goddys fer</sub><br>
 englisc · Timor d<i>omi</i>ni on leden · godes ege on englisc ·<br>
 <sub>         sebyn     fold       gyftys                 divelled</sub><br> 
@@ -535,11 +535,11 @@ englisc · Timor d<i>omi</i>ni on leden · godes ege on englisc ·<br>
 <sub>ovr         sabyor                           abownddantly     after</sub><br>
 uru<i>m</i> hælende criste · eall be fullu<i>m</i> þingu<i>m</i> æfter<br>
 <sub>þe           man       god        ful          myghtyly    þe holy</sub><br>
-þære menniscnysse swiðe mihtlice · 7 se halega ·<br>
+þære menniscnysse swiðe mihtlice · <i>and</i> se halega ·<br>
 <sub>gost    hem dep<i>er</i>tes day   ly             yet     gode     holy             ---------</sub><br>
 gast  hi todælþ dæghwa<i>m</i>lice git godes halgu<i>m</i> mannu<i>m</i><br>
 <sub>as it fled hym                     on---y by his pol----           and  his gostly</sub><br>
-be þa<i>m</i>þehi<i>m</i> gewyrð · ælcu<i>m</i> be his mæðe · 7 his modes<br>
+be þa<i>m</i>þehi<i>m</i> gewyrð · ælcu<i>m</i> be his mæðe · <i>and</i> his modes<br>
 <sub>defere                      þ<i>æt</i>      man</sub><br>
 geornfulnysse · Se man hæfð wisdom · þe wislice<br>
 <param ve-image seq="69"
@@ -547,23 +547,23 @@ geornfulnysse · Se man hæfð wisdom · þe wislice<br>
 
 [29r] drihtnes willan · mid godu<i>m</i> weorcu<i>m</i> symle · Ane se hafð<br> 
 godne ræd þehi<i>m</i> geredaþ æfre hwæt him to dorme sy ·<br>
-7 hwæt to forlætenne · And se hæfð modes stregðe<br>
-þe micel mæg forberan · 7 on eallu<i>m</i> earfoð nyssu<i>m </i> ·<br>
-æfre bið geþyldig · 7 eft on godu<i>m</i> gelimpu<i>m</i> ne forlæt hir<br>
+<i>and</i> hwæt to forlætenne · And se hæfð modes stregðe<br>
+þe micel mæg forberan · <i>and</i> on eallu<i>m</i> earfoð nyssu<i>m</i> ·<br>
+æfre bið geþyldig · <i>and</i> eft on godu<i>m</i> gelimpu<i>m</i> ne forlæt hir<br>
 anrædnysse · And se hæfð god ingehyd þe godnysse<br>
-lufað 7 biþ betera wið innan þon<i>ne</i> he wiðutan bið gesewen ·<br>
-can him gescead betwux foþ 7 leas · Se hæfð arfæstnysse<br>
-þear fæst bið him sylf 7 mæþe can on mannu<i>m</i> on his<br>
+lufað <i>and</i> biþ betera wið innan þon<i>ne</i> he wiðutan bið gesewen ·<br>
+can him gescead betwux foþ <i>and</i> leas · Se hæfð arfæstnysse<br>
+þe arfæst bið him sylf <i>and</i> mæþe can on mannu<i>m</i> on his<br>
 modes godnysse · geon his gelicu<i>m</i> · geon læssu<i>m</i> mannu<i>m</i> ·<br>
-7 nele forseon ne gescyndan oþerne · Godes ege is seo<br><!--CHECK WORD DIVISION-->
-seofoðe þissera gastlicra gyfa · 7 seo gyfu is angin<br>
-ealles wisdomes · 7 se þe godes ege hæfð · ne forlæt he<br>
+<i>and</i> nele forseon ne gescyndan oþerne · Godes ege is seo<br><!--CHECK WORD DIVISION-->
+seofoðe þissera gastlicra gyfa · <i>and</i> seo gyfu is angin<br>
+ealles wisdomes · <i>and</i> se þe godes ege hæfð · ne forlæt he<br>
 nan þing · Se man þe bið bedæled eallu<i>m</i> þysu<i>m</i> gyfu<i>m</i> ·<br>
 nis he na godes man · ne to gode ne belimpð but on hegyt<br>
 ge eastinge godes gyfe æt hi<i>m</i> · Nu hæfð se yfela gife ·<br>
-7 se ungesewenlica feond seofanfealde ungifa<br>
+<i>and</i> se ungesewenlica feond seofanfealde ungifa<br>
 wiþer ræde þisu<i>m</i> gifu<i>m</i> · þaht dælð his mannum<br>
-þe him gehyrsumiað · 7 godes gyfa ne gymeð ·<br>
+þe him gehyrsumiað · <i>and</i> godes gyfa ne gymeð ·<br>
 ne godes ege nabbað · þa yfelan ungyfa þæfar<br>
 leafarid-------fyndon þus gehatene on leden<br><!--BECOMES HARD TO READ HERE-->
 spræce In sapientia · þ<i>æt</i> is dysig · oððe dwæsnys · Stidtitia<br>
@@ -573,25 +573,25 @@ butriifo re scrawunge; Ignauia · þ<i>æt</i> is abraðennys<br>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [29v] þ<i>æt</i> is arleasnys · temeritas · þis dyfelic dyrstignys · alc<br>
-wisdom is of gode · for ðam þe god sylf is wisdom 7 ælc<br><!--CHECK "IS"-->
+wisdom is of gode · for ðam þe god sylf is wisdom <i>and</i> ælc<br><!--CHECK "IS"-->
 man bið eadig þe hæfð þone wisdom · gif helm gen<br><!--NOT SURE, CHECK-->
 lif gelodgað mid wisdome · Se wisdom is halig þæt hal<br>
-gan gastes gyfu· 7 se deoful forgyfð þær togeanes dysyg<br>
-þ<i>æt</i> he wisdomes ne gyme ne wislie ne libbe; 7gyt þæt<br>
-forcuðrtis þ<i>æt</i> he telle hime wisne · 7 bið swa gehiwod ·<br><!--DEFINITELY CHECK THIS LINE-->
-swilce he wissie · Ongean þa<i>m</i> 7gyte fed tofol forgifð<br><!--CHECK-->
-stuntnysse · 7 eac þ<i>æt</i> he hwige swylce he 7gyt ful sy ·<br>
+gan gastes gyfu· <i>and</i> se deoful forgyfð þær togeanes dysyg<br>
+þ<i>æt</i> he wisdomes ne gyme ne wislie ne libbe; <i>and</i>gyt þæt<br>
+forcuðrtis þ<i>æt</i> he telle hime wisne · <i>and</i> bið swa gehiwod ·<br><!--DEFINITELY CHECK THIS LINE-->
+swilce he wissie · Ongean þa<i>m</i> <i>and</i>gyte fed tofol forgifð<br><!--CHECK-->
+stuntnysse · <i>and</i> eac þ<i>æt</i> he hwige swylce he <i>and</i>gyt ful sy ·<br>
 Ongean þa<i>m</i> wislican ræde · se wiþer ræda deofol seld<br>
-receleasnysse his underþeoddu<i>m</i> · 7 eac þ<i>æt</i> he hiwige swilce<br>
+receleasnysse his underþeoddu<i>m</i> · <i>and</i> eac þ<i>æt</i> he hiwige swilce<br>
 he rædfæst sy· Ongean þæs modes strengþe se man<br>
 fulla deofol forgifð abroðennysse þ<i>æt</i> se man<br>
-abreþe on ælcere neode nahtlice æfre · 7 eac þ<i>æt</i> he<br>
+abreþe on ælcere neode nahtlice æfre · <i>and</i> eac þ<i>æt</i> he<br>
 Inwige hine sylfne mihtigne · Ongean þa<i>m</i> ingehyde<br>
 se hetola deofol sylð nytenysse nahtlicu<i>m</i> mannu<i>m</i><br>
-7 eac þ<i>æt</i> hi hiwion þ<i>æt</i> hi ingehyd habban · Ongean þære<br>
+<i>and</i> eac þ<i>æt</i> hi hiwion þ<i>æt</i> hi ingehyd habban · Ongean þære<br>
 arfæstnysse · he sylþ arleasnysse · þ<i>æt</i> he ne arige<br>
 ------ mæðige his underþeoddu<i>m</i> · ne his gelicu<i>m</i> · <br>
-7 eac þ<i>æt</i> he hiwige swilce he arfæstnysse · Ongean godes ege<br>
+<i>and</i> eac þ<i>æt</i> he hiwige swilce he arfæstnysse · Ongean godes ege<br>
 s----------lica deofol sylð dyr--------------------------ddwæs<br>
 l--------------------------------------------------------------------<br>
 s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
