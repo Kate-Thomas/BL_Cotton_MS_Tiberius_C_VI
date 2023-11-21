@@ -23,10 +23,11 @@
   h4 {
     color: blue;
     font-weight: bold;
+    padding-bottom: 0px;
   }
 th, td {
   padding-top: 10px;
-  padding-right: 20px;
+  padding-right: 40px;
   float: left;
 }
 </style>
