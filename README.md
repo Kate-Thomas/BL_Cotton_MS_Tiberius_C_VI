@@ -96,7 +96,7 @@ in collo<br>
 Hoc est forma cy-<br>
 thare quis prius<br>
 fuit cytharista · id est ·<br>
-toba filius stellę <i>etiem</i> res<br><!--CHECK-->
+toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
 ortum distar ut<br>
 in modulo<br>
@@ -123,7 +123,7 @@ INSERT TEXT HERE<br>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</h4>
-[21v] <em>ORATIO CUIUSDAM NOMINIS DEI ·</em><br>
+[21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
 ones quesierit que<i>m</i> ad modu<i>m</i> agi debeat qualiter<br>
