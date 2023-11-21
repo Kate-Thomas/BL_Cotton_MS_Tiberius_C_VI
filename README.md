@@ -61,7 +61,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
 
-## Edition <!--checked against images up to end of line 76; 76-504 needs to be checked against the images-->
+## Edition <!--checked against images up to end of line 76; 76-545 needs to be checked against the images-->
 
 <b>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</b>
 INSERT TEXT HERE<br>
@@ -505,9 +505,46 @@ nat<i>ur</i> · Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s sapientię cui ę c
 <param ve-image seq="68"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-
-
-
+[28v] opponit<i>ur</i> · Sp<i>iritu</i>s insipientię· alt<i>er</i> peior · simulatio sapientię·<br>
+Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s intellectus · Malus aute<i>m</i> sp<i>iritu</i>s stultitiae;<br>
+alt<i>er</i> prior simulatio displine · Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s scientię<br><!--CHECK SPELLING OF DISPLINE!!-->
+Cui contrarius malus sp<i>iritu</i>s ignorantię · nequioraute<i>m</i><br>
+usurpatio scientię · Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s pietatis · Malus uero<br>
+sp<i>iritu</i>s impietates · alt<i>er</i> peior · false pietatis · obtentus ·<br>
+Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s · timoris dei · Cui contrarius est sp<i>iritu</i>s temeri<br>
+tatis · alter · peior · dolus ficte religiositatis ·, ------<br>
+            þ<sup>e</sup> p<i>ro</i>phet    wrot<br>
+Isaias se witega awrat on þylce on ænglisc<br>
+            prophecy  by þ<sup>e</sup>      holigost                               sebyn<br>
+his witegunge be þan halgan gaste · 7 be his seofan<br>
+fold        geftys    þ<sup>o</sup> sebyn     fold       gyfte   bet--<br>
+fealdan gifu · þa seofanfeald angyfa fynd þus<br>
+y called                              yn latyn<br>
+gehatene · Sapientia · on leden · þ<i>æt</i>is wisdom on englisc<br>
+                     yn latyn         vndstandyng<br>
+Intellect<i>us</i> on leden · 7 andgyt on englisc ·Consiliu<i>m</i> · on<br>
+latyn                  reed<br>
+leden · þ<i>æt</i> is ræd on englisc · Fortitudo · on leden· and<br>
+gostly     strength                                                            and god<br>
+modes strengð on englisc · Scientia· on leden· 7 god in<br>
+-----                                                                 -------<br>
+gehyd on englisc · Pietas · on leden · 7 arfæstnys on<br>
+                                                                 goddys fer<br>
+englisc · Timor d<i>omi</i>ni on leden · godes ege on englisc ·<br>
+         sebyn     fold       gyftys                 divelled<br> 
+Þas seofan fealdan gyfa soðlice wunedon on<br>
+ovr         sabyo<sup>r</sup>                           abownddantly     after<br>
+uru<i>m</i> hælende criste · eall be fullu<i>m</i> þingu<i>m</i> æfter<br>
+þe           man       god        ful          myghtyly    þ<sup>e</sup> holy<br>
+þære menniscnysse swiðe mihtlice · 7 se halega ·<br>
+gost    hem dep<i>er</i>tes day   ly             yet     gode     holy             ---------<br>
+gast  hi todælþ dæghwa<i>m</i>lice git godes halgu<i>m</i> mannu<i>m</i><br>
+as it fled hym                     on---y by his pol----           and  his gostly<br>
+be þa<i>m</i>þehi<i>m</i> gewyrð · ælcu<i>m</i> be his mæðe · 7 his modes<br>
+defere                      þ<i>æt</i>      man<br>
+geornfulnysse · Se man hæfð wisdom · þe wislice<br>
+<param ve-image seq="69"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 
 
