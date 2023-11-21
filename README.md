@@ -27,6 +27,7 @@
 th, td {
   padding-top: 10px;
   padding-right: 20px;
+  float: left;
 }
 </style>
 
@@ -44,6 +45,7 @@ London, British Library Cotton Tiberius C VI, or the Tiberius Psalter, is a glos
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
+<br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
 <b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)</b><br>
@@ -666,14 +668,13 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 
 <h2>Notes and analogues</h2>
 
-<h3><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h3>
-
-This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.
-
-1.1: qui pecularius orare uoluerit et furtiua orationes quesierit: this clearly marks out the text as being for individual use.
-
-1.2: Sancta trinitas esto mihi cooperatrix: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the Libellus Parisinus, Libellus Trecensis, Paris 2731A, the Book of Cerne and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in the Galba Prayerbook and the Portiforium of St Wulstan. 
-
+<h3><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h3><br>
+This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.<br>
+<br>
+<i>qui pecularius orare uoluerit et furtiua orationes quesierit</i>: this clearly marks out the text as being for individual use.<br>
+<br>
+<i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the Libellus Parisinus, Libellus Trecensis, Paris 2731A, the Book of Cerne and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in the Galba Prayerbook and the Portiforium of St Wulstan.<br>
+<br>
 1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the Regularis concordia:
 
 Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surrexerit frater, primum sibi signum sanctę crucis inprimat per sanctę trinitatis inuocationem.  Deinde dicat uersum “Domine, labia mea aperies”, dehinc  psalmum “Deus, in adiutorium meum intende”, totum cum “Gloria”.  Tunc prouideat sibi corpoream naturę necessitatem, si ipsa hora indiguerit, et sic ad oratorium festinando psallat psalmum “Ad te, Domine, leuaui animam meam”. 
