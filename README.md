@@ -26,7 +26,7 @@
   }
 th, td {
   padding-top: 10px;
-  padding-right: 40px;
+  padding-right: 20px;
   float: left;
 }
 </style>
@@ -48,9 +48,9 @@ This edition covers the items shown below in <b>bold</b>.  Abbreviations have be
 <br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
-<b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
+<b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)</b><br>
 ff. 18v: Image of Christ in majesty<br>
-ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+<b>ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 ff. 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
 ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
@@ -74,7 +74,8 @@ lendo dicitur ad similitu<br>
 dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
-thare</td>
+thare<br>
+</td>
 <td>Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
