@@ -105,23 +105,108 @@ in modulo<br>
 <param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-INSERT TEXT HERE<br>
+<table>
+<tr>
+<td>[17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
+eterammto facitur · quid personat<br><!--CHECK THIS-->
+per linguam ferream in medio<br>
+suo quid concitatur et concutitur<br>
+manu tenentis<br>
+et suscitat<br>
+adorationem hec<br>
+est forma<br>
+</td>
+<td>
+Sabuca in musicis genus informe in<br>
+libro damelis dr ·  Nescio quando<br>
+dr. cinares ut quidam putant<br>
+acitabulum qui percusa inmodu-<br>
+los concitatur quidam putant<br>
+fistula est uel calamus scapuli · uelera<br>
+menti · uel decortice ·<br>
+</td>
+</tr>
+<tr>
+<td>
+Haec manus musica canticum est<br>
+duo calami sunt de auri calco more sonantur omnem –<br>
+canticum quod more cantatur musicum eft · hęc for<br>
+ma tubae tertie fistule in capite angusto · iiii· ucae<br>
+deductae<br>
+</td>       
+</tr>
+<tr>
+<td>
+Pennola pennoil<br>
+Nun cupatur<br>
+hęc forma ·<br>
+</td>
+<td>
+Corus est pellis<br>
+simplex cum dua<br>
+bus cicutis<br>
+</td>
+</tr>
+</table>
 <param ve-image seq="46"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-INSERT TEXT HERE<br>
+[17v] Hic est dauid filius iesse tenens psalterium in ma<br>
+nibus suis;<br>
+Hęc est forma psalterii ·<br>
 <param ve-image seq="47"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-INSERT TEXT HERE<br>
+<table>
+<tr>
+[18r] Duo bunibula semper aequalia<br>
+</tr>
+<tr>
+<td>
+Hęc est forma fistulę hoc<br>
+bunibulum cum fistulo aereo<br>
+hoc xv bunibula aerea<br>
+cum fistulis in medio positis<br>
+sed tria tamen bunibula<br>
+muno quo que latera<br>
+</td>
+<td>
+Hęc est forma eius dem<br>
+chori quattuor –<br>
+chordas habeth<br>
+de ligno modulatus<br>
+chorus est ·<br>
+</td>
+</tr>
+</table>
 <param ve-image seq="48"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-INSERT TEXT HERE<br>
+<h4>Image of Christ in majesty</h4><br>
 <param ve-image seq="49"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<h4>[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer]</h4>
+[19r]
+<param ve-image seq="50"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[19v]
+<param ve-image seq="51"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[20r]
+<param ve-image seq="52"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[20v]
+<param ve-image seq="53"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+[21r]
+<param ve-image seq="54"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+<h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4>
 [21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
