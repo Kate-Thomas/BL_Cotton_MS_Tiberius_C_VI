@@ -48,11 +48,11 @@ This edition covers the items shown below in <b>bold</b>.  Abbreviations have be
 <br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
-<b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)</b><br>
+<b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)<br>
 ff. 18v: Image of Christ in majesty<br>
 ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-<b>ff. 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
+ff. 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
 ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
 ff. 23r-27r: Section I of the <i>Old English Handbook</i> (solitary confessional ordo)<br>
 f. 27r-v: Short version of the complete ‘De laude psalmorum’<br>
@@ -133,7 +133,9 @@ duo calami sunt de auri calco more sonantur omnem –<br>
 canticum quod more cantatur musicum eft · hęc for<br>
 ma tubae tertie fistule in capite angusto · iiii· ucae<br>
 deductae<br>
-</td>       
+</td>
+<td>
+</td>
 </tr>
 <tr>
 <td>
