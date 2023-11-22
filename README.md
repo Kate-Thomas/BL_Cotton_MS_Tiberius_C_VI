@@ -28,6 +28,7 @@ th, td {
   padding-top: 10px;
   padding-right: 20px;
   float: left;
+  font-size: 0.8em;
 }
 </style>
 
@@ -121,7 +122,7 @@ est forma<br>
 Sabuca in musicis genus informe in<br>
 libro damelis dr ·  Nescio quando<br>
 dr. cinares ut quidam putant<br>
-acitabulum qui percusa inmodu-<br>
+acitabulum qui percusa in modu-<br>
 los concitatur quidam putant<br>
 fistula est uel calamus scapuli · uelera<br>
 menti · uel decortice ·<br>
