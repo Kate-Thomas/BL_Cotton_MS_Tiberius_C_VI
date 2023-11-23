@@ -110,22 +110,22 @@ in modulo<br>
 <table>
 <tr>
 <td>[17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
-eterammto facitur · quid personat<br><!--CHECK THIS-->
-per linguam ferream in medio<br>
-suo quid concitatur et concutitur<br>
+<i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br><!--CHECK THIS-->
+p<i>er</i> lingua<i>m</i> ferrea<i>m</i> in medio<br>
+suo q<i>ui</i>d concitat<i>ur et</i> c<i>on</i>cutitur<br>
 manu tenentis<br>
-et suscitat<br>
-adorationem hec<br>
+<i>et</i> suscitat<br>
+adoratione<i>m</i> hec<br>
 est forma<br>
 </td>
 <td>
-Sabuca in musicis genus informe in<br>
+Sabuca i<i>n</i> musicis genus informe in<br>
 libro damelis dr ·  Nescio quando<br>
 dr. cinares ut quidam putant<br>
-acitabulum qui percusa in modu-<br>
+acitabulum q<i>ui</i> percusa in modu-<br>
 los concitatur quidam putant<br>
-fistula est uel calamus scapuli · uelera<br>
-menti · uel decortice ·<br>
+fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
+menti · <i>ue</i>l decortice ·<br>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ sed tria tamen bunibula<br>
 muno quo que latera<br>
 </td>
 <td>
-Hęc est forma eius dem<br>
+Hęc est forma eiusde<i>m</i><br>
 chori quattuor –<br>
 chordas habeth<br>
 de ligno modulatus<br>
@@ -194,77 +194,77 @@ chorus est ·<br>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json"><br>
 
 [19r] Origo prophetie de re<br>
-gis psalmorum nvme<br><!--IS THIS CAPITALISED?-->
+gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
 Da<br>
 vid<br>
 filivs<br>
 iesse cum esset in -----<br>
 quattuor elegti qui psalmos facerent<br>
-Id est asaph · ęman · aethan · et iditbun<br><!--??-->
+Id est asaph · ęman · a<i>et</i>han · <i>et</i> iditbun<br><!--??-->
 Octoginta octo ergo dicebant psal-<br>
-mos · etcc · sub psalma et cythara ·<br>
-percutiebat abiuth · Cum david redux<br>
-issed archam inhiervelin post annos<br><!--??-->
-xx · reuocatam abatoris et marisit m<br>
+mos · <i>et</i>cc · sub psalma <i>et</i> cythara ·<br>
+p<i>er</i>cutiebat abiuth · Cu<i>m</i> david redux<br>
+issed archa<i>m</i> inhier<i>ve</i>lin post annos<br><!--??-->
+xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MANSIT, CHECK-->
 domo amma dab · hane inposuit-<br>
 in subiugulali nouo · Et adduxit in-<br>
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filiorum isrt<br>
-l ex milia a [<i>lac.</i>] ros . De tribuautem leui · cclxx octa<br>
-milia in ros exquibus quattuor principes preesset<br>
-cantionibus instituit  Asaph · ęm--n · --ethan ·<br>
-Et idithun ·  Vniunque eorum diuidens · Lx--n uiros<br>
-succlamantes laudem cantionum domino; Et uniusquisquos .<br>
-eorum feriebat cymbalum alius cytharam · alius<br>
-tuba cornea exaltans · In medio autem eorum<br>
-stabat dauid labor iste . desudat quam eos<br>
+[19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filior<i>um</i> isrt<br>
+l ex milia a [<i>lac.</i>] ros . De tribuaute<i>m</i> leui · cclxx octa<br>
+milia in ros exquibus quattuor principes preess<i>et</i><br>
+cantionib<i>us</i> instituit  Asaph · ęm--n · --ethan ·<br>
+Et idithun ·  Vniunq<i>ue</i> eor<i>um</i> diuidens · Lx--n uiros<br>
+succlamantes laude<i>m</i> cantionu<i>m</i> d<i>omi</i>no; Et un<i>ius</i>quisqu<i>os</i> .<br>
+eor<i>um</i> feriebat cymbalum alius cythara<i>m</i> · alius<br>
+tuba cornea exaltans · In medio aute<i>m</i> eoru<i>m</i><br>
+stabat dauid labor iste . desudat qua<i>m</i> eos<br>
 qui exemplaria istius modi habere uolue-<br>
 rint utque diligenter ęmendaui cumcura et<br>
-diligentia transscribantur · Notet sibi uniusquisquos .<br>
-uel --ocentem lineam uel signa radianta idest<br>
-uel abelos ÷ uel asteriscos x et ubicumque ungu-<br>
-lam ÷ uiderit precedentem abea usque ad duo punc<br>
-taus quę impressimur sciat in septuaginta trans<br>
-latoribus plus haberi · Vbi autem stelle x simi<br>
-litudinem perspexerit dehebręis uoluminibus<br>
-additum nouerit; Aeque usque adduo puncta .<br>
-iuxta teodotionis dumtaxat ęditionęm qui sim<br>
-pliitate sermonis alxx inter pretibus nondis<br>
-cordat · Haec scribta et uobis et studio locuique<br>
+diligentia transscribant<i>ur</i> · Not<i>et</i> sibi un<i>ius</i>quisqu<i>os</i> .<br>
+uel --ocente<i>m</i> lineam uel signa radianta idest<br>
+uel abelos ÷ uel asteriscos x et ubicu<i>m</i>q<i>ue</i> ungu-<br><!--WHAT DOES DIVISION SIGN MEAN AGAIN??-->
+lam ÷ uiderit precedente<i>m</i> abea usq<i>ue</i> ad duo punc<br>
+ta<i>us</i> quę impressim<i>ur</i> sciat in septuaginta trans<br>
+latorib<i>us</i> plus haberi · Vbi aute<i>m stelle x simi<br>
+litudine<i>m</i> p<i>er</i>spexerit de hebręis uoluminib<i>us</i><br>
+additu<i>m</i> nouerit; Aeq<i>ue</i> usq<i>ue</i> adduo puncta .<br>
+iuxta teodotionis dumtaxat ęditionę<i>m</i> qui sim<br>
+pliitate sermonis alxx interpretib<i>us</i> non dis<br>
+cordat · Haec scribta <i>et</i> uobis <i>et</i> studio locuiq<i>ue</i><br>
 fecisse inescieris non ambigo multos qui uel<br>
-inuidia uel supercilio · mallent contempnere ·<br>
----lere ---lara quam discere et deturba lente<br>
+inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere ·<br>
+---lere ---lara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
 <param ve-image seq="51"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[20r] magis riuo quam de purissimo fontat portare ·<br>
+[20r] magis riuo qua<i>m</i> de purissimo fontat portare ·<br>
 Incipit ex positio psal-------ans<br>
---rpirvm qve pver sr cantic--n-----<br>
-Psalterium dicitur psallentium multorum<br>
-modolamine uoce quia et ipse dauid te<br>
-nens psalterium non manibus sed cum lxxxiiii ym<br>
+--rpirv<i>m qve pver sr cantic--n-----<br>
+Psalteriu<i>m</i> dicitur psallentiu<i>m</i> multoru<i>m</i><br>
+modolamine uoce quia <i>et</i> ipse dauid te<br>
+nens psalteriu<i>m</i> non manib<i>us</i> sed cu<i>m</i> lxxxiiii ym<br>
 nificabant canens hoc · Dum ergo requirens<br>
-hoc legere psallere uersum litera enim inueniens<br>
-gręcam titulata perquam nunerum cognoscis quodet<br>
-quanti uoce psallebant cum rege ·  Rex incipiebat<br>
-et numerus litterarum tot uoce cordarum Cum<br>
-tympanis uel emeri aut cytharis uel tubarum<br>
-corneum cum christo hoc eft uncto psallebant can-<br>
+hoc legere psallere uersu<i>m</i> litera eni<i>m</i> inueniens<br>
+gręca<i>m</i> titulata p<i>er</i> qua<i>m</i> nuneru<i>m</i> cognoscis quod <i>et</i><br>
+quanti uoce psallebant cu<i>m</i> rege · Rex incipiebat<br>
+<i>et</i> numerus litteraru<i>m</i> tot uoce cordaru<i>m</i> Cum<br>
+tympanis u<i>e</i>l emeri aut cytharis uel tubaru<i>m</i><br>
+corneu<i>m</i> cu<i>m christ<i>o hoc eft uncto psallebant can-<br>
 tantes hoc · Nam nosolum Lxxxviiii · Canta-<br>
-bant cum david uerum et Lxx uirorum uox ulula<br>
+bant cum david ueru<i>m et</i> Lxx uiror<i>um</i> uox ulula<br>
 bant · Cum hymniticum uero · Lxxxiiii prima<br>
 uoce damabant · Ergo conoscis de hos · Lxxxiiii·
-per singulas litteras quod canebant · Isti enim<br>
-incipiebant et populus respondebat quierat<br>
-numerum lxxmilia inrorum · David ciii rex noc-<br>
+p<i>er</i> singulas litteras quod canebant · Isti enim<br>
+incipiebant <i>et</i> populus respondebat quierat<br>
+numeru<i>m</i> lxxmilia inror<i>um</i> · David ciii rex noc-<br>
 turno tempore hymnificabat quod Lxxxiiii<br>
-ullulabant · Interrogabat autem dauid rex<br>
-notarios suos id est · asaph · ęman · ęthan · et<br>
-idithun · sut a textus exceptionis eorum mani-<br>
-sestabat sicut et populus · quintspondentes<br>
+ullulabant · Interrogabat aute<i>m</i> dauid rex<br>
+notarios suos id est · asaph · ęman · ęthan · <i>et</i><br>
+idithun · sut a textus exceptionis eor<i>um</i> mani-<br>
+sestabat sicut <i>et</i> populus · quintspondentes<br>
 <param ve-image seq="52"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -274,7 +274,7 @@ sestabat sicut et populus · quintspondentes<br>
 
 [21r]
 <param ve-image seq="54"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+-        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4><br>
 [21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
