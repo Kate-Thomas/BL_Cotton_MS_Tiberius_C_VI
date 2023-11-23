@@ -155,10 +155,9 @@ bus cicutis<br>
 <param ve-image seq="46"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[17v]
 <table>
 <tr>
-Hic est dauid filius iesse tenens psalterium in ma<br>
+[17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
 Hęc est forma psalterii ·<br>
 </tr>
@@ -191,9 +190,8 @@ chorus est ·<br>
 <param ve-image seq="48"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<h4>Image of Christ in majesty</h4><br>
-<param ve-image seq="49"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+<h4>Image of Christ in majesty</h4><param ve-image seq="49"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json"><br>
 
 [19r] Origo prophetie de re<br>
 gis psalmorum nvme<br><!--IS THIS CAPITALISED?-->
@@ -215,7 +213,7 @@ in subiugulali nouo · Et adduxit in-<br>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filiorum isrt<br>
-l ex milia a [lac.] ros . De tribuautem leui · cclxx octa<br>
+l ex milia a [<i>lac.</i>] ros . De tribuautem leui · cclxx octa<br>
 milia in ros exquibus quattuor principes preesset<br>
 cantionibus instituit  Asaph · ęm--n · --ethan ·<br>
 Et idithun ·  Vniunque eorum diuidens · Lx--n uiros<br>
@@ -248,46 +246,25 @@ Incipit ex positio psal-------ans<br>
 Psalterium dicitur psallentium multorum<br>
 modolamine uoce quia et ipse dauid te<br>
 nens psalterium non manibus sed cum lxxxiiii ym<br>
-
-nificabant canens hoc · Dumergo requirens  
-
-hoc legere psallere uersum litera enim inueniens  
-
-gręcam titulata perquam nunerum cognoscis quodet  
-
-quanti uoce psallebant cum rege ·  Rex incipiebat  
-
-et numerus litterarum tot uoce cordarum Cum  
-
-tympanis uel  emeri aut cytharis uel tubarum  
-
-corneum cum christo hoc eft uncto psallebant can-  
-
-tantes hoc ·  Nam nosolum Lxxxviiii·  Canta-  
-
-bant cum david uerum etLxx uirorum uoxulula  
-
-bant· Cum hymniticum uero· Lxxxiiii prima  
-
-uoce damabant · Ergo conoscis dehos· Lxxxiiii·  
-
-persingulas litteras quod canebant · Istienim  
-
-incipiebant et populus respondebat quierat  
-
-numerum lxxmilia inrorum · David ciii rex noc-  
-
-turno tempore hymnificabat quod Lxxxiiii  
-
-ullulabant· Interrogabat autem dauidrex  
-
-notarios suos idest· asaph· ęman· ęthan· et  
-
-idithun · sut atextus exceptionis eorum mani-  
-
-sestabat sicut etpopulus· quintspondentes  
-
-
+nificabant canens hoc · Dum ergo requirens<br>
+hoc legere psallere uersum litera enim inueniens<br>
+gręcam titulata perquam nunerum cognoscis quodet<br>
+quanti uoce psallebant cum rege ·  Rex incipiebat<br>
+et numerus litterarum tot uoce cordarum Cum<br>
+tympanis uel emeri aut cytharis uel tubarum<br>
+corneum cum christo hoc eft uncto psallebant can-<br>
+tantes hoc · Nam nosolum Lxxxviiii · Canta-<br>
+bant cum david uerum et Lxx uirorum uox ulula<br>
+bant · Cum hymniticum uero · Lxxxiiii prima<br>
+uoce damabant · Ergo conoscis de hos · Lxxxiiii·
+per singulas litteras quod canebant · Isti enim<br>
+incipiebant et populus respondebat quierat<br>
+numerum lxxmilia inrorum · David ciii rex noc-<br>
+turno tempore hymnificabat quod Lxxxiiii<br>
+ullulabant · Interrogabat autem dauid rex<br>
+notarios suos id est · asaph · ęman · ęthan · et<br>
+idithun · sut a textus exceptionis eorum mani-<br>
+sestabat sicut et populus · quintspondentes<br>
 <param ve-image seq="52"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -299,7 +276,7 @@ sestabat sicut etpopulus· quintspondentes
 <param ve-image seq="54"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4>
+<h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4><br>
 [21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
