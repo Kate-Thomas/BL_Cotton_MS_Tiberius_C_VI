@@ -155,9 +155,14 @@ bus cicutis<br>
 <param ve-image seq="46"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[17v] Hic est dauid filius iesse tenens psalterium in ma<br>
+[17v]
+<table>
+<tr>
+Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
 Hęc est forma psalterii ·<br>
+</tr>
+</table>
 <param ve-image seq="47"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
@@ -190,15 +195,99 @@ chorus est ·<br>
 <param ve-image seq="49"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[19r]
+[19r] Origo prophetie de re<br>
+gis psalmorum nvme<br><!--IS THIS CAPITALISED?-->
+ro:- cl<br>
+Da<br>
+vid<br>
+filivs<br>
+iesse cum esset in -----<br>
+quattuor elegti qui psalmos facerent<br>
+Id est asaph · ęman · aethan · et iditbun<br><!--??-->
+Octoginta octo ergo dicebant psal-<br>
+mos · etcc · sub psalma et cythara ·<br>
+percutiebat abiuth · Cum david redux<br>
+issed archam inhiervelin post annos<br><!--??-->
+xx · reuocatam abatoris et marisit m<br>
+domo amma dab · hane inposuit-<br>
+in subiugulali nouo · Et adduxit in-<br>
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[19v]
+[19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filiorum isrt<br>
+l ex milia a [lac.] ros . De tribuautem leui · cclxx octa<br>
+milia in ros exquibus quattuor principes preesset<br>
+cantionibus instituit  Asaph · ęm--n · --ethan ·<br>
+Et idithun ·  Vniunque eorum diuidens · Lx--n uiros<br>
+succlamantes laudem cantionum domino; Et uniusquisquos .<br>
+eorum feriebat cymbalum alius cytharam · alius<br>
+tuba cornea exaltans · In medio autem eorum<br>
+stabat dauid labor iste . desudat quam eos<br>
+qui exemplaria istius modi habere uolue-<br>
+rint utque diligenter ęmendaui cumcura et<br>
+diligentia transscribantur · Notet sibi uniusquisquos .<br>
+uel --ocentem lineam uel signa radianta idest<br>
+uel abelos ÷ uel asteriscos x et ubicumque ungu-<br>
+lam ÷ uiderit precedentem abea usque ad duo punc<br>
+taus quę impressimur sciat in septuaginta trans<br>
+latoribus plus haberi · Vbi autem stelle x simi<br>
+litudinem perspexerit dehebręis uoluminibus<br>
+additum nouerit; Aeque usque adduo puncta .<br>
+iuxta teodotionis dumtaxat ęditionęm qui sim<br>
+pliitate sermonis alxx inter pretibus nondis<br>
+cordat · Haec scribta et uobis et studio locuique<br>
+fecisse inescieris non ambigo multos qui uel<br>
+inuidia uel supercilio · mallent contempnere ·<br>
+---lere ---lara quam discere et deturba lente<br>
 <param ve-image seq="51"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[20r]
+[20r] magis riuo quam de purissimo fontat portare ·<br>
+Incipit ex positio psal-------ans<br>
+--rpirvm qve pver sr cantic--n-----<br>
+Psalterium dicitur psallentium multorum<br>
+modolamine uoce quia et ipse dauid te<br>
+nens psalterium non manibus sed cum lxxxiiii ym<br>
+
+nificabant canens hoc · Dumergo requirens  
+
+hoc legere psallere uersum litera enim inueniens  
+
+gręcam titulata perquam nunerum cognoscis quodet  
+
+quanti uoce psallebant cum rege ·  Rex incipiebat  
+
+et numerus litterarum tot uoce cordarum Cum  
+
+tympanis uel  emeri aut cytharis uel tubarum  
+
+corneum cum christo hoc eft uncto psallebant can-  
+
+tantes hoc ·  Nam nosolum Lxxxviiii·  Canta-  
+
+bant cum david uerum etLxx uirorum uoxulula  
+
+bant· Cum hymniticum uero· Lxxxiiii prima  
+
+uoce damabant · Ergo conoscis dehos· Lxxxiiii·  
+
+persingulas litteras quod canebant · Istienim  
+
+incipiebant et populus respondebat quierat  
+
+numerum lxxmilia inrorum · David ciii rex noc-  
+
+turno tempore hymnificabat quod Lxxxiiii  
+
+ullulabant· Interrogabat autem dauidrex  
+
+notarios suos idest· asaph· ęman· ęthan· et  
+
+idithun · sut atextus exceptionis eorum mani-  
+
+sestabat sicut etpopulus· quintspondentes  
+
+
 <param ve-image seq="52"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
