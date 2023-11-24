@@ -157,9 +157,11 @@ bus cicutis<br>
 
 <table>
 <tr>
+<td>
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
 Hęc est forma psalterii ·<br>
+</td>
 </tr>
 </table>
 <param ve-image seq="47"
@@ -167,7 +169,9 @@ Hęc est forma psalterii ·<br>
 
 <table>
 <tr>
+<td>
 [18r] Duo bunibula semper aequalia<br>
+</td>
 </tr>
 <tr>
 <td>
@@ -190,8 +194,10 @@ chorus est ·<br>
 <param ve-image seq="48"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<h4>Image of Christ in majesty</h4><param ve-image seq="49"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json"><br>
+<h4>Image of Christ in majesty</h4><br>
+[18v]<br>
+<param ve-image seq="49"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [19r] Origo prophetie de re<br>
 gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
@@ -228,7 +234,7 @@ uel --ocente<i>m</i> lineam uel signa radianta idest<br>
 uel abelos ÷ uel asteriscos x et ubicu<i>m</i>q<i>ue</i> ungu-<br><!--WHAT DOES DIVISION SIGN MEAN AGAIN??-->
 lam ÷ uiderit precedente<i>m</i> abea usq<i>ue</i> ad duo punc<br>
 ta<i>us</i> quę impressim<i>ur</i> sciat in septuaginta trans<br>
-latorib<i>us</i> plus haberi · Vbi aute<i>m stelle x simi<br>
+latorib<i>us</i> plus haberi · Vbi aute<i>m</i> stelle x simi<br>
 litudine<i>m</i> p<i>er</i>spexerit de hebręis uoluminib<i>us</i><br>
 additu<i>m</i> nouerit; Aeq<i>ue</i> usq<i>ue</i> adduo puncta .<br>
 iuxta teodotionis dumtaxat ęditionę<i>m</i> qui sim<br>
@@ -268,7 +274,31 @@ sestabat sicut <i>et</i> populus · quintspondentes<br>
 <param ve-image seq="52"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[20v]
+[20v] notaru supra memorati Adnuntiabant regi<br>
+omnia uera esse · Sicut <i>et</i> isti uoce testant<i>ur</i> ita .<br>
+<i>et</i> tu domine rex loquut<i>ur</i> es nocte · Mirabantur aute<i>m</i><br>
+quia sicut ipse dixerat ita <i>et</i> populus hymnifi -<br>
+cabat · Hic ergo cognoscim<i>ur</i> om<i>nis</i> psalmos esse<br>
+dauid quia noct<i>ur</i>no te<i>m</i>pore priusqua<i>m</i> populus</i>
+ille adnuntiauit quod isti testant<i>ur</i> ·  Asaph ·</br>
+ęman · ęthan · <i>et</i> idithum · In dieb<i>us</i> eni<i>m</i> quinque<br>
+hoc excipientes · Narrabant hosquinq<i>ue</i> libros</br>
+qui in fine<i>m</i> ita habent · <i>et</i> ita inuenies in finem<br>
+libri · fiat fiat · Liber primvs<br><!--IS THIS CAPITALISED?-->
+Explicit in fine<i>m</i> psalm<i>um</i> .xl. qui sic habet fiat fiat ·<br>
+Explicit in fine<i>m</i> psalm<i>um</i> · Lxxi · Liber · II<br>
+qui sic habet fiat fiat · Liber · III<br>
+Explicit in finem psalm<i>um</i> · Lxxx · viii<br>
+qui sic habet fiat fiat · Liber IIII<br>
+Explicit in finem psalm<i>um</i> ·cv·<br>
+qui sic habet fiat fiat · Liber ·v<br>
+Explicit in fine<i>m</i> psalm<i>um</i> cl. qui sic habeth<br>
+anins spiritus laudet dominum ·<br>
+--est fiat fiat quod est amen quodest om<i>n</i>is<br>
+spiritus laudet dominu<i>m</i> ·<br>
+om<i>ni</i>p<i>oten</i>s quod est fiat fiat quod est spiritus req<i>uir</i>es;<br>
+Quod est sp<i>iritu</i>s laudat · Quod est sp<i>iritu</i>s pausat ·<br>
+Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 <param ve-image seq="53"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
