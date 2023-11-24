@@ -199,6 +199,7 @@ chorus est ·<br>
 <param ve-image seq="49"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
+<h4>Origo prophetie de regis psalmorum (psalter preface)</h4>
 [19r] Origo prophetie de re<br>
 gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
@@ -247,8 +248,12 @@ inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere ·<br>
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare ·<br>
+<param ve-image seq="52"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+
+<h4><i>Incipit expositio Psalteri</i> (psalter preface)</h4>
 Incipit ex positio psal-------ans<br>
---rpirv<i>m qve pver sr cantic--n-----<br>
+--rpirv<i>m</i> qve pver sr cantic--n-----<br>
 Psalteriu<i>m</i> dicitur psallentiu<i>m</i> multoru<i>m</i><br>
 modolamine uoce quia <i>et</i> ipse dauid te<br>
 nens psalteriu<i>m</i> non manib<i>us</i> sed cu<i>m</i> lxxxiiii ym<br>
@@ -302,9 +307,231 @@ Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 <param ve-image seq="53"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-[21r]
+[21r] fiat fiat hoc est semper · Deo gratias;<br>
+Incipit interpretatio · alt<br>
+<table> 
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus tibi soli<br> 
+</td>  
+</tr> 
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus tibi exercituum<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus tibi trinitati<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus tibi fortis<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus dulcis<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus pie<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>A<br>ua crus<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus tibi benedicta<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>T<br> 
+</td>  
+<td>ibi laus ęterne<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>T<br> 
+</td>  
+<td>ibi lux lucis<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td>aus tibi in lum<br> 
+</td>  
+</tr>  
+<tr> 
+<td>A<br> 
+</td> 
+<td>It<br> 
+</td>  
+<td>est<br> 
+</td>  
+<td>L<br>
+</td>  
+<td> ucis qui nec -------------------- nubilo regeris rex ęternę glori--- intipitiniti pretatio gloria aput  ----<br> 
+</td>  
+</tr>  
+<tr> 
+<td>Q<br> 
+</td> 
+<td>vid est<br> 
+</td> 
+<td>G<br> 
+</td> 
+<td>loria<br> 
+</td> 
+<tr> 
+<td>G<br> 
+</td> 
+<td>loria est<br> 
+</td> 
+<td>T<br> 
+</td> 
+<td>--------<br> 
+</td> 
+<tr> 
+<td>G<br> 
+</td> 
+<td>loria est<br> 
+</td> 
+<td>T<br> 
+</td> 
+<td>erra magnificat<br> 
+</td> 
+<tr> 
+<td>G<br> 
+</td> 
+<td>loria est<br> 
+</td> 
+<td>T<br> 
+</td> 
+<td>erra miratur<br> 
+</td> 
+<tr> 
+<td>G<br> 
+</td> 
+<td>loria est<br> 
+</td> 
+<td>T<br> 
+</td> 
+<td>----------<br> 
+</td> 
+<tr> 
+<td>G<br> 
+</td> 
+<td>loria est<br> 
+</td> 
+<td>T<br> 
+</td> 
+<td>erra tibi dei et ----<br> 
+</td> 
+<tr> 
+<td>G<br> 
+</td> 
+<td>loria est<br> 
+</td> 
+<td>T<br> 
+</td> 
+<td>erra 
+</td> 
+</table> 
 <param ve-image seq="54"
--        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4><br>
 [21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
