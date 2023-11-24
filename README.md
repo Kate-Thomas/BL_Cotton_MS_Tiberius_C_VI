@@ -263,7 +263,7 @@ gręca<i>m</i> titulata p<i>er</i> qua<i>m</i> nuneru<i>m</i> cognoscis quod <i>
 quanti uoce psallebant cu<i>m</i> rege · Rex incipiebat<br>
 <i>et</i> numerus litteraru<i>m</i> tot uoce cordaru<i>m</i> Cum<br>
 tympanis u<i>e</i>l emeri aut cytharis uel tubaru<i>m</i><br>
-corneu<i>m</i> cu<i>m christ<i>o hoc eft uncto psallebant can-<br>
+corneu<i>m</i> cu<i>m christ</i>o hoc eft uncto psallebant can-<br>
 tantes hoc · Nam nosolum Lxxxviiii · Canta-<br>
 bant cum david ueru<i>m et</i> Lxx uiror<i>um</i> uox ulula<br>
 bant · Cum hymniticum uero · Lxxxiiii prima<br>
