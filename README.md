@@ -79,7 +79,7 @@ modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="3"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023/734,385,3722,2989">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023/734,385,3722,2989,0">
 
        
 <table>
