@@ -1,6 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
-       title="An edition of short texts from British Library, Cotton MS Tiberius C VI"
+       title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
+       tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
        banner="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x00001e/1923,1569,2771,1833/800,/0/default.jpg"
        layout="vertical">
