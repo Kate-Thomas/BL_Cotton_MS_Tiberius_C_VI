@@ -61,25 +61,27 @@ ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Hol
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
-<param ve-image seq="73"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+<!--<param ve-image seq="73"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
+<param ve-image seq="1"
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023/manifest.json">
 
 ## Edition <!--need to check against the images-->
 
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
 <table>
-       <tr>
-              <td>
-                     [16v] Nabulum est quod grece<br>
+<tr>
+<td>
+[16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
 dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-              </td>
+</td>
 <td>
-       Psalterium est<br>
+Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
