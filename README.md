@@ -40,8 +40,10 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
-<param ve-image seq="50"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+<!--<param ve-image seq="50"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
+<param ve-image seq="1"
+       manifest="https://api.cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00023/manifest.json">
 
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
@@ -61,10 +63,8 @@ ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Hol
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
-<!--<param ve-image seq="73"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
-<param ve-image seq="1"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023/manifest.json">
+<param ve-image seq="73"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 ## Edition <!--need to check against the images-->
 
