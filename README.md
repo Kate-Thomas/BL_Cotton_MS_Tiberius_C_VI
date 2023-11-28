@@ -105,7 +105,6 @@ in modulo<br>
 </td>
 </tr>
 </table>
-</span>
 <param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
