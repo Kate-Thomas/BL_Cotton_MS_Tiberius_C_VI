@@ -71,9 +71,6 @@ ff. 31r-129v: Gallican psalter<br>
 ## Edition <!--need to check against the images-->
 
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
-<table>
-<tr>
-<td>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
@@ -81,8 +78,13 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-</td>
-<td>
+<param ve-image seq="3"
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023">
+
+       
+<table>
+       <tr>
+       <td>
 Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
