@@ -67,43 +67,31 @@ ff. 31r-129v: Gallican psalter<br>
 ## Edition <!--need to check against the images-->
 
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
-<table><br>
-<tr><br>
-<td>[16v] Nabulum est quod grece<br>
+<table><tr><td>[16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
 dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
-thare<br>
-</td><br>
+thare</td><br>
 <td>Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
-sunt abimo · in altum<br>
-</td><br>
-</tr><br>
-<tr><br>
-<td><br>
-Hoc est tympanum<br>
+sunt abimo · in altum</td></tr><br>
+<tr><td>Hoc est tympanum<br>
 hoc est forma tympanitym<br>
 panum pellis pillacis est<br>
 in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
-in collo<br>
-</td>
-<td>
+in collo</td><td><br>
 Hoc est forma cy-<br>
 thare quis prius<br>
 fuit cytharista · id est ·<br>
 toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
 ortum distar ut<br>
-in modulo<br>
-</td><br>
-</tr><br>
-</table><br>
+in modulo</td></tr></table><br>
 <param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
