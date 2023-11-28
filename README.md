@@ -43,8 +43,6 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
-<span>
-
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
 <br>
@@ -62,13 +60,14 @@ ff. 27v-28v: Dicti Sancti Augustini<br>
 ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in Middle English)<br>
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
-ff. 31r-129v: Gallican psalter<br></span>
+ff. 31r-129v: Gallican psalter<br>
 <param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 ## Edition <!--need to check against the images-->
 
-<span><h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
+<h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
+<span>
 <table>
 <tr>
 <td>[16v] Nabulum est quod grece<br>
@@ -105,7 +104,8 @@ ortum distar ut<br>
 in modulo<br>
 </td>
 </tr>
-</table></span>
+</table>
+</span>
 <param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
