@@ -764,7 +764,7 @@ mea<i>m</i> neglegenter · in conspectu dei effudi · p<i>ro</i>pt<i>er</i><br>
 cogitationes inanes <i>et</i>cor lapideu<i>m</i> · Ego c<i>on</i>fiteor<br>
 quia corpus dei <i>et</i> sanguine<i>m</i> pollut<i>us</i> corde<br>
 <i>et</i> corpore sine confessione <i>et</i> pęnitentia scient<i>er</i><br>
-indign<i>us</i> accepi <i>et</i> eu<i>m</i>non custodiui · nec iudiciu<i>m</i><br>
+indign<i>us</i> accepi <i>et</i> eu<i>m</i> non custodiui · nec iudiciu<i>m</i><br>
 d<i>omi</i>ni sup<i>er</i> me p<i>er</i>horrui · Ego c<i>on</i>fiteor · quia ieiunia<br>
 <i>et</i> psalmodias · <i>et</i> orationes · <i>et</i> secutiones post<br>
 cruces debes nudus uestigus incedere sic<i>ut</i> d<i>eu</i>s<br>
