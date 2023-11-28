@@ -33,7 +33,7 @@ th, td {
 }
 </style>
 
-## About the manuscript<!--Cut this section right down to the most important stuff-->
+## About the manuscript
 
 London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.  The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include texts on computus (ff. 2r-7r), line drawings (ff. 7v-16r, 18v, 30v), a short guide to Biblical musical instruments (ff. 16v-18r), psalter prefaces (ff. 19r-20v, 27v-28v), and guides to prayer and confession (ff. 21v-27v).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
@@ -43,9 +43,9 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 <param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
+<span>
+
 ## Contents of the manuscript
-<param ve-image seq="73"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
 <br>
 ff. 2r-7r: computistical texts<br>
@@ -62,12 +62,13 @@ ff. 27v-28v: Dicti Sancti Augustini<br>
 ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in Middle English)<br>
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
-ff. 31r-129v: Gallican psalter<br>
-
+ff. 31r-129v: Gallican psalter<br></span>
+<param ve-image seq="73"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 ## Edition <!--need to check against the images-->
 
-<h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
+<span><h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
 <table>
 <tr>
 <td>[16v] Nabulum est quod grece<br>
@@ -104,7 +105,7 @@ ortum distar ut<br>
 in modulo<br>
 </td>
 </tr>
-</table>
+</table></span>
 <param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
