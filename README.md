@@ -43,7 +43,7 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 <!--<param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 <param ve-image seq="1"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023">
+       manifest="https://manuscrits-france-angleterre.org/view3if/pl/ark:/12148/btv1b10551124x">
 
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
