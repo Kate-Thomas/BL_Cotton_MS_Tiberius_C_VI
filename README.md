@@ -66,7 +66,7 @@ ff. 31r-129v: Gallican psalter<br>
 <!--<param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 <param ve-image seq="2"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023">
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/manifest.json">
 
 ## Edition <!--need to check against the images-->
 
@@ -78,16 +78,16 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-<param ve-image seq="10"
-       manifest="https://cudl.lib.cam.ac.uk/iiif//MS-FF-00001-00023">
+<param ve-image seq="3"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/manifest.json">
 
 Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
 sunt abimo · in altum<br>
-<param ve-image seq="11"
-       manifest="https://cudl.lib.cam.ac.uk/iiif//MS-FF-00001-00023/full/500,/0/default.jpg">
+<param ve-image seq="3"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/canvas/f1#xywh=-76,588,3292,2084">
 
 Hoc est tympanum<br>
 hoc est forma tympanitym<br>
@@ -95,8 +95,7 @@ panum pellis pillacis est<br>
 in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
-<param ve-image seq="12"
-       manifest="https://cudl.lib.cam.ac.uk/iiif//MS-FF-00001-00023/125,15,120,140/500,/0/default.jpg">
+
 
 Hoc est forma cy-<br>
 thare quis prius<br>
@@ -110,8 +109,7 @@ in modulo<br>
 </table>
 <!--<param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
-<param ve-image seq="3"
-       manifest="https://cudl.lib.cam.ac.uk/iiif//MS-FF-00001-00023">
+
 
 <table>
 <tr>
