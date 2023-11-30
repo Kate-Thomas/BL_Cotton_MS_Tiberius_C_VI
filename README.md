@@ -42,8 +42,8 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <!--<param ve-image seq="50"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
-<param ve-image seq="1"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/manifest.json">
+<param ve-image
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/canvas/f1#xywh=-189,2,3745,2371>
 
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
@@ -66,6 +66,18 @@ ff. 31r-129v: Gallican psalter<br>
 <!--<param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 <param ve-image seq="2"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/manifest.json">
+
+## Edition
+<h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
+[16v] Nabulum est quod grece<br>
+dicit psalteriu<i>m</i> quod a psa<br>
+lendo dicitur ad similitu<br>
+dinem del dae id est in<br>
+modum del dae littere<br>
+ad similitudinem cy-<br>
+thare<br>
+<param ve-image seq="3"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/manifest.json">
 
 Psalterium est<br>
