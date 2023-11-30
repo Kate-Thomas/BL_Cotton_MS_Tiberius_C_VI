@@ -78,30 +78,26 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-<param ve-image seq="3"
-       manifest="https://cudl.lib.cam.ac.uk/iiif//MS-FF-00001-00023/full/500,/0/default.jpg">
-
+<param ve-image seq="10"
+       manifest="https://cudl.lib.cam.ac.uk/iiif//MS-FF-00001-00023">
        
-<table>
-       <tr>
-       <td>
 Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
 sunt abimo · in altum<br>
-</td>
-       </tr>
-<tr>
-       <td>
-              Hoc est tympanum<br>
+<param ve-image seq="11"
+       manifest="https://cudl.lib.cam.ac.uk/iiif//MS-FF-00001-00023/full/500,/0/default.jpg">
+
+Hoc est tympanum<br>
 hoc est forma tympanitym<br>
 panum pellis pillacis est<br>
 in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
-       </td>
-       <td>
+<param ve-image seq="12"
+       manifest="https://cudl.lib.cam.ac.uk/iiif//MS-FF-00001-00023/125,15,120,140/500,/0/default.jpg">
+
 Hoc est forma cy-<br>
 thare quis prius<br>
 fuit cytharista · id est ·<br>
