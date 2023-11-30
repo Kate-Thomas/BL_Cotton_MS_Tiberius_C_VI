@@ -69,7 +69,6 @@ ff. 31r-129v: Gallican psalter<br>
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/manifest.json">
 
 ## Edition <!--need to check against the images-->
-
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
@@ -156,8 +155,8 @@ bus cicutis<br>
 </td>
 </tr>
 </table>
-<param ve-image seq="46"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+<!--<param ve-image seq="46"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 <table>
 <tr>
@@ -168,8 +167,8 @@ Hęc est forma psalterii ·<br>
 </td>
 </tr>
 </table>
-<param ve-image seq="47"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+<!--<param ve-image seq="47"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 <table>
 <tr>
@@ -195,13 +194,13 @@ chorus est ·<br>
 </td>
 </tr>
 </table>
-<param ve-image seq="48"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+<!--<param ve-image seq="48"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 <h4>Image of Christ in majesty</h4><br>
 [18v]<br>
-<param ve-image seq="49"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
+<!--<param ve-image seq="49"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 <h4>Origo prophetie de regis psalmorum (psalter preface)</h4>
 [19r] Origo prophetie de re<br>
