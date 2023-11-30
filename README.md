@@ -69,7 +69,7 @@ ff. 31r-129v: Gallican psalter<br>
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/manifest.json">
 
 ## Edition <!--need to check against the images-->
-<!--<h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
+<h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
@@ -95,7 +95,6 @@ in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
 
-
 Hoc est forma cy-<br>
 thare quis prius<br>
 fuit cytharista · id est ·<br>
@@ -103,16 +102,10 @@ toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
 ortum distar ut<br>
 in modulo<br>
-       </td>
-</tr>
-</table>
 <!--<param ve-image seq="45"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
-
-<table>
-<tr>
-<td>[17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
+[17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
 <i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br><!--CHECK THIS-->
 p<i>er</i> lingua<i>m</i> ferrea<i>m</i> in medio<br>
 suo q<i>ui</i>d concitat<i>ur et</i> c<i>on</i>cutitur<br>
@@ -120,8 +113,7 @@ manu tenentis<br>
 <i>et</i> suscitat<br>
 adoratione<i>m</i> hec<br>
 est forma<br>
-</td>
-<td>
+
 Sabuca i<i>n</i> musicis genus informe in<br>
 libro damelis dr ·  Nescio quando<br>
 dr. cinares ut quidam putant<br>
@@ -129,78 +121,48 @@ acitabulum q<i>ui</i> percusa in modu-<br>
 los concitatur quidam putant<br>
 fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
 menti · <i>ue</i>l decortice ·<br>
-</td>
-</tr>
-<tr>
-<td>
+
 Haec manus musica canticum est<br>
 duo calami sunt de auri calco more sonantur omnem –<br>
 canticum quod more cantatur musicum eft · hęc for<br>
 ma tubae tertie fistule in capite angusto · iiii· ucae<br>
 deductae<br>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
+
 Pennola pennoil<br>
 Nun cupatur<br>
 hęc forma ·<br>
-</td>
-<td>
+
 Corus est pellis<br>
 simplex cum dua<br>
 bus cicutis<br>
-</td>
-</tr>
-</table>
 <!--<param ve-image seq="46"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
-<table>
-<tr>
-<td>
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
 Hęc est forma psalterii ·<br>
-</td>
-</tr>
-</table>
 <!--<param ve-image seq="47"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
-<table>
-<tr>
-<td>
 [18r] Duo bunibula semper aequalia<br>
-</td>
-</tr>
-<tr>
-<td>
 Hęc est forma fistulę hoc<br>
 bunibulum cum fistulo aereo<br>
 hoc xv bunibula aerea<br>
 cum fistulis in medio positis<br>
 sed tria tamen bunibula<br>
 muno quo que latera<br>
-</td>
-<td>
+
 Hęc est forma eiusde<i>m</i><br>
 chori quattuor –<br>
 chordas habeth<br>
 de ligno modulatus<br>
 chorus est ·<br>
-</td>
-</tr>
-</table>
 <!--<param ve-image seq="48"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
-<h4>Image of Christ in majesty</h4><br>
-[18v]<br>
+<h4>Image of Christ in majesty</h4> [18v]<br>
 <!--<param ve-image seq="49"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->-->
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 <h4>Origo prophetie de regis psalmorum (psalter preface)</h4>
 [19r] Origo prophetie de re<br>
