@@ -65,8 +65,7 @@ f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 <!--<param ve-image seq="73"
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
-<param ve-image seq="2"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023">
+
 
 ## Edition <!--need to check against the images-->
 
