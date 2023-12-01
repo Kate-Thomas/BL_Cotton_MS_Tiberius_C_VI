@@ -67,13 +67,15 @@ modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="3"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023">
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
 sunt abimo · in altum<br>
+<param ve-image seq="4"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Hoc est tympanum<br>
 hoc est forma tympanitym<br>
@@ -81,7 +83,9 @@ panum pellis pillacis est<br>
 in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
-       
+<param ve-image seq="5"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+
 Hoc est forma cy-<br>
 thare quis prius<br>
 fuit cytharista · id est ·<br>
@@ -89,6 +93,8 @@ toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
 ortum distar ut<br>
 in modulo<br>
+<param ve-image seq="6"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
 <i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br><!--CHECK THIS-->
