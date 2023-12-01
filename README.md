@@ -40,12 +40,11 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
-<!--<param ve-image seq="50" 
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 <param ve-image seq="13"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 ## Contents of the manuscript
+
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
 <br>
 ff. 2r-7r: computistical texts<br>
@@ -63,13 +62,12 @@ ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Hol
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
-<!--<param ve-image seq="73"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 <param ve-image seq="14"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<!--## Edition
+## Edition
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
+<br>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
@@ -1143,7 +1141,7 @@ These prayers, the final text immediately preceding the psalter itself, were app
 
 6.1: Suscipere digneris: this prayer appears in the Vespasian Psalter. 
 
-6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number-->-->
+6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number-->
 
 
 # References
