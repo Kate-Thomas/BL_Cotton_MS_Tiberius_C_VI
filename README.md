@@ -67,7 +67,7 @@ modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="3"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/206,-99,1203,779/full/0/default/manifest.json">
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/206,-99,1203,779/full/0/default.jpeg">
 
 Psalterium est<br>
 quasi in modum<br>
