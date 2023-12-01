@@ -66,8 +66,8 @@ ff. 31r-129v: Gallican psalter<br>
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 ## Edition
+
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
-<br>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
