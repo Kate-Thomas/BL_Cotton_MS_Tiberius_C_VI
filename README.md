@@ -40,8 +40,8 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
-<param ve-image
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json"> 
+<param ve-image seq="1" 
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 ## Contents of the manuscript
 
@@ -62,7 +62,7 @@ ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Hol
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
-<param ve-image seq="1" 
+<param ve-image seq="2" 
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [16v] Nabulum est quod grece<br>
@@ -72,7 +72,7 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-<param ve-image seq="2"
+<param ve-image seq="3"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Psalterium est<br>
@@ -172,11 +172,6 @@ issed archa<i>m</i> inhier<i>ve</i>lin post annos<br><!--??-->
 xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MANSIT, CHECK-->
 domo amma dab · hane inposuit-<br>
 in subiugulali nouo · Et adduxit in-<br>
-<!--<param ve-image seq="50"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
-<param ve-image seq="3"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/manifest.json">
-       
 
 [19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filior<i>um</i> isrt<br>
 l ex milia a [<i>lac.</i>] ros . De tribuaute<i>m</i> leui · cclxx octa<br>
@@ -203,14 +198,8 @@ cordat · Haec scribta <i>et</i> uobis <i>et</i> studio locuiq<i>ue</i><br>
 fecisse inescieris non ambigo multos qui uel<br>
 inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere ·<br>
 ---lere ---lara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
-<!--<param ve-image seq="51"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
-<param ve-image seq="3"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10551124x/canvas/f1#xywh=-76,588,3292,2084">
 
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare ·<br>
-<param ve-image seq="52"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4><i>Incipit expositio Psalteri</i> (psalter preface)</h4>
 Incipit ex positio psal-------ans<br>
