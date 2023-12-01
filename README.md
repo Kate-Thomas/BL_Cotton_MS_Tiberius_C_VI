@@ -86,7 +86,7 @@ in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
 <param ve-image seq="3"
-       region="206,-99,1203,779"
+       region="845,2232,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Hoc est forma cy-<br>
@@ -108,7 +108,8 @@ manu tenentis<br>
 <i>et</i> suscitat<br>
 adoratione<i>m</i> hec<br>
 est forma<br>
-<param ve-image seq="7"
+<param ve-image seq="4"
+       region="3232,1171,696,451"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
 Sabuca i<i>n</i> musicis genus informe in<br>
@@ -118,7 +119,8 @@ acitabulum q<i>ui</i> percusa in modu-<br>
 los concitatur quidam putant<br>
 fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
 menti · <i>ue</i>l decortice ·<br>
-<param ve-image seq="8"
+<param ve-image seq="4"
+       region="3728,1290,696,451"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Haec manus musica canticum est<br>
@@ -126,25 +128,29 @@ duo calami sunt de auri calco more sonantur omnem –<br>
 canticum quod more cantatur musicum eft · hęc for<br>
 ma tubae tertie fistule in capite angusto · iiii· ucae<br>
 deductae<br>
-<param ve-image seq="9"
+<param ve-image seq="4"
+       region="2827,1594,696,451"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Pennola pennoil<br>
 Nun cupatur<br>
 hęc forma ·<br>
-<param ve-image seq="10"
+<param ve-image seq="4"
+       region="3864,2484,580,376"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Corus est pellis<br>
 simplex cum dua<br>
 bus cicutis<br>
-<param ve-image seq="11"
+<param ve-image seq="4"
+       region="3278,2817,835,541"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
 Hęc est forma psalterii ·<br>
-<param ve-image seq="12"
+<param ve-image seq="5"
+       region="1212,679,1203,779"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [18r] Duo bunibula semper aequalia<br>
@@ -154,7 +160,7 @@ hoc xv bunibula aerea<br>
 cum fistulis in medio positis<br>
 sed tria tamen bunibula<br>
 muno quo que latera<br>
-<param ve-image seq="13"
+<param ve-image seq="6"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Hęc est forma eiusde<i>m</i><br>
@@ -162,11 +168,12 @@ chori quattuor –<br>
 chordas habeth<br>
 de ligno modulatus<br>
 chorus est ·<br>
-<param ve-image seq="14"
+<param ve-image seq="6"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 <h4>Image of Christ in majesty</h4> [18v]<br>
-<param ve-image seq="15"
+<param ve-image seq="7"
+       size="full"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 <h4>Origo prophetie de regis psalmorum (psalter preface)</h4>
