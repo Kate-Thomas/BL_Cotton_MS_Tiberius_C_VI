@@ -62,7 +62,7 @@ ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Hol
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
-<param ve-image seq="0" 
+<param ve-image seq="1" 
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [16v] Nabulum est quod grece<br>
@@ -72,6 +72,8 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
+<param ve-image seq="2"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Psalterium est<br>
 quasi in modum<br>
