@@ -161,6 +161,7 @@ cum fistulis in medio positis<br>
 sed tria tamen bunibula<br>
 muno quo que latera<br>
 <param ve-image seq="6"
+       region="3090,683,1732,1122"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Hęc est forma eiusde<i>m</i><br>
@@ -169,11 +170,12 @@ chordas habeth<br>
 de ligno modulatus<br>
 chorus est ·<br>
 <param ve-image seq="6"
+       region="4312,676,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 <h4>Image of Christ in majesty</h4> [18v]<br>
 <param ve-image seq="7"
-       size="full"
+       region="-978,0,4890,3687"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 <h4>Origo prophetie de regis psalmorum (psalter preface)</h4>
