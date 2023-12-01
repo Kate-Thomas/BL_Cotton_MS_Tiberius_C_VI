@@ -25,12 +25,6 @@
     color: blue;
     font-weight: bold;
   }
-th, td {
-  padding-top: 10px;
-  padding-right: 20px;
-  float: left;
-  font-size: 0.8em;
-}
 </style>
 
 ## About the manuscript
@@ -73,7 +67,7 @@ modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="3"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00023">
 
 Psalterium est<br>
 quasi in modum<br>
