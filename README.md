@@ -120,14 +120,10 @@ hęc forma ·<br>
 Corus est pellis<br>
 simplex cum dua<br>
 bus cicutis<br>
-<!--<param ve-image seq="46"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
 Hęc est forma psalterii ·<br>
-<!--<param ve-image seq="47"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 [18r] Duo bunibula semper aequalia<br>
 Hęc est forma fistulę hoc<br>
@@ -142,12 +138,8 @@ chori quattuor –<br>
 chordas habeth<br>
 de ligno modulatus<br>
 chorus est ·<br>
-<!--<param ve-image seq="48"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 <h4>Image of Christ in majesty</h4> [18v]<br>
-<!--<param ve-image seq="49"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">-->
 
 <h4>Origo prophetie de regis psalmorum (psalter preface)</h4>
 [19r] Origo prophetie de re<br>
@@ -220,8 +212,6 @@ ullulabant · Interrogabat aute<i>m</i> dauid rex<br>
 notarios suos id est · asaph · ęman · ęthan · <i>et</i><br>
 idithun · sut a textus exceptionis eor<i>um</i> mani-<br>
 sestabat sicut <i>et</i> populus · quintspondentes<br>
-<param ve-image seq="52"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [20v] notaru supra memorati Adnuntiabant regi<br>
 omnia uera esse · Sicut <i>et</i> isti uoce testant<i>ur</i> ita .<br>
@@ -248,8 +238,6 @@ spiritus laudet dominu<i>m</i> ·<br>
 om<i>ni</i>p<i>oten</i>s quod est fiat fiat quod est spiritus req<i>uir</i>es;<br>
 Quod est sp<i>iritu</i>s laudat · Quod est sp<i>iritu</i>s pausat ·<br>
 Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
-<param ve-image seq="53"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [21r] fiat fiat hoc est semper · Deo gratias;<br>
 Incipit interpretatio · alt<br>
@@ -281,8 +269,6 @@ prim<i>us</i> · Inde <b>benedic anima mea d<i>omi</i>no <i>et</i> omnia</b> ·<
 Inde <b>d<i>omi</i>ne exaudi oratione<i>m</i> meam</b> ·ii· Post unu<i>m</i><br>
 quoq<i>ue</i> psalmu<i>m</i> dans gl<i>ori</i>am deo genua flec-<br>
 tendo cum capite deuoluto interra· P<i>er</i>cuti-<br>
-<param ve-image seq="55"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [22r] ens pece<i>m</i> reuolueris incorde · suo dicens · <b>Peccaui<br>
 d<i>omi</i>ne peccaui miserere mei <i>et</i> quia pondera pec-<br>
@@ -309,8 +295,6 @@ Consentiente prauę uoluptatis meae · Delec<br>
 tante<i>m</i> seditate<i>m</i> carnis inmunditię meae;<br>
 Peccaui nimis more meo peccaui deus m<i>er</i>s<i>et</i>-<br><!--mersetcoram??  Check this-->
 cora<i>m</i> te <i>et</i> cora<i>m</i> ang<i>e</i>lis tuis [H]eu mihi quia</b><br>
-<param ve-image seq="56"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [22v] <b>non sum reuerit<i>us</i> facie tua · Templu<i>m</i> corporis mei de<br><!--check this-->
 opere iniquitatis coinquinaui · Anima<i>m</i> mea<i>m</i><br>
@@ -331,8 +315,6 @@ spes mea · Tu es refugiu<i>m</i> meu<i>m</i> · In te est decan<br>
 tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
 Precor te d<i>omi</i>ne antequa<i>m</i> discutias<!--Check this, I had "distutias"--> me miserere<br>
 mei</b>
-<param ve-image seq="57"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4>[Section 8 and epilogue of De laude psalmorum]</h4><br>
 SI TE VOLVERIS INTIMENTE EXER<br>
@@ -342,8 +324,6 @@ IN VIA QUI AMBVLAVERIS ·<br>
 ET LICET SUISQ<i>UE</i> AD OBITU<i>M</i> UITĘ HUIUS<br>
 psalmi uirtute<i>m</i> conte<i>m</i>plaueris atque<br>
 scrutaueris · nu<i>m</i>qua<i>m</i> p<i>er</i>fecte illu<i>m</i> ut puto<br>
-<param ve-image seq="57"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [23r] intellegere potes · In quo nullus uersus est in quo<br>
 non sit uel uia dei · <i>ue</i>l · lex <i>ue</i>l · mandatu<i>m</i> seu p<i>rae</i>cęptum dei<br>
@@ -360,8 +340,6 @@ rectione<i>m</i>q<i>ue</i> atq<i>ue</i> ascensione<i>m</i> dominica<i>m et</i> o
 uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
 tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m</i> intimi in<br>
 tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris ·<br>
-<param ve-image seq="58"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4>[Section I of the Old English Handbook]</h4>
 INCIPIT ORDO CON<br>
@@ -375,8 +353,6 @@ inde uenit · quia inde uenit [<i>sic</i>] indulgentia<br>
 fessio eni<i>m</i> sanat · Confessio iustificat · Confessio<br>
 uenia<i>m</i> peccatis donat · Inprimis igit<i>ur</i> p<i>ro</i>sternat<br>
 se humilit<i>er</i> super t<i>er</i>ra<i>m</i> in conspectu d<i>e</i>i adorationem<br>
-<param ve-image seq="58"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [23v] <i>et</i> lacrimas fundens rog<i>et</i> beata<i>m</i> maria<i>m</i> cum s<i>an</i>c<i>t</i>is<br>
 ap<i>osto</i>lis <i>et</i> martyrib<i>us</i> <i>et</i> confessorib<i>us</i> ut ipsi inter-<br>
@@ -404,15 +380,11 @@ Om<i>ne</i>s s<i>an</i>c<i>t</i>i confessores orate p<i>ro</i> me ad d<i>omi</i>
 possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i>;</b> POST HEC AVTE<i>M</i> CV<i>M</i><br>
 FIDVCIA SVRGENS CONFITEAT<i>VR</i> PENI<br>
 TENS CREDVLITATE<i>M</i> SVA<i>M</i> DICENS .<br>
-<param ve-image seq="59"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
 [24r] <b>Credo in unu<i>m</i> d<i>eu</i>m patre<i>m</i> om<i>n</i>ipotente<i>m</i> · Credo<br>
 in filiu<i>m</i> · Credo <i>et</i> in sp<i>iritu</i>m s<i>an</i>c<i>tu</i>m · Credo uitam<br>
 post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 <i>et</i> hęc om<i>n</i>ia · Credo in d<i>eu</i>m uiuu<i>m</i> · am<i>en</i> ·</b><br>
-<param ve-image seq="60"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <b>[Confessional ordo with priest]</b><br>
 P<i>OST</i> HĘC ITERU<i>M</i><br>
@@ -437,8 +409,6 @@ ones · luxurias · ębrietates · co<i>m</i>messationes · homici<br>
 dia · manifeste · <i>et</i> occulte · in anima · <i>et</i> corpore ·<br>
 Ego confiteor quia ad patre<i>m</i> meu<i>m</i> <i>et</i> matre<i>m</i> · fr<i>atre</i>s<br>
 <i>et</i> sorores · patruos <i>et</i> a<i>m</i>mittas · c<i>um</i> sobrinos siue</b><br>
-<param ve-image seq="60"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [24v] 
 <b>om<i>ni</i>s p<i>ro</i>pinquos· <i>et</i> parentes meos s<i>e</i>c<i>un</i>d<i>u</i>m p<i>re</i>cęptum<br>
@@ -465,8 +435,6 @@ peccaui in uisu· auditu · gustu · odoratu · <i>et</i> tactu ·<br>
 mala uoluntate consensi· mala dedi con-<br>
 silia c<i>on</i>tra d<i>e</i>i p<i>re</i>ceptu<i>m</i> · <i>et</i> d<i>e</i>i uoluntate · Ego con-<br>
 fiteor q<i>ui</i>a in s<i>an</i>c<i>t</i>a<i>m</i> dei ęccl<i>esi</i>a multa mala cogitaui ·</b><br>
-<param ve-image seq="61"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
 [25r] <b><i>et</i> locut<i>us</i> fui <i>et</i> petraui inordinare <i>et</i> sup<i>er</i>be intra<br>
 s<i>an</i>ctam ęccl<i>esi</i>am steti · osculantes sedi · aspexi · p<i>er</i>rexi ·<br>
@@ -493,8 +461,6 @@ cruces debes nudus uestigus incedere sic<i>ut</i> d<i>eu</i>s<br>
 pręcepit agere cu<i>m</i> om<i>n</i>i humilitate cordis <i>et</i><br>
 corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · a regibus ·<br>
 <i>et</i> imperatorib<i>us</i> non custodiui · nęc adimpleui ·</b><br>
-<param ve-image seq="62"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [25v] <b>Episcopos p<i>re</i>sbit<i>er</i>os · abbates · monachos · canonicos · <i>et</i><br>
 om<i>ni</i>s clericos ęccl<i>esi</i>ę dei sicut debui non amaui nęc<br>
@@ -521,8 +487,6 @@ deleas om<i>n</i>ia delicta mea p<i>rae</i>terita p<i>rae</i>sentia<br>
 macula · p<i>er</i> tua<i>m</i> magna<i>m</i> mis<i>eri</i>c<i>or</i>dia<i>m</i> tua<i>m</i> in uita<i>m</i><br>
 ęt<i>er</i>na<i>m</i> · ad omniu<i>m</i> consortia<i>m</i> s<i>anct</i>or<i>um</i> <i>et</i> ad gaudia<br>
 angeloru<i>m</i> in cęlo habitantiu<i>m</i> ameN · p<i>er</i> ·</b><br>
-<param ve-image seq="63"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
  
 [26r] <b>Supplico te dei sacerdos ut debis om<i>n</i>ib<i>us</i> sis mihi testis<br>
 in die<i>m</i> iudicii · ne gaudeat . de me inimicus m<i>eu</i>s<i>et</i><br>
@@ -549,8 +513,6 @@ Gl<i>ori</i>a· parit<i>er</i> · ET POST HEC OM<i>N</i>IA DICAT ----<br><!--CHE
 AVT DIACON<i>US</i> COLL<i>EC</i>TAS SVP<i>ER</i> INCLINATU<i>M</i><br>
 EI<i>US</i> CAPVT DICENS · <b>D<i>omi</i>n<i>u</i>s uobiscum · Et cu<i>m</i> sp<i>irit</i>u tuo ·<br>
 Exaudi d<i>omi</i>ne preces n<i>ost</i>ras <i>et</i> confitentiu<i>m</i> ----</b><br><!--CHECK THIS!!-->
-<param ve-image seq="64"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [26v] <b>tibi parce peccatis ut quos conscientię reat<i>ur</i> accussat<br>
 indulgentię tuę miserationis absoluat · p<i>er</i> ·</b> ALIA<br>
@@ -574,14 +536,10 @@ CO<i>M</i>MENDET PENITENTE<i>M</i> <i>ET</i> DICANT PARITER HOC<br>
 usque . benedictus deus . Gloria ET SIC P<sup>O</sup>NGG OM<i>N</i>IA<br><!--CHECK THIS!!-->
 CVLPIS REVELATIS ACCIPIAT PENITENS<br>
 PENITENTIA MISERICORDITER ME VIAM<br>
-<param ve-image seq="65"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [27r] ET MEMORIT<i>ER</i> OBSERVET <i>ET</i> IMPLEAT EA<i>M</i> ET ITERU<i>M</i><br>
 DICAT EI SACERDOS · <b>D<i>omi</i>n<i>u</i>s custodite ab omni malo</b><br>
 usque in finem . Et recedat humiliter ab eo in domum sua<i>m</i>;<br>
-<param ve-image seq="66"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <b>[Short version of De laude psalmorum]</b><br>
 [27r] SENTENTIA LEONIS PAPAE<br>
@@ -606,8 +564,6 @@ mos decant<i>et</i> p<i>er</i> singulos dies preter dominicos.<br>
 Saluu<i>m</i> me fac d<i>eus</i>.</b> Usq<i>ue</i> quod· <b>Exaudi d<i>omi</i>ne iusti<br>
 D<i>eu</i>s d<i>eu</i>s m<i>eu</i>s respice· Ad te d<i>omi</i>ne leuaui · Iudica me<br>
 d<i>omi</i>ne q<i>ua</i>m · D<i>omi</i>n<i>u</i>s inluminatio mea · Beati quor<i>um</i></b><br>
-<param ve-image seq="66"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [27v] <b>Benedica d<i>omi</i>n<i>u</i>m · D<i>omi</i>ne ne in furore tuo</b> ·ii· <b>Que<i>m</i> ad<br><!--CHECK THIS PAGE, SOME ABBREVIATIONS NOT CORRECT?-->
 modu<i>m</i>. D<i>eu</i>s aurib<i>us</i> n<i>ost</i>ris · Miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>d<i>u</i>m ·<br>
@@ -624,8 +580,6 @@ bor tibi d<i>eus</i>· D<i>omi</i>ne p<i>ro</i>basti me · Eripe me d<i>omi</i>n
 D<i>omi</i>ne clamaui · Uoce mea · D<i>omi</i>ne exaudi or[ationem]<br>
 Exaltabo te d<i>eu</i>s m<i>eu</i>s. Laudate d<i>omi</i>n<i>u</i>m de celis ·<br>
 Benedicite om<i>n</i>ia op<i>er</i>a d<i>omi</i>ni d<i>omi</i>no ·</b><br>
-<param ve-image seq="67"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <b>[<i>Dicti sancti Augustini</i>]</b><br>
 [27v] CANTICU<i>M</i> PSALMOR<i>UM</i> · ANIMAS DECORAUIT · IN<br>
@@ -638,8 +592,6 @@ Sicut foliu<i>m</i> defluit · D<i>omi</i>n<i>u</i>m ostendit · Diabolu<i>m</i>
 dit · Uoluntate<i>m</i> illicita<i>m</i> exunguit · Oleu<i>m</i> mis<i>eri</i>c<i>or</i>dię est .<br>
 Sors angelor<i>um</i> ęlecta · Asperitate<i>m</i> deicit · Omne<i>m</i><br>
 furore<i>m</i> deprimit · Iracundia<i>m</i> frangit · Laus dei ·<br>
-<param ve-image seq="67"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [28r] assidua similis est melli · Canticu<i>m</i> psalmor<i>um</i> · canticu<i>m</i><br>
 electu<i>m</i> est apud d<i>ominu</i>m · Om<i>n</i>e peccatu<i>m</i> expellit uinculu<i>m</i><br>
@@ -664,8 +616,6 @@ d<i>eu</i>m psalmis hymnis glorificare · psallendi enim<br>
 utilitas tristia corda consolat<i>ur</i> · gratiores inertes<br>
 facit · inertes excitat · fastidioses oblectat pecca-<br>
 tores ad lamentu<i>m</i> inuitat;
-<param ve-image seq="68"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4>[<i>De septiformes Spiritus Sanctus/Isaias se witega</i> (homily on the Holy Spirit)]</h4><br>
 [28r] DE SEPTIFORMES<br>
@@ -673,8 +623,6 @@ SP<i>IRITU</i>S S<i>AN</i>C<i>TU</i>S P<i>RO</i> SEPTERNARIA OP<i>ER</i>ATIONE I
 ph<i>et</i>a testante septiformis esse credatur<br> 
 in bono · Sp<i>iritu</i>s a <i>et</i>iam nequa<i>m</i> septiformis desig<br> 
 nat<i>ur</i> · Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s sapientię cui ę contrario in aliis<br>
-<param ve-image seq="68"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [28v] opponit<i>ur</i> · Sp<i>iritu</i>s insipientię· alt<i>er</i> peior · simulatio sapientię·<br>
 Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s intellectus · Malus aute<i>m</i> sp<i>iritu</i>s stultitiae;<br>
@@ -714,8 +662,6 @@ gast  hi todælþ dæghwa<i>m</i>lice git godes halgu<i>m</i> mannu<i>m</i><br>
 be þa<i>m</i>þehi<i>m</i> gewyrð · ælcu<i>m</i> be his mæðe · <i>and</i> his modes<br>
 <sub>defere                      þ<i>æt</i>      man</sub><br>
 geornfulnysse · Se man hæfð wisdom · þe wislice<br>
-<param ve-image seq="69"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [29r] drihtnes willan · mid godu<i>m</i> weorcu<i>m</i> symle · Ane se hafð<br> 
 godne ræd þehi<i>m</i> geredaþ æfre hwæt him to dorme sy ·<br>
@@ -741,8 +687,6 @@ leafarid-------fyndon þus gehatene on leden<br><!--BECOMES HARD TO READ HERE-->
 spræce In sapientia · þ<i>æt</i> is dysig · oððe dwæsnys · Stidtitia<br>
 þ<i>æt</i> is sumt ny· In p<i>ro</i>uidentia · þ<i>æt</i> is rectleafnys ·<br>
 butriifo re scrawunge; Ignauia · þ<i>æt</i> is abraðennys<br>
-<param ve-image seq="70"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [29v] þ<i>æt</i> is arleasnys · temeritas · þis dyfelic dyrstignys · alc<br>
 wisdom is of gode · for ðam þe god sylf is wisdom <i>and</i> ælc<br><!--CHECK "IS"-->
@@ -768,8 +712,6 @@ s----------lica deofol sylð dyr--------------------------ddwæs<br>
 l--------------------------------------------------------------------<br>
 s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
 ------------------------þearu<i>m</i> ma---------------g· þone<br>
-<param ve-image seq="71"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 [30r] oððe þæs gramlican deofles·<br> 
 <b>Suscipere digneris d<i>omi</i>ne d<i>eu</i>s omnipotens ·<br>
@@ -790,12 +732,8 @@ spicue merear audiri tius enim adiutoriis<br>
 omni modis indigeo ut ualeam cum concessa<br>
 gratia aliquatenus uerba tuę maiestatis<br>
 cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br> 
-<param ve-image seq="72"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 <h4>[Miniature of King David and his musicians]</h4>
-<param ve-image seq="73"
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100189742516.0x000001/manifest.json">
 
 
 
