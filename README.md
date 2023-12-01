@@ -35,11 +35,13 @@ th, td {
 
 ## About the manuscript
 
-London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.  The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include texts on computus (ff. 2r-7r), line drawings (ff. 7v-16r, 18v, 30v), a short guide to Biblical musical instruments (ff. 16v-18r), psalter prefaces (ff. 19r-20v, 27v-28v), and guides to prayer and confession (ff. 21v-27v).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that Tiberius includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
+London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.  The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include texts on computus (ff. 2r-7r), line drawings (ff. 7v-16r, 18v, 30v), a short guide to Biblical musical instruments (ff. 16v-18r), psalter prefaces (ff. 19r-20v, 27v-28v), and guides to prayer and confession (ff. 21v-27v).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that the psalter includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
+<param ve-image seq="0" 
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json"> 
 
 ## Contents of the manuscript
 
