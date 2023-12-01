@@ -75,7 +75,8 @@ quasi in modum<br>
 clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
 sunt abimo · in altum<br>
-<param ve-image seq="4"
+<param ve-image seq="3"
+       region="1223,492,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Hoc est tympanum<br>
@@ -84,7 +85,8 @@ panum pellis pillacis est<br>
 in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
-<param ve-image seq="5"
+<param ve-image seq="3"
+       region="206,-99,1203,779"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Hoc est forma cy-<br>
@@ -94,7 +96,8 @@ toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
 ortum distar ut<br>
 in modulo<br>
-<param ve-image seq="6"
+<param ve-image seq="3"
+       region="1573,2307,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
