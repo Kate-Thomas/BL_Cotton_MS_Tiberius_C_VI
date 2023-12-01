@@ -68,7 +68,7 @@ ff. 31r-129v: Gallican psalter<br>
 <param ve-image seq="14"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<!--## Edition-->
+<!--## Edition
 <h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
@@ -1143,7 +1143,7 @@ These prayers, the final text immediately preceding the psalter itself, were app
 
 6.1: Suscipere digneris: this prayer appears in the Vespasian Psalter. 
 
-6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number-->
+6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number-->-->
 
 
 # References
