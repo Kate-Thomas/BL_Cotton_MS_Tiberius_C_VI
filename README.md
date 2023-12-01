@@ -61,9 +61,7 @@ f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for 
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 
-## Edition
 
-<h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
