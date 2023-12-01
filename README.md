@@ -196,6 +196,7 @@ xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MAN
 domo amma dab · hane inposuit-<br>
 in subiugulali nouo · Et adduxit in-<br>
 <param ve-image seq="8"
+       region="-304,483,3648,2751"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filior<i>um</i> isrt<br>
