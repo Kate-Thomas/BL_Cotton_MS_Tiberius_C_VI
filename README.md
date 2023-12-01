@@ -108,8 +108,8 @@ manu tenentis<br>
 <i>et</i> suscitat<br>
 adoratione<i>m</i> hec<br>
 est forma<br>
-<param ve-image seq="3"
-       region="3232,1171,696,451"
+<param ve-image seq="4"
+       region="206,-99,1203,779"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
 Sabuca i<i>n</i> musicis genus informe in<br>
@@ -119,8 +119,8 @@ acitabulum q<i>ui</i> percusa in modu-<br>
 los concitatur quidam putant<br>
 fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
 menti · <i>ue</i>l decortice ·<br>
-<param ve-image seq="3"
-       region="3728,1290,696,451"
+<param ve-image seq="4"
+       region="1223,492,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Haec manus musica canticum est<br>
@@ -128,22 +128,22 @@ duo calami sunt de auri calco more sonantur omnem –<br>
 canticum quod more cantatur musicum eft · hęc for<br>
 ma tubae tertie fistule in capite angusto · iiii· ucae<br>
 deductae<br>
-<param ve-image seq="3"
-       region="2827,1594,696,451"
+<param ve-image seq="4"
+       region="845,2232,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Pennola pennoil<br>
 Nun cupatur<br>
 hęc forma ·<br>
-<param ve-image seq="3"
-       region="3864,2484,580,376"
+<param ve-image seq="4"
+       region="1573,2307,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Corus est pellis<br>
 simplex cum dua<br>
 bus cicutis<br>
-<param ve-image seq="3"
-       region="3278,2817,835,541"
+<param ve-image seq="4"
+       region="1600,2400,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
@@ -160,7 +160,7 @@ hoc xv bunibula aerea<br>
 cum fistulis in medio positis<br>
 sed tria tamen bunibula<br>
 muno quo que latera<br>
-<param ve-image seq="5"
+<param ve-image seq="6"
        region="3090,683,1732,1122"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
@@ -169,7 +169,7 @@ chori quattuor –<br>
 chordas habeth<br>
 de ligno modulatus<br>
 chorus est ·<br>
-<param ve-image seq="5"
+<param ve-image seq="6"
        region="4312,676,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
@@ -223,7 +223,9 @@ cordat · Haec scribta <i>et</i> uobis <i>et</i> studio locuiq<i>ue</i><br>
 fecisse inescieris non ambigo multos qui uel<br>
 inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere ·<br>
 ---lere ---lara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
-
+<param ve-image seq="9"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare ·<br>
 
 <h4><i>Incipit expositio Psalteri</i> (psalter preface)</h4>
