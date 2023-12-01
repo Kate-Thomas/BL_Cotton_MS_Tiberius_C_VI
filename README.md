@@ -66,7 +66,7 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-<param ve-image
+<param ve-image seq="3"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/f4#xywh=206,-99,1203,779/manifest.json">
 
 Psalterium est<br>
