@@ -161,7 +161,7 @@ cum fistulis in medio positis<br>
 sed tria tamen bunibula<br>
 muno quo que latera<br>
 <param ve-image seq="6"
-       region="3090,683,1732,1122"
+       region="3823,2561,4258,5415"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 Hęc est forma eiusde<i>m</i><br>
