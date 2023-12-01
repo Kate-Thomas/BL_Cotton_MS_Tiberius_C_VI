@@ -40,7 +40,7 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
-<param ve-image seq="0" 
+<param ve-image
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json"> 
 
 ## Contents of the manuscript
@@ -62,7 +62,8 @@ ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Hol
 f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
-
+<param ve-image seq="0" 
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
