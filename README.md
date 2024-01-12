@@ -40,24 +40,24 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
 
 ## Contents of the manuscript
 
-This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.<br>
+This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.<br>
 <br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
 <b>ff. 16v-18r: <i><a href="#nabulum-est">Nabulum est quod grece dicitur tympanum</a></i> (an illustrated text on Biblical musical instruments)</b><br>
 ff. 18v: Image of Christ in majesty<br>
-<b>ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+<b>ff. 19r-20r: <i><a href="#origo-prophetie">Origo prophetie de regis psalmorum</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+f. 20r-v: <i><a href="#incipit-expositio">Incipit expositio Psalteri</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 
 f. 21r: WHAT IS THIS?
 
-ff. 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
-ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
-ff. 23r-27r: Section I of the <i>Old English Handbook</i> (solitary confessional ordo)<br>
-f. 27r-v: Short version of the complete ‘De laude psalmorum’<br>
-ff. 27v-28v: Dicti Sancti Augustini<br>
-ff. 28v-30r: De septiformes Spiritus Sanctus/Isaias se witega (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in Middle English)<br>
-f. 30r: ‘Suscipere digneris’ and ‘Presta queso omnipotens’ (prayers for chanting the psalms)</b><br>
+ff. 21v-22v: <i><a href="#oratio-cuiusdam">Oratio cuiusdam nominis Dei</a></i> (a guide to morning prayer)<br>
+ff. 22v-23r: <a href="#de-laude-8">Section 8 of ‘De laude psalmorum’</a> (a treatise on praying with the psalms)<br>
+ff. 23r-27r: <a href="#oe-handbook">Section I of the <i>Old English Handbook</i></a> (solitary confessional ordo)<br>
+f. 27r-v: <a href="#de-laude-short">Short version of the complete ‘De laude psalmorum’</a><br>
+ff. 27v-28r: <a href="#dicti-sancti">Dicti Sancti Augustini</a><br>
+ff. 28r-30r: <a href="#de-septiformes"><i>De septiformes Spiritus Sanctus</i>/<i>Isaias se witega</i></a> (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in Middle English)<br>
+f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso omnipotens’</a> (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter<br>
 <param ve-image seq="2" 
@@ -184,7 +184,7 @@ chorus est ·<br>
        region="-978,0,4890,3687"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<h4>Origo prophetie de regis psalmorum (psalter preface)</h4>
+<h4 id="origo-prophetie">Origo prophetie de regis psalmorum (psalter preface)</h4>
 [19r] Origo prophetie de re<br>
 gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
@@ -235,7 +235,7 @@ inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere ·<br>
        
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare ·<br>
 
-<h4><i>Incipit expositio Psalteri</i> (psalter preface)</h4>
+<h4 id="incipit-expositio"><i>Incipit expositio Psalteri</i> (psalter preface)</h4>
 Incipit ex positio psal-------ans<br>
 --rpirv<i>m</i> qve pver sr cantic--n-----<br>
 Psalteriu<i>m</i> dicitur psallentiu<i>m</i> multoru<i>m</i><br>
@@ -639,32 +639,17 @@ Incipit interpretatio · alt<br>
 <td>--------<br> 
 
 </td> 
-
-<tr> 
-
-<td>G<br> 
-
-</td> 
-
-<td>loria est<br> 
-
-</td> 
-
-<td>T<br> 
-
-</td> 
-
-<td>erra magnificat<br> 
-
-</td> 
 </tr>
+
+
+<tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>erra magnificat<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td> <td>erra miratur<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>----------<br></td></tr>
 <tr><td>G<br></td><td>loria<br></td><td>est</td><td>T<br></td><td>erra tibi dei et ----<br></td></tr>
 <tr><td>G<br></td><td>loria<br></td><td>est<br></td><td>T<br></td><td>erra</td></tr>
 </table> 
 
-<h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4><br>
+<h4 id="oratio-cuiusdam"><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4><br>
 [21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
@@ -737,7 +722,7 @@ tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
 Precor te d<i>omi</i>ne antequa<i>m</i> discutias<!--Check this, I had "distutias"--> me miserere<br>
 mei</b>
 
-<h4>[Section 8 and epilogue of De laude psalmorum]</h4><br>
+<h4 id="de-laude-8">[Section 8 and epilogue of De laude psalmorum]</h4><br>
 SI TE VOLVERIS INTIMENTE EXER<br>
 CERE VIRTVTIS · LAVDIE DECANTA<br>
 SEMP<i>ER</i> PSALMU<i>M</i> BEATI INMACVLATI<br>
@@ -762,7 +747,7 @@ uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
 tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m</i> intimi in<br>
 tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris ·<br>
 
-<h4>[Section I of the Old English Handbook]</h4>
+<h4 id="oe-handbook">[Section I of the Old English Handbook]</h4>
 INCIPIT ORDO CON<br>
 FESSIONIS SACERDOTV<i>M</i> ET OMNIU<i>M</i> CLERI<br>
 CORV<i>M</i> SECVNDV<i>M</i> HIERONIMV<i>M</i> TRACTA<br>
@@ -962,7 +947,7 @@ PENITENTIA MISERICORDITER ME VIAM<br>
 DICAT EI SACERDOS · <b>D<i>omi</i>n<i>u</i>s custodite ab omni malo</b><br>
 usque in finem . Et recedat humiliter ab eo in domum sua<i>m</i>;<br>
 
-<b>[Short version of De laude psalmorum]</b><br>
+<h4 id="de-laude-short"><b>[Short version of De laude psalmorum]</b></h4><br>
 [27r] SENTENTIA LEONIS PAPAE<br>
 QUICU<i>M</i>QUE P<i>RO</i> PECCATIS PENITENTIA<i>M</i><sup>s. uoluerit</sup> AGERE · ET M<i>ER</i>TE<i>M</i><br>
 sua<i>m</i> corporali ac spiritali <i>et</i> letitia inluminari <sup>s. uoluerit</sup><br>
@@ -1002,7 +987,7 @@ D<i>omi</i>ne clamaui · Uoce mea · D<i>omi</i>ne exaudi or[ationem]<br>
 Exaltabo te d<i>eu</i>s m<i>eu</i>s. Laudate d<i>omi</i>n<i>u</i>m de celis ·<br>
 Benedicite om<i>n</i>ia op<i>er</i>a d<i>omi</i>ni d<i>omi</i>no ·</b><br>
 
-<b>[<i>Dicti sancti Augustini</i>]</b><br>
+<h4 id="dicti-sancti"><b>[<i>Dicti sancti Augustini</i>]</b></h4><br>
 [27v] CANTICU<i>M</i> PSALMOR<i>UM</i> · ANIMAS DECORAUIT · IN<br>
 uitat angelos · in adiutoriu<i>m</i> · Effugiat de-<br>
 mones · Expellit tenebras · Efficit s<i>an</i>c<i>t</i>itate<i>m</i><br>
@@ -1038,7 +1023,7 @@ utilitas tristia corda consolat<i>ur</i> · gratiores inertes<br>
 facit · inertes excitat · fastidioses oblectat pecca-<br>
 tores ad lamentu<i>m</i> inuitat;
 
-<h4>[<i>De septiformes Spiritus Sanctus/Isaias se witega</i> (homily on the Holy Spirit)]</h4><br>
+<h4 id="de-septiformes">[<i>De septiformes Spiritus Sanctus/Isaias se witega</i> (homily on the Holy Spirit)]</h4><br>
 [28r] DE SEPTIFORMES<br>
 SP<i>IRITU</i>S S<i>AN</i>C<i>TU</i>S P<i>RO</i> SEPTERNARIA OP<i>ER</i>ATIONE ISAIA PRO<br> 
 ph<i>et</i>a testante septiformis esse credatur<br> 
@@ -1135,6 +1120,8 @@ s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
 ------------------------þearu<i>m</i> ma---------------g· þone<br>
 
 [30r] oððe þæs gramlican deofles·<br> 
+
+<h4 id="suscipere-presta"><b>'Suscipere digneris' and 'Presto queso omnipotens'</b></h4></br>
 <b>Suscipere digneris d<i>omi</i>ne d<i>eu</i>s omnipotens ·<br>
 hos uersiculos consecratos quos ego ac sin<br><!--CHECK!!!-->
 dignus peccator decantare cupio in honore<br>
