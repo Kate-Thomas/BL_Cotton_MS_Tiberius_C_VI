@@ -48,6 +48,9 @@ ff. 7v-16r: Images from the Bible<br>
 ff. 18v: Image of Christ in majesty<br>
 <b>ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+
+f. 21r: WHAT IS THIS?
+
 ff. 21v-22v: <i>Oratio cuiusdam nominis Dei</i> (a guide to morning prayer)<br>
 ff. 22v-23r: Section 8 of ‘De laude psalmorum’ (a treatise on praying with the psalms)<br>
 ff. 23r-27r: Section I of the <i>Old English Handbook</i> (solitary confessional ordo)<br>
@@ -692,41 +695,19 @@ Incipit interpretatio · alt<br>
 </td> 
 
 <tr> 
-
-<td>G<br> 
-
-</td> 
-
-<td>loria est<br> 
-
-</td> 
-
-<td>T<br> 
-
-</td> 
-
-<td>erra tibi dei et ----<br> 
-
-</td> 
-
+<td>G<br></td> 
+<td class="col2">loria<br></td>
+<td>est</td>
+<td>T<br></td> 
+<td>erra tibi dei et ----<br></td>
+</tr>
 <tr> 
-
-<td>G<br> 
-
-</td> 
-
-<td>loria est<br> 
-
-</td> 
-
-<td>T<br> 
-
-</td> 
-
-<td>erra 
-
-</td> 
-
+<td>G<br></td> 
+<td class="col2">loria<br></td>
+<td>est<br></td> 
+<td>T<br></td> 
+<td>erra</td>
+</tr>
 </table> 
 
 <h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4><br>
