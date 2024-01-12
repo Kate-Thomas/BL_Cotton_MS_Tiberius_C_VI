@@ -305,7 +305,7 @@ Incipit interpretatio · alt<br>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi benedicta<br></td></tr>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>T<br></td><td>ibi laus ęterne<br></td></tr>  
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>T<br></td><td>ibi lux lucis<br></td></tr>  
-<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi in lum<br></td></tr><tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td> ucis qui nec -------------------- nubilo regeris rex ęternę glori--- intipitiniti pretatio gloria aput  ----<br></td></tr>  
+<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi in lum<br></td></tr><tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td> ucis qui nec ----- nubilo regeris rex ęternę glori--- intipitiniti pretatio gloria aput  ----<br></td></tr>  
 <tr><td>Q<br></td><td>vid</td><td>est<br></td><td>G<br></td><td>loria<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>--------<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>erra magnificat<br></td></tr>
