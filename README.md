@@ -18,11 +18,11 @@
     font-size: 2em;
   }
   h3 {
-    color: blue;
+    color: green;
     font-size: 1.5em;
   }
   h4 {
-    color: blue;
+    color: green;
     font-weight: bold;
   }
 </style>
@@ -289,22 +289,8 @@ Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 
 [21r] fiat fiat hoc est semper · Deo gratias;<br>
 Incipit interpretatio · alt<br>
-
 <table> 
-
-<tr> 
-
-<td>A<br> 
-
-</td> 
-
-<td>It<br> 
-
-</td>  
-
-<td>est<br> 
-
-</td>  
+<tr><td>A<br></td><td>It<br></td><td>est<br></td></tr>
 
 <td>L 
 
@@ -508,140 +494,11 @@ Incipit interpretatio · alt<br>
 
 </tr>  
 
-<tr> 
-
-<td>A<br> 
-
-</td> 
-
-<td>It<br> 
-
-</td>  
-
-<td>est<br> 
-
-</td>  
-
-<td>T<br> 
-
-</td>  
-
-<td>ibi laus ęterne<br> 
-
-</td>  
-
-</tr>  
-
-<tr> 
-
-<td>A<br> 
-
-</td> 
-
-<td>It<br> 
-
-</td>  
-
-<td>est<br> 
-
-</td>  
-
-<td>T<br> 
-
-</td>  
-
-<td>ibi lux lucis<br> 
-
-</td>  
-
-</tr>  
-
-<tr> 
-
-<td>A<br> 
-
-</td> 
-
-<td>It<br> 
-
-</td>  
-
-<td>est<br> 
-
-</td>  
-
-<td>L 
-
-</td>  
-
-<td>aus tibi in lum<br> 
-
-</td>  
-
-</tr>  
-
-<tr> 
-
-<td>A<br> 
-
-</td> 
-
-<td>It<br> 
-
-</td>  
-
-<td>est<br> 
-
-</td>  
-
-<td>L 
-
-</td>  
-
-<td> ucis qui nec -------------------- nubilo regeris rex ęternę glori--- intipitiniti pretatio gloria aput  ----<br> 
-
-</td>  
-
-</tr>  
-
-<tr> 
-
-<td>Q<br> 
-
-</td> 
-
-<td>vid est<br> 
-
-</td> 
-
-<td>G<br> 
-
-</td> 
-
-<td>loria<br> 
-
-</td> 
-
-<tr> 
-
-<td>G<br> 
-
-</td> 
-
-<td>loria est<br> 
-
-</td> 
-
-<td>T<br> 
-
-</td> 
-
-<td>--------<br> 
-
-</td> 
-</tr>
-
-
+<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>T<br></td><td>ibi laus ęterne<br></td></tr>  
+<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>T<br></td><td>ibi lux lucis<br></td></tr>  
+<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi in lum<br></td></tr><tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td> ucis qui nec -------------------- nubilo regeris rex ęternę glori--- intipitiniti pretatio gloria aput  ----<br></td></tr>  
+<tr><td>Q<br></td><td>vid est<br></td><td>G<br></td><td>loria<br></td></tr>
+<tr><td>G<br></td><td>loria</td><td>est</td><br></td><td>T<br></td><td>--------<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>erra magnificat<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td> <td>erra miratur<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>----------<br></td></tr>
