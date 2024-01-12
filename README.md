@@ -288,9 +288,9 @@ Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 
 [21r] fiat fiat hoc est semper · Deo gratias;<br>
 Incipit interpretatio · alt<br>
-<table><tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi soli<br></td></tr> 
-<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi exercituum<br></td></tr>  
-<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi trinitati<br></td></tr>  
+A&nbsp;&nbsp;&nbsp;&nbsp;It&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi soli<br> 
+A&nbsp;&nbsp;&nbsp;&nbsp;It&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi exercituum<br>  
+<table><tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi trinitati<br></td></tr>  
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi fortis<br></td></tr>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus dulcis<br></td></tr>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus pie<br></td></tr>
