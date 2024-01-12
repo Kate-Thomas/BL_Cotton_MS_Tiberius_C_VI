@@ -31,8 +31,7 @@ td {
 }
 </style>
 
-## About the manuscript
-
+## About the manuscript<br>
 London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.  The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include texts on computus (ff. 2r-7r), line drawings (ff. 7v-16r, 18v, 30v), a short guide to Biblical musical instruments (ff. 16v-18r), psalter prefaces (ff. 19r-20v, 27v-28v), and guides to prayer and confession (ff. 21v-27v).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that the psalter includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
@@ -42,8 +41,7 @@ London, British Library Cotton Tiberius C VI,[^1] or the Tiberius Psalter,[^2] i
        width="max"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-## Contents of the manuscript
-
+## Contents of the manuscript<br>
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.<br>
 <br>
 ff. 2r-7r: computistical texts<br>
@@ -64,8 +62,8 @@ ff. 31r-129v: Gallican psalter<br>
 <param ve-image seq="2" 
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-## Edition 
-<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4> 
+## Edition<br>
+<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4><br>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
@@ -185,7 +183,7 @@ chorus est ·<br>
        region="-978,0,4890,3687"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<h4 id="origo-prophetie">Origo prophetie de regis psalmorum (psalter preface)</h4>
+<h4 id="origo-prophetie">Origo prophetie de regis psalmorum (psalter preface)</h4><br>
 [19r] Origo prophetie de re<br>
 gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
@@ -610,7 +608,7 @@ PENITENTIA MISERICORDITER ME VIAM<br>
 DICAT EI SACERDOS · <b>D<i>omi</i>n<i>u</i>s custodite ab omni malo</b><br>
 usque in finem . Et recedat humiliter ab eo in domum sua<i>m</i>;<br>
 
-<h4 id="de-laude-short"><b>[Short version of De laude psalmorum]</b></h4><br>
+<h4 id="de-laude-short">[Short version of De laude psalmorum]</h4><br>
 [27r] SENTENTIA LEONIS PAPAE<br>
 QUICU<i>M</i>QUE P<i>RO</i> PECCATIS PENITENTIA<i>M</i><sup>s. uoluerit</sup> AGERE · ET M<i>ER</i>TE<i>M</i><br>
 sua<i>m</i> corporali ac spiritali <i>et</i> letitia inluminari <sup>s. uoluerit</sup><br>
@@ -650,7 +648,7 @@ D<i>omi</i>ne clamaui · Uoce mea · D<i>omi</i>ne exaudi or[ationem]<br>
 Exaltabo te d<i>eu</i>s m<i>eu</i>s. Laudate d<i>omi</i>n<i>u</i>m de celis ·<br>
 Benedicite om<i>n</i>ia op<i>er</i>a d<i>omi</i>ni d<i>omi</i>no ·</b><br>
 
-<h4 id="dicti-sancti"><b>[<i>Dicti sancti Augustini</i>]</b></h4><br>
+<h4 id="dicti-sancti">[<i>Dicti sancti Augustini</i>]</h4><br>
 [27v] CANTICU<i>M</i> PSALMOR<i>UM</i> · ANIMAS DECORAUIT · IN<br>
 uitat angelos · in adiutoriu<i>m</i> · Effugiat de-<br>
 mones · Expellit tenebras · Efficit s<i>an</i>c<i>t</i>itate<i>m</i><br>
@@ -784,7 +782,7 @@ s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
 
 [30r] oððe þæs gramlican deofles·<br> 
 
-<h4 id="suscipere-presta"><b>'Suscipere digneris' and 'Presto queso omnipotens'</b></h4></br>
+<h4 id="suscipere-presta">'Suscipere digneris' and 'Presto queso omnipotens'</h4></br>
 <b>Suscipere digneris d<i>omi</i>ne d<i>eu</i>s omnipotens ·<br>
 hos uersiculos consecratos quos ego ac sin<br><!--CHECK!!!-->
 dignus peccator decantare cupio in honore<br>
