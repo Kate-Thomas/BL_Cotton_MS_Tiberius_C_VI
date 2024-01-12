@@ -51,10 +51,7 @@ ff. 7v-16r: Images from the Bible<br>
 <b>ff. 16v-18r: <i><a href="#nabulum-est">Nabulum est quod grece dicitur tympanum</a></i> (an illustrated text on Biblical musical instruments)</b><br>
 ff. 18v: Image of Christ in majesty<br>
 <b>ff. 19r-20r: <i><a href="#origo-prophetie">Origo prophetie de regis psalmorum</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-f. 20r-v: <i><a href="#incipit-expositio">Incipit expositio Psalteri</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
-
-f. 21r: WHAT IS THIS?
-
+f. 20r-21r: <i><a href="#incipit-expositio">Incipit expositio Psalteri</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text from Origo prophetie, and is the table on 21r also separate?  Check -->
 ff. 21v-22v: <i><a href="#oratio-cuiusdam">Oratio cuiusdam nominis Dei</a></i> (a guide to morning prayer)<br>
 ff. 22v-23r: <a href="#de-laude-8">Section 8 of ‘De laude psalmorum’</a> (a treatise on praying with the psalms)<br>
 ff. 23r-27r: <a href="#oe-handbook">Section I of the <i>Old English Handbook</i></a> (solitary confessional ordo)<br>
@@ -301,7 +298,7 @@ Incipit interpretatio · alt<br>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus dulcis<br></td></tr>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus pie<br></td></tr>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus<br></td></tr>  
-<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>Aua crus<br></td></tr>  
+<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aua crus<br></td></tr>  
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi benedicta<br></td></tr>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>T<br></td><td>ibi laus ęterne<br></td></tr>  
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>T<br></td><td>ibi lux lucis<br></td></tr>  
