@@ -657,57 +657,11 @@ Incipit interpretatio · alt<br>
 <td>erra magnificat<br> 
 
 </td> 
-
-<tr> 
-
-<td>G<br> 
-
-</td> 
-
-<td>loria est<br> 
-
-</td> 
-
-<td>T<br> 
-
-</td> 
-
-<td>erra miratur<br> 
-
-</td> 
-
-<tr> 
-
-<td>G<br> 
-
-</td> 
-
-<td>loria est<br> 
-
-</td> 
-
-<td>T<br> 
-
-</td> 
-
-<td>----------<br> 
-
-</td> 
-
-<tr> 
-<td>G<br></td> 
-<td class="col2">loria<br></td>
-<td>est</td>
-<td>T<br></td> 
-<td>erra tibi dei et ----<br></td>
 </tr>
-<tr> 
-<td>G<br></td> 
-<td class="col2">loria<br></td>
-<td>est<br></td> 
-<td>T<br></td> 
-<td>erra</td>
-</tr>
+<tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td> <td>erra miratur<br></td></tr>
+<tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>----------<br></td></tr>
+<tr><td>G<br></td><td>loria<br></td><td>est</td><td>T<br></td><td>erra tibi dei et ----<br></td></tr>
+<tr><td>G<br></td><td>loria<br></td><td>est<br></td><td>T<br></td><td>erra</td></tr>
 </table> 
 
 <h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4><br>
