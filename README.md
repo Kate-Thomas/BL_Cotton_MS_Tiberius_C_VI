@@ -44,7 +44,7 @@ This edition covers the items shown below in <b>bold</b>.  Abbreviations have be
 <br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
-<b>ff. 16v-18r: <i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)</b><br>
+<b>ff. 16v-18r: <i><a href="#nabulum-est">Nabulum est quod grece dicitur tympanum</a></i> (an illustrated text on Biblical musical instruments)</b><br>
 ff. 18v: Image of Christ in majesty<br>
 <b>ff. 19r-20r: <i>Origo prophetie de regis psalmorum</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 f. 20r-v: <i>Incipit expositio Psalteri</i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
@@ -64,7 +64,7 @@ ff. 31r-129v: Gallican psalter<br>
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 ## Edition 
-<h4>[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4> 
+<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4> 
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
