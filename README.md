@@ -288,8 +288,7 @@ Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 
 [21r] fiat fiat hoc est semper · Deo gratias;<br>
 Incipit interpretatio · alt<br>
-<table> 
-<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi soli<br></td></tr> 
+<table><tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi soli<br></td></tr> 
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi exercituum<br></td></tr>  
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi trinitati<br></td></tr>  
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi fortis<br></td></tr>
@@ -300,15 +299,15 @@ Incipit interpretatio · alt<br>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi benedicta<br></td></tr>
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>T<br></td><td>ibi laus ęterne<br></td></tr>  
 <tr><td>A<br></td><td>It<br></td><td>est<br></td><td>T<br></td><td>ibi lux lucis<br></td></tr>  
-<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi in lum<br></td></tr><tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td> ucis qui nec ----- nubilo regeris rex ęternę glori--- intipitiniti pretatio gloria aput  ----<br></td></tr>  
+<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td>aus tibi in lum<br></td></tr>
+<tr><td>A<br></td><td>It<br></td><td>est<br></td><td>L</td><td> ucis qui nec ----- nubilo regeris rex ęternę glori--- intipitiniti pretatio gloria aput  ----<br></td></tr>  
 <tr><td>Q<br></td><td>vid</td><td>est<br></td><td>G<br></td><td>loria<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>--------<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>erra magnificat<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td> <td>erra miratur<br></td></tr>
 <tr><td>G<br></td><td>loria</td><td>est<br></td><td>T<br></td><td>----------<br></td></tr>
 <tr><td>G<br></td><td>loria<br></td><td>est</td><td>T<br></td><td>erra tibi dei et ----<br></td></tr>
-<tr><td>G</td><td>loria</td><td>est</td><td>T</td><td>erra</td></tr>
-</table> 
+<tr><td>G</td><td>loria</td><td>est</td><td>T</td><td>erra</td></tr></table> 
 
 <h4 id="oratio-cuiusdam"><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4>
 [21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
