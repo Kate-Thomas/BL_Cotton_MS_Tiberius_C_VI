@@ -25,7 +25,7 @@
     color: green;
     font-weight: bold;
   }
-table {
+td {
        vertical-align: top;
 }
 </style>
