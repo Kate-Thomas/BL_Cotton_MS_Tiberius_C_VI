@@ -25,6 +25,9 @@
     color: green;
     font-weight: bold;
   }
+table {
+       vertical-align: top;
+}
 </style>
 
 ## About the manuscript
