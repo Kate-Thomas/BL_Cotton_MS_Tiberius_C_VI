@@ -287,6 +287,32 @@ Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 [21r] fiat fiat hoc est semper · Deo gratias;<br>
 Incipit interpretatio · alt<br>
 
+<table> 
+
+<tr> 
+
+<td>A<br> 
+
+</td> 
+
+<td>It<br> 
+
+</td>  
+
+<td>est<br> 
+
+</td>  
+
+<td>L 
+
+</td>  
+
+<td>aus tibi soli<br> 
+
+</td>  
+
+</tr> 
+</table>
 
 <h4><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4><br>
 [21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
