@@ -64,13 +64,13 @@ ff. 31r-129v: Gallican psalter<br>
 
 ## Edition
 <h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
-[16v] Nabulum est quod grece<br>
+<p>[16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
 dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
-thare<br>
+thare<br></p>
 <param ve-image seq="3"
        region="206,-99,1203,779"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
@@ -96,7 +96,7 @@ in collo<br>
 
 Hoc est forma cy-<br>
 thare quis prius<br>
-fuit cytharista · id est ·<br>
+fuit cytharista · id est&nbsp;·<br>
 toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
 ortum distar ut<br>
@@ -123,7 +123,7 @@ dr. cinares ut quidam putant<br>
 acitabulum q<i>ui</i> percusa in modu-<br>
 los concitatur quidam putant<br>
 fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
-menti · <i>ue</i>l decortice ·<br>
+menti · <i>ue</i>l decortice&nbsp;·<br>
 <param ve-image seq="4"
        region="1223,492,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
@@ -139,7 +139,7 @@ deductae<br>
 
 Pennola pennoil<br>
 Nun cupatur<br>
-hęc forma ·<br>
+hęc forma&nbsp;·<br>
 <param ve-image seq="4"
        region="1573,2307,1444,935"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
@@ -153,7 +153,7 @@ bus cicutis<br>
 
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
-Hęc est forma psalterii ·<br>
+Hęc est forma psalterii&nbsp;·<br>
 <param ve-image seq="5"
        region="1212,679,1203,779"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
@@ -173,7 +173,7 @@ Hęc est forma eiusde<i>m</i><br>
 chori quattuor –<br>
 chordas habeth<br>
 de ligno modulatus<br>
-chorus est ·<br>
+chorus est&nbsp;·<br>
 <param ve-image seq="6"
        region="883,2437,1410,1063"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
@@ -194,7 +194,7 @@ iesse cum esset in -----<br>
 quattuor elegti qui psalmos facerent<br>
 Id est asaph · ęman · a<i>et</i>han · <i>et</i> iditbun<br><!--??-->
 Octoginta octo ergo dicebant psal-<br>
-mos · <i>et</i>cc · sub psalma <i>et</i> cythara ·<br>
+mos · <i>et</i>cc · sub psalma <i>et</i> cythara&nbsp;·<br>
 p<i>er</i>cutiebat abiuth · Cu<i>m</i> david redux<br>
 issed archa<i>m</i> inhier<i>ve</i>lin post annos<br><!--??-->
 xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MANSIT, CHECK-->
@@ -207,7 +207,7 @@ in subiugulali nouo · Et adduxit in-<br>
 [19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filior<i>um</i> isrt<br>
 l ex milia a [<i>lac.</i>] ros . De tribuaute<i>m</i> leui · cclxx octa<br>
 milia in ros exquibus quattuor principes preess<i>et</i><br>
-cantionib<i>us</i> instituit  Asaph · ęm--n · --ethan ·<br>
+cantionib<i>us</i> instituit  Asaph · ęm--n · --ethan&nbsp;·<br>
 Et idithun ·  Vniunq<i>ue</i> eor<i>um</i> diuidens · Lx--n uiros<br>
 succlamantes laude<i>m</i> cantionu<i>m</i> d<i>omi</i>no; Et un<i>ius</i>quisqu<i>os</i> .<br>
 eor<i>um</i> feriebat cymbalum alius cythara<i>m</i> · alius<br>
@@ -227,12 +227,12 @@ iuxta teodotionis dumtaxat ęditionę<i>m</i> qui sim<br>
 pliitate sermonis alxx interpretib<i>us</i> non dis<br>
 cordat · Haec scribta <i>et</i> uobis <i>et</i> studio locuiq<i>ue</i><br>
 fecisse inescieris non ambigo multos qui uel<br>
-inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere ·<br>
+inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
 ---lere ---lara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
 <param ve-image seq="9"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
-[20r] magis riuo qua<i>m</i> de purissimo fontat portare ·<br>
+[20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
 
 <h4 id="incipit-expositio"><i>Incipit expositio Psalteri</i> (psalter preface)</h4>
 Incipit ex positio psal-------ans<br>
@@ -271,7 +271,7 @@ ille adnuntiauit quod isti testant<i>ur</i> ·  Asaph ·</br>
 hoc excipientes · Narrabant hosquinq<i>ue</i> libros</br>
 qui in fine<i>m</i> ita habent · <i>et</i> ita inuenies in finem<br>
 libri · fiat fiat · Liber primvs<br><!--IS THIS CAPITALISED?-->
-Explicit in fine<i>m</i> psalm<i>um</i> .xl. qui sic habet fiat fiat ·<br>
+Explicit in fine<i>m</i> psalm<i>um</i> .xl. qui sic habet fiat fiat&nbsp;·<br>
 Explicit in fine<i>m</i> psalm<i>um</i> · Lxxi · Liber · II<br>
 qui sic habet fiat fiat · Liber · III<br>
 Explicit in finem psalm<i>um</i> · Lxxx · viii<br>
@@ -279,11 +279,11 @@ qui sic habet fiat fiat · Liber IIII<br>
 Explicit in finem psalm<i>um</i> ·cv·<br>
 qui sic habet fiat fiat · Liber ·v<br>
 Explicit in fine<i>m</i> psalm<i>um</i> cl. qui sic habeth<br>
-anins spiritus laudet dominum ·<br>
+anins spiritus laudet dominum&nbsp;·<br>
 --est fiat fiat quod est amen quodest om<i>n</i>is<br>
-spiritus laudet dominu<i>m</i> ·<br>
+spiritus laudet dominu<i>m</i>&nbsp;·<br>
 om<i>ni</i>p<i>oten</i>s quod est fiat fiat quod est spiritus req<i>uir</i>es;<br>
-Quod est sp<i>iritu</i>s laudat · Quod est sp<i>iritu</i>s pausat ·<br>
+Quod est sp<i>iritu</i>s laudat · Quod est sp<i>iritu</i>s pausat&nbsp;·<br>
 Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 
 [21r] fiat fiat hoc est semper · Deo gratias;<br>
@@ -330,8 +330,8 @@ ne in furore tuo</b> ·i· Inde ad te d<i>omi</i>ne Leuaui · Inde<br>
 <b>miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>dum magna<i>m</i></b> · Inde <b>miserere<br>
 mei d<i>eu</i>s· miserere mei</b> · Inde <b>inclina d<i>omi</i>ne aurem<br>
 tua<i>m</i></b> · Inde <b>d<i>omi</i>ne d<i>eu</i>s saluus męę</b> ·Inde <b>uenite ex-<br>
-ultem<i>us</i> d<i>omi</i>no</b> · Inde <b>D<i>omi</i>ne exaudi oratione<i>m</i> mea<i>m</i></b> ·<br>
-prim<i>us</i> · Inde <b>benedic anima mea d<i>omi</i>no <i>et</i> omnia</b> ·<br>
+ultem<i>us</i> d<i>omi</i>no</b> · Inde <b>D<i>omi</i>ne exaudi oratione<i>m</i> mea<i>m</i></b>&nbsp;·<br>
+prim<i>us</i> · Inde <b>benedic anima mea d<i>omi</i>no <i>et</i> omnia</b>&nbsp;·<br>
 Inde <b>d<i>omi</i>ne exaudi oratione<i>m</i> meam</b> ·ii· Post unu<i>m</i><br>
 quoq<i>ue</i> psalmu<i>m</i> dans gl<i>ori</i>am deo genua flec-<br>
 tendo cum capite deuoluto interra· P<i>er</i>cuti-<br>
@@ -344,7 +344,7 @@ d<i>omi</i>ne adiuua me <i>et</i> libera me p<i>ro</i>pter nomen tuu<i>m</i></b>
 Deinde quantos psalmos uolueris p<i>er</i> ordinem<br>
 canebis; Nouissime uero sequeris ista<i>m</i> oratione<i>m</i><br>
 <i>et</i> p<i>rae</i>uoces sup<i>er</i> te mis<i>eri</i>c<i>or</i>dia<i>m</i> dei <i>et</i> ueniente<i>m</i> <i>ex</i> miseri<br>
-cordia<i>m</i> a deo cons[e]queris <i>et</i>mitias exorare ·<br>
+cordia<i>m</i> a deo cons[e]queris <i>et</i>mitias exorare&nbsp;·<br>
 <b>OM<i>NI</i>P<i>OTEN</i>S SEMPITERNE D<i>EU</i>S REX REGU<i>M</i> ET D<i>OMI</i>N<i>U</i>S<br>
 dominantiu<i>m</i> creator omniu<i>m</i> uniuersaru<i>m</i><br>
 quę in cęlis sunt <i>et</i> quę sup<i>er</i> terra<i>m</i> <i>et</i>om<i>ni</i>s abyssos<br>
@@ -356,7 +356,7 @@ descendere <i>et</i> carne<i>m</i> humani generis sumere<br>
 di me miseru<i>m</i> <i>et</i> infelice<i>m</i> ad te clamantem<br>
 <i>et</i> te humiliter deprecante<i>m</i> p<i>ro</i> uniuersis malis<br>
 meis que gessi quia peccaui nimis in uita<br>
-mea suadente inimico humani generis ·<br>
+mea suadente inimico humani generis&nbsp;·<br>
 Consentiente prauę uoluptatis meae · Delec<br>
 tante<i>m</i> seditate<i>m</i> carnis inmunditię meae;<br>
 Peccaui nimis more meo peccaui deus m<i>er</i>s<i>et</i>-<br><!--mersetcoram??  Check this-->
@@ -386,7 +386,7 @@ mei</b>
 SI TE VOLVERIS INTIMENTE EXER<br>
 CERE VIRTVTIS · LAVDIE DECANTA<br>
 SEMP<i>ER</i> PSALMU<i>M</i> BEATI INMACVLATI<br>
-IN VIA QUI AMBVLAVERIS ·<br>
+IN VIA QUI AMBVLAVERIS&nbsp;·<br>
 ET LICET SUISQ<i>UE</i> AD OBITU<i>M</i> UITĘ HUIUS<br>
 psalmi uirtute<i>m</i> conte<i>m</i>plaueris atque<br>
 scrutaueris · nu<i>m</i>qua<i>m</i> p<i>er</i>fecte illu<i>m</i> ut puto<br>
@@ -405,7 +405,7 @@ ph<i>et</i>ato incarnatione<i>m</i> quoq<i>ue</i> hac passione<i>m</i> resur<br>
 rectione<i>m</i>q<i>ue</i> atq<i>ue</i> ascensione<i>m</i> dominica<i>m et</i> omne<i>m</i><br>
 uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
 tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m</i> intimi in<br>
-tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris ·<br>
+tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris&nbsp;·<br>
 
 <h4 id="oe-handbook">[Section I of the Old English Handbook]</h4>
 INCIPIT ORDO CON<br>
@@ -434,14 +434,14 @@ orate p<i>ro</i> me peccatore ad d<i>omi</i>n<i>u</i>m ut merear possi-<br>
 dere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i> · S<i>an</i>c<i>t</i>e petre ora p<i>ro</i> me pecca<br>
 tore · S<i>an</i>c<i>t</i>e paule ora p<i>ro</i> me peccatore · S<i>an</i>c<i>t</i>e an-<br>
 dręę ora p<i>ro</i> me peccatore · S<i>an</i>c<i>t</i>e Iacobe ora p<i>ro</i> me<br>
-peccatore · S<i>an</i>c<i>t</i>e ioh<i>ann</i>es ora p<i>ro</i> me peccatore ·<br>
+peccatore · S<i>an</i>c<i>t</i>e ioh<i>ann</i>es ora p<i>ro</i> me peccatore&nbsp;·<br>
 Om<i>ni</i>s s<i>an</i>c<i>t</i>i ap<i>osto</i>li orate p<i>ro</i> me peccatore ad d<i>omi</i>n<i>u</i>m · ut<br>
 merear possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i> · S<i>an</i>c<i>t</i>e stephane<br>
 ora p<i>ro</i> me peccatore · S<i>an</i>c<i>t</i>e clemens ora p<i>ro</i> me pecca<br>
 tore · Om<i>ni</i>s s<i>an</i>c<i>t</i>i martyres orate p<i>ro</i> me peccatore<br>
 ad d<i>omi</i>n<i>u</i>m · ut merear possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i>.<br>
 S<i>an</i>c<i>t</i>e leo ora p<i>ro</i> me peccatore · S<i>an</i>c<i>t</i>e silus ora p<i>ro</i> me<br>
-peccatore · S<i>an</i>ct<i>e</i> donate ora p<i>ro</i> me peccatore ·<br>
+peccatore · S<i>an</i>ct<i>e</i> donate ora p<i>ro</i> me peccatore&nbsp;·<br>
 Om<i>ne</i>s s<i>an</i>c<i>t</i>i confessores orate p<i>ro</i> me ad d<i>omi</i>n<i>u</i>m · ut merear<br>
 possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i>;</b> POST HEC AVTE<i>M</i> CV<i>M</i><br>
 FIDVCIA SVRGENS CONFITEAT<i>VR</i> PENI<br>
@@ -462,7 +462,7 @@ cora<i>m</i> sacerdote tuo om<i>n</i>ia peccata mea · <i>et</i> quic-<br>
 quid d<i>e</i>i pietas mihi ad memoria<i>m</i> reducit · Decogi-<br>
 tationib<i>us</i> malis <i>et</i> sermonib<i>us</i> otiosis siue inmun-<br>
 dis <i>et</i> op<i>er</i>ib<i>us</i> prauis q<i>uo</i>cu<i>m</i>q<i>ue</i> ego feci contra p<i>re</i>cępta d<i>e</i>i<br>
-Ego confiteor om<i>n</i>ia odia cordis <i>et</i> corporis mei ·<br>
+Ego confiteor om<i>n</i>ia odia cordis <i>et</i> corporis mei&nbsp;·<br>
 inuidias · detractiones · p<i>er</i>iuria· furta · maledicta<br>
 conuitia turpiloquia · scurrilitates · m<i>en</i>dacia irrisi<br>
 ones · murmurationes · adolationes · tristitias<br>
@@ -472,7 +472,7 @@ c<i>on</i>fiteor q<i>ui</i>a d<i>e</i>i p<i>re</i>cepta post posui <i>et</i> tra
 p<i>er</i> sup<i>er</i>bia<i>m</i> · <i>et</i> elatione<i>m</i> · <i>et</i> pigritia<i>m</i> · <i>et</i> uoluptates<br>
 inmundas· P<i>er</i>petraui aute<i>m</i> fornicationes · polluti<br>
 ones · luxurias · ębrietates · co<i>m</i>messationes · homici<br>
-dia · manifeste · <i>et</i> occulte · in anima · <i>et</i> corpore ·<br>
+dia · manifeste · <i>et</i> occulte · in anima · <i>et</i> corpore&nbsp;·<br>
 Ego confiteor quia ad patre<i>m</i> meu<i>m</i> <i>et</i> matre<i>m</i> · fr<i>atre</i>s<br>
 <i>et</i> sorores · patruos <i>et</i> a<i>m</i>mittas · c<i>um</i> sobrinos siue</b><br>
 
@@ -496,23 +496,23 @@ n<i>on</i> refici · Dolentes <i>et</i> flentes n<i>on</i> consolat<i>us</i> su<
 discordantes · siue parentes meos · siue <i>ch</i>r<i>ist</i>ianos<br>
 rixantes plus ad ira<i>m</i> qua<i>m</i> ad pace<i>m</i> incitatui q<i>uo</i>d<br>
 credere debui credidi · Ego c<i>on</i>fiteor q<i>ui</i>a multu<i>m</i><br>
-peccaui in uisu· auditu · gustu · odoratu · <i>et</i> tactu ·<br>
+peccaui in uisu· auditu · gustu · odoratu · <i>et</i> tactu&nbsp;·<br>
 <i>et</i> multa · mala cogitaui · <i>et</i> p<i>er</i>petraui · <i>et</i> cum<br>
 mala uoluntate consensi· mala dedi con-<br>
 silia c<i>on</i>tra d<i>e</i>i p<i>re</i>ceptu<i>m</i> · <i>et</i> d<i>e</i>i uoluntate · Ego con-<br>
 fiteor q<i>ui</i>a in s<i>an</i>c<i>t</i>a<i>m</i> dei ęccl<i>esi</i>a multa mala cogitaui ·</b><br>
  
 [25r] <b><i>et</i> locut<i>us</i> fui <i>et</i> petraui inordinare <i>et</i> sup<i>er</i>be intra<br>
-s<i>an</i>ctam ęccl<i>esi</i>am steti · osculantes sedi · aspexi · p<i>er</i>rexi ·<br>
-iacui · consensi · intraui · tetigi · <i>et</i> similit<i>er</i> exiui ·<br>
-in om<i>ni</i>b<i>us</i> locis ubicu<i>m</i>q<i>ue</i> uoluptas corporis mei ·<br>
+s<i>an</i>ctam ęccl<i>esi</i>am steti · osculantes sedi · aspexi · p<i>er</i>rexi&nbsp;·<br>
+iacui · consensi · intraui · tetigi · <i>et</i> similit<i>er</i> exiui&nbsp;·<br>
+in om<i>ni</i>b<i>us</i> locis ubicu<i>m</i>q<i>ue</i> uoluptas corporis mei&nbsp;·<br>
 me p<i>er</i>duxit <i>et</i> mecu<i>m</i> p<i>er</i>seuerauit <i>et</i> osculo nefando<br>
 pollut<i>us</i> fui· P<i>er</i> s<i>an</i>c<i>t</i>am altare <i>et</i> in ęccl<i>esi</i>a consecrata<br>
 <i>et</i> in cruce benedicta ·<i>et</i> p<i>er</i> s<i>an</i>ctas reliquias · <i>et</i> p<i>er</i> dei<br>
 nomen <i>et</i> s<i>an</i>c<i>t</i>or<i>um</i> nomina <i>et</i> corpora iuraui <i>et</i> per<br>
 iuraui · Ego confiteor · quia om<i>n</i>ipotenti deo <i>et</i><br>
-om<i>n</i>ib<i>us</i> s<i>an</i>c<i>t</i>is <i>et</i> om<i>n</i>ib<i>us</i> hominib<i>us</i> bonis inobędiens ·<br>
-contentiosus · inuidiosus · iracundus · auarus ·<br>
+om<i>n</i>ib<i>us</i> s<i>an</i>c<i>t</i>is <i>et</i> om<i>n</i>ib<i>us</i> hominib<i>us</i> bonis inobędiens&nbsp;·<br>
+contentiosus · inuidiosus · iracundus · auarus&nbsp;·<br>
 cupidus · rapax · incredulus · consecratu<i>m</i> dei<br>
 mynisteriu<i>m</i> · <i>et</i> reliquias · <i>et</i> s<i>an</i>c<i>t</i>os libros · <i>et</i> s<i>an</i>c<i>t</i>a<i>m</i> uasa<br>
 indign<i>us</i> <i>et</i> pollut<i>us</i> tetigi · <i>et</i> portaui · <i>et</i> oratione<i>m</i><br>
@@ -525,7 +525,7 @@ d<i>omi</i>ni sup<i>er</i> me p<i>er</i>horrui · Ego c<i>on</i>fiteor · quia i
 <i>et</i> psalmodias · <i>et</i> orationes · <i>et</i> secutiones post<br>
 cruces debes nudus uestigus incedere sic<i>ut</i> d<i>eu</i>s<br>
 pręcepit agere cu<i>m</i> om<i>n</i>i humilitate cordis <i>et</i><br>
-corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · a regibus ·<br>
+corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · a regibus&nbsp;·<br>
 <i>et</i> imperatorib<i>us</i> non custodiui · nęc adimpleui ·</b><br>
 
 [25v] <b>Episcopos p<i>re</i>sbit<i>er</i>os · abbates · monachos · canonicos · <i>et</i><br>
@@ -544,7 +544,7 @@ miens · siue quali cu<i>m</i>q<i>ue</i> causa cogitasse uoluisse<br>
 contra dei uoluntate<i>m</i> · Sic ego hodie tibi d<i>eu</i>s cęli<br>
 <i>et</i> terrę om<i>n</i>ia confiteor cora<i>m</i> s<i>an</i>c<i>t</i>o altare tuo in<br>
 pura <i>et</i> uera confessione <i>et</i> uoluntate ad ęm<i>en</i><br>
-dandu<i>m</i> <i>et</i> hęc om<i>n</i>ia peccata deincęps dimit ·<br>
+dandu<i>m</i> <i>et</i> hęc om<i>n</i>ia peccata deincęps dimit&nbsp;·<br>
 tendu<i>m</i> · Vt tu om<i>n</i>ip<i>oten</i>s d<i>eu</i>s qui dixisti nolo morte<i>m</i><br>
 peccatoris · sed ut conuertat<i>ur</i> <i>et</i> uiuat · Misere<br>
 -aris animę meae <i>et</i> parcas· <i>et</i> remittas <i>et</i><br>
@@ -567,9 +567,9 @@ ET PENITENS RESPONDEAT<br>
 <b>Conuerte nos salutans n<i>oste</i>r · Conuertere d<i>omi</i>ne usq<i>ue</i>quo · Adiutori<br>
 n<i>ost</i>r<i>u</i>m in nomine d<i>omi</i>ni · Fiat mis<i>eri</i>c<i>or</i>dia tua d<i>omi</i>ne · Ostende nobis d<i>omi</i>n<i>e</i></b><br>
 ET POSTEA QUA CONFESSVS · FVERIT PECCA<br><!--This is probably capitalised-->
-TA SVA ANTE ALTARE DICAT ·<br>
+TA SVA ANTE ALTARE DICAT&nbsp;·<br>
 <b>D<i>omi</i>ne ne in furore tuo ·iii· Et miserere mei d<i>eu</i>s usq<i>ue</i> in finem ·</b><br>
-Cu<i>m</i> gl<i>ori</i>a · Et <b>quid gl<i>ori</i>aris</b> usq<i>ue</i> uidebunt iusti <i>et</i>timebunt ·<br>
+Cu<i>m</i> gl<i>ori</i>a · Et <b>quid gl<i>ori</i>aris</b> usq<i>ue</i> uidebunt iusti <i>et</i>timebunt&nbsp;·<br>
 Et <b>uenite exultem<i>us</i> d<i>omi</i>no</b> usq<i>ue</i> nolite obdurare corda ura · Et<br>
 <b>iubilate d<i>omi</i>no om<i>n</i>is terra</b> · <b>seruite d<i>omi</i>no</b> usq<i>ue</i> in fine<i>m</i> · Et <b>bene<br>
 dic anima mea d<i>omi</i>no <i>et</i> om<i>n</i>ia</b> usq<i>ue</i> iuuentus tua · Cu<i>m</i> gl<i>ori</i>a<br>
@@ -577,17 +577,17 @@ ET POSTEA SVRGENTES PARIT<i>ER</i> DICANT<br>
 <b>Vias tuas d<i>omi</i>ne demonstra mihi</b> . usq<i>ue</i> bonitate<i>m</i> tua<i>m</i> domine .<br>
 Gl<i>ori</i>a· parit<i>er</i> · ET POST HEC OM<i>N</i>IA DICAT ----<br><!--CHECK THIS!!-->
 AVT DIACON<i>US</i> COLL<i>EC</i>TAS SVP<i>ER</i> INCLINATU<i>M</i><br>
-EI<i>US</i> CAPVT DICENS · <b>D<i>omi</i>n<i>u</i>s uobiscum · Et cu<i>m</i> sp<i>irit</i>u tuo ·<br>
+EI<i>US</i> CAPVT DICENS · <b>D<i>omi</i>n<i>u</i>s uobiscum · Et cu<i>m</i> sp<i>irit</i>u tuo&nbsp;·<br>
 Exaudi d<i>omi</i>ne preces n<i>ost</i>ras <i>et</i> confitentiu<i>m</i> ----</b><br><!--CHECK THIS!!-->
 
 [26v] <b>tibi parce peccatis ut quos conscientię reat<i>ur</i> accussat<br>
 indulgentię tuę miserationis absoluat · p<i>er</i> ·</b> ALIA<br>
 Adesto d<i>omi</i>ne supplicationib<i>us</i> n<i>ost</i>r<i>i</i>s nescit ab ho<sup>a</sup>c<br><!--CHECK THIS!!-->
 famulo<sup>a</sup> tuo<sup>a</sup> ill. clem<i>en</i>tię tuę longinqua<br>
-miratio sana uulneror ei<i>us</i> quere mitte peccat ·<br>
+miratio sana uulneror ei<i>us</i> quere mitte peccat&nbsp;·<br>
 ut nullis a te iniquitatib<i>us</i> separatas tibi d<i>omi</i>ne<br>
 ualeat adherere · p<i>er</i> ·</b> ALIA<br>
-<b>D<i>omi</i>ne d<i>eu</i>s n<i>oste</i>r qui offensione n<i>ost</i>ra non uinceris ·<br>
+<b>D<i>omi</i>ne d<i>eu</i>s n<i>oste</i>r qui offensione n<i>ost</i>ra non uinceris&nbsp;·<br>
 sed satisfactione preclaris · respice q<i>uo</i>s ad<br>
 hu<sup>a</sup>nc famulu<sup>a</sup>m tuu<sup>a</sup>m · ill. quere tibi peccasse gra<br>
 uiter confitet<i>ur</i> tuu<i>m</i> est eni<i>m</i> oblutione<i>m</i> criminu<i>m</i><br>
@@ -617,7 +617,7 @@ Et si sibi presens uita fustidiosa fuerit · Et uoluerit<br><!--CHECK FUSTIDIOSA
 uita<i>m</i> cęleste<i>m</i> requirere <i>et</i> si se in tribulatione a deo<br>
 derelictu<i>m</i> esse cognouerit · Et si se uoluerit in<br>
 diuinus laudib<i>us</i> exercere · <i>et</i> se exaudiri a deo·<br>
-et p<i>ro</i> se eum expugnare contra inimicos suos ·<br>
+et p<i>ro</i> se eum expugnare contra inimicos suos&nbsp;·<br>
 <i>et</i> ab inopia miseriaq<i>ue</i> se eripi · <i>et</i> se in innocentia<i>m</i><br>
 melioris uitę adeo constitui <sup>s. uoluerit</sup> <i>et</i>se in inluminari · <sup>s. uoluerit</sup><br><!--ADEO OR A DEO?  CHECK BLACK-->
 p<i>ro</i>tegi <i>et</i> saluari a deo <i>et</i>accip<i>er</i>e remissionem<br>
@@ -632,7 +632,7 @@ D<i>eu</i>s d<i>eu</i>s m<i>eu</i>s respice· Ad te d<i>omi</i>ne leuaui · Iudi
 d<i>omi</i>ne q<i>ua</i>m · D<i>omi</i>n<i>u</i>s inluminatio mea · Beati quor<i>um</i></b><br>
 
 [27v] <b>Benedica d<i>omi</i>n<i>u</i>m · D<i>omi</i>ne ne in furore tuo</b> ·ii· <b>Que<i>m</i> ad<br><!--CHECK THIS PAGE, SOME ABBREVIATIONS NOT CORRECT?-->
-modu<i>m</i>. D<i>eu</i>s aurib<i>us</i> n<i>ost</i>ris · Miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>d<i>u</i>m ·<br>
+modu<i>m</i>. D<i>eu</i>s aurib<i>us</i> n<i>ost</i>ris · Miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>d<i>u</i>m&nbsp;·<br>
 D<i>eu</i>s in nomine tuo· Exaudid<i>eu</i>s oratione mea<i>m</i></b> <i>et</i> ne d.<br>
 <b>Miserere mei d<i>eu</i>s miserere mei. D<i>eu</i>s d<i>eu</i>s m<i>eu</i>s ad te d.<br>
 Exaudi d<i>eu</i>s orat</b> cu<i>m</i> dep. <b>D<i>eu</i>s misereat<i>ur</i> n<i>ost</i>ri. Saluu<i>m</i><br>
@@ -640,11 +640,11 @@ me fac d<i>eu</i>s. D<i>eu</i>s in adiutoriu<i>m</i>. In te d<i>omi</i>ne sperau
 <b>Qua<i>m</i> dilecta· Inclina d<i>omi</i>ne D<i>omi</i>ne exaudi</b> ·i·<br>
 <b>Benedic anima mea d<i>eus et</i> om<i>n</i>ia· Benedic anima<br>
 mea d<i>omi</i>no d<i>eus</i> d<i>eu</i>s m<i>eu</i>s. Dilexi q<i>ua</i>m· Laudate d<i>o</i>mi<i>n</i>um<br> 
-om<i>ni</i>s· Beati inmaculati· Ad te leuaui oculos ·<br>
+om<i>ni</i>s· Beati inmaculati· Ad te leuaui oculos&nbsp;·<br>
 De p<i>ro</i>fundis · Confitemini d<i>omi</i>no q<i>ua</i>m bon<i>us</i> · Confite<br>
 bor tibi d<i>eus</i>· D<i>omi</i>ne p<i>ro</i>basti me · Eripe me d<i>omi</i>ne.<br>
 D<i>omi</i>ne clamaui · Uoce mea · D<i>omi</i>ne exaudi or[ationem]<br>
-Exaltabo te d<i>eu</i>s m<i>eu</i>s. Laudate d<i>omi</i>n<i>u</i>m de celis ·<br>
+Exaltabo te d<i>eu</i>s m<i>eu</i>s. Laudate d<i>omi</i>n<i>u</i>m de celis&nbsp;·<br>
 Benedicite om<i>n</i>ia op<i>er</i>a d<i>omi</i>ni d<i>omi</i>no ·</b><br>
 
 <h4 id="dicti-sancti">[<i>Dicti sancti Augustini</i>]</h4>
@@ -657,26 +657,26 @@ sol illuminat · Sicut aqua s<i>an</i>c<i>t</i>ificat · Sic<i>ut</i> ignis exur
 Sicut foliu<i>m</i> defluit · D<i>omi</i>n<i>u</i>m ostendit · Diabolu<i>m</i> offen-<br>
 dit · Uoluntate<i>m</i> illicita<i>m</i> exunguit · Oleu<i>m</i> mis<i>eri</i>c<i>or</i>dię est .<br>
 Sors angelor<i>um</i> ęlecta · Asperitate<i>m</i> deicit · Omne<i>m</i><br>
-furore<i>m</i> deprimit · Iracundia<i>m</i> frangit · Laus dei ·<br>
+furore<i>m</i> deprimit · Iracundia<i>m</i> frangit · Laus dei&nbsp;·<br>
 
 [28r] assidua similis est melli · Canticu<i>m</i> psalmor<i>um</i> · canticu<i>m</i><br>
 electu<i>m</i> est apud d<i>ominu</i>m · Om<i>n</i>e peccatu<i>m</i> expellit uinculu<i>m</i><br>
-caritatis emundat · Om<i>n</i>ia penetrat · om<i>n</i>ia suffert ·<br>
+caritatis emundat · Om<i>n</i>ia penetrat · om<i>n</i>ia suffert&nbsp;·<br>
 om<i>n</i>ia implet · om<i>n</i>ia s<i>an</i>c<i>t</i>ificat · om<i>n</i>ia punificat·  Anima<i>m</i><br>
-magnificat · cor letificat · turre<i>m</i> excęlsam ędificat ·<br>
+magnificat · cor letificat · turre<i>m</i> excęlsam ędificat&nbsp;·<br>
 O saperit malu<i>m</i> occidit · p<i>er</i>fectione<i>m</i> instruit · excęlsa<br>
 demonstrat · Desideriu<i>m</i> regni cęlestis est pace<i>m</i> inter<br>
 corpus <i>et</i> anima<i>m</i> facit · Igne<i>m</i> spiritale<i>m</i> in corde suc<br>
 cendit · ab omnib<i>us</i> uitus sollicitudo est · Canticum<br>
 psalmor<i>um</i> carmen bonu<i>m</i> · cotidię radice<i>m</i> malorum<br>
-euellit · Sicut lorica induit · sicut galea defendit ·<br>
-Spes salutis est · consolatio doloris· p<i>er</i>fectio laboris ·<br>
+euellit · Sicut lorica induit · sicut galea defendit&nbsp;·<br>
+Spes salutis est · consolatio doloris· p<i>er</i>fectio laboris&nbsp;·<br>
 Notitię ueri luminis est · fons s<i>an</i>c<i>t</i>itatis est · Hominem<br>
 iuuene<i>m</i> castigat regnu<i>m</i> dei sup<i>er</i> terra<i>m</i> dat · tedium<br>
 animę detrabit · Tuba mirabilis est · Qui diligit<br>
 canticu<i>m</i> psalmor<i>um</i> · assiduę non potest peccatum<br>
 agere · Qui habet laude<i>m</i> dei in corde suo · in postreino<br><!--WHAT ARE THESE WORDS??-->
-apud d<i>eu</i>m gaudebit · <i>et</i>anima sua in cęlo morabit<i>ur</i> ·<br>
+apud d<i>eu</i>m gaudebit · <i>et</i>anima sua in cęlo morabit<i>ur</i>&nbsp;·<br>
 Bonu<i>m</i> est semp<i>er</i> corde orare · bonu<i>m</i> est <i>et</i> ia<i>m</i> <i>et</i>sono uocis<br>
 d<i>eu</i>m psalmis hymnis glorificare · psallendi enim<br>
 utilitas tristia corda consolat<i>ur</i> · gratiores inertes<br>
@@ -695,7 +695,7 @@ Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s intellectus · Malus aute<i>m</i
 alt<i>er</i> prior simulatio displine · Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s scientię<br><!--CHECK SPELLING OF DISPLINE!!-->
 Cui contrarius malus sp<i>iritu</i>s ignorantię · nequioraute<i>m</i><br>
 usurpatio scientię · Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s pietatis · Malus uero<br>
-sp<i>iritu</i>s impietates · alt<i>er</i> peior · false pietatis · obtentus ·<br>
+sp<i>iritu</i>s impietates · alt<i>er</i> peior · false pietatis · obtentus&nbsp;·<br>
 Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s · timoris dei · Cui contrarius est sp<i>iritu</i>s temeri<br>
 tatis · alter · peior · dolus ficte religiositatis ·, ------<br>
 <sub>&nbsp;&nbsp;&nbsp;þe p<i>ro</i>phet&nbsp;&nbsp;wrot</sub><br>
@@ -715,13 +715,13 @@ modes strengð on englisc · Scientia· on leden· <i>and</i> god in<br>
 <sub>-----                                                                 -------</sub><br>
 gehyd on englisc · Pietas · on leden · <i>and</i> arfæstnys on<br>
 <sub>                                                                 goddys fer</sub><br>
-englisc · Timor d<i>omi</i>ni on leden · godes ege on englisc ·<br>
+englisc · Timor d<i>omi</i>ni on leden · godes ege on englisc&nbsp;·<br>
 <sub>         sebyn     fold       gyftys                 divelled</sub><br> 
 Þas seofan fealdan gyfa soðlice wunedon on<br>
 <sub>ovr         sabyor                           abownddantly     after</sub><br>
 uru<i>m</i> hælende criste · eall be fullu<i>m</i> þingu<i>m</i> æfter<br>
 <sub>þe           man       god        ful          myghtyly    þe holy</sub><br>
-þære menniscnysse swiðe mihtlice · <i>and</i> se halega ·<br>
+þære menniscnysse swiðe mihtlice · <i>and</i> se halega&nbsp;·<br>
 <sub>gost    hem dep<i>er</i>tes day   ly             yet     gode     holy             ---------</sub><br>
 gast  hi todælþ dæghwa<i>m</i>lice git godes halgu<i>m</i> mannu<i>m</i><br>
 <sub>as it fled hym                     on---y by his pol----           and  his gostly</sub><br>
@@ -730,28 +730,28 @@ be þa<i>m</i>þehi<i>m</i> gewyrð · ælcu<i>m</i> be his mæðe · <i>and</i>
 geornfulnysse · Se man hæfð wisdom · þe wislice<br>
 
 [29r] drihtnes willan · mid godu<i>m</i> weorcu<i>m</i> symle · Ane se hafð<br> 
-godne ræd þehi<i>m</i> geredaþ æfre hwæt him to dorme sy ·<br>
+godne ræd þehi<i>m</i> geredaþ æfre hwæt him to dorme sy&nbsp;·<br>
 <i>and</i> hwæt to forlætenne · And se hæfð modes stregðe<br>
-þe micel mæg forberan · <i>and</i> on eallu<i>m</i> earfoð nyssu<i>m</i> ·<br>
+þe micel mæg forberan · <i>and</i> on eallu<i>m</i> earfoð nyssu<i>m</i>&nbsp;·<br>
 æfre bið geþyldig · <i>and</i> eft on godu<i>m</i> gelimpu<i>m</i> ne forlæt hir<br>
 anrædnysse · And se hæfð god ingehyd þe godnysse<br>
-lufað <i>and</i> biþ betera wið innan þon<i>ne</i> he wiðutan bið gesewen ·<br>
+lufað <i>and</i> biþ betera wið innan þon<i>ne</i> he wiðutan bið gesewen&nbsp;·<br>
 can him gescead betwux foþ <i>and</i> leas · Se hæfð arfæstnysse<br>
 þe arfæst bið him sylf <i>and</i> mæþe can on mannu<i>m</i> on his<br>
-modes godnysse · geon his gelicu<i>m</i> · geon læssu<i>m</i> mannu<i>m</i> ·<br>
+modes godnysse · geon his gelicu<i>m</i> · geon læssu<i>m</i> mannu<i>m</i>&nbsp;·<br>
 <i>and</i> nele forseon ne gescyndan oþerne · Godes ege is seo<br><!--CHECK WORD DIVISION-->
 seofoðe þissera gastlicra gyfa · <i>and</i> seo gyfu is angin<br>
 ealles wisdomes · <i>and</i> se þe godes ege hæfð · ne forlæt he<br>
-nan þing · Se man þe bið bedæled eallu<i>m</i> þysu<i>m</i> gyfu<i>m</i> ·<br>
+nan þing · Se man þe bið bedæled eallu<i>m</i> þysu<i>m</i> gyfu<i>m</i>&nbsp;·<br>
 nis he na godes man · ne to gode ne belimpð but on hegyt<br>
-ge eastinge godes gyfe æt hi<i>m</i> · Nu hæfð se yfela gife ·<br>
+ge eastinge godes gyfe æt hi<i>m</i> · Nu hæfð se yfela gife&nbsp;·<br>
 <i>and</i> se ungesewenlica feond seofanfealde ungifa<br>
 wiþer ræde þisu<i>m</i> gifu<i>m</i> · þaht dælð his mannum<br>
-þe him gehyrsumiað · <i>and</i> godes gyfa ne gymeð ·<br>
+þe him gehyrsumiað · <i>and</i> godes gyfa ne gymeð&nbsp;·<br>
 ne godes ege nabbað · þa yfelan ungyfa þæfar<br>
 leafarid-------fyndon þus gehatene on leden<br><!--BECOMES HARD TO READ HERE-->
 spræce In sapientia · þ<i>æt</i> is dysig · oððe dwæsnys · Stidtitia<br>
-þ<i>æt</i> is sumt ny· In p<i>ro</i>uidentia · þ<i>æt</i> is rectleafnys ·<br>
+þ<i>æt</i> is sumt ny· In p<i>ro</i>uidentia · þ<i>æt</i> is rectleafnys&nbsp;·<br>
 butriifo re scrawunge; Ignauia · þ<i>æt</i> is abraðennys<br>
 
 [29v] þ<i>æt</i> is arleasnys · temeritas · þis dyfelic dyrstignys · alc<br>
@@ -760,9 +760,9 @@ man bið eadig þe hæfð þone wisdom · gif helm gen<br><!--NOT SURE, CHECK-->
 lif gelodgað mid wisdome · Se wisdom is halig þæt hal<br>
 gan gastes gyfu· <i>and</i> se deoful forgyfð þær togeanes dysyg<br>
 þ<i>æt</i> he wisdomes ne gyme ne wislie ne libbe; <i>and</i>gyt þæt<br>
-forcuðrtis þ<i>æt</i> he telle hime wisne · <i>and</i> bið swa gehiwod ·<br><!--DEFINITELY CHECK THIS LINE-->
+forcuðrtis þ<i>æt</i> he telle hime wisne · <i>and</i> bið swa gehiwod&nbsp;·<br><!--DEFINITELY CHECK THIS LINE-->
 swilce he wissie · Ongean þa<i>m</i> <i>and</i>gyte fed tofol forgifð<br><!--CHECK-->
-stuntnysse · <i>and</i> eac þ<i>æt</i> he hwige swylce he <i>and</i>gyt ful sy ·<br>
+stuntnysse · <i>and</i> eac þ<i>æt</i> he hwige swylce he <i>and</i>gyt ful sy&nbsp;·<br>
 Ongean þa<i>m</i> wislican ræde · se wiþer ræda deofol seld<br>
 receleasnysse his underþeoddu<i>m</i> · <i>and</i> eac þ<i>æt</i> he hiwige swilce<br>
 he rædfæst sy· Ongean þæs modes strengþe se man<br>
@@ -772,7 +772,7 @@ Inwige hine sylfne mihtigne · Ongean þa<i>m</i> ingehyde<br>
 se hetola deofol sylð nytenysse nahtlicu<i>m</i> mannu<i>m</i><br>
 <i>and</i> eac þ<i>æt</i> hi hiwion þ<i>æt</i> hi ingehyd habban · Ongean þære<br>
 arfæstnysse · he sylþ arleasnysse · þ<i>æt</i> he ne arige<br>
------- mæðige his underþeoddu<i>m</i> · ne his gelicu<i>m</i> · <br>
+------ mæðige his underþeoddu<i>m</i> · ne his gelicu<i>m</i> ·&nbsp;<br>
 <i>and</i> eac þ<i>æt</i> he hiwige swilce he arfæstnysse · Ongean godes ege<br>
 s----------lica deofol sylð dyr--------------------------ddwæs<br>
 l--------------------------------------------------------------------<br>
@@ -782,7 +782,7 @@ s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
 [30r] oððe þæs gramlican deofles·<br> 
 
 <h4 id="suscipere-presta">'Suscipere digneris' and 'Presto queso omnipotens'</h4>
-<b>Suscipere digneris d<i>omi</i>ne d<i>eu</i>s omnipotens ·<br>
+<b>Suscipere digneris d<i>omi</i>ne d<i>eu</i>s omnipotens&nbsp;·<br>
 hos uersiculos consecratos quos ego ac sin<br><!--CHECK!!!-->
 dignus peccator decantare cupio in honore<br>
 nominis tui pro me misero peccatore <i>et</i> pro<br>
@@ -790,9 +790,9 @@ omnibus facinoribus meis siue actis dictis<br>
 cogitationibus iniquitatibus concupiscen<br>
 tis siue omnibus neglegentiis meis magis<br>
 ac minimis ut uersiculi isti proficiant mihi<br>
-ad uitam ęternam · spatium adiuuando ·<br>
+ad uitam ęternam · spatium adiuuando&nbsp;·<br>
 <i>et</i> ad ueram penitentiam faciendo · p<i>er</i> d<i>omi</i>n<i>u</i>m<br>
-Deus inadiutorium meu<i>m</i> intende</b> · trib · uicibus ·<br>
+Deus inadiutorium meu<i>m</i> intende</b> · trib · uicibus&nbsp;·<br>
 -----------------------------------------------<br><!--PROBABLY IN RED-->
 <b>Presta queso omnipotens <i>et</i> misericors d<i>eu</i>s<br>
 ut intelligenter <i>et</i> libenter adque per<br>
