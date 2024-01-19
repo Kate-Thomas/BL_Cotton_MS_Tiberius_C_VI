@@ -816,15 +816,17 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 <param ve-image seq="173"
        manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010/manifest.json>
        
-<!--Paris 2731A in IIIF but black and white https://gallica.bnf.fr/ark:/12148/btv1b9080885c -->
-<br>
+
+
+
+
 1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the Regularis concordia:
 
 Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surrexerit frater, primum sibi signum sanctę crucis inprimat per sanctę trinitatis inuocationem.  Deinde dicat uersum “Domine, labia mea aperies”, dehinc  psalmum “Deus, in adiutorium meum intende”, totum cum “Gloria”.  Tunc prouideat sibi corpoream naturę necessitatem, si ipsa hora indiguerit, et sic ad oratorium festinando psallat psalmum “Ad te, Domine, leuaui animam meam”. 
 
 1.4: Peccaui, domine, peccaui:
 
-1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton Galba A. xiv).
+1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).
 
 <h3 id="de-laude-8-comm">Section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8">link to edition</a></i>)</h3>
 
