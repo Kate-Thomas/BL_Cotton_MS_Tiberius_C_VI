@@ -808,11 +808,15 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 
 <h2>Notes and analogues</h2>
 
-<h3 id="oratio-cuiusdam-comm"><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h3>This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.<br>
+<h3 id="oratio-cuiusdam-comm"><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam">link to edition</a></i>)</h3>This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.<br>
 <br>
 <i>qui pecularius orare uoluerit et furtiua orationes quesierit</i>: this clearly marks out the text as being for individual use.<br>
 <br>
-<i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the Libellus Parisinus, Libellus Trecensis, Paris 2731A, the Book of Cerne and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in the Galba Prayerbook and the Portiforium of St Wulstan.<br>
+<i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the <i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10) and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in London, British Library Cotton MS Galba XIV and the <i>Portiforium of St Wulstan</i> (Cambridge, Corpus Christi College MS 391).  The image shown is from the Book of Cerne, f. 60r.<br>
+<param ve-image seq="173"
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010/manifest.json>
+       
+<!--Paris 2731A in IIIF but black and white https://gallica.bnf.fr/ark:/12148/btv1b9080885c -->
 <br>
 1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the Regularis concordia:
 
@@ -822,8 +826,7 @@ Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surre
 
 1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton Galba A. xiv).
 
-
-<h3 id="de-laude-8-comm">Section 8 and epilogue of <i>De laude psalmorum</i></h3>
+<h3 id="de-laude-8-comm">Section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8">link to edition</a></i>)</h3>
 
 This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Of these, Cotton MS Tiberius C VI is the only Anglo-Saxon manuscript,  and this does not contain the whole text, but only the eighth section (item no. 2) and a kind of summary (item no. 5).  <i>De laude psalmorum</i> begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.
 
@@ -834,7 +837,7 @@ This extremely widespread guide to prayer using the psalms has been studied in d
 2.2: in via qui ambulaveris: this does not appear in the sources edited by Black.
 
 
-<h3 id="oe-handbook-comm"><i>Old English Handbook</i> I</h3>In 1965, Roger Fowler published what he called 'A Late Old English Handbook for the use of a Confessor'.[^8]   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->
+<h3 id="oe-handbook-comm"><i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>In 1965, Roger Fowler published what he called 'A Late Old English Handbook for the use of a Confessor'.[^8]   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->
 <br>
 Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts.  This text is a Latin <i>ordo confessionis</i> attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
 
@@ -843,9 +846,10 @@ Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C V
 3.2: ita dicendo tribus vicibus: this instruction does not appear in the other sources, but the prayer ‘Criste audi nos’, omitted from Tiberius, does.
 
 3.xx: Confessio eni<i>m</i> sanat · Confessio iustificat: the first version in D ends here, followed by a blank space of about thirteen lines, followed by ‘Preueniat hunc famulum tuum’ (see 3.xx below).
-<param ve-image seq="123" 
+<br>
+<param ve-image seq="123"
+       region="1408,6321,3704,2490"
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
-
 
 3.3: Sancta maria ora pro me: the other sources do not give the litany in full.
 
