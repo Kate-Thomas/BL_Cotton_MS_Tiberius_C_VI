@@ -843,7 +843,7 @@ Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C V
 3.2: ita dicendo tribus vicibus: this instruction does not appear in the other sources, but the prayer ‘Criste audi nos’, omitted from Tiberius, does.
 
 3.xx: Confessio eni<i>m</i> sanat · Confessio iustificat: the first version in D ends here, followed by a blank space of about thirteen lines, followed by ‘Preueniat hunc famulum tuum’ (see 3.xx below).
-<param ve-image seq="124" 
+<param ve-image seq="123" 
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
 
 
