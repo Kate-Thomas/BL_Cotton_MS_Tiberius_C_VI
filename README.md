@@ -51,14 +51,14 @@ ff. 18v: Image of Christ in majesty<br>
 <b>ff. 19r-20r: <i><a href="#origo-prophetie">Origo prophetie de regis psalmorum</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 f. 20r-21r: <i><a href="#incipit-expositio">Incipit expositio Psalteri</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text from Origo prophetie, and is the table on 21r also separate?  Check -->
 ff. 21v-22v: <i><a href="#oratio-cuiusdam">Oratio cuiusdam nominis Dei</a></i> (a guide to morning prayer)<br>
-ff. 22v-23r: <a href="#de-laude-8">Section 8 of ‘De laude psalmorum’</a> (a treatise on praying with the psalms)<br>
+ff. 22v-23r: <a href="#de-laude-8">Section 8 of <i>De laude psalmorum</i></a> (a treatise on praying with the psalms)<br>
 ff. 23r-27r: <a href="#oe-handbook">Section I of the <i>Old English Handbook</i></a> (solitary confessional ordo)<br>
-f. 27r-v: <a href="#de-laude-short">Short version of the complete ‘De laude psalmorum’</a><br>
+f. 27r-v: <a href="#de-laude-short">Short version of the complete <i>De laude psalmorum</i></a><br>
 ff. 27v-28r: <a href="#dicti-sancti">Dicti Sancti Augustini</a><br>
-ff. 28r-30r: <a href="#de-septiformes"><i>De septiformes Spiritus Sanctus</i>/<i>Isaias se witega</i></a> (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in Middle English)<br>
+ff. 28r-30r: <a href="#de-septiformes"><i>De septiformes Spiritus Sanctus</i>/<i>Isaias se witega</i></a> (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in early modern English)<br>
 f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso omnipotens’</a> (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
-ff. 31r-129v: Gallican psalter<br>
+ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss<br>
 <param ve-image seq="2" 
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
@@ -382,7 +382,7 @@ tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
 Precor te d<i>omi</i>ne antequa<i>m</i> discutias<!--Check this, I had "distutias"--> me miserere<br>
 mei</b>
 
-<h4 id="de-laude-8">[Section 8 and epilogue of De laude psalmorum]</h4>
+<h4 id="de-laude-8">[Section 8 and epilogue of <i>De laude psalmorum</i>]</h4>
 SI TE VOLVERIS INTIMENTE EXER<br>
 CERE VIRTVTIS · LAVDIE DECANTA<br>
 SEMP<i>ER</i> PSALMU<i>M</i> BEATI INMACVLATI<br>
@@ -607,7 +607,7 @@ PENITENTIA MISERICORDITER ME VIAM<br>
 DICAT EI SACERDOS · <b>D<i>omi</i>n<i>u</i>s custodite ab omni malo</b><br>
 usque in finem . Et recedat humiliter ab eo in domum sua<i>m</i>;<br>
 
-<h4 id="de-laude-short">[Short version of De laude psalmorum]</h4>
+<h4 id="de-laude-short">[Short version of <i>De laude psalmorum</i>]</h4>
 [27r] SENTENTIA LEONIS PAPAE<br>
 QUICU<i>M</i>QUE P<i>RO</i> PECCATIS PENITENTIA<i>M</i><sup>s. uoluerit</sup> AGERE · ET M<i>ER</i>TE<i>M</i><br>
 sua<i>m</i> corporali ac spiritali <i>et</i> letitia inluminari <sup>s. uoluerit</sup><br>
@@ -826,9 +826,9 @@ Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surre
 
 <h3>Section 8 and epilogue of <i>De laude psalmorum</i></h3>
 
-This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Of these, Cotton MS Tiberius C VI is the only Anglo-Saxon manuscript,  and this does not contain the whole text, but only the eighth section (item no. 2) and a kind of summary (item no. 5).  De laude psalmorum begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.
+This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Of these, Cotton MS Tiberius C VI is the only Anglo-Saxon manuscript,  and this does not contain the whole text, but only the eighth section (item no. 2) and a kind of summary (item no. 5).  <i>De laude psalmorum</i> begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.
 
-De laude psalmorum is of particular note for its encouragement of the reader to choose amongst the psalms in order to suit his or her own needs in prayer.  Accordingly, the words ‘si vis’ and ‘si te volueris’ abound in it, along with an emphasis on the importance of praying to God ‘intima mente’ (the phrase occurs eight times in the full treatise).  The eighth and final reason why one would wish to pray with the psalter is ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’,  for this purpose, only one psalm is given, the long 118th psalm ‘Beati immaculati’.  After this follows a brief closing paragraph on the value of the psalter.  In Tiberius, the eighth part of De laude psalmorum and the closing paragraph appear.
+<i>De laude psalmorum</i> is of particular note for its encouragement of the reader to choose amongst the psalms in order to suit his or her own needs in prayer.  Accordingly, the words ‘si vis’ and ‘si te volueris’ abound in it, along with an emphasis on the importance of praying to God ‘intima mente’ (the phrase occurs eight times in the full treatise).  The eighth and final reason why one would wish to pray with the psalter is ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’,  for this purpose, only one psalm is given, the long 118th psalm ‘Beati immaculati’.  After this follows a brief closing paragraph on the value of the psalter.  In Tiberius, the eighth part of <i>De laude psalmorum</i> and the closing paragraph appear.
 
 2.1: exercere virtutis: in the sources used as a basis for Black’s edition, the opening sentence appears as ‘exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’.
 
@@ -866,17 +866,17 @@ In N, Handbook I is followed immediately by the vernacular confession which Fowl
 4.xx<!--May be in the wrong place.  And wouldn't it be more consistent to use "[et]"?-->: two interesting uses of '7', usually found in Old English, for 'et'
 
 
-<h3>Short version of <i>De laude psalmorum</i></h3>
+<h3>Short version of <i><i>De laude psalmorum</i></i></h3>
 
-Black refers to this text as a ‘summary of uses 1-8’ of De laude psalmorum.  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.
+Black refers to this text as a ‘summary of uses 1-8’ of <i>De laude psalmorum</i>.  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.
 
-Black reports that about a third of the manuscripts containing the full text of De laude psalmorum attribute it to St Augustine and others name Jerome, whereas Rome, Biblioteca nazionale central Sessoriana 71 ascribes authorship to Alcuin.  Following André Wilmart, both Black and Donald A. Bullough accept De laude psalmorum as indeed being Alcuin’s work,  although Jean Chazelas and Stephan Waldhoff have argued to the contrary. 
+Black reports that about a third of the manuscripts containing the full text of <i>De laude psalmorum</i> attribute it to St Augustine and others name Jerome, whereas Rome, Biblioteca nazionale central Sessoriana 71 ascribes authorship to Alcuin.  Following André Wilmart, both Black and Donald A. Bullough accept <i>De laude psalmorum</i> as indeed being Alcuin’s work,  although Jean Chazelas and Stephan Waldhoff have argued to the contrary. 
 
 5.1: Sententia Leonis papae: complete versions of the text are attributed to Alcuin, Leo and Augustine.<!--I.e. elsewhere?-->
 
 5.2: Quicumque pro peccatis penitentiam (si uoluerit) agere et mentem suam corporali ac spiritali et letitia inluminari (si uoluerit): in the full treatise, this corresponds to use 1 of the psalms, ‘Si vis pro peccatis tuis paenitentiam agere et confessionem peccatorum tuorum et veniam rogare delictis ... celerrimam invenies clementiam Dei totam mentem spiritali gaudio ac laetitia inluminare’
 
-5.3: deum omnipotentem eiusque maiestatem laudare (si uoluerit): use 3 of De laude psalmorum: ‘Si vis omnipotentem Deum laudare et ipsius maiestati’.
+5.3: deum omnipotentem eiusque maiestatem laudare (si uoluerit): use 3 of <i>De laude psalmorum</i>: ‘Si vis omnipotentem Deum laudare et ipsius maiestati’.
 
 5.4: pro carnalibus aut spiritalibus tribulationibus orare (si uoluerit): this roughly corresponds to use 4, ‘Si diversis tribulationibus afflictus sis et vel humanis vel spiritalibus temptationibus undique adstrictus’.
 
@@ -886,9 +886,9 @@ Black reports that about a third of the manuscripts containing the full text of 
 
 5.7: si se uoluerit in diuinus laudibus exercere: use 8, ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’.
 
-5.8: et se exaudiri a Deo ... per singulos dies preter dominicos: these words do not appear in De laude psalmorum.
+5.8: et se exaudiri a Deo ... per singulos dies preter dominicos: these words do not appear in <i>De laude psalmorum</i>.
 
-5.9: Domine quid multiplicati, Uerba mea ... Saluum me fac deus ... Dixit insipiens in corde suo ... Domine quis habitabit ... Conserva me Domine ... Iudica me Domine quoniam ego ... Dominus inluminatio mea ... Miserere mei Deus ... Deus iudicium tuum regi da ... Ad te levaui oculos... Confitebor tibi Domine, Domine probasti me, Eripe me domine, Domine clamaui, Uoce mea: these psalms do not appear in De laude psalmorum; likewise, nineteen of the forty-eight psalms which are prescribed in De laude psalmorum do not appear in Tiberius.
+5.9: Domine quid multiplicati, Uerba mea ... Saluum me fac deus ... Dixit insipiens in corde suo ... Domine quis habitabit ... Conserva me Domine ... Iudica me Domine quoniam ego ... Dominus inluminatio mea ... Miserere mei Deus ... Deus iudicium tuum regi da ... Ad te levaui oculos... Confitebor tibi Domine, Domine probasti me, Eripe me domine, Domine clamaui, Uoce mea: these psalms do not appear in <i>De laude psalmorum</i>; likewise, nineteen of the forty-eight psalms which are prescribed in <i>De laude psalmorum</i> do not appear in Tiberius.
 
 
 <h3>Two prayers for chanting the psalter</h3>
