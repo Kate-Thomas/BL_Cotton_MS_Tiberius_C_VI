@@ -10,6 +10,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
+<param ve-entity eid="Q99337847"> <!--Gallican psalter-->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <style>
@@ -32,7 +33,7 @@ td {
 </style>
 
 ## About the manuscript
-London, British Library Cotton MS Tiberius C VI,[^1] or the Tiberius Psalter,[^2] is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.  The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]   However, Campbell’s edition excludes the prefatory thirty folios, which include some extremely interesting texts and images which deserve to be edited also, which include texts on computus (ff. 2r-7r), line drawings (ff. 7v-16r, 18v, 30v), a short guide to Biblical musical instruments (ff. 16v-18r), psalter prefaces (ff. 19r-20v, 27v-28v), and guides to prayer and confession (ff. 21v-27v).  The contents of these folios have already attracted a little attention from scholars.  Francis Wormald has already written a useful guide to the large number of images found in the manuscript (ff. 7v-16r), most of which relate to the trial, death and resurrection of Christ.[^4]   Although little has been said about the prayers, Jonathan Black has noted that the psalter includes both an excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i>.[^5]
+London, British Library Cotton MS Tiberius C VI,[^1] or the Tiberius Psalter,[^2] is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.  The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]  The prefatory cycle of images of the lives of David and Christ (ff. 7v-16r, 18v, 30v) - the earliest extant psalter cycle of this kind[^4] - has been studied by Francis Wormald,[^5]<!--Does Wormald's edition include all of these, and does he include the musical instruments?--> and Warren's edition of the Leofric Missal (Oxford, Bodleian Library MS Bodley 579) is cross-referenced with the computistical texts on ff. 2r-7r of the Tiberius Psalter.[^6] <!--CHECK WHAT WARREN INCLUDES.  MAYBE HE DOESN'T INCLUDE THE DIAGRAMS ON FF. 6 AND 7.  SHOULD I EDIT ALL THE COMPUTISTICAL TEXTS?--> This leaves a number of interesting texts related to prayer and the psalter, including an illustrated guide to Biblical musical instruments (ff. 16v-18r), psalter prefaces (ff. 19r-20v, 27v-28v), and guides to prayer and confession (ff. 21v-27v).  Of these, Jonathan Black has identified the excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i> and edited it in his wide-ranging 2002 edition of that text.[^7]
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
@@ -837,10 +838,10 @@ This extremely widespread guide to prayer using the psalms has been studied in d
 
 <h3><i>Old English Handbook</i> I</h3>
 
-In 1965, Roger Fowler published what he called A Late Old English Handbook for the use of a Confessor.   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N). 
-Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts.  This text, is a Latin <i>ordo confessionis</i> attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
+In 1965, Roger Fowler published what he called 'A Late Old English Handbook for the use of a Confessor'.[^8]   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->
+Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts.  This text is a Latin <i>ordo confessionis</i> attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
 
-3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.
+3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.<!--SHOW IMAGES FROM THE OTHER MSS IF POSSIBLE-->
 
 3.2: ita dicendo tribus vicibus: this instruction does not appear in the other sources, but the prayer ‘Criste audi nos’, omitted from Tiberius, does.
 
@@ -849,13 +850,15 @@ Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C V
 3.4: Credo in unum deum: the other sources do not give the creed in full.
 
 3.5: coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.  In the other sources, this instruction is followed by the prayer ‘Preueniat hunc famulum tuum’.
-
+<!--The Brussels MS is here, check Fowler for the page ref https://uurl.kbr.be/1609340 cat record is https://opac.kbr.be/LIBRARY/doc/SYRACUSE/18149446 it does not seem to be IIIF -->
+<!--CCCC 201 https://parker.stanford.edu/parker/catalog/cr485km1781  https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json 124 of 280 • p. 114 (foliated p. 112?!) remember there is more than one version   -->
+<!--CCCC 265 https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json https://parker.stanford.edu/parker/catalog/nh277tk2537 The catalogue doesn't say where it is -->
 
 <h3>Confessional <i>ordo</i> with priest</h3>
 
-In N, Handbook I is followed immediately by the vernacular confession which Fowler prints as Handbook II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.   The second copy of I in D is followed by other Latin texts of confession and absolution.   Cotton MS Tiberius C VI departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
+<!--EXPAND ALL THE ABBREVIATIONS IN THIS PARAGRAPH-->In N, Handbook I is followed immediately by the vernacular confession which Fowler prints as Handbook II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.   The second copy of I in D is followed by other Latin texts of confession and absolution.   Cotton MS Tiberius C VI departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
 
-4.1: Ego confiteor ... Supplico te Dei sacerdos: these prayers appear together in the Libellus Turonensis. 
+4.1: Ego confiteor ... Supplico te Dei sacerdos: these prayers appear together in the <i>Libellus Turonensis</i><!--WHAT IS THE SHELFMARK?  SEE MY BOOK-->. 
 
 4.xx: Adesto, domine ... Domine Deus noster, qui offensione nostra: these prayers appear in the absolution of penitents in the Pontificale Lanaletense, fols. 112v-3r.  G. H. Doble, ed., Pontificale Lanaletense, p. 77.
 
@@ -891,13 +894,13 @@ Black reports that about a third of the manuscripts containing the full text of 
 5.9: Domine quid multiplicati, Uerba mea ... Saluum me fac deus ... Dixit insipiens in corde suo ... Domine quis habitabit ... Conserva me Domine ... Iudica me Domine quoniam ego ... Dominus inluminatio mea ... Miserere mei Deus ... Deus iudicium tuum regi da ... Ad te levaui oculos... Confitebor tibi Domine, Domine probasti me, Eripe me domine, Domine clamaui, Uoce mea: these psalms do not appear in <i>De laude psalmorum</i>; likewise, nineteen of the forty-eight psalms which are prescribed in <i>De laude psalmorum</i> do not appear in Tiberius.
 
 
-<h3>Two prayers for chanting the psalter</h3>
+<h3>Two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens'</h3>
 
-These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed to the Venerable Bede.
+These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed here to the Venerable Bede.
 
-6.1: Suscipere digneris: this prayer appears in the Vespasian Psalter. 
+6.1: Suscipere digneris: this prayer appears in the Vespasian Psalter.<!--Show the image from the Vespasian and/or any other.  See my book for anywhere else it might be.-->
 
-6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number-->
+6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number.  See my book for anywhere else it might be-->
 
 
 # References
@@ -905,5 +908,8 @@ These prayers, the final text immediately preceding the psalter itself, were app
 [^1]: [Gneuss and Lapidge, <i>Anglo-Saxon Manuscripts</i>, no. 378]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01017373831])
 [^2]: [Ker, <i>Catalogue</i>, no. 199]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01006720410])
 [^3]: A. P. Campbell (ed.), <i>The Tiberius Psalter, Edited From British Museum MS Cotton Tiberius C vi</i> (Ottawa, 1974).  A facsimile of the whole manuscript has been published in Phillip Pulsiano (ed.), <i>Psalters I</i>, Anglo-Saxon Manuscripts in Microfiche Facsimile, 2 (Binghampton, 1994).
-[^4]: Francis Wormald, ‘An English Eleventh-Century Psalter with Pictures: British Museum, Cotton MS Tiberius C. VI’, Walpole Society, 38 (1962), 1-14.
-[^5]: Black, Jonathan, ed. “Psalm Uses in Carolingian Prayerbooks: Alcuin and the Preface to De psalmorum usu.” Mediaeval Studies 64 (2002): 1-60.
+[^4]: Elżbieta Temple and J. J. G. Alexander, <i>Anglo-Saxon Manuscripts, 900-1066</i> (London, 1976), no. 98.
+[^5]: Francis Wormald, ‘An English Eleventh-Century Psalter with Pictures: British Museum, Cotton MS Tiberius C. VI’, Walpole Society, 38 (1962), 1-14.
+[^6]: F. E. Warren, <i>The Leofric Missal : As Used in the Cathedral of Exeter during the Episcopate of Its First Bishop, A.D. 1050-1072, Together with Some Account of the Red Book of Derby, the Missal of Robert of Jumièges, a Few Other Early Manuscript Service Books of the English Church</i>, 1st ed., republished (Farnborough, 1968).
+[^7]: Black, Jonathan, ed. “Psalm Uses in Carolingian Prayerbooks: Alcuin and the Preface to De psalmorum usu.” Mediaeval Studies 64 (2002): 1-60.
+[^8]: Fowler, 'An Old English Handbook'<!--GET FULL REFERENCE!! -->
