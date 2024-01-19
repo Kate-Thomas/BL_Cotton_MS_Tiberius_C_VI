@@ -813,12 +813,7 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 <i>qui pecularius orare uoluerit et furtiua orationes quesierit</i>: this clearly marks out the text as being for individual use.<br>
 
 <i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the <i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10) and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in London, British Library Cotton MS Galba XIV and the <i>Portiforium of St Wulstan</i> (Cambridge, Corpus Christi College MS 391).  The image shown is from the Book of Cerne, f. 60r.
-<param ve-image
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010/manifest.json>
-       
-
-
-
+<!--something is wrong here: find the correct manifest for Cerne and show it-->
 
 1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the Regularis concordia:
 
