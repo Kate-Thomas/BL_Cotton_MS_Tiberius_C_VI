@@ -64,7 +64,7 @@ ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old En
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 ## Edition
-<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i> (an illustrated text on Biblical musical instruments)]</h4>
+<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
 <p>[16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
@@ -184,7 +184,7 @@ chorus est&nbsp;·<br>
        region="-978,0,4890,3687"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<h4 id="origo-prophetie">Origo prophetie de regis psalmorum (psalter preface)</h4>
+<h4 id="origo-prophetie">[<i>Origo prophetie de regis psalmorum</i>: psalter preface (<i><a href="#origo-prophetie-comm">link to commentary</a></i>)]</h4>
 [19r] Origo prophetie de re<br>
 gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
@@ -235,7 +235,7 @@ inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
        
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
 
-<h4 id="incipit-expositio"><i>Incipit expositio Psalteri</i> (psalter preface)</h4>
+<h4 id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]</h4>
 Incipit ex positio psal-------ans<br>
 --rpirv<i>m</i> qve pver sr cantic--n-----<br>
 Psalteriu<i>m</i> dicitur psallentiu<i>m</i> multoru<i>m</i><br>
@@ -310,7 +310,7 @@ G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra tibi dei et ----<br>
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra<br>
 
-<h4 id="oratio-cuiusdam"><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h4>
+<h4 id="oratio-cuiusdam">[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam-comm">link to commentary</a></i>)]</h4>
 [21v] <font color="red">ORATIO CUIUSDAM NOMINIS DEI ·</font><br>
 [P]RIMITUS ENIM INSINUAT ET DOCET EUM QUI<br>
 pecularius orare uoluerit & furtiua orati-<br>
@@ -383,7 +383,7 @@ tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
 Precor te d<i>omi</i>ne antequa<i>m</i> discutias<!--Check this, I had "distutias"--> me miserere<br>
 mei</b>
 
-<h4 id="de-laude-8">[Section 8 and epilogue of <i>De laude psalmorum</i>]</h4>
+<h4 id="de-laude-8">[Section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8-comm">link to commentary</a></i>)]</h4>
 SI TE VOLVERIS INTIMENTE EXER<br>
 CERE VIRTVTIS · LAVDIE DECANTA<br>
 SEMP<i>ER</i> PSALMU<i>M</i> BEATI INMACVLATI<br>
@@ -408,7 +408,7 @@ uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
 tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m</i> intimi in<br>
 tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris&nbsp;·<br>
 
-<h4 id="oe-handbook">[Section I of the Old English Handbook]</h4>
+<h4 id="oe-handbook">[Section I of the <i>Old English Handbook</i> (<i><a href="#oe-handbook-comm">link to commentary</a></i>)]</h4>
 INCIPIT ORDO CON<br>
 FESSIONIS SACERDOTV<i>M</i> ET OMNIU<i>M</i> CLERI<br>
 CORV<i>M</i> SECVNDV<i>M</i> HIERONIMV<i>M</i> TRACTA<br>
@@ -453,7 +453,7 @@ in filiu<i>m</i> · Credo <i>et</i> in sp<i>iritu</i>m s<i>an</i>c<i>tu</i>m · 
 post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 <i>et</i> hęc om<i>n</i>ia · Credo in d<i>eu</i>m uiuu<i>m</i> · am<i>en</i> ·</b><br>
 
-<b>[Confessional ordo with priest]</b><br>
+<b>[Confessional ordo with priest]</b><br><!--Part of the OE handbook: should I give this heading?  Use the one in Fowler?-->
 P<i>OST</i> HĘC ITERU<i>M</i><br>
 DICAT HVMILITER CORA<i>M</i> D[EO] ET [CORA]M<br>
 SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
@@ -477,8 +477,7 @@ dia · manifeste · <i>et</i> occulte · in anima · <i>et</i> corpore&nbsp;·<b
 Ego confiteor quia ad patre<i>m</i> meu<i>m</i> <i>et</i> matre<i>m</i> · fr<i>atre</i>s<br>
 <i>et</i> sorores · patruos <i>et</i> a<i>m</i>mittas · c<i>um</i> sobrinos siue</b><br>
 
-[24v] 
-<b>om<i>ni</i>s p<i>ro</i>pinquos· <i>et</i> parentes meos s<i>e</i>c<i>un</i>d<i>u</i>m p<i>re</i>cęptum<br>
+[24v] <b>om<i>ni</i>s p<i>ro</i>pinquos· <i>et</i> parentes meos s<i>e</i>c<i>un</i>d<i>u</i>m p<i>re</i>cęptum<br>
 <i>et</i> dei uoluntate<i>m</i> honoris obsequiu<i>m</i> · non exhibui<br>
 nec · innecessitatib<i>us</i> eor<i>um</i> p<i>ro</i>ut potui adfui <i>et</i> om<i>ni</i>s <i>christ</i>i<br>
 anos sicut d<i>eu</i>s p<i>re</i>cepit n<i>on</i> dilexi · Muliere<i>m</i> <i>et</i> filios<br>
@@ -608,7 +607,7 @@ PENITENTIA MISERICORDITER ME VIAM<br>
 DICAT EI SACERDOS · <b>D<i>omi</i>n<i>u</i>s custodite ab omni malo</b><br>
 usque in finem . Et recedat humiliter ab eo in domum sua<i>m</i>;<br>
 
-<h4 id="de-laude-short">[Short version of <i>De laude psalmorum</i>]</h4>
+<h4 id="de-laude-short">[Short version of <i>De laude psalmorum</i> (<i><a href="#de-laude-short-comm">link to commentary</a></i>)]</h4>
 [27r] SENTENTIA LEONIS PAPAE<br>
 QUICU<i>M</i>QUE P<i>RO</i> PECCATIS PENITENTIA<i>M</i><sup>s. uoluerit</sup> AGERE · ET M<i>ER</i>TE<i>M</i><br>
 sua<i>m</i> corporali ac spiritali <i>et</i> letitia inluminari <sup>s. uoluerit</sup><br>
@@ -648,7 +647,7 @@ D<i>omi</i>ne clamaui · Uoce mea · D<i>omi</i>ne exaudi or[ationem]<br>
 Exaltabo te d<i>eu</i>s m<i>eu</i>s. Laudate d<i>omi</i>n<i>u</i>m de celis&nbsp;·<br>
 Benedicite om<i>n</i>ia op<i>er</i>a d<i>omi</i>ni d<i>omi</i>no ·</b><br>
 
-<h4 id="dicti-sancti">[<i>Dicti sancti Augustini</i>]</h4>
+<h4 id="dicti-sancti">[<i>Dicti sancti Augustini</i> (<i><a href="#dicti-sancti-comm">link to commentary</a></i>)]</h4>
 [27v] CANTICU<i>M</i> PSALMOR<i>UM</i> · ANIMAS DECORAUIT · IN<br>
 uitat angelos · in adiutoriu<i>m</i> · Effugiat de-<br>
 mones · Expellit tenebras · Efficit s<i>an</i>c<i>t</i>itate<i>m</i><br>
@@ -684,7 +683,7 @@ utilitas tristia corda consolat<i>ur</i> · gratiores inertes<br>
 facit · inertes excitat · fastidioses oblectat pecca-<br>
 tores ad lamentu<i>m</i> inuitat;
 
-<h4 id="de-septiformes">[<i>De septiformes Spiritus Sanctus/Isaias se witega</i> (homily on the Holy Spirit)]</h4>
+<h4 id="de-septiformes">[<i>De septiformes Spiritus Sanctus/Isaias se witega</i>: homily on the Holy Spirit (<i><a href="#de-septiformes-comm">link to commentary</a></i>)]</h4>
 [28r] DE SEPTIFORMES<br>
 SP<i>IRITU</i>S S<i>AN</i>C<i>TU</i>S P<i>RO</i> SEPTERNARIA OP<i>ER</i>ATIONE ISAIA PRO<br> 
 ph<i>et</i>a testante septiformis esse credatur<br> 
@@ -803,14 +802,13 @@ gratia aliquatenus uerba tuę maiestatis<br>
 cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br> 
 
 <h4>[Miniature of King David and his musicians]</h4>
-
-
-
+<br>
+<br>
+<br>
 
 <h2>Notes and analogues</h2>
 
-<h3><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h3><br>
-This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.<br>
+<h3 id="oratio-cuiusdam-comm"><i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer</h3>This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.<br>
 <br>
 <i>qui pecularius orare uoluerit et furtiua orationes quesierit</i>: this clearly marks out the text as being for individual use.<br>
 <br>
@@ -825,7 +823,7 @@ Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surre
 1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton Galba A. xiv).
 
 
-<h3>Section 8 and epilogue of <i>De laude psalmorum</i></h3>
+<h3 id="de-laude-8-comm">Section 8 and epilogue of <i>De laude psalmorum</i></h3>
 
 This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Of these, Cotton MS Tiberius C VI is the only Anglo-Saxon manuscript,  and this does not contain the whole text, but only the eighth section (item no. 2) and a kind of summary (item no. 5).  <i>De laude psalmorum</i> begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.
 
@@ -836,14 +834,18 @@ This extremely widespread guide to prayer using the psalms has been studied in d
 2.2: in via qui ambulaveris: this does not appear in the sources edited by Black.
 
 
-<h3><i>Old English Handbook</i> I</h3>
-
-In 1965, Roger Fowler published what he called 'A Late Old English Handbook for the use of a Confessor'.[^8]   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->
+<h3 id="oe-handbook-comm"><i>Old English Handbook</i> I</h3>In 1965, Roger Fowler published what he called 'A Late Old English Handbook for the use of a Confessor'.[^8]   This is a somewhat misleading title: what he printed was in fact a series of six texts for use in penitence and confession, some or all of which appear in the same manuscripts, and not always in the sequence to which he assigned them.  The first of the six, to which I will refer as Handbook I, is not even in Old English, but in Latin.  Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->
+<br>
 Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts.  This text is a Latin <i>ordo confessionis</i> attributed to St Jerome, which briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see the confessor.
 
 3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.<!--SHOW IMAGES FROM THE OTHER MSS IF POSSIBLE-->
 
 3.2: ita dicendo tribus vicibus: this instruction does not appear in the other sources, but the prayer ‘Criste audi nos’, omitted from Tiberius, does.
+
+3.xx: Confessio eni<i>m</i> sanat · Confessio iustificat: the first version in D ends here, followed by a blank space of about thirteen lines, followed by ‘Preueniat hunc famulum tuum’ (see 3.xx below).
+<param ve-image seq="124" 
+       manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
+
 
 3.3: Sancta maria ora pro me: the other sources do not give the litany in full.
 
@@ -854,7 +856,7 @@ Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C V
 <!--CCCC 201 https://parker.stanford.edu/parker/catalog/cr485km1781  https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json 124 of 280 • p. 114 (foliated p. 112?!) remember there is more than one version   -->
 <!--CCCC 265 https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json https://parker.stanford.edu/parker/catalog/nh277tk2537 The catalogue doesn't say where it is -->
 
-<h3>Confessional <i>ordo</i> with priest</h3>
+<h3>Confessional <i>ordo</i> with priest</h3><!--SHOULD THIS BE A SEPARATE SECTION?-->
 
 <!--EXPAND ALL THE ABBREVIATIONS IN THIS PARAGRAPH-->In N, Handbook I is followed immediately by the vernacular confession which Fowler prints as Handbook II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.   The second copy of I in D is followed by other Latin texts of confession and absolution.   Cotton MS Tiberius C VI departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
 
@@ -869,7 +871,7 @@ Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C V
 4.xx<!--May be in the wrong place.  And wouldn't it be more consistent to use "[et]"?-->: two interesting uses of '7', usually found in Old English, for 'et'
 
 
-<h3>Short version of <i><i>De laude psalmorum</i></i></h3>
+<h3 id="de-laude-short-comm">Short version of <i><i>De laude psalmorum</i></i></h3>
 
 Black refers to this text as a ‘summary of uses 1-8’ of <i>De laude psalmorum</i>.  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.
 
@@ -894,7 +896,7 @@ Black reports that about a third of the manuscripts containing the full text of 
 5.9: Domine quid multiplicati, Uerba mea ... Saluum me fac deus ... Dixit insipiens in corde suo ... Domine quis habitabit ... Conserva me Domine ... Iudica me Domine quoniam ego ... Dominus inluminatio mea ... Miserere mei Deus ... Deus iudicium tuum regi da ... Ad te levaui oculos... Confitebor tibi Domine, Domine probasti me, Eripe me domine, Domine clamaui, Uoce mea: these psalms do not appear in <i>De laude psalmorum</i>; likewise, nineteen of the forty-eight psalms which are prescribed in <i>De laude psalmorum</i> do not appear in Tiberius.
 
 
-<h3>Two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens'</h3>
+<h3 id="suscipere-digneris-comm">Two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens'</h3>
 
 These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed here to the Venerable Bede.
 
