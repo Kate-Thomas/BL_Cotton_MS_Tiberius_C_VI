@@ -49,9 +49,9 @@ This edition covers the items shown below in <b>bold</b>.  Abbreviations have be
 <br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: Images from the Bible<br>
-<b>ff. 16v-18r: <i><a href="#nabulum-est">Nabulum est quod grece dicitur tympanum</a></i> (an illustrated text on Biblical musical instruments)</b><br>
-ff. 18v: Image of Christ in majesty<br>
-<b>ff. 19r-20r: <i><a href="#origo-prophetie">Origo prophetie de regis psalmorum</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
+<b>ff. 16v-18r: <i><a href="#nabulum-est">Nabulum est quod grece dicitur tympanum</a></i> (an illustrated text on Biblical musical instruments)<br>
+ff. 18v: <a href="#christ-miniature">Image of Christ in majesty</a><br>
+ff. 19r-20r: <i><a href="#origo-prophetie">Origo prophetie de regis psalmorum</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text?  Check -->
 f. 20r-21r: <i><a href="#incipit-expositio">Incipit expositio Psalteri</a></i> (psalter preface)<br><!-- Is the psalter preface actually a separate text from Origo prophetie, and is the table on 21r also separate?  Check -->
 ff. 21v-22v: <i><a href="#oratio-cuiusdam">Oratio cuiusdam nominis Dei</a></i> (a guide to morning prayer)<br>
 ff. 22v-23r: <a href="#de-laude-8">Section 8 of <i>De laude psalmorum</i></a> (a treatise on praying with the psalms)<br>
@@ -157,6 +157,8 @@ bus cicutis<br>
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
 Hęc est forma psalterii&nbsp;·<br>
+[<i>King David sitting upon a stool, holding a psalterium, a rectangular strung instrument.</i>]
+<!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="5"
        region="1212,679,1203,779"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
@@ -181,9 +183,10 @@ chorus est&nbsp;·<br>
        region="883,2437,1410,1063"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<h4>Image of Christ in majesty</h4> [18v]
+<h4 id="christ-miniature">[Image of Christ in majesty</h4>]
+[<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
+<!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="7"
-       region="-978,0,4890,3687"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 <h4 id="origo-prophetie">[<i>Origo prophetie de regis psalmorum</i>: psalter preface (<i><a href="#origo-prophetie-comm">link to commentary</a></i>)]</h4>
@@ -204,7 +207,6 @@ xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MAN
 domo amma dab · hane inposuit-<br>
 in subiugulali nouo · Et adduxit in-<br>
 <param ve-image seq="8"
-       region="-304,483,3648,2751"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 [19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filior<i>um</i> isrt<br>
@@ -236,7 +238,6 @@ inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
-
 <h4 id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]</h4>
 Incipit ex positio psal-------ans<br>
 --rpirv<i>m</i> qve pver sr cantic--n-----<br>
@@ -840,16 +841,16 @@ This extremely widespread guide to prayer using the psalms has been studied in d
 <h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>In 1965, Roger Fowler published what he called ‘A Late Old English Handbook for the use of a Confessor’.[^9]  This is a somewhat misleading title: what he printed was in fact a series of six texts, the first of which (<i>Handbook</i> I) is in Latin, for use in penitence and confession; the six often appear in the same manuscripts, but not always all together, or in the sequence to which he assigned them.<br>
 <br>
 <i>Handbook</i> I, attributed to St Jerome, briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see a confessor.   Fowler finds this first section in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>, (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->  Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts: I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^8]  Here, I present images from the analogue manuscripts by way of comparison with Tiberius C VI.  Alongside the present paragraph is the text in Cambridge, Corpus Christi MS 265, p. 72.<br>
-<param ve-image seq="78"
+<param ve-image seq="77"
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json">
 
 3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.<!--SHOW IMAGES FROM THE OTHER MSS IF POSSIBLE-->
 
-3.2: ita dicendo tribus vicibus: this instruction does not appear in the other sources.<br>
+ita dicendo tribus vicibus: this instruction does not appear in the other sources.<br>
 <br>
-3.3: Sancta maria ora pro me: the other sources do not give the litany in full.<br>
-
-3.4: Credo in unum deum: the other sources do not give the creed in full.
+Sancta maria ora pro me: the other sources do not give the litany in full.<br>
+<br>
+3.4: Credo in unum deum: the other sources do not give the creed in full.<br>
 
 3.xx: Confessio eni<i>m</i> sanat · Confessio iustificat: the first version in Corpus Christi College 201, pp. 114-15, (D) ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
 <param ve-image seq="123"
@@ -857,10 +858,8 @@ This extremely widespread guide to prayer using the psalms has been studied in d
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
 
 'sapientam perfectam et ueram intellegentiam': the version on Corpus Christi College MS 201, p. 170, ends here.<br>
-<param ve-image seq="180"
-       region="1408,6321,3704,2490"
+<param ve-image seq="179"
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
-<!--EDIT THE REGION COVERED-->
 
 3.5: ‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.  In the other sources, this line appears as ‘Et post hęc incipit confessionem suam coram D<i>e</i>o <i>et</i> coram sacerdote confitens peccata sua’, and is followed by the short prayer ‘Preueniat hunc famulum tuum’, marking the end of Fowler's <i>Handbook</i> I.  In Cotton MS Tiberius A III, this is followed immediately by the vernacular confession which Fowler prints as <i>Handbook</i> II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.  The second copy of I in D is followed by other Latin texts of confession and absolution.   Cotton MS Tiberius C VI departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, ‘Ego confiteor tibi’, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
 
