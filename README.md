@@ -876,7 +876,7 @@ Sancta maria ora pro me: the other sources do not give the litany in full.<br>
 4.xx<!--May be in the wrong place.  And wouldn't it be more consistent to use "[et]"?-->: two interesting uses of '7', usually found in Old English, for 'et'
 
 
-<h3 id="de-laude-short-comm">Commentary on the short version of <i><i>De laude psalmorum</i></i></h3>
+<h3 id="de-laude-short-comm">Commentary on the short version of <i><i>De laude psalmorum</i></i> (<i><a href="#de-laude-short">link to edition</a></i></h3>
 
 Black refers to this text as a ‘summary of uses 1-8’ of <i>De laude psalmorum</i>.  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.
 
@@ -901,13 +901,15 @@ Black reports that about a third of the manuscripts containing the full text of 
 5.9: Domine quid multiplicati, Uerba mea ... Saluum me fac deus ... Dixit insipiens in corde suo ... Domine quis habitabit ... Conserva me Domine ... Iudica me Domine quoniam ego ... Dominus inluminatio mea ... Miserere mei Deus ... Deus iudicium tuum regi da ... Ad te levaui oculos... Confitebor tibi Domine, Domine probasti me, Eripe me domine, Domine clamaui, Uoce mea: these psalms do not appear in <i>De laude psalmorum</i>; likewise, nineteen of the forty-eight psalms which are prescribed in <i>De laude psalmorum</i> do not appear in Tiberius.
 
 
-<h3 id="suscipere-digneris-comm">Commentary on the two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens'</h3>
+<h3 id="suscipere-digneris-comm">Commentary on the two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens' (<i><a href="#suscipere-digneris">link to edition</a></i></h3>
 
 These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed here to the Venerable Bede.
 
-6.1: Suscipere digneris: this prayer appears in the Vespasian Psalter.<!--Show the image from the Vespasian and/or any other.  See my book for anywhere else it might be.-->
+6.1: Suscipere digneris: a prayer with a similar beginning appears in the Vespasian Psalter (London, British Library Cotton MS Vespasian A I
+[^10]
+<!--Show the image from Vespasian.  Is it in the 11th-century additions?-->
 
-6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number.  See my book for anywhere else it might be-->
+6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number.  It is not listed in the index to my book-->
 
 
 # References
@@ -919,5 +921,6 @@ These prayers, the final text immediately preceding the psalter itself, were app
 [^5]: Francis Wormald, ‘An English Eleventh-Century Psalter with Pictures: British Museum, Cotton MS Tiberius C. VI’, Walpole Society, 38 (1962), 1-14.
 [^6]: F. E. Warren, <i>The Leofric Missal : As Used in the Cathedral of Exeter during the Episcopate of Its First Bishop, A.D. 1050-1072, Together with Some Account of the Red Book of Derby, the Missal of Robert of Jumièges, a Few Other Early Manuscript Service Books of the English Church</i>, 1st ed., republished (Farnborough, 1968).
 [^7]: Black, Jonathan, ed. “Psalm Uses in Carolingian Prayerbooks: Alcuin and the Preface to De psalmorum usu.” Mediaeval Studies 64 (2002): 1-60.
-[^8]: Kate H. Thomas, <i>Before the Books of Hours</i><!--GET FULL REFERENCE-->
+[^8]: Kate H. Thomas, <i>Late Anglo-Saxon Prayer in Practice: Before the Books of Hours</i><!--GET FULL REFERENCE-->
 [^9]: Fowler, 'An Old English Handbook'<!--GET FULL REFERENCE!! -->
+[^10]: Thomas, <i>Late Anglo-Saxon Prayer in Practice</i>, pp. 94, 273-74.
