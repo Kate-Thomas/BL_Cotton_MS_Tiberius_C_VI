@@ -455,10 +455,11 @@ in filiu<i>m</i> · Credo <i>et</i> in sp<i>iritu</i>m s<i>an</i>c<i>tu</i>m · 
 post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 <i>et</i> hęc om<i>n</i>ia · Credo in d<i>eu</i>m uiuu<i>m</i> · am<i>en</i> ·</b><br>
 
-<b>[Confessional ordo with priest]</b><br><!--Part of the OE handbook: should I give this heading?  Use the one in Fowler?-->
 P<i>OST</i> HĘC ITERU<i>M</i><br>
 DICAT HVMILITER CORA<i>M</i> D[EO] ET [CORA]M<br>
 SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
+
+<h4 id="ego-confiteor">['Ego confiteor tibi': a confessional prayer (<i><a href="#ego-confiteor-comm">link to commentary</a></i>)]</h4>
 <b>Ego confiteor tibi pater cęli <i>et</i> terrę cora<i>m</i> hoc<br>
 altare tuo s<i>an</i>cto · <i>et</i> istius loci reliquiis · et<br>
 cora<i>m</i> sacerdote tuo om<i>n</i>ia peccata mea · <i>et</i> quic-<br>
@@ -471,7 +472,7 @@ conuitia turpiloquia · scurrilitates · m<i>en</i>dacia irrisi<br>
 ones · murmurationes · adolationes · tristitias<br>
 uigilias inutiles · carnales concupiscentias<br>
 iessimas · p<i>ro</i>pter corporis mei suauitates · Ego<br>
-c<i>on</i>fiteor q<i>ui</i>a d<i>e</i>i p<i>re</i>cepta post posui <i>et</i> transgressussu<i>m</i><br>
+c<i>on</i>fiteor q<i>ui</i>a d<i>e</i>i p<i>re</i>cepta post posui <i>et</i> transgressus su<i>m</i><br>
 p<i>er</i> sup<i>er</i>bia<i>m</i> · <i>et</i> elatione<i>m</i> · <i>et</i> pigritia<i>m</i> · <i>et</i> uoluptates<br>
 inmundas· P<i>er</i>petraui aute<i>m</i> fornicationes · polluti<br>
 ones · luxurias · ębrietates · co<i>m</i>messationes · homici<br>
@@ -571,7 +572,7 @@ n<i>ost</i>r<i>u</i>m in nomine d<i>omi</i>ni · Fiat mis<i>eri</i>c<i>or</i>dia
 ET POSTEA QUA CONFESSVS · FVERIT PECCA<br><!--This is probably capitalised-->
 TA SVA ANTE ALTARE DICAT&nbsp;·<br>
 <b>D<i>omi</i>ne ne in furore tuo ·iii· Et miserere mei d<i>eu</i>s usq<i>ue</i> in finem ·</b><br>
-Cu<i>m</i> gl<i>ori</i>a · Et <b>quid gl<i>ori</i>aris</b> usq<i>ue</i> uidebunt iusti <i>et</i>timebunt&nbsp;·<br>
+Cu<i>m</i> gl<i>ori</i>a · Et <b>quid gl<i>ori</i>aris</b> usq<i>ue</i> uidebunt iusti <i>et</i> timebunt&nbsp;·<br>
 Et <b>uenite exultem<i>us</i> d<i>omi</i>no</b> usq<i>ue</i> nolite obdurare corda ura · Et<br>
 <b>iubilate d<i>omi</i>no om<i>n</i>is terra</b> · <b>seruite d<i>omi</i>no</b> usq<i>ue</i> in fine<i>m</i> · Et <b>bene<br>
 dic anima mea d<i>omi</i>no <i>et</i> om<i>n</i>ia</b> usq<i>ue</i> iuuentus tua · Cu<i>m</i> gl<i>ori</i>a<br>
@@ -854,15 +855,9 @@ This extremely widespread guide to prayer using the psalms has been studied in d
        region="1408,6321,3704,2490"
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
 
+3.5: ‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.  In the other sources, this line appears as ‘Et post hęc incipit confessionem suam coram D<i>e</i>o <i>et</i> coram sacerdote confitens peccata sua’, and is followed by the short prayer ‘Preueniat hunc famulum tuum’, marking the end of Fowler's <i>Handbook</i> I.  In Cotton MS Tiberius A III, this is followed immediately by the vernacular confession which Fowler prints as <i>Handbook</i> II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.  The second copy of I in D is followed by other Latin texts of confession and absolution.   Cotton MS Tiberius C VI departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, ‘Ego confiteor tibi’, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
 
-
-3.5: coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.  In the other sources, this instruction is followed by the prayer ‘Preueniat hunc famulum tuum’.
-
-
-
-<h3>Confessional <i>ordo</i> with priest</h3><!--SHOULD THIS BE A SEPARATE SECTION?-->
-
-<!--EXPAND ALL THE ABBREVIATIONS IN THIS PARAGRAPH-->In N, Handbook I is followed immediately by the vernacular confession which Fowler prints as Handbook II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.   The second copy of I in D is followed by other Latin texts of confession and absolution.   Cotton MS Tiberius C VI departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
+<h3 id="ego-confiteor-comm">Commentary on ‘Ego confiteor tibi’ (<i><a href="#ego-confiteor">link to edition</a></i>)</h3>
 
 4.1: Ego confiteor ... Supplico te Dei sacerdos: these prayers appear together in the <i>Libellus Turonensis</i><!--WHAT IS THE SHELFMARK?  SEE MY BOOK-->. 
 
