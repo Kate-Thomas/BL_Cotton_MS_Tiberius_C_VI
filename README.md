@@ -839,21 +839,26 @@ This extremely widespread guide to prayer using the psalms has been studied in d
 
 <h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>In 1965, Roger Fowler published what he called ‘A Late Old English Handbook for the use of a Confessor’.[^9]  This is a somewhat misleading title: what he printed was in fact a series of six texts, the first of which (<i>Handbook</i> I) is in Latin, for use in penitence and confession; the six often appear in the same manuscripts, but not always all together, or in the sequence to which he assigned them.<br>
 <br>
-<i>Handbook</i> I, attributed to St Jerome, briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see a confessor.   Fowler finds this first section in: Brussels, Bibliothèque Royale 8558-63 (2498) (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->  Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts: I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^8]  Here, I present images from the analogue manuscripts by way of comparison with Tiberius C VI.
+<i>Handbook</i> I, attributed to St Jerome, briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see a confessor.   Fowler finds this first section in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>, (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->  Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts: I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^8]  Here, I present images from the analogue manuscripts by way of comparison with Tiberius C VI.
 
 3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.<!--SHOW IMAGES FROM THE OTHER MSS IF POSSIBLE-->
 
-3.2: ita dicendo tribus vicibus: this instruction does not appear in the other sources.
-
-3.3: Sancta maria ora pro me: the other sources do not give the litany in full.
+3.2: ita dicendo tribus vicibus: this instruction does not appear in the other sources.<br>
+<br>
+3.3: Sancta maria ora pro me: the other sources do not give the litany in full.<br>
 
 3.4: Credo in unum deum: the other sources do not give the creed in full.
 
-3.xx: Confessio eni<i>m</i> sanat · Confessio iustificat: the first version in D ends here, followed by a blank space of about thirteen lines, followed by ‘Preueniat hunc famulum tuum’ (see 3.xx below).
-<br>
+3.xx: Confessio eni<i>m</i> sanat · Confessio iustificat: the first version in Corpus Christi College 201, pp. 114-15, (D) ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
 <param ve-image seq="123"
        region="1408,6321,3704,2490"
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
+
+'sapientam perfectam et ueram intellegentiam': the version on Corpus Christi College MS 201, p. 170, ends here.<br>
+<param ve-image seq="180"
+       region="1408,6321,3704,2490"
+       manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
+<!--EDIT THE REGION COVERED-->
 
 3.5: ‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.  In the other sources, this line appears as ‘Et post hęc incipit confessionem suam coram D<i>e</i>o <i>et</i> coram sacerdote confitens peccata sua’, and is followed by the short prayer ‘Preueniat hunc famulum tuum’, marking the end of Fowler's <i>Handbook</i> I.  In Cotton MS Tiberius A III, this is followed immediately by the vernacular confession which Fowler prints as <i>Handbook</i> II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.  The second copy of I in D is followed by other Latin texts of confession and absolution.   Cotton MS Tiberius C VI departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, ‘Ego confiteor tibi’, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
 
