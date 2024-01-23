@@ -849,6 +849,7 @@ In 1965, Roger Fowler published what he called ‘A Late Old English Handbook fo
 <br>
 <i>Handbook</i> I, attributed to St Jerome, briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see a confessor.   Fowler finds this first section in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>, (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->  Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts: I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^8]  Here, I present images from the analogue manuscripts by way of comparison with Tiberius C VI.<br>
 <param ve-image seq="77"
+       region="-74,1174,3596,2417"
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json">
 
 3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.<!--SHOW IMAGES FROM THE OTHER MSS IF POSSIBLE-->
