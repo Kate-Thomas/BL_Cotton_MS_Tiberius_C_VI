@@ -384,7 +384,7 @@ nisi ad te · Tu es d<i>eu</i>s m<i>eu</i>s · Tu es rede<i>m</i>ptor m<i>eu</i>
 spes mea · Tu es refugiu<i>m</i> meu<i>m</i> · In te est decan<br>
 tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
 Precor te d<i>omi</i>ne antequa<i>m</i> discutias<!--Check this, I had "distutias"--> me miserere<br>
-mei</b>
+mei</b><!--ABRUPT ENDING, HAVE I MISSED SOMETHING?-->
 
 <h4 id="de-laude-8">[Section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8-comm">link to commentary</a></i>)]</h4>
 SI TE VOLVERIS INTIMENTE EXER<br>
@@ -825,9 +825,8 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 
 1.4: Peccaui, domine, peccaui:
 
-1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).  The image shown is from the Bury Psalter (Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, f. 165r).
-<!--check this is the right prayer.  Get this manifest to work!!-->
-<param ve-image seq="339"
+1.5: Omnipotens sempiterne deus, rex regum: a longer version of this prayer appears in the Bury Psalter (Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, beginning at f. 179r), from which the image shown is taken.  A copy in Latin and Old English can be found in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).  <!--Get this manifest to work!!--><br>
+<param ve-image seq="0369"
        manifest="https://digi.vatlib.it/iiif/MSS_Reg.lat.12/manifest.json">
 
 
