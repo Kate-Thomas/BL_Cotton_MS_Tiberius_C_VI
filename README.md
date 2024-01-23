@@ -826,8 +826,8 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 1.4: Peccaui, domine, peccaui:
 
 1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).  The image shown is from the Bury Psalter (Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, f. 165r).
-<!--check this is the right prayer-->
-<param ve-image seq="339"
+<!--check this is the right prayer.  I think it's image 339-->
+<param ve-image seq="5"
        manifest="https://digi.vatlib.it/iiif/MSS_Reg.lat.12/manifest.json">
 
 
