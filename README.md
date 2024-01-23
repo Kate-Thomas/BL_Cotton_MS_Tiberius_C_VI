@@ -3,7 +3,7 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x00001e/1923,1569,2771,1833/800,/0/default.jpg"
+       banner="https://en.wikipedia.org/wiki/Tiberius_Psalter#/media/File:Tiberius_Psalter_f18v.png"
        layout="vertical">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -45,7 +45,7 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 ## Contents of the manuscript
-This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.<br>
+This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.  In some cases, more than one image of the same folio corresponds to the text.<br>
 <br>
 ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: images from the Bible<br>
@@ -157,7 +157,7 @@ bus cicutis<br>
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
 Hęc est forma psalterii&nbsp;·<br>
-[<i>King David sitting upon a stool, holding a psalterium, a rectangular strung instrument.</i>]
+[<i>King David sitting upon a stool, holding a psalterium, a rectangular stringed instrument.</i>]
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="5"
        region="1212,679,1203,779"
@@ -709,7 +709,7 @@ his witegunge be þan halgan gaste · <i>and</i> be his seofan<br>
 <sub>fold&nbsp;&nbsp;geftys&nbsp;þo sebyn fold gyfte bet--</sub><br>
 fealdan gifu · þa seofanfeald angyfa fynd þus<br>
 <sub>y called&nbsp;yn latyn</sub><br>
-gehatene · Sapientia · on leden · þ<i>æt</i>is wisdom on englisc<br>
+gehatene · Sapientia · on leden · þ<i>æt</i> is wisdom on englisc<br>
 <sub>&nbsp;&nbsp;yn latyn&nbsp;vndstandyng</sub><br>
 Intellect<i>us</i> on leden · <i>and</i> andgyt on englisc · Consiliu<i>m</i> · on<br>
 <sub>latyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reed</sub><br>
@@ -806,8 +806,7 @@ gratia aliquatenus uerba tuę maiestatis<br>
 cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br> 
 
 <h4>[Miniature of King David and his musicians]</h4>
-<br>
-<br>
+[<i>King David sits on a throne, playing the harp; to his left and right, musicians play trumpets; above him are a juggler and a fiddler; the Holy Spirit, in the form of a dove, descends upon the king's head.</i>]<br>
 <br>
 
 <h2>Notes and analogues</h2>
@@ -819,13 +818,18 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 <i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the <i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10) and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in London, British Library Cotton MS Galba XIV and the <i>Portiforium of St Wulstan</i> (Cambridge, Corpus Christi College MS 391).  The image shown is from the Book of Cerne, f. 60r.
 <!--something is wrong here: find the correct manifest for Cerne and show it-->
 
-1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the Regularis concordia:
-
-Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surrexerit frater, primum sibi signum sanctę crucis inprimat per sanctę trinitatis inuocationem.  Deinde dicat uersum “Domine, labia mea aperies”, dehinc  psalmum “Deus, in adiutorium meum intende”, totum cum “Gloria”.  Tunc prouideat sibi corpoream naturę necessitatem, si ipsa hora indiguerit, et sic ad oratorium festinando psallat psalmum “Ad te, Domine, leuaui animam meam”. 
+1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the <i>Regularis concordia</i>:<br>
+<br>
+'Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surrexerit frater, primum sibi signum sanctę crucis inprimat per sanctę trinitatis inuocationem.  Deinde dicat uersum “Domine, labia mea aperies”, dehinc  psalmum “Deus, in adiutorium meum intende”, totum cum “Gloria”.  Tunc prouideat sibi corpoream naturę necessitatem, si ipsa hora indiguerit, et sic ad oratorium festinando psallat psalmum “Ad te, Domine, leuaui animam meam”.'
+<!--IMAGE FROM COTTON MS FAUSTINA B III, f. 159r-198r/COTTON MS TIBERIUS A III-->
 
 1.4: Peccaui, domine, peccaui:
 
-1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).
+1.5: Omnipotens sempiterne deus: this prayer appears in the Bury Psalter and, in both Latin and Old English, in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).  The image shown is from the Bury Psalter (Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, f. 165r).
+<!--check this is the right prayer-->
+<param ve-image seq="339"
+manifest="https://digi.vatlib.it/iiif/MSS_Reg.lat.12/manifest.json">
+
 
 <h3 id="de-laude-8-comm">Commentary on section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8">link to edition</a></i>)</h3>
 
