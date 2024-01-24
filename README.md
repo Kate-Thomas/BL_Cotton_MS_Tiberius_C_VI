@@ -3,7 +3,7 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner=""
+       <!--banner=""-->
        layout="vertical">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -62,7 +62,8 @@ ff. 28r-30r: <a href="#de-septiformes"><i>De septiformes Spiritus Sanctus</i>/<i
 f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso omnipotens’</a> (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss<br>
-
+<param ve-image seq="2" 
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
 ## Edition
 <h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
@@ -182,7 +183,7 @@ chorus est&nbsp;·<br>
        region="883,2437,1410,1063"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<h4 id="christ-miniature">[Image of Christ in majesty</h4>]
+<h4 id="christ-miniature">[Image of Christ in majesty]</h4>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="7"
