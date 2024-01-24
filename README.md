@@ -908,6 +908,8 @@ Black reports that about a third of the manuscripts containing the full text of 
 
 5.9: Domine quid multiplicati, Uerba mea ... Saluum me fac deus ... Dixit insipiens in corde suo ... Domine quis habitabit ... Conserva me Domine ... Iudica me Domine quoniam ego ... Dominus inluminatio mea ... Miserere mei Deus ... Deus iudicium tuum regi da ... Ad te levaui oculos... Confitebor tibi Domine, Domine probasti me, Eripe me domine, Domine clamaui, Uoce mea: these psalms do not appear in <i>De laude psalmorum</i>; likewise, nineteen of the forty-eight psalms which are prescribed in <i>De laude psalmorum</i> do not appear in Tiberius.
 
+<h3 id="de-septiformes-comm">Commentary on De septiformes</h3>
+Harley MS 3271, 124r-125r: same thing?  See Cameron/Frank
 
 <h3 id="suscipere-digneris-comm">Commentary on the two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens' (<i><a href="#suscipere-digneris">link to edition</a></i></h3>
 
