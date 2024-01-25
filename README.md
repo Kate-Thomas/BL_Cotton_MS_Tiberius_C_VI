@@ -26,10 +26,6 @@
     color: green;
     font-weight: bold;
   }
-td {
-       vertical-align: top;
-       padding-right: 5px;
-}
 </style>
 
 ## About the manuscript
