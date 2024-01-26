@@ -870,7 +870,7 @@ Confessio eni<i>m</i> sanat · Confessio iustificat: the first version in Corpus
 <h3 id="ego-confiteor-comm">Commentary on ‘Ego confiteor tibi’ (<i><a href="#ego-confiteor">link to edition</a></i>)</h3>
 
 <b>Ego confiteor tibi pater cęli et terrę</b>: this prayer appears in the <i>Libellus Turonensis</i> (Paris, Bibliothèque nationale de France MS Latin 13388), where it begins on f. 6r with a large decorated initial and a display page.  As in Tiberius C VI, it is followed by ‘Supplico te Dei sacerdos’ (f. 9v).
-<param ve-image seq="13"
+<param ve-image seq="12"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105423611/manifest.json">
 
 Adesto, domine ... Domine Deus noster, qui offensione nostra: these prayers appear in the absolution of penitents in the Pontificale Lanaletense, fols. 112v-3r.  G. H. Doble, ed., Pontificale Lanaletense, p. 77.
