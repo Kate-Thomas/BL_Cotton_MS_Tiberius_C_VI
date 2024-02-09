@@ -26,9 +26,12 @@
     color: green;
     font-weight: bold;
   }
+  title {
+    color: blue;
+  }
 @media only screen and (max-width: 800px) {
   title {
-    font-size: 40%;
+    font-size: 20%;
   }
 }
 </style>
