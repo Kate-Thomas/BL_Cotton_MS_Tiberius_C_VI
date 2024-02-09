@@ -26,6 +26,13 @@
     color: green;
     font-weight: bold;
   }
+
+@media (max-width: 550px) {
+  title {
+  font-size: 40%;
+  }
+}
+       
 </style>
 
 ## About the manuscript
