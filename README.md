@@ -4,7 +4,7 @@
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
        banner="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x00001e/1923,1569,2771,1833/800,/0/default.jpg"
-       layout="vertical">
+       layout="vertical" class="banner-text">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
@@ -26,11 +26,11 @@
     color: green;
     font-weight: bold;
   }
-  title {
+  .banner-text {
     color: blue;
   }
 @media only screen and (max-width: 800px) {
-  title {
+  .banner-text {
     font-size: 20%;
   }
 }
