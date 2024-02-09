@@ -26,7 +26,7 @@
     color: green;
     font-weight: bold;
   }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
   title {
     font-size: 40%;
   }
