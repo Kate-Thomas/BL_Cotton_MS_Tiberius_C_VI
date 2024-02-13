@@ -184,7 +184,7 @@ chorus est&nbsp;·<br>
        region="883,2437,1410,1063"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<h4 id="christ-miniature">[Image of Christ in majesty</h4>]
+<h4 id="christ-miniature">[Image of Christ in majesty]</h4>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="7"
@@ -638,7 +638,7 @@ d<i>omi</i>ne q<i>ua</i>m · D<i>omi</i>n<i>u</i>s inluminatio mea · Beati quor
 
 [27v] <b>Benedica d<i>omi</i>n<i>u</i>m · D<i>omi</i>ne ne in furore tuo</b> ·ii· <b>Que<i>m</i> ad<br><!--CHECK THIS PAGE, SOME ABBREVIATIONS NOT CORRECT?-->
 modu<i>m</i>. D<i>eu</i>s aurib<i>us</i> n<i>ost</i>ris · Miserere mei d<i>eu</i>s s<i>e</i>c<i>un</i>d<i>u</i>m&nbsp;·<br>
-D<i>eu</i>s in nomine tuo· Exaudid<i>eu</i>s oratione mea<i>m</i></b> <i>et</i> ne d.<br>
+D<i>eu</i>s in nomine tuo· Exaudi d<i>eu</i>s oratione mea<i>m</i></b> <i>et</i> ne d.<br>
 <b>Miserere mei d<i>eu</i>s miserere mei. D<i>eu</i>s d<i>eu</i>s m<i>eu</i>s ad te d.<br>
 Exaudi d<i>eu</i>s orat</b> cu<i>m</i> dep. <b>D<i>eu</i>s misereat<i>ur</i> n<i>ost</i>ri. Saluu<i>m</i><br>
 me fac d<i>eu</i>s. D<i>eu</i>s in adiutoriu<i>m</i>. In te d<i>omi</i>ne speraui</b> ·ii·<br>
@@ -703,11 +703,11 @@ usurpatio scientię · Sp<i>iritu</i>s bon<i>us</i> · sp<i>iritu</i>s pietatis 
 sp<i>iritu</i>s impietates · alt<i>er</i> peior · false pietatis · obtentus&nbsp;·<br>
 Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s · timoris dei · Cui contrarius est sp<i>iritu</i>s temeri<br>
 tatis · alter · peior · dolus ficte religiositatis ·, ------<br>
-<sub>&nbsp;&nbsp;&nbsp;þe p<i>ro</i>phet&nbsp;&nbsp;wrot</sub><br>
+<sub>&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;þe p<i>ro</i>phet&nbsp;&nbsp;wrot</sub><br>
 Isaias se witega awrat on þylce on ænglisc<br>
-<sub>&nbsp;&nbsp;prophecy by þe holigost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sebyn</sub><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;prophecy by þe holigost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sebyn</sub><br>
 his witegunge be þan halgan gaste · <i>and</i> be his seofan<br>
-<sub>fold&nbsp;&nbsp;geftys&nbsp;þo sebyn fold gyfte bet--</sub><br>
+<sub>fold&nbsp;&nbsp;&nbsp;&nbsp;geftys&nbsp;þo sebyn fold gyfte bet--</sub><br>
 fealdan gifu · þa seofanfeald angyfa fynd þus<br>
 <sub>y called&nbsp;yn latyn</sub><br>
 gehatene · Sapientia · on leden · þ<i>æt</i> is wisdom on englisc<br>
@@ -818,6 +818,8 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 
 <i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the <i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10) and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in London, British Library Cotton MS Galba XIV and the <i>Portiforium of St Wulstan</i> (Cambridge, Corpus Christi College MS 391).  The image shown is from the Book of Cerne, f. 60r.
 <!--something is wrong here: find the correct manifest for Cerne and show it-->
+<param ve-image seq="173"
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010/manifest.json>
 
 1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the <i>Regularis concordia</i>:<br>
 <br>
