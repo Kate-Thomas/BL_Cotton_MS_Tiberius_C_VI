@@ -265,6 +265,7 @@ ullulabant · Interrogabat aute<i>m</i> dauid rex<br>
 notarios suos id est · asaph · ęman · ęthan · <i>et</i><br>
 idithun · sut a textus exceptionis eor<i>um</i> mani-<br>
 sestabat sicut <i>et</i> populus · quintspondentes<br>
+       <param ve-image add_ms_10546_f002r.jpg>
 
 [20v] notaru supra memorati Adnuntiabant regi<br>
 omnia uera esse · Sicut <i>et</i> isti uoce testant<i>ur</i> ita .<br>
