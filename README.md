@@ -41,6 +41,7 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
+<param ve-entity eid="Q20817523"> <!-- Tiberius Psalter -->
 <param ve-image seq="1"
        width="max"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
