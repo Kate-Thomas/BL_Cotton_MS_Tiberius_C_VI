@@ -240,7 +240,7 @@ inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
-<h4 id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]</h4>
+<id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]
 Incipit ex positio psal-------ans<br>
 --rpirv<i>m</i> qve pver sr cantic--n-----<br>
 Psalteriu<i>m</i> dicitur psallentiu<i>m</i> multoru<i>m</i><br>
