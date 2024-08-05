@@ -240,7 +240,7 @@ inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
        
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
-<id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]
+<h4 id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]</h4>
 Incipit ex positio psal-------ans<br>
 --rpirv<i>m</i> qve pver sr cantic--n-----<br>
 Psalteriu<i>m</i> dicitur psallentiu<i>m</i> multoru<i>m</i><br>
@@ -265,7 +265,7 @@ ullulabant · Interrogabat aute<i>m</i> dauid rex<br>
 notarios suos id est · asaph · ęman · ęthan · <i>et</i><br>
 idithun · sut a textus exceptionis eor<i>um</i> mani-<br>
 sestabat sicut <i>et</i> populus · quintspondentes<br>
-       <param ve-image add_ms_10546_f002r.jpg>
+       <img src="add_ms_10546_f002r.jpg">
 
 [20v] notaru supra memorati Adnuntiabant regi<br>
 omnia uera esse · Sicut <i>et</i> isti uoce testant<i>ur</i> ita .<br>
