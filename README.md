@@ -80,6 +80,7 @@ thare<br></p>
 <param ve-image seq="3"
        region="206,-99,1203,779"
        manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+<!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
 Psalterium est<br>
 quasi in modum<br>
