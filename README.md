@@ -79,7 +79,7 @@ ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="3"
 	region="206,-99,1203,779"
-      	manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+      	manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
 Psalterium est<br>
@@ -89,7 +89,7 @@ corde eius contrarię<br>
 sunt abimo · in altum<br>
 <param ve-image seq="3"
        region="1223,492,1444,935"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 Hoc est tympanum<br>
 hoc est forma tympanitym<br>
@@ -99,7 +99,7 @@ is in labiis <i>et</i> unum<br>
 in collo<br>
 <param ve-image seq="3"
        region="845,2232,1444,935"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 Hoc est forma cy-<br>
 thare quis prius<br>
@@ -110,7 +110,7 @@ ortum distar ut<br>
 in modulo<br>
 <param ve-image seq="3"
        region="1573,2307,1444,935"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 [17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
 <i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br><!--CHECK THIS-->
