@@ -49,7 +49,7 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.  In some cases, more than one image of the same folio corresponds to the text.<br>
 <br>
-ff. 2r-7r: computistical texts<br>
+<p>ff. 2r-7r: computistical texts<br>
 ff. 7v-16r: images from the Bible<br>
 <b>ff. 16v-18r: <i><a href="#nabulum-est">Nabulum est quod grece dicitur tympanum</a></i> (an illustrated text on Biblical musical instruments)<br>
 ff. 18v: <a href="#christ-miniature">Image of Christ in majesty</a><br>
@@ -63,18 +63,21 @@ ff. 27v-28r: <a href="#dicti-sancti">Dicti Sancti Augustini</a><br>
 ff. 28r-30r: <a href="#de-septiformes"><i>De septiformes Spiritus Sanctus</i>/<i>Isaias se witega</i></a> (homily on the Holy Spirit in Latin, and an extended translation in Old English partially glossed in early modern English)<br>
 f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso omnipotens’</a> (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
-ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss<br>
+ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss</p><br>
 	<param ve-image seq="2"
 	manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
 
-<id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]
-[16v] Nabulum est quod grece<br>
+
+## Edition
+<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
+<br>
+<p></b>[16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
 dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
-thare<br>
+thare</p><br>
 <param ve-image seq="3"
 	region="206,-99,1203,779"
       	manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
