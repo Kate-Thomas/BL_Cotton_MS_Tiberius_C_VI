@@ -122,7 +122,7 @@ adoratione<i>m</i> hec<br>
 est forma<br>
 <param ve-image seq="4"
        region="206,-99,1203,779"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
        
 Sabuca i<i>n</i> musicis genus informe in<br>
 libro damelis dr ·  Nescio quando<br>
@@ -133,7 +133,7 @@ fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
 menti · <i>ue</i>l decortice&nbsp;·<br>
 <param ve-image seq="4"
        region="1223,492,1444,935"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 Haec manus musica canticum est<br>
 duo calami sunt de auri calco more sonantur omnem –<br>
@@ -142,14 +142,14 @@ ma tubae tertie fistule in capite angusto · iiii· ucae<br>
 deductae<br>
 <param ve-image seq="4"
        region="845,2232,1444,935"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 Pennola pennoil<br>
 Nun cupatur<br>
 hęc forma&nbsp;·<br>
 <param ve-image seq="4"
        region="1573,2307,1444,935"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 Corus est pellis<br>
 simplex cum dua<br>
@@ -165,7 +165,7 @@ Hęc est forma psalterii&nbsp;·<br>
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="5"
        region="1212,679,1203,779"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 [18r] Duo bunibula semper aequalia<br>
 Hęc est forma fistulę hoc<br>
@@ -176,7 +176,7 @@ sed tria tamen bunibula<br>
 muno quo que latera<br>
 <param ve-image seq="6"
        region="249,605,1692,1276"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 Hęc est forma eiusde<i>m</i><br>
 chori quattuor –<br>
@@ -185,13 +185,13 @@ de ligno modulatus<br>
 chorus est&nbsp;·<br>
 <param ve-image seq="6"
        region="883,2437,1410,1063"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 <h4 id="christ-miniature">[Image of Christ in majesty]</h4>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="7"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 <h4 id="origo-prophetie">[<i>Origo prophetie de regis psalmorum</i>: psalter preface (<i><a href="#origo-prophetie-comm">link to commentary</a></i>)]</h4>
 [19r] Origo prophetie de re<br>
