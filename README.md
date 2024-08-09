@@ -817,10 +817,12 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 
 <h2>Notes and analogues</h2>
 
-<h3 id="oratio-cuiusdam-comm">Commentary on <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam">link to edition</a></i>)</h3>This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.<br>
+<h3 id="oratio-cuiusdam-comm">Commentary on <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam">link to edition</a></i>)</h3><br>
+<i>Image shown: XXX</i><br>
+This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.<br>
 <br>
 <i>qui pecularius orare uoluerit et furtiua orationes quesierit</i>: this marks out the text as being for individual use.<br>
-
+<br>
 <i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the <i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10) and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in London, British Library Cotton MS Galba XIV and the <i>Portiforium of St Wulstan</i> (Cambridge, Corpus Christi College MS 391).  The image shown is from the Book of Cerne, f. 60r.
 <!--something is wrong here: find the correct manifest for Cerne and show it-->
 <param ve-image seq="173"
@@ -831,22 +833,21 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 'Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surrexerit frater, primum sibi signum sanctę crucis inprimat per sanctę trinitatis inuocationem.  Deinde dicat uersum “Domine, labia mea aperies”, dehinc  psalmum “Deus, in adiutorium meum intende”, totum cum “Gloria”.  Tunc prouideat sibi corpoream naturę necessitatem, si ipsa hora indiguerit, et sic ad oratorium festinando psallat psalmum “Ad te, Domine, leuaui animam meam”.'
 <!--IMAGE FROM COTTON MS FAUSTINA B III, f. 159r-198r/COTTON MS TIBERIUS A III-->
 
-1.4: Peccaui, domine, peccaui:
-
-1.5: Omnipotens sempiterne deus, rex regum: a longer version of this prayer appears in the Bury Psalter (Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, beginning at f. 179r), from which the image shown is taken.  A copy in Latin and Old English can be found in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).  <!--Get this manifest to work!!--><br>
+1.4: Omnipotens sempiterne deus, rex regum: a longer version of this prayer appears in the Bury Psalter (Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, beginning at f. 179r), from which the image shown is taken.  A copy in Latin and Old English can be found in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).  <!--Get this manifest to work!!--><br>
 <param ve-image seq="0369"
        manifest="https://digi.vatlib.it/iiif/MSS_Reg.lat.12/manifest.json">
 
 
 <h3 id="de-laude-8-comm">Commentary on section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8">link to edition</a></i>)</h3>
-
-This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Of these, Cotton MS Tiberius C VI is the only Anglo-Saxon manuscript,  and this does not contain the whole text, but only the eighth section (item no. 2) and a kind of summary (item no. 5).  <i>De laude psalmorum</i> begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.<br>
+<i>Image shown: XXX</i><br>
 <br>
-<i>De laude psalmorum</i> is of particular note for its encouragement of the reader to choose amongst the psalms in order to suit his or her own needs in prayer.  Accordingly, the words ‘si vis’ and ‘si te volueris’ abound in it, along with an emphasis on the importance of praying to God ‘intima mente’ (the phrase occurs eight times in the full treatise).  The eighth and final reason why one would wish to pray with the psalter is ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’,  for this purpose, only one psalm is given, the long 118th psalm ‘Beati immaculati’.  After this follows a brief closing paragraph on the value of the psalter.  In Tiberius, the eighth part of <i>De laude psalmorum</i> and the closing paragraph appear.<br>
-
-2.1: exercere virtutis: in the sources used as a basis for Black’s edition, the opening sentence appears as ‘exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’.
-
-2.2: in via qui ambulaveris: this does not appear in the sources edited by Black.
+This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Cotton MS Tiberius C VI does not contain the whole text, but only the eighth section (ff. 22c-23r) and a kind of summary (f. 27r-v).  <i>De laude psalmorum</i> begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.<br>
+<br>
+<i>De laude psalmorum</i> is of particular note for its encouragement of the reader to choose amongst the psalms in order to suit his or her own needs in prayer.  Accordingly, the words ‘si vis’ and ‘si te volueris’ abound in it, along with an emphasis on the importance of praying to God ‘intima mente’ (the phrase occurs eight times in the full treatise).  The eighth and final reason why one would wish to pray with the psalter is ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’:  for this purpose, only one psalm is given, the long 118th psalm ‘Beati immaculati’.  After this follows a brief closing paragraph on the value of the psalter.  In Tiberius C VI, the eighth part of <i>De laude psalmorum</i> and the closing paragraph appear.<br>
+<br>
+2.1: exercere virtutis: in the sources used as a basis for Black’s edition, the opening sentence appears as ‘exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’.<br>
+<br>
+2.2: in via qui ambulaveris: this does not appear in the sources edited by Black.<br>
 
 
 <h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
@@ -898,8 +899,8 @@ Black refers to this text as a ‘summary of uses 1-8’ of <i>De laude psalmoru
 <br>
 Black reports that about a third of the manuscripts containing the full text of <i>De laude psalmorum</i> attribute it to St Augustine and others name Jerome, whereas Rome, Biblioteca nazionale central Sessoriana 71 ascribes authorship to Alcuin.[^12]  Following André Wilmart, both Black and Donald A. Bullough accept <i>De laude psalmorum</i> as indeed being Alcuin’s work,  although Jean Chazelas and Stephan Waldhoff have argued to the contrary.[^13]<!--FIND BULLOUGH, CHAZELAS, WALDHOFF REFERENCES--><br>
 <br>
-Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v (11th century, possibly from Alsace or Lorsch) are shown by way of comparison with Tiberius C VI.
-
+Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v (11th century, possibly from Alsace or Lorsch) are shown by way of comparison with Tiberius C VI.<br>
+<br>
 5.2: Quicumque pro peccatis penitentiam (si uoluerit) agere et mentem suam corporali ac spiritali et letitia inluminari (si uoluerit): in the full treatise, this corresponds to use 1 of the psalms: in Black’s edition, this is given as ‘Si vis pro peccatis tuis paenitentiam agere et confessionem peccatorum tuorum et veniam rogare delictis ... celerrimam invenies clementiam Dei totam mentem spiritali gaudio ac laetitia inluminare.’
 <param ve-image seq="0088"
        manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
@@ -932,14 +933,14 @@ Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-
 Harley MS 3271, 124r-125r: same thing?  See Cameron/Frank
 
 <h3 id="suscipere-digneris-comm">Commentary on the two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens' (<i><a href="#suscipere-digneris">link to edition</a></i></h3>
-
+<br>
 These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed here to the Venerable Bede.
-
+<br>
 6.1: Suscipere digneris: a prayer with a similar beginning appears in the Vespasian Psalter (London, British Library Cotton MS Vespasian A I
-
+<br>
 <!--Show the image from Vespasian.  Is it in the 11th-century additions?-->
-
-6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number.  It is not listed in the index to my book-->
+<br>
+6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number.  It is not listed in the index to my book--><br>
 
 
 # References
