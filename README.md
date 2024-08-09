@@ -70,8 +70,7 @@ ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old En
 
 ## Edition
 <h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
-<br>
-</b>[16v] Nabulum est quod grece<br>
+[16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
 dinem del dae id est in<br>
