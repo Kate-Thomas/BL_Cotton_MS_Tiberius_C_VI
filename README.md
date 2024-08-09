@@ -44,7 +44,7 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
 <param ve-entity eid="Q20817523"> <!-- Tiberius Psalter -->
 <param ve-image seq="1"
        width="max"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.  In some cases, more than one image of the same folio corresponds to the text.<br>
@@ -65,7 +65,7 @@ f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss<br>
 	<param ve-image seq="2"
-	manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+	manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 
 ## Edition
