@@ -193,8 +193,8 @@ chorus est&nbsp;·<br>
 <param ve-image seq="7"
        manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
-<h4 id="origo-prophetie">[<i>Origo prophetie de regis psalmorum</i>: psalter preface (<i><a href="#origo-prophetie-comm">link to commentary</a></i>)]</h4>
-[19r] Origo prophetie de re<br>
+<h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
+[19r]  prophetie de re<br>
 gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
 Da<br>
