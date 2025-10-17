@@ -79,7 +79,7 @@ ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="3"
 	region="206,-99,1203,779"
-      	manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+      	manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
 Psalterium est<br>
@@ -122,7 +122,7 @@ adoratione<i>m</i> hec<br>
 est forma<br>
 <param ve-image seq="4"
        region="206,-99,1203,779"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+       manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
        
 Sabuca i<i>n</i> musicis genus informe in<br>
 libro damelis dr ·  Nescio quando<br>
@@ -165,7 +165,7 @@ Hęc est forma psalterii&nbsp;·<br>
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="5"
        region="1212,679,1203,779"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+       manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [18r] Duo bunibula semper aequalia<br>
 Hęc est forma fistulę hoc<br>
