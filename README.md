@@ -42,7 +42,7 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <param ve-entity eid="Q20817523"> <!-- Tiberius Psalter -->
-<param ve-image seq="1"
+<param ve-image seq="50"
        width="max"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
@@ -64,8 +64,8 @@ ff. 28r-30r: <a href="#de-septiformes"><i>De septiformes Spiritus Sanctus</i>/<i
 f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso omnipotens’</a> (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss<br>
-	<param ve-image seq="2"
-	manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+	<param ve-image seq="51"
+	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 
 ## Edition
