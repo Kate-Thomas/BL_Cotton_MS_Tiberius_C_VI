@@ -3,7 +3,7 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner="https://api.bl.uk/image/iiif/ark:/81055/vdc_100190274416.0x00001e/1923,1569,2771,1833/800,/0/default.jpg"
+       banner="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001/6106,2342,2908,1896,/0/default.jpg"
        layout="vertical">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -64,7 +64,7 @@ ff. 28r-30r: <a href="#de-septiformes"><i>De septiformes Spiritus Sanctus</i>/<i
 f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso omnipotens’</a> (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss<br>
-	<!--param ve-image seq="51"
+	<!--param ve-image seq="74"
 	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
 
 
