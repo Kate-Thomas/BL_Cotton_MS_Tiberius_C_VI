@@ -78,7 +78,7 @@ modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="46"
-	region="1755,1184,2054,1340"
+	<!--region="1755,1184,2054,1340"-->
       	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
@@ -88,7 +88,7 @@ clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
 sunt abimo · in altum<br>
 <param ve-image seq="46"
-       region="3430,1245,1426,930"
+       <!--region="3430,1245,1426,930"-->
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000010">
 
 Hoc est tympanum<br>
@@ -98,7 +98,7 @@ in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
 <param ve-image seq="46"
-       region="1928,3008,1712,1116"
+       <!--region="1928,3008,1712,1116"-->
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 Hoc est forma cy-<br>
@@ -109,7 +109,7 @@ toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 ortum distar ut<br>
 in modulo<br>
 <param ve-image seq="46"
-       region="3204,3348,2054,1340"
+       <!--region="3204,3348,2054,1340"-->
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
