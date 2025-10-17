@@ -77,8 +77,8 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-<param ve-image seq="3"
-	region="206,-99,1203,779"
+<param ve-image seq="46"
+	region="1755,1184,2054,1340"
       	manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
