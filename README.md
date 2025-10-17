@@ -79,7 +79,7 @@ ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="46"
 	region="1755,1184,2054,1340"
-      	manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+      	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
 Psalterium est<br>
@@ -87,9 +87,9 @@ quasi in modum<br>
 clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
 sunt abimo · in altum<br>
-<param ve-image seq="3"
-       region="1223,492,1444,935"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+<param ve-image seq="46"
+       region="3430,1245,1426,930"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000010">
 
 Hoc est tympanum<br>
 hoc est forma tympanitym<br>
@@ -97,9 +97,9 @@ panum pellis pillacis est<br>
 in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
-<param ve-image seq="3"
-       region="845,2232,1444,935"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+<param ve-image seq="46"
+       region="1928,3008,1712,1116"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 Hoc est forma cy-<br>
 thare quis prius<br>
@@ -108,9 +108,9 @@ toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
 ortum distar ut<br>
 in modulo<br>
-<param ve-image seq="3"
-       region="1573,2307,1444,935"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+<param ve-image seq="46"
+       region="3204,3348,2054,1340"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
 <i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br><!--CHECK THIS-->
@@ -120,9 +120,9 @@ manu tenentis<br>
 <i>et</i> suscitat<br>
 adoratione<i>m</i> hec<br>
 est forma<br>
-<param ve-image seq="4"
-       region="206,-99,1203,779"
-       manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+<param ve-image seq="47"
+       region="5702,947,2054,1340"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
        
 Sabuca i<i>n</i> musicis genus informe in<br>
 libro damelis dr ·  Nescio quando<br>
@@ -131,32 +131,32 @@ acitabulum q<i>ui</i> percusa in modu-<br>
 los concitatur quidam putant<br>
 fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
 menti · <i>ue</i>l decortice&nbsp;·<br>
-<param ve-image seq="4"
-       region="1223,492,1444,935"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+<param ve-image seq="47"
+       region="7164,1007,1712,1116"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 Haec manus musica canticum est<br>
 duo calami sunt de auri calco more sonantur omnem –<br>
 canticum quod more cantatur musicum eft · hęc for<br>
 ma tubae tertie fistule in capite angusto · iiii· ucae<br>
 deductae<br>
-<param ve-image seq="4"
-       region="845,2232,1444,935"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+<param ve-image seq="47"
+       region="6212,2166,2465,1608"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 Pennola pennoil<br>
 Nun cupatur<br>
 hęc forma&nbsp;·<br>
-<param ve-image seq="4"
-       region="1573,2307,1444,935"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+<param ve-image seq="47"
+       region="5904,3707,1712,1116"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 Corus est pellis<br>
 simplex cum dua<br>
 bus cicutis<br>
-<param ve-image seq="4"
-       region="1600,2400,1444,935"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+<param ve-image seq="47"
+       region="7119,3739,2054,1340"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [17v] Hic est dauid filius iesse tenens psalterium in ma<br>
 nibus suis;<br>
@@ -190,8 +190,8 @@ chorus est&nbsp;·<br>
 <h4 id="christ-miniature">[Image of Christ in majesty]</h4>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
-<param ve-image seq="7"
-       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
+<param ve-image seq="50"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
 [19r]  prophetie de re<br>
