@@ -42,9 +42,9 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <param ve-entity eid="Q20817523"> <!-- Tiberius Psalter -->
-<param ve-image seq="49"
+<param ve-image seq="1"
        width="max"
-       manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/MS-LL-00001-00010">
 
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.  In some cases, more than one image of the same folio corresponds to the text.<br>
