@@ -3,7 +3,7 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001/6106,2342,2908,1896,/0/default.jpg"
+       banner=https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/6106,2342,2908,1896/800,/0/default.jpg
        layout="vertical">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -42,9 +42,9 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <param ve-entity eid="Q20817523"> <!-- Tiberius Psalter -->
-<!--param ve-image seq="50"
+<param ve-image seq="50"
        width="max"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.  In some cases, more than one image of the same folio corresponds to the text.<br>
@@ -206,8 +206,8 @@ issed archa<i>m</i> inhier<i>ve</i>lin post annos<br><!--??-->
 xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MANSIT, CHECK-->
 domo amma dab · hane inposuit-<br>
 in subiugulali nouo · Et adduxit in-<br>
-<param ve-image seq="8"
-       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105458503/manifest.json">
+<param ve-image seq="51"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filior<i>um</i> isrt<br>
 l ex milia a [<i>lac.</i>] ros . De tribuaute<i>m</i> leui · cclxx octa<br>
