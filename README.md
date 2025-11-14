@@ -4,7 +4,7 @@
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
        banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/full/800,/0/info.json"
-       layout="vertical">
+       layout="vertical"><!--https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/6106,2342,2908,1896/800,/0/default.jpg-->
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
@@ -67,8 +67,9 @@ ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old En
 	<param ve-image seq="74"
 	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
+
 ## Edition
-<!--h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
+<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
@@ -77,8 +78,8 @@ modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="46"
-    	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-		region="1755,1184,2054,1340">
+    	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"><!--region="1755,1184,2054,1340"-->
+<!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
 Psalterium est<br>
 quasi in modum<br>
@@ -86,8 +87,7 @@ clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
 sunt abimo · in altum<br>
 <param ve-image seq="46"
-     manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000010"
-	 region="3430,1245,1426,930">
+     manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000010"><!--region="3430,1245,1426,930"-->
 
 Hoc est tympanum<br>
 hoc est forma tympanitym<br>
@@ -96,22 +96,20 @@ in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
 <param ve-image seq="46"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-	   region="1928,3008,1712,1116">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"><!--region="1928,3008,1712,1116"-->
 
 Hoc est forma cy-<br>
 thare quis prius<br>
 fuit cytharista · id est&nbsp;·<br>
-toba filius stellę <i>et</i>iem res<br>
+toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
 ortum distar ut<br>
 in modulo<br>
 <param ve-image seq="46"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-	   region="3204,3348,2054,1340">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"><!--region="3204,3348,2054,1340"-->
 
-[17r] Ntintinnabulum ferro<br>
-<i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br>
+[17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
+<i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br><!--CHECK THIS-->
 p<i>er</i> lingua<i>m</i> ferrea<i>m</i> in medio<br>
 suo q<i>ui</i>d concitat<i>ur et</i> c<i>on</i>cutitur<br>
 manu tenentis<br>
@@ -160,7 +158,7 @@ bus cicutis<br>
 nibus suis;<br>
 Hęc est forma psalterii&nbsp;·<br>
 [<i>King David sitting upon a stool, holding a psalterium, a rectangular stringed instrument.</i>]
-SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS
+<!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="5"
        region="1212,679,1203,779"
        manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
@@ -187,13 +185,13 @@ chorus est&nbsp;·<br>
 
 <h4 id="christ-miniature">[Image of Christ in majesty]</h4>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
-SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS
+<!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="50"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
 [19r]  prophetie de re<br>
-gis psalmoru<i>m</i> nvme<br>
+gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
 Da<br>
 vid<br>
