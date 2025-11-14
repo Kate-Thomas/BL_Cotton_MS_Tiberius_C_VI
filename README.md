@@ -67,8 +67,8 @@ ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old En
 	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
 
 
-<!--## Edition
-<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>-->
+<## Edition
+<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
@@ -76,11 +76,10 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-<param ve-image seq="46"
+<!--param ve-image seq="46"
 manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 		<!--region="1755,1184,2054,1340"-->
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
-
 Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
@@ -88,15 +87,14 @@ corde eius contrarię<br>
 sunt abimo · in altum<br>
 <!--param ve-image seq="46"
      manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000010"--><!--region="3430,1245,1426,930"-->
-
 Hoc est tympanum<br>
 hoc est forma tympanitym<br>
 panum pellis pillacis est<br>
 in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
-<!--param ve-image seq="46"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"--><!--region="1928,3008,1712,1116"-->
+<param ve-image seq="46"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"--><!--region="1928,3008,1712,1116">
 
 Hoc est forma cy-<br>
 thare quis prius<br>
