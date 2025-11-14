@@ -3,7 +3,7 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/canvas/c/75#xywh=5125,1662,4601,3001"
+       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/full/800,/0/info.json"
        layout="vertical">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -67,8 +67,8 @@ ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old En
 	<param ve-image seq="74"
 	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-<!--## Edition
-<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
+## Edition
+<!--h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
@@ -78,7 +78,7 @@ ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="46"
     	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-		region="1755,1184,2054,1340"
+		region="1755,1184,2054,1340">
 
 Psalterium est<br>
 quasi in modum<br>
@@ -189,7 +189,7 @@ chorus est&nbsp;·<br>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
 SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS
 <param ve-image seq="50"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">-->
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
 
 <h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
 [19r]  prophetie de re<br>
