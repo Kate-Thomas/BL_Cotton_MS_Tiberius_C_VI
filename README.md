@@ -89,7 +89,7 @@ corde eius contrarię<br>
 sunt abimo · in altum<br>
 <param ve-image seq="46"
      manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000001"
-	region="3430,1245,1426,930">
+	region="3090,950,2054,1719">
 
 Hoc est tympanum<br>
 hoc est forma tympanitym<br>
