@@ -98,7 +98,7 @@ in flaxa abens calamos<br>
 is in labiis <i>et</i> unum<br>
 in collo<br>
 <param ve-image seq="46"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000010"
 	region="1928,3008,1712,1116">
 	
 Hoc est forma cy-<br>
