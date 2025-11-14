@@ -4,7 +4,7 @@
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
        banner="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-       layout="vertical"> <!--https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/6106,2342,2908,1896/800,/0/default.jpg-->
+       layout="vertical"> <!--https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/full/800,/0/default.jpg-->
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
@@ -63,8 +63,8 @@ ff. 28r-30r: <a href="#de-septiformes"><i>De septiformes Spiritus Sanctus</i>/<i
 f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso omnipotens’</a> (prayers for chanting the psalms)</b><br>
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss<br>
-	<!--param ve-image seq="74"
-	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
+	<param ve-image seq="74"
+	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 
 ## Edition
@@ -76,8 +76,8 @@ dinem del dae id est in<br>
 modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
-<!--param ve-image seq="46"
-    	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
+<param ve-image seq="46"
+    	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001>
 		<!--region="1755,1184,2054,1340"-->
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
