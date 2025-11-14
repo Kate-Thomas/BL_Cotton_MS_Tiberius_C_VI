@@ -81,3 +81,33 @@ thare<br>
     	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
 	region="1755,1184,2054,1340">
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
+
+Psalterium est<br>
+quasi in modum<br>
+clypei quadrati <i>et</i><br>
+corde eius contrarię<br>
+sunt abimo · in altum<br>
+<param ve-image seq="46"
+     manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000010"
+	region="3430,1245,1426,930">
+
+Hoc est tympanum<br>
+hoc est forma tympanitym<br>
+panum pellis pillacis est<br>
+in flaxa abens calamos<br>
+is in labiis <i>et</i> unum<br>
+in collo<br>
+<param ve-image seq="46"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="1928,3008,1712,1116">
+	
+Hoc est forma cy-<br>
+thare quis prius<br>
+fuit cytharista · id est&nbsp;·<br>
+toba filius stellę <i>et</i>iem res<br><!--CHECK-->
+<i>et</i> psalterium ab eis<br>
+ortum distar ut<br>
+in modulo<br>
+<param ve-image seq="46"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="3204,3348,2054,1340">
