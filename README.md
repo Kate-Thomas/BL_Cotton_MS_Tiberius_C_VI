@@ -88,7 +88,7 @@ clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
 sunt abimo · in altum<br>
 <param ve-image seq="46"
-     manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000010"
+     manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x0000001"
 	region="3430,1245,1426,930">
 
 Hoc est tympanum<br>
