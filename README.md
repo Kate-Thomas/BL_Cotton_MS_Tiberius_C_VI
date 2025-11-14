@@ -78,5 +78,6 @@ modum del dae littere<br>
 ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="46"
-    	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"><!--region="1755,1184,2054,1340"-->
+    	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="1755,1184,2054,1340">
 <!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
