@@ -3,8 +3,8 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-       layout="vertical"> <!--https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/6106,2342,1894,1896/800,/0/default.jpg-->
+       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/6106,2342,1894,1896/800,/0/info.json"
+       layout="vertical">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
@@ -67,8 +67,8 @@ ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old En
 	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
 
 
-## Edition
-<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
+<!--## Edition
+<h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>-->
 [16v] Nabulum est quod grece<br>
 dicit psalteriu<i>m</i> quod a psa<br>
 lendo dicitur ad similitu<br>
