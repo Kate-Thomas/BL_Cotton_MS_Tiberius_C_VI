@@ -3,7 +3,7 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/6106,2342,1894,1896/800,/0/info.json"
+       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/full/800,/0/info.json"
        layout="vertical">
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -41,9 +41,9 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
 <param ve-entity eid="Q23308"> <!-- British Library -->
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <param ve-entity eid="Q20817523"> <!-- Tiberius Psalter -->
-<param ve-image seq="50"
+<!--param ve-image seq="50"
        width="max"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"-->
 
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.  In some cases, more than one image of the same folio corresponds to the text.<br>
