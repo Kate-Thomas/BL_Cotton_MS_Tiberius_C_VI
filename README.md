@@ -112,8 +112,8 @@ in modulo<br>
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
 	region="3204,3348,2054,1340">
 
-[17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
-<i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br><!--CHECK THIS-->
+[17r] Ntintinnabulum ferro<br>
+<i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br>
 p<i>er</i> lingua<i>m</i> ferrea<i>m</i> in medio<br>
 suo q<i>ui</i>d concitat<i>ur et</i> c<i>on</i>cutitur<br>
 manu tenentis<br>
@@ -157,3 +157,24 @@ bus cicutis<br>
 <param ve-image seq="47"
        region="7119,3739,2054,1340"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+
+
+
+
+
+# References
+
+[^1]: [Gneuss and Lapidge, <i>Anglo-Saxon Manuscripts</i>, no. 378]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01017373831])
+[^2]: [Ker, <i>Catalogue</i>, no. 199]([http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01006720410])
+[^3]: A. P. Campbell (ed.), <i>The Tiberius Psalter, Edited From British Museum MS Cotton Tiberius C vi</i> (Ottawa, 1974).  A facsimile of the whole manuscript has been published in Phillip Pulsiano (ed.), <i>Psalters I</i>, Anglo-Saxon Manuscripts in Microfiche Facsimile, 2 (Binghampton, 1994).
+[^4]: Elżbieta Temple and J. J. G. Alexander, <i>Anglo-Saxon Manuscripts, 900-1066</i> (London, 1976), no. 98.
+[^5]: Francis Wormald, ‘An English Eleventh-Century Psalter with Pictures: British Museum, Cotton MS Tiberius C. VI’, Walpole Society, 38 (1962), 1-14.
+[^6]: F. E. Warren, <i>The Leofric Missal : As Used in the Cathedral of Exeter during the Episcopate of Its First Bishop, A.D. 1050-1072, Together with Some Account of the Red Book of Derby, the Missal of Robert of Jumièges, a Few Other Early Manuscript Service Books of the English Church</i>, 1st ed., republished (Farnborough, 1968).
+[^7]: Black, Jonathan, ed., ‘Psalm Uses in Carolingian Prayerbooks: Alcuin and the Preface to De psalmorum usu,’ <i>Mediaeval Studies</i> 64 (2002), 1-60.
+[^8]: Kate H. Thomas, <i>Late Anglo-Saxon Prayer in Practice: Before the Books of Hours</i><!--GET FULL REFERENCE-->
+[^9]: Fowler, 'An Old English Handbook'<!--GET FULL REFERENCE!! -->
+[^10]: Thomas, <i>Late Anglo-Saxon Prayer in Practice</i>, pp. 94, 273-74.
+[^11]: Black, ‘Psalm Uses,’ p. 43.
+[^12]: Black, ‘Psalm Uses,’ pp. 3-5.
+[^13]: Black, ‘Psalm Uses,’ pp. 3-5.
