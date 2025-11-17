@@ -122,8 +122,41 @@ adoratione<i>m</i> hec<br>
 est forma<br>
 <param ve-image seq="47"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-	   region="987,1052,1427,1195">
+	   region="773,1017,1429,1195">
 
+Sabuca i<i>n</i> musicis genus informe in-<br>
+libro damelis dr <!-check this-->.  Nesco quando<br>
+dr<!--check-->. cinares ut quidam putant<br>
+a citabulum q<i>ui</i><!--CHECK ABBREVIATION--> per cusa inmodu-<br>
+los concitatur quidam putant<br>
+fistula est · <i>vel</i>l calamus scapuli· <i>ve</i>l era<br>
+menti· <i>ve</i> decortice·<br>
+<param ve-image seq="47"
+       region="2057,993,1429,1195"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+Haec manus musica canticum est<br>
+duo calami sunt de auri calco more sonantur omnem –<br>
+canticum quod more cantatur musicum eft · hęc for<br>
+ma tubae tertie fistule in capite angusto · iiii· ucae<br>
+deductae<br>
+<param ve-image seq="47"
+       region="1032,1833,2460,2065"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+Pennola pennoil<br>
+Nun cupatur<br>
+hęc forma&nbsp;·<br>
+<param ve-image seq="47"
+       region="759,3511,1429,1195"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+Corus est pellis<br>
+simplex cum dua<br>
+bus cicutis<br>
+<param ve-image seq="47"
+       region="2174,3545,1429,1195"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 
 
