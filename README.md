@@ -112,7 +112,7 @@ in modulo<br>
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
 	region="3204,3348,2054,1340">
 
-[17r] Ntintinnabulum ferro<br>
+[17r] In tintinnabulum ferro<br>
 <i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br>
 p<i>er</i> lingua<i>m</i> ferrea<i>m</i> in medio<br>
 suo q<i>ui</i>d concitat<i>ur et</i> c<i>on</i>cutitur<br>
@@ -122,11 +122,9 @@ adoratione<i>m</i> hec<br>
 est forma<br>
 <param ve-image seq="47"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-	   >
+	   region="987,1052,1427,1195">
 
 
-
-region="5702,947,2054,1340"
 
 
 
