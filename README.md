@@ -125,11 +125,11 @@ est forma<br>
 	   region="773,1017,1429,1195">
 
 Sabuca i<i>n</i> musicis genus informe in-<br>
-libro damelis dr <!-check this-->.  Nesco quando<br>
-dr<!--check-->. cinares ut quidam putant<br>
+libro damelis dr <!--CHECK ABBREVIATION-->.  Nesco quando<br>
+dr<!--CHECK ABBREVIATION-->. cinares ut quidam putant<br>
 a citabulum q<i>ui</i><!--CHECK ABBREVIATION--> per cusa inmodu-<br>
 los concitatur quidam putant<br>
-fistula est · <i>vel</i>l calamus scapuli· <i>ve</i>l era<br>
+fistula est · <i>ve</i>l calamus scapuli· <i>ve</i>l era<br>
 menti· <i>ve</i> decortice·<br>
 <param ve-image seq="47"
        region="2057,993,1429,1195"
