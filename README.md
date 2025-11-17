@@ -111,3 +111,49 @@ in modulo<br>
 <param ve-image seq="46"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
 	region="3204,3348,2054,1340">
+
+[17r] Ntintinnabulum ferro<br><!--CHECK THIS--> 
+<i>et</i>erammto facit<i>ur</i> · q<i>ui</i>d p<i>er</i>sonat<br><!--CHECK THIS-->
+p<i>er</i> lingua<i>m</i> ferrea<i>m</i> in medio<br>
+suo q<i>ui</i>d concitat<i>ur et</i> c<i>on</i>cutitur<br>
+manu tenentis<br>
+<i>et</i> suscitat<br>
+adoratione<i>m</i> hec<br>
+est forma<br>
+<param ve-image seq="47"
+       region="5702,947,2054,1340"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       
+Sabuca i<i>n</i> musicis genus informe in<br>
+libro damelis dr ·  Nescio quando<br>
+dr. cinares ut quidam putant<br>
+acitabulum q<i>ui</i> percusa in modu-<br>
+los concitatur quidam putant<br>
+fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
+menti · <i>ue</i>l decortice&nbsp;·<br>
+<param ve-image seq="47"
+       region="7164,1007,1712,1116"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+Haec manus musica canticum est<br>
+duo calami sunt de auri calco more sonantur omnem –<br>
+canticum quod more cantatur musicum eft · hęc for<br>
+ma tubae tertie fistule in capite angusto · iiii· ucae<br>
+deductae<br>
+<param ve-image seq="47"
+       region="6212,2166,2465,1608"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+Pennola pennoil<br>
+Nun cupatur<br>
+hęc forma&nbsp;·<br>
+<param ve-image seq="47"
+       region="5904,3707,1712,1116"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+Corus est pellis<br>
+simplex cum dua<br>
+bus cicutis<br>
+<param ve-image seq="47"
+       region="7119,3739,2054,1340"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
