@@ -121,8 +121,8 @@ manu tenentis<br>
 adoratione<i>m</i> hec<br>
 est forma<br>
 <param ve-image seq="47"
-       region="5702,947,2054,1340"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	   region="5702,947,2054,1340">
        
 Sabuca i<i>n</i> musicis genus informe in<br>
 libro damelis dr ·  Nescio quando<br>
@@ -132,8 +132,8 @@ los concitatur quidam putant<br>
 fistula est <i>ue</i>l calamus scapuli · <i>ue</i>lera<br>
 menti · <i>ue</i>l decortice&nbsp;·<br>
 <param ve-image seq="47"
-       region="7164,1007,1712,1116"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="7164,1007,1712,1116">
 
 Haec manus musica canticum est<br>
 duo calami sunt de auri calco more sonantur omnem –<br>
@@ -141,22 +141,23 @@ canticum quod more cantatur musicum eft · hęc for<br>
 ma tubae tertie fistule in capite angusto · iiii· ucae<br>
 deductae<br>
 <param ve-image seq="47"
-       region="6212,2166,2465,1608"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="6212,2166,2465,1608">
 
 Pennola pennoil<br>
 Nun cupatur<br>
 hęc forma&nbsp;·<br>
 <param ve-image seq="47"
-       region="5904,3707,1712,1116"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="5904,3707,1712,1116">
 
 Corus est pellis<br>
 simplex cum dua<br>
 bus cicutis<br>
 <param ve-image seq="47"
-       region="7119,3739,2054,1340"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="7119,3739,2054,1340">
+
 
 
 
