@@ -122,11 +122,11 @@ adoratione<i>m</i> hec<br>
 est forma<br>
 <param ve-image seq="47"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-	   region="5702,947,2054,1340">
+	   >
 
 
 
-
+region="5702,947,2054,1340"
 
 
 
