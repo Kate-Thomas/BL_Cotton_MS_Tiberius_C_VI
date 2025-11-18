@@ -162,10 +162,25 @@ bus cicutis<br>
 nibus suis;<br>
 Hęc est forma psalterii&nbsp;·<br>
 [<i>King David sitting upon a stool, holding a psalterium, a rectangular stringed instrument.</i>]
-<param ve-image seq="5"
-              manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+<param ve-image seq="48"
+        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-region="1212,679,1203,779"
+[18r] Duo bunibula semper aequalia<br>
+Hęc est forma fistulę hoc<br>
+bunibulum cum fistulo aereo<br>
+hoc xv bunibula aerea<br>
+cum fistulis in medio positis<br>
+sed tria tamen bunibula<br>
+muno quo que latera<br>
+<param ve-image seq="49"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+Hęc est forma eiusde<i>m</i><br>
+chori quattuor –<br>
+chordas habeth<br>
+de ligno modulatus<br>
+chorus est&nbsp;·<br>
+<param ve-image seq="49"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 # References
 
