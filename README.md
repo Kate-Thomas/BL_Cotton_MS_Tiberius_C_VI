@@ -158,9 +158,14 @@ bus cicutis<br>
        region="2174,3545,1429,1195"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
+[17v] Hic est dauid filius iesse tenens psalterium in ma<br>
+nibus suis;<br>
+Hęc est forma psalterii&nbsp;·<br>
+[<i>King David sitting upon a stool, holding a psalterium, a rectangular stringed instrument.</i>]
+<param ve-image seq="5"
+              manifest="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-
-
+region="1212,679,1203,779"
 
 # References
 
