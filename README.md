@@ -163,6 +163,7 @@ nibus suis;<br>
 Hęc est forma psalterii&nbsp;·<br>
 [<i>King David sitting upon a stool, holding a psalterium, a rectangular stringed instrument.</i>]
 <param ve-image seq="48"
+	region="2116,952,2481,2076"
         manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [18r] Duo bunibula semper aequalia<br>
@@ -173,13 +174,16 @@ cum fistulis in medio positis<br>
 sed tria tamen bunibula<br>
 muno quo que latera<br>
 <param ve-image seq="49"
+	region="1022,1763,1713,1433"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+	   
 Hęc est forma eiusde<i>m</i><br>
 chori quattuor –<br>
 chordas habeth<br>
 de ligno modulatus<br>
 chorus est&nbsp;·<br>
 <param ve-image seq="49"
+	region="2245,2189,1713,1433"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 # References
