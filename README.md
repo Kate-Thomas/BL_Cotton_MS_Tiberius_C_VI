@@ -241,6 +241,9 @@ inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
+<param ve-image seq="53"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
 <h4 id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]</h4>
 Incipit ex positio psal-------ans<br>
 --rpirv<i>m</i> qve pver sr cantic--n-----<br>
@@ -838,7 +841,8 @@ s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
 <param ve-image seq="72"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-[30r] oððe þæs gramlican deofles·<br> 
+[30r] oððe þæs gramlican deofles·<br>
+<!--NEED TO MAKE THIS PORTION BIGGER AS IT CAN'T BE SCROLLED TO EASILY-->
 <param ve-image seq="73"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
