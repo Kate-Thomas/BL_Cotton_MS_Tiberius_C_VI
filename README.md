@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+20<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
@@ -184,6 +184,60 @@ de ligno modulatus<br>
 chorus est&nbsp;·<br>
 <param ve-image seq="49"
 	region="2245,2189,1713,1433"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+<h4 id="christ-miniature">[Image of Christ in majesty]</h4>
+[<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
+<!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
+<param ve-image seq="50"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+<h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
+[19r]  prophetie de re<br>
+gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
+ro:- cl<br>
+Da<br>
+vid<br>
+filivs<br>
+iesse cum esset in -----<br>
+quattuor elegti qui psalmos facerent<br>
+Id est asaph · ęman · a<i>et</i>han · <i>et</i> iditbun<br><!--??-->
+Octoginta octo ergo dicebant psal-<br>
+mos · <i>et</i>cc · sub psalma <i>et</i> cythara&nbsp;·<br>
+p<i>er</i>cutiebat abiuth · Cu<i>m</i> david redux<br>
+issed archa<i>m</i> inhier<i>ve</i>lin post annos<br><!--??-->
+xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MANSIT, CHECK-->
+domo amma dab · hane inposuit-<br>
+in subiugulali nouo · Et adduxit in-<br>
+<param ve-image seq="51"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+
+[19v] inlnertin [<i>lac.</i>] ---suisis exorm genere filior<i>um</i> isrt<br>
+l ex milia a [<i>lac.</i>] ros . De tribuaute<i>m</i> leui · cclxx octa<br>
+milia in ros exquibus quattuor principes preess<i>et</i><br>
+cantionib<i>us</i> instituit  Asaph · ęm--n · --ethan&nbsp;·<br>
+Et idithun ·  Vniunq<i>ue</i> eor<i>um</i> diuidens · Lx--n uiros<br>
+succlamantes laude<i>m</i> cantionu<i>m</i> d<i>omi</i>no; Et un<i>ius</i>quisqu<i>os</i> .<br>
+eor<i>um</i> feriebat cymbalum alius cythara<i>m</i> · alius<br>
+tuba cornea exaltans · In medio aute<i>m</i> eoru<i>m</i><br>
+stabat dauid labor iste . desudat qua<i>m</i> eos<br>
+qui exemplaria istius modi habere uolue-<br>
+rint utque diligenter ęmendaui cumcura et<br>
+diligentia transscribant<i>ur</i> · Not<i>et</i> sibi un<i>ius</i>quisqu<i>os</i> .<br>
+uel --ocente<i>m</i> lineam uel signa radianta idest<br>
+uel abelos ÷ uel asteriscos x et ubicu<i>m</i>q<i>ue</i> ungu-<br><!--WHAT DOES DIVISION SIGN MEAN AGAIN??-->
+lam ÷ uiderit precedente<i>m</i> abea usq<i>ue</i> ad duo punc<br>
+ta<i>us</i> quę impressim<i>ur</i> sciat in septuaginta trans<br>
+latorib<i>us</i> plus haberi · Vbi aute<i>m</i> stelle x simi<br>
+litudine<i>m</i> p<i>er</i>spexerit de hebręis uoluminib<i>us</i><br>
+additu<i>m</i> nouerit; Aeq<i>ue</i> usq<i>ue</i> adduo puncta .<br>
+iuxta teodotionis dumtaxat ęditionę<i>m</i> qui sim<br>
+pliitate sermonis alxx interpretib<i>us</i> non dis<br>
+cordat · Haec scribta <i>et</i> uobis <i>et</i> studio locuiq<i>ue</i><br>
+fecisse inescieris non ambigo multos qui uel<br>
+inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
+---lere ---lara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
+<param ve-image seq="52"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 # References
