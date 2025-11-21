@@ -886,7 +886,14 @@ This text, unknown elsewhere, is of great interest, as it gives advice on how to
 <br>
 <i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the <i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10) and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in London, British Library Cotton MS Galba XIV and the <i>Portiforium of St Wulstan</i> (Cambridge, Corpus Christi College MS 391).  The image shown is from the Book of Cerne, f. 60r.
 <!--something is wrong here: find the correct manifest for Cerne and show it-->
-<param manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010/173">
+<param ve-image seq="173"
+	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
+
+1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the <i>Regularis concordia</i>:<br>
+<i>Image shown: London, British Library Cotton MS Faustina B III</i><br>
+'Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surrexerit frater, primum sibi signum sanctę crucis inprimat per sanctę trinitatis inuocationem.  Deinde dicat uersum “Domine, labia mea aperies”, dehinc  psalmum “Deus, in adiutorium meum intende”, totum cum “Gloria”.  Tunc prouideat sibi corpoream naturę necessitatem, si ipsa hora indiguerit, et sic ad oratorium festinando psallat psalmum “Ad te, Domine, leuaui animam meam”.'
+<param ve-image seq="338"
+	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100060431849.0x000001">
 
 # References
 
