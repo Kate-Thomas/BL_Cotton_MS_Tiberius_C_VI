@@ -899,7 +899,7 @@ This text, unknown elsewhere, is of great interest, as it gives advice on how to
 
 1.4: <i>Image shown: Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, f. 179r</i><br>
 Omnipotens sempiterne deus, rex regum: a longer version of this prayer appears in the <a href="https://digi.vatlib.it/view/MSS_Reg.lat.12/0001", target="_blank">Bury Psalter</a>, from which this image is taken.  A copy in Latin and Old English can be found in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).  <!--Get this manifest to work!!--><br>
-<param ve-image seq="369"
+<param ve-image seq="0369"
        manifest="https://digi.vatlib.it/iiif/MSS_Reg.lat.12/manifest.json">
 
 
