@@ -885,8 +885,9 @@ This text, unknown elsewhere, is of great interest, as it gives advice on how to
 <i>qui pecularius orare uoluerit et furtiua orationes quesierit</i>: this marks out the text as being for individual use.<br>
 <br>
 <i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the <i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10) and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in London, British Library Cotton MS Galba XIV and the <i>Portiforium of St Wulstan</i> (Cambridge, Corpus Christi College MS 391).  The image shown is from the Book of Cerne, f. 60r.
-<!--something is wrong here: find the correct manifest for Cerne and show it-->
+<!--something is wrong here: manifest loading in a sort of thumbnail but not in the actual main panel-->
 <param ve-image seq="173"
+	region="411,3216,4225,3535"
 	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
 
 1.3: cum a somno surrexit erit ... Domine labia mea aperies: this recalls the advice given in the <i>Regularis concordia</i>:<br>
@@ -894,6 +895,117 @@ This text, unknown elsewhere, is of great interest, as it gives advice on how to
 'Ideoque omni tempore nocturnis horis, cum ad opus diuinum d‹e› lectulo surrexerit frater, primum sibi signum sanctę crucis inprimat per sanctę trinitatis inuocationem.  Deinde dicat uersum “Domine, labia mea aperies”, dehinc  psalmum “Deus, in adiutorium meum intende”, totum cum “Gloria”.  Tunc prouideat sibi corpoream naturę necessitatem, si ipsa hora indiguerit, et sic ad oratorium festinando psallat psalmum “Ad te, Domine, leuaui animam meam”.'
 <param ve-image seq="338"
 	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100060431849.0x000001">
+
+
+1.4: Omnipotens sempiterne deus, rex regum: a longer version of this prayer appears in the Bury Psalter (Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, beginning at f. 179r), from which the image shown is taken.  A copy in Latin and Old English can be found in the Galba Prayerbook (London, British Library Cotton MS Galba A XIV).  <!--Get this manifest to work!!--><br>
+<param ve-image seq="0369"
+       manifest="https://digi.vatlib.it/iiif/MSS_Reg.lat.12/manifest.json">
+
+
+<h3 id="de-laude-8-comm">Commentary on section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8">link to edition</a></i>)</h3>
+<i>Image shown: XXX</i><br>
+<br>
+This extremely widespread guide to prayer using the psalms has been studied in detail by Jonathan Black, who finds 193 manuscripts containing all or part of the text.   Cotton MS Tiberius C VI does not contain the whole text, but only the eighth section (ff. 22c-23r) and a kind of summary (f. 27r-v).  <i>De laude psalmorum</i> begins with an opening paragraph explaining why it is important to sing the psalms, and then gives eight reasons why one might wish to pray in their words, together with psalms for each reason.  The treatise concludes with a brief paragraph on the value of the psalms in prayer.<br>
+<br>
+<i>De laude psalmorum</i> is of particular note for its encouragement of the reader to choose amongst the psalms in order to suit his or her own needs in prayer.  Accordingly, the words ‘si vis’ and ‘si te volueris’ abound in it, along with an emphasis on the importance of praying to God ‘intima mente’ (the phrase occurs eight times in the full treatise).  The eighth and final reason why one would wish to pray with the psalter is ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’:  for this purpose, only one psalm is given, the long 118th psalm ‘Beati immaculati’.  After this follows a brief closing paragraph on the value of the psalter.  In Tiberius C VI, the eighth part of <i>De laude psalmorum</i> and the closing paragraph appear.<br>
+<br>
+2.1: exercere virtutis: in the sources used as a basis for Black’s edition, the opening sentence appears as ‘exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’.<br>
+<br>
+2.2: in via qui ambulaveris: this does not appear in the sources edited by Black.<br>
+
+
+<h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
+<i>Image shown: Cambridge, Corpus Christi MS 265, p. 72.</i><br>
+<br>
+In 1965, Roger Fowler published what he called ‘A Late Old English Handbook for the use of a Confessor’.[^9]  This is a somewhat misleading title: what he printed was in fact a series of six texts, the first of which (<i>Handbook</i> I) is in Latin, for use in penitence and confession; the six often appear in the same manuscripts, but not always all together, or in the sequence to which he assigned them.<br>
+<br>
+<i>Handbook</i> I, attributed to St Jerome, briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see a confessor.   Fowler finds this first section in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>, (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->  Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts: I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^10]  Here, I present images from the analogue manuscripts by way of comparison with Tiberius C VI.<br>
+<param ve-image seq="77"
+       region="-74,1174,3596,2417"
+       manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json">
+
+3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.<!--SHOW IMAGES FROM THE OTHER MSS IF POSSIBLE-->
+
+<b>ita dicendo tribus vicibus:</b> this instruction does not appear in the other sources.<br>
+<br>
+<b>Sancta maria ora pro me:</b> the other sources do not give the litany in full.<br>
+<br>
+<b>credo in unum deum:</b> the other sources do not give the creed in full.<br>
+
+Confessio eni<i>m</i> sanat · Confessio iustificat: the first version in Corpus Christi College 201, pp. 114-15, (D) ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
+<param ve-image seq="123"
+       region="1408,6321,3704,2490"
+       manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
+
+'sapientam perfectam et ueram intellegentiam': the version on Corpus Christi College MS 201, p. 170, ends here.<br>
+<param ve-image seq="179"
+       region="0,5295,4846,3635"
+       manifest="https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/manifest.json">
+
+3.5: ‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.  In the other sources, this line appears as ‘Et post hęc incipit confessionem suam coram D<i>e</i>o <i>et</i> coram sacerdote confitens peccata sua’, and is followed by the short prayer ‘Preueniat hunc famulum tuum’, marking the end of Fowler's <i>Handbook</i> I.  In Cotton MS Tiberius A III, this is followed immediately by the vernacular confession which Fowler prints as <i>Handbook</i> II.   However, I is followed more frequently by Handbook III, an advisory text addressed to the confessor: this is the case in Bx, C and the incomplete copy in D.  The second copy of I in D is followed by other Latin texts of confession and absolution.   Cotton MS Tiberius C VI departs from all of the manuscripts edited by Fowler by supplying at this point a long Latin confession, ‘Ego confiteor tibi’, after which the priest and penitent are to kneel before the altar and say a number of capitula, psalms and prayers.
+
+<h3 id="ego-confiteor-comm">Commentary on ‘Ego confiteor tibi’ (<i><a href="#ego-confiteor">link to edition</a></i>)</h3>
+
+<b>Ego confiteor tibi pater cęli et terrę</b>: this prayer appears in the <i>Libellus Turonensis</i> (Paris, Bibliothèque nationale de France MS Latin 13388), where it begins on f. 6r with a large decorated initial and a display page.  As in Tiberius C VI, it is followed by ‘Supplico te Dei sacerdos’ (f. 9v).
+<param ve-image seq="12"
+       manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105423611/manifest.json">
+
+Adesto, domine ... Domine Deus noster, qui offensione nostra: these prayers appear in the absolution of penitents in the Pontificale Lanaletense, fols. 112v-3r.  G. H. Doble, ed., Pontificale Lanaletense, p. 77.
+
+The prayers ‘Adesto, Domine’ and ‘Domine Deus noster, qui offensione nostra’ have both had glosses adding feminine grammatical forms describing the speaker, for example: "respice qs ad huanc famuluam tuuam· ill."
+
+4.xx<!--May be in the wrong place.  And wouldn't it be more consistent to use "[et]"?-->: two interesting uses of '7', usually found in Old English, for 'et'
+
+
+<h3 id="de-laude-short-comm">Commentary on the summary of <i><i>De laude psalmorum</i></i> (<i><a href="#de-laude-short">link to edition</a></i>)</h3>
+
+Black refers to this text as a ‘summary of uses 1-8’ of <i>De laude psalmorum</i>.[^11]  The reasons given for singing the psalms here are roughly those given in the eight sections of the treatise, although the psalms listed at the end of the text do not completely match those given in each section.  The ‘si uoluerit’, interspersed throughout the version in Tiberius, reflects the frequent occurrences of ‘si vis’ and ‘si volueris’ in the full text.  The fact that this phrase has been added in in superscript serves all the better to demonstrate that the copyist<!--i.e. the original scribe?  Or a later annotator?-->, like the composer of the original treatise, wished to emphasise that this prayer programme is voluntary and designed to meet the needs of the person who was praying.<br>
+<br>
+Black reports that about a third of the manuscripts containing the full text of <i>De laude psalmorum</i> attribute it to St Augustine and others name Jerome, whereas Rome, Biblioteca nazionale central Sessoriana 71 ascribes authorship to Alcuin.[^12]  Following André Wilmart, both Black and Donald A. Bullough accept <i>De laude psalmorum</i> as indeed being Alcuin’s work,  although Jean Chazelas and Stephan Waldhoff have argued to the contrary.[^13]<!--FIND BULLOUGH, CHAZELAS, WALDHOFF REFERENCES--><br>
+<br>
+Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v (11th century, possibly from Alsace or Lorsch) are shown by way of comparison with Tiberius C VI.<br>
+<br>
+5.2: Quicumque pro peccatis penitentiam (si uoluerit) agere et mentem suam corporali ac spiritali et letitia inluminari (si uoluerit): in the full treatise, this corresponds to use 1 of the psalms: in Black’s edition, this is given as ‘Si vis pro peccatis tuis paenitentiam agere et confessionem peccatorum tuorum et veniam rogare delictis ... celerrimam invenies clementiam Dei totam mentem spiritali gaudio ac laetitia inluminare.’
+<param ve-image seq="0088"
+       manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
+
+5.3: deum omnipotentem eiusque maiestatem laudare (si uoluerit): use 3 of <i>De laude psalmorum</i>: ‘Si vis omnipotentem Deum laudare et ipsius maiestati’.
+<param ve-image seq="0088"
+       manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
+
+5.4: pro carnalibus aut spiritalibus tribulationibus orare (si uoluerit): this roughly corresponds to use 4, ‘Si diversis tribulationibus afflictus sis et vel humanis vel spiritalibus temptationibus undique adstrictus’.
+<param ve-image seq="0089"
+       manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
+
+5.5: si sibi presens uita fustidiosa fuerit: use 5, ‘Si tibi praesens vita fastidiosa sit’.
+<param ve-image seq="0089"
+       manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
+
+5.6: si se in tribulatione a Deo derelictum esse cognouerit: use 6, ‘Si te in tribulationibus a Deo derelictum intellegas’.
+<param ve-image seq="0089"
+       manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
+
+5.7: si se uoluerit in diuinus laudibus exercere: use 8, ‘Si volueris intima mente exercere te in divinis laudibus ac praeceptis et mandatis caelestibus’.
+<param ve-image seq="0089"
+       manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
+
+5.8: et se exaudiri a Deo ... per singulos dies preter dominicos: these words do not appear in <i>De laude psalmorum</i>.<br>
+<br>
+5.9: Domine quid multiplicati, Uerba mea ... Saluum me fac deus ... Dixit insipiens in corde suo ... Domine quis habitabit ... Conserva me Domine ... Iudica me Domine quoniam ego ... Dominus inluminatio mea ... Miserere mei Deus ... Deus iudicium tuum regi da ... Ad te levaui oculos... Confitebor tibi Domine, Domine probasti me, Eripe me domine, Domine clamaui, Uoce mea: these psalms do not appear in <i>De laude psalmorum</i>; likewise, nineteen of the forty-eight psalms which are prescribed in <i>De laude psalmorum</i> do not appear in Tiberius.<!--WHICH PSALMS ARE THESE?  LOOK UP IN VULGATE-->
+
+<h3 id="de-septiformes-comm">Commentary on De septiformes</h3>
+Harley MS 3271, 124r-125r: same thing?  See Cameron/Frank
+
+<h3 id="suscipere-digneris-comm">Commentary on the two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens' (<i><a href="#suscipere-digneris">link to edition</a></i></h3>
+<br>
+These prayers, the final text immediately preceding the psalter itself, were apparently intended for use before or after reading or singing the psalms.  The second is attributed here to the Venerable Bede.
+<br>
+6.1: Suscipere digneris: a prayer with a similar beginning appears in the Vespasian Psalter (London, British Library Cotton MS Vespasian A I
+<br>
+<!--Show the image from Vespasian.  Is it in the 11th-century additions?-->
+<br>
+6.2: Ðis gebed baeda sang:<!--There is probably something to be said about this.  At least give the Lapidge/Frank number.  It is not listed in the index to my book--><br>
+
 
 # References
 
