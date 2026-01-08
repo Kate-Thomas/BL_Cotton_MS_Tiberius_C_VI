@@ -246,6 +246,7 @@ inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
 
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
 <param ve-image seq="53"
+	region="1024,376,2466,2064"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]</h4>
@@ -274,6 +275,7 @@ notarios suos id est · asaph · ęman · ęthan · <i>et</i><br>
 idithun · sut a textus exceptionis eor<i>um</i> mani-<br>
 sestabat sicut <i>et</i> populus · quintspondentes<br>
 <param ve-image seq="53"
+	region="0,1164,5113,4279"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [20v] notaru supra memorati Adnuntiabant regi<br>
@@ -406,6 +408,7 @@ tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
 Precor te d<i>omi</i>ne antequa<i>m</i> discutias<!--Check this, I had "distutias"--> me miserere<br>
 mei</b><!--ABRUPT ENDING, HAVE I MISSED SOMETHING?-->
 <param ve-image seq="58"
+	region="868,1073,4337,3630"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="de-laude-8">[Section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8-comm">link to commentary</a></i>)]</h4>
@@ -417,6 +420,7 @@ ET LICET SUISQ<i>UE</i> AD OBITU<i>M</i> UITĘ HUIUS<br>
 psalmi uirtute<i>m</i> conte<i>m</i>plaueris atque<br>
 scrutaueris · nu<i>m</i>qua<i>m</i> p<i>er</i>fecte illu<i>m</i> ut puto<br>
 <param ve-image seq="58"
+	region="1885,4124,3012,2521"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [23r] intellegere potes · In quo nullus uersus est in quo<br>
@@ -922,7 +926,6 @@ In 1965, Roger Fowler published what he called ‘A Late Old English Handbook fo
 <br>
 <i>Handbook</i> I, attributed to St Jerome, briefly explains how and why a penitent should confess, before instructing him to prostrate himself and pray to the Virgin and the saints for their intercessions, before giving a litany and creed to say before going to see a confessor.   Fowler finds this first section in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>, (which he designates by the abbreviation Bx); Cambridge, Corpus Christi College 265 (C); twice in Cambridge, Corpus Christi College 201 (D, the first text being incomplete); and London, British Library Cotton MS Tiberius A III (N).<!--SHOULD I USE THESE ABBREVIATIONS?-->  Unknown to Fowler, the text also appears at this point in Cotton MS Tiberius C VI, with only minor differences from his source texts: I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^10]  Here, I present images from the analogue manuscripts by way of comparison with Tiberius C VI.<br>
 <param ve-image seq="77"
-       region="-74,1174,3596,2417"
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json">
 
 3.1: ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem: Bx, C and N simply have ‘ordo confessionis Sancti Heronimi’, D no heading at all.<!--SHOW IMAGES FROM THE OTHER MSS IF POSSIBLE-->
