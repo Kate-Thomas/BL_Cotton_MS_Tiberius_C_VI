@@ -43,8 +43,8 @@ A particularly important part of the present edition is the text on ff. 23r-27r,
 <param ve-entity eid="Q64706302"> <!-- Jonathan Black -->
 <param ve-entity eid="Q20817523"> <!-- Tiberius Psalter -->
 <param ve-image seq="50"
-       width="max"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+    manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="2057,1130,2092,1729">
 
 ## Contents of the manuscript
 This edition covers the items shown below in <b>bold</b>.  Abbreviations have been expanded, and spacing has been normalised.  Shortcuts direct to the text editions below.  In some cases, more than one image of the same folio corresponds to the text.<br>
@@ -65,7 +65,8 @@ f. 30r: <a href="#suscipere-presta">‘Suscipere digneris’ and ‘Presta queso
 f. 30v: Image of King David with musicians<br>
 ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old English gloss<br>
 	<param ve-image seq="74"
-	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="1762,2268,2532,2093">
 
 
 ## Edition
@@ -439,7 +440,8 @@ uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
 tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m</i> intimi in<br>
 tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris&nbsp;·<br>
 <param ve-image seq="59"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	   region="896,1013,2934,2425">
 
 <h4 id="oe-handbook">[Section I of the <i>Old English Handbook</i> (<i><a href="#oe-handbook-comm">link to commentary</a></i>)]</h4>
 INCIPIT ORDO CON<br>
@@ -454,7 +456,8 @@ fessio eni<i>m</i> sanat · Confessio iustificat · Confessio<br>
 uenia<i>m</i> peccatis donat · Inprimis igit<i>ur</i> p<i>ro</i>sternat<br>
 se humilit<i>er</i> super t<i>er</i>ra<i>m</i> in conspectu d<i>e</i>i adorationem<br>
 <param ve-image seq="59"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
+	region="845,3490,2934,2425">
 
 [23v] <i>et</i> lacrimas fundens rog<i>et</i> beata<i>m</i> maria<i>m</i> cum s<i>an</i>c<i>t</i>is<br>
 ap<i>osto</i>lis <i>et</i> martyrib<i>us</i> <i>et</i> confessorib<i>us</i> ut ipsi inter-<br>
