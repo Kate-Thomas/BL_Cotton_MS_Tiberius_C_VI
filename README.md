@@ -919,22 +919,21 @@ Tiberius C VI differs from the other manuscripts in some ways:<br>
        manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json">
 
 <h3 id="ego-confiteor-comm">Commentary on ‘Ego confiteor tibi’ (<i><a href="#ego-confiteor">link to edition</a></i>)</h3>
-<b>Ego confiteor tibi pater cęli et terrę</b>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388.<br>
+<b><i>Ego confiteor tibi pater cęli et terrę</i></b>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388.<br>
 <br>
-<b>Adesto, domine ... Domine Deus noster, qui offensione nostra</b>: Pontificale Lanaletense, fols. 112v-3r.  G. H. Doble, ed., Pontificale Lanaletense, p. 77.<br>
+<b><i>Adesto, domine ... Domine Deus noster, qui offensione nostra</i></b>: see also <a href="https://portail.biblissima.fr/ark:/43093/mdatabdbe189b8d625de6cc16fcf04654577e673911ac">Rouen, Bibliothèque municipale, 368 (A. 027)</a>a>, fols. 112v-13r.[^11]<br>
 
 
 <h3 id="de-laude-short-comm">Commentary on the summary of <i><i>De laude psalmorum</i></i> (<i><a href="#de-laude-short">link to edition</a></i>)</h3>
 See Black, pp. xxxx.<br>
 <br>
-Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v (11th century, possibly from Alsace or Lorsch) are shown by way of comparison with Tiberius C VI.<br>
+Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v.<br>
 
 
 <h3 id="de-septiformes-comm">Commentary on De septiformes</h3>
-Harley MS 3271, 124r-125r: same thing?  See Cameron/Frank
+See also <a href="https://searcharchives.bl.uk/catalog/041-001779771">Harley MS 3271, 124r-125r</a><!--CHECK THAT THIS IS THE SAME THING, BUT I THINK IT IS.  NOT ONLINE YET.  SEE CAMERON/FRANK-->
 
 <h3 id="suscipere-digneris-comm">Commentary on the two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens' (<i><a href="#suscipere-digneris">link to edition</a></i></h3>
-<br>
 6.1: Suscipere digneris: a prayer with a similar beginning appears in the Vespasian Psalter (London, British Library Cotton MS Vespasian A I)<!--Show the image from Vespasian.  Is it in the 11th-century additions?--><br>
 
 
@@ -950,3 +949,4 @@ Harley MS 3271, 124r-125r: same thing?  See Cameron/Frank
 [^8]: Kate H. Thomas, <i>Late Anglo-Saxon Prayer in Practice: Before the Books of Hours</i><!--GET FULL REFERENCE-->
 [^9]: Fowler, 'An Old English Handbook'<!--GET FULL REFERENCE!! -->
 [^10]: Thomas, <i>Late Anglo-Saxon Prayer in Practice</i>, pp. 94, 273-74.
+[^11]: G. H. Doble, ed., Pontificale Lanaletense, p. 77.
