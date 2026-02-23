@@ -81,7 +81,6 @@ thare<br>
 <param ve-image seq="46"
     	manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
 	region="1755,1184,2054,1340">
-<!--It would be much better if I could achieve this by using annotations rather than separate regions, but I can't get it to work-->
 
 Psalterium est<br>
 quasi in modum<br>
@@ -195,6 +194,7 @@ chorus est&nbsp;·<br>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="50"
+	region="790,990,4337,3584"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
@@ -215,6 +215,7 @@ xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MAN
 domo amma dab · hane inposuit-<br>
 in subiugulali nouo · Et adduxit in-<br>
 <param ve-image seq="51"
+	region="790,990,4337,3584"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [19v] in hier <i>ve</i>l m[<i>lac.</i>] lectis viris exormi genere filior<i>um</i> isrt<br>
@@ -243,6 +244,7 @@ fecisse inescieris non ambigo multos qui uel<br>
 inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
 ---lere ---lara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
 <param ve-image seq="52"
+	region="1362,874,3614,2987"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
@@ -305,6 +307,7 @@ om<i>ni</i>p<i>oten</i>s quod est fiat fiat quod est spiritus req<i>uir</i>es;<b
 Quod est sp<i>iritu</i>s laudat · Quod est sp<i>iritu</i>s pausat&nbsp;·<br>
 Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 <param ve-image seq="54"
+	region="1362,1067,3614,2987"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [21r] fiat fiat hoc est semper · Deo gratias;<br>
@@ -330,6 +333,7 @@ G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra tibi dei et ----<br>
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra<br>
 <param ve-image seq="55"
+	region="373,1036,3551,2935"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="oratio-cuiusdam">[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam-comm">link to commentary</a></i>)]</h4>
@@ -359,6 +363,7 @@ Inde <b>d<i>omi</i>ne exaudi oratione<i>m</i> meam</b> ·ii· Post unu<i>m</i><b
 quoq<i>ue</i> psalmu<i>m</i> dans gl<i>ori</i>am deo genua flec-<br>
 tendo cum capite deuoluto interra· P<i>er</i>cuti-<br>
 <param ve-image seq="56"
+	region="2147,1081,2510,2074"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 	   
 [22r] ens pece<i>m</i> reuolueris incorde · suo dicens · <b>Peccaui<br>
@@ -387,6 +392,7 @@ tante<i>m</i> seditate<i>m</i> carnis inmunditię meae;<br>
 Peccaui nimis more meo peccaui deus m<i>er</i>s<i>et</i>-<br><!--mersetcoram??  Check this-->
 cora<i>m</i> te <i>et</i> cora<i>m</i> ang<i>e</i>lis tuis [H]eu mihi quia</b><br>
 <param ve-image seq="57"
+	region="793,942,2959,2446"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [22v] <b>non sum reuerit<i>us</i> facie tua · Templu<i>m</i> corporis mei de<br><!--check this-->
@@ -440,8 +446,8 @@ uirtute<i>m</i> diuinor<i>um</i> dictor<i>um</i> in psalmis inuenies si in<br>
 tima m<i>en</i>te p<i>er</i>scruteris · <i>et</i> ad medela<i>m</i> intimi in<br>
 tellect<i>ur</i> p<i>er</i> d<i>e</i>i gr<i>ati</i>a<i>m</i> p<i>er</i>ueneris&nbsp;·<br>
 <param ve-image seq="59"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-	   region="896,1013,2934,2425">
+	region="896,1013,2934,2425"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="oe-handbook">[Section I of the <i>Old English Handbook</i> (<i><a href="#oe-handbook-comm">link to commentary</a></i>)]</h4>
 INCIPIT ORDO CON<br>
@@ -456,8 +462,8 @@ fessio eni<i>m</i> sanat · Confessio iustificat · Confessio<br>
 uenia<i>m</i> peccatis donat · Inprimis igit<i>ur</i> p<i>ro</i>sternat<br>
 se humilit<i>er</i> super t<i>er</i>ra<i>m</i> in conspectu d<i>e</i>i adorationem<br>
 <param ve-image seq="59"
-       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
-	region="845,3490,2934,2425">
+	region="845,3490,2934,2425"
+       manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [23v] <i>et</i> lacrimas fundens rog<i>et</i> beata<i>m</i> maria<i>m</i> cum s<i>an</i>c<i>t</i>is<br>
 ap<i>osto</i>lis <i>et</i> martyrib<i>us</i> <i>et</i> confessorib<i>us</i> ut ipsi inter-<br>
@@ -486,20 +492,22 @@ possidere uita<i>m</i> ęt<i>er</i>na<i>m</i> am<i>en</i>;</b> POST HEC AVTE<i>M
 FIDVCIA SVRGENS CONFITEAT<i>VR</i> PENI<br>
 TENS CREDVLITATE<i>M</i> SVA<i>M</i> DICENS .<br>
 <param ve-image seq="60"
+	region="1852,1089,3012,2489"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [24r] <b>Credo in unu<i>m</i> d<i>eu</i>m patre<i>m</i> om<i>n</i>ipotente<i>m</i> · Credo<br>
 in filiu<i>m</i> · Credo <i>et</i> in sp<i>iritu</i>m s<i>an</i>c<i>tu</i>m · Credo uitam<br>
 post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 <i>et</i> hęc om<i>n</i>ia · Credo in d<i>eu</i>m uiuu<i>m</i> · am<i>en</i> ·</b><br>
-<br>
-P<i>OST</i> HĘC ITERU<i>M</i><br>
-DICAT HVMILITER CORA<i>M</i> D[EO] ET [CORA]M<br>
-SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
+
 <param ve-image seq="61"
+	region="976,932,2934,2425"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="ego-confiteor">['Ego confiteor tibi': a confessional prayer (<i><a href="#ego-confiteor-comm">link to commentary</a></i>)]</h4>
+P<i>OST</i> HĘC ITERU<i>M</i><br>
+DICAT HVMILITER CORA<i>M</i> D[EO] ET [CORA]M<br>
+SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
 <b>Ego confiteor tibi pater cęli <i>et</i> terrę cora<i>m</i> hoc<br>
 altare tuo s<i>an</i>cto · <i>et</i> istius loci reliquiis · et<br>
 cora<i>m</i> sacerdote tuo om<i>n</i>ia peccata mea · <i>et</i> quic-<br>
@@ -520,6 +528,7 @@ dia · manifeste · <i>et</i> occulte · in anima · <i>et</i> corpore&nbsp;·<b
 Ego confiteor quia ad patre<i>m</i> meu<i>m</i> <i>et</i> matre<i>m</i> · fr<i>atre</i>s<br>
 <i>et</i> sorores · patruos <i>et</i> a<i>m</i>mittas · c<i>um</i> sobrinos siue</b><br>
 <param ve-image seq="61"
+	region="917,1460,2934,2425"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [24v] <b>om<i>ni</i>s p<i>ro</i>pinquos· <i>et</i> parentes meos s<i>e</i>c<i>un</i>d<i>u</i>m p<i>re</i>cęptum<br>
@@ -547,6 +556,7 @@ mala uoluntate consensi· mala dedi con-<br>
 silia c<i>on</i>tra d<i>e</i>i p<i>re</i>ceptu<i>m</i> · <i>et</i> d<i>e</i>i uoluntate · Ego con-<br>
 fiteor q<i>ui</i>a in s<i>an</i>c<i>t</i>a<i>m</i> dei ęccl<i>esi</i>a multa mala cogitaui ·</b><br>
 <param ve-image seq="62"
+	region="1986,1051,2510,2074"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [25r] <b><i>et</i> locut<i>us</i> fui <i>et</i> petraui inordinare <i>et</i> sup<i>er</i>be intra<br>
@@ -575,6 +585,7 @@ pręcepit agere cu<i>m</i> om<i>n</i>i humilitate cordis <i>et</i><br>
 corporis sicut idipsu<i>m</i> ędictu<i>m</i> fuit · a regibus&nbsp;·<br>
 <i>et</i> imperatorib<i>us</i> non custodiui · nęc adimpleui ·</b><br>
 <param ve-image seq="63"
+	region="791,942,2934,2425"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [25v] <b>Episcopos p<i>re</i>sbit<i>er</i>os · abbates · monachos · canonicos · <i>et</i><br>
@@ -603,6 +614,7 @@ macula · p<i>er</i> tua<i>m</i> magna<i>m</i> mis<i>eri</i>c<i>or</i>dia<i>m</i
 ęt<i>er</i>na<i>m</i> · ad omniu<i>m</i> consortia<i>m</i> s<i>anct</i>or<i>um</i> <i>et</i> ad gaudia<br>
 angeloru<i>m</i> in cęlo habitantiu<i>m</i> ameN · p<i>er</i> ·</b><br>
 <param ve-image seq="64"
+	region="2103,1084,2510,2074"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [26r] <b>Supplico te dei sacerdos ut debis om<i>n</i>ib<i>us</i> sis mihi testis<br>
