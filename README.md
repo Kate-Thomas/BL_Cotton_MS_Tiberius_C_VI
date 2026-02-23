@@ -885,60 +885,6 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 <param ve-image seq="74"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-<h3 id="oratio-cuiusdam-comm">Commentary on <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam">link to edition</a></i>)</h3><br>
-<i><b>Sancta trinitas esto mihi cooperatrix</i></b>: see also the similar prayers ‘Auxiliatrix es tu mihi, trinitas sancta’ (<i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10), Royal Prayerbook), and ‘Domine Iesu Christe, qui in hunc mundum’ (London, British Library Cotton MS Galba XIV; Cambridge, Corpus Christi College MS 391).<br>
-<i><b>Omnipotens sempiterne deus, rex regum</b></i>: see also <a href="https://digi.vatlib.it/view/MSS_Reg.lat.12/0001", target="_blank">Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, f. 179r</a> and <a href="https://bl.digirati.io/iiif/ark:/81055/vdc_100064359517.0x000001">London, Cotton MS Nero A II, ff. 11v-12v</a>.  A copy in Latin and Old English can be found in <a href="https://bl.digirati.io/iiif/ark:/81055/vdc_100058085292.0x000001", target="_blank">London, British Library Cotton MS Galba A XIV, ff. 3r-6r</a>.<br>
-<!--.  The image shown is from the Book of Cerne, f. 60r.  Something is wrong here: manifest loading in a sort of thumbnail but not in the actual main panel-->
-<param ve-image seq="173"
-	region="411,3216,4225,3535"
-	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
-
-<h3 id="de-laude-8-comm">Commentary on section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8">link to edition</a></i>)</h3>
-<i>Image shown: XXX</i><br>
-<br>
-Jonathan Black has prepared a full comparative edition of this text, of which Tiberius C VI contains only the eighth section (ff. 22v-23r) and a summary (f. 27r-v).<br>
-<i><b>in via qui ambulaveris</b></i>: these words do not appear in the sources edited by Black.<br>
-
-<h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
-<i>Image shown: Cambridge, Corpus Christi MS 265, p. 72.</i><br>
-<br>
-See Roger Fowler, ‘A Late Old English Handbook for the use of a Confessor’ (1965) for an edition of this and five other texts which are associated with it in the manuscript record.[^9]  Fowler does not include Tiberius C VI, but does edit the same text in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>; Cambridge, Corpus Christi College MS 265; twice in Cambridge, Corpus Christi College MS 201, pp. 114-15 (incomplete) and XXXXX; and London, British Library Cotton MS Tiberius A III.  I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^10]<br>
-<br>
-Tiberius C VI differs from the other manuscripts in some ways:<br>
-<i><b>ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem</b></i>: the other manuscripts simply have ‘ordo confessionis Sancti Heronimi’, except for CCCC 201, which has no heading at all.<br>
-<br>
-<i><b>ita dicendo tribus vicibus</b></i>: this instruction does not appear in the other sources.<br>
-<br>
-<i><b>Sancta maria ora pro me</b></i>: the other sources do not give the litany in full.<br>
-<br>
-<i><b>credo in unum deum</b></i>: the other sources do not give the creed in full.<br>
-<br>
-<i><b>Confessio eni<i>m sanat · Confessio iustificat</b></i>: the first version in CCCC 201, pp. 114-15, ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
-<br>
-<i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
-<br>
-<i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.
-<param ve-image seq="77"
-       manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json">
-
-<h3 id="ego-confiteor-comm">Commentary on ‘Ego confiteor tibi’ (<i><a href="#ego-confiteor">link to edition</a></i>)</h3>
-<b><i>Ego confiteor tibi pater cęli et terrę</i></b>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388.<br>
-<br>
-<b><i>Adesto, domine ... Domine Deus noster, qui offensione nostra</i></b>: see also <a href="https://portail.biblissima.fr/ark:/43093/mdatabdbe189b8d625de6cc16fcf04654577e673911ac">Rouen, Bibliothèque municipale, 368 (A. 027)</a>a>, fols. 112v-13r.[^11]<br>
-
-
-<h3 id="de-laude-short-comm">Commentary on the summary of <i><i>De laude psalmorum</i></i> (<i><a href="#de-laude-short">link to edition</a></i>)</h3>
-See Black, pp. xxxx.<br>
-<br>
-Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v.<br>
-
-
-<h3 id="de-septiformes-comm">Commentary on De septiformes</h3>
-See also <a href="https://searcharchives.bl.uk/catalog/041-001779771">Harley MS 3271, 124r-125r</a><!--CHECK THAT THIS IS THE SAME THING, BUT I THINK IT IS.  NOT ONLINE YET.  SEE CAMERON/FRANK-->
-
-<h3 id="suscipere-digneris-comm">Commentary on the two prayers for chanting the psalter: 'Suscipere digneris' and 'Presta queso omnipotens' (<i><a href="#suscipere-digneris">link to edition</a></i></h3>
-6.1: Suscipere digneris: a prayer with a similar beginning appears in the Vespasian Psalter (London, British Library Cotton MS Vespasian A I)<!--Show the image from Vespasian.  Is it in the 11th-century additions?--><br>
-
 
 # References
 
