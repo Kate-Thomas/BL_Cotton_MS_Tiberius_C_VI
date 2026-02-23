@@ -194,7 +194,7 @@ chorus est&nbsp;·<br>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="50"
-	region="790,990,4337,3584"
+	region="1598,922,3012,2489"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
@@ -499,7 +499,6 @@ TENS CREDVLITATE<i>M</i> SVA<i>M</i> DICENS .<br>
 in filiu<i>m</i> · Credo <i>et</i> in sp<i>iritu</i>m s<i>an</i>c<i>tu</i>m · Credo uitam<br>
 post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 <i>et</i> hęc om<i>n</i>ia · Credo in d<i>eu</i>m uiuu<i>m</i> · am<i>en</i> ·</b><br>
-
 <param ve-image seq="61"
 	region="976,932,2934,2425"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
@@ -864,9 +863,11 @@ s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
 <param ve-image seq="72"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-[30r] oððe þæs gramlican deofles·<br>
-<!--NEED TO MAKE THIS PORTION BIGGER AS IT CAN'T BE SCROLLED TO EASILY-->
+[30r]--------------onwunge .<br>
+oððe þæs gramlican deofles·<br>
+<br>
 <param ve-image seq="73"
+	region="1044,872,2470,2041"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="suscipere-presta">'Suscipere digneris' and 'Presto queso omnipotens'</h4>
@@ -889,6 +890,7 @@ omni modis indigeo ut ualeam cum concessa<br>
 gratia aliquatenus uerba tuę maiestatis<br>
 cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br> 
 <param ve-image seq="73"
+	region="794,1296,2964,2449"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4>[Miniature of King David and his musicians]</h4>
