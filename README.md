@@ -194,7 +194,7 @@ chorus est&nbsp;·<br>
 [<i>18v.  A full-page coloured line drawing of Christ in a mandorla, with three angels to his right and left and below his feet.  Either side of the lower angel stand two tonsured saints.</i>]
 <!--SEE THE DESCRIPTION IN TEMPLE AND REVISE THIS-->
 <param ve-image seq="50"
-	region="1598,922,3012,2489"
+	region="0,915,5205,4301"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
@@ -215,7 +215,7 @@ xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MAN
 domo amma dab · hane inposuit-<br>
 in subiugulali nouo · Et adduxit in-<br>
 <param ve-image seq="51"
-	region="790,990,4337,3584"
+	region="772,732,3012,2489"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [19v] in hier <i>ve</i>l m[<i>lac.</i>] lectis viris exormi genere filior<i>um</i> isrt<br>
@@ -244,12 +244,12 @@ fecisse inescieris non ambigo multos qui uel<br>
 inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
 ---lere ---lara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
 <param ve-image seq="52"
-	region="1362,874,3614,2987"
+	region="2027,923,2511,2075"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
 <param ve-image seq="53"
-	region="1024,376,2466,2064"
+	region="1035,967,2498,2064"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]</h4>
@@ -278,7 +278,7 @@ notarios suos id est · asaph · ęman · ęthan · <i>et</i><br>
 idithun · sut a textus exceptionis eor<i>um</i> mani-<br>
 sestabat sicut <i>et</i> populus · quintspondentes<br>
 <param ve-image seq="53"
-	region="0,1164,5113,4279"
+	region="842,1187,2997,2477"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [20v] notaru supra memorati Adnuntiabant regi<br>
@@ -307,7 +307,7 @@ om<i>ni</i>p<i>oten</i>s quod est fiat fiat quod est spiritus req<i>uir</i>es;<b
 Quod est sp<i>iritu</i>s laudat · Quod est sp<i>iritu</i>s pausat&nbsp;·<br>
 Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 <param ve-image seq="54"
-	region="1362,1067,3614,2987"
+	region="2057,1110,2511,2075"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [21r] fiat fiat hoc est semper · Deo gratias;<br>
@@ -333,7 +333,7 @@ G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra tibi dei et ----<br>
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra<br>
 <param ve-image seq="55"
-	region="373,1036,3551,2935"
+	region="1050,1019,2467,2039"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="oratio-cuiusdam">[<i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam-comm">link to commentary</a></i>)]</h4>
@@ -415,7 +415,7 @@ tatio meo se<i>m</i>p<i>er</i> · In te confidit anima mea;<br>
 Precor te d<i>omi</i>ne antequa<i>m</i> discutias<!--Check this, I had "distutias"--> me miserere<br>
 mei</b><!--ABRUPT ENDING, HAVE I MISSED SOMETHING?-->
 <param ve-image seq="58"
-	region="868,1073,4337,3630"
+	region="2143,1060,2543,2101"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="de-laude-8">[Section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8-comm">link to commentary</a></i>)]</h4>
@@ -642,6 +642,7 @@ AVT DIACON<i>US</i> COLL<i>EC</i>TAS SVP<i>ER</i> INCLINATU<i>M</i><br>
 EI<i>US</i> CAPVT DICENS · <b>D<i>omi</i>n<i>u</i>s uobiscum · Et cu<i>m</i> sp<i>irit</i>u tuo&nbsp;·<br>
 Exaudi d<i>omi</i>ne preces n<i>ost</i>ras <i>et</i> confitentiu<i>m</i> ----</b><br><!--CHECK THIS!!-->
 <param ve-image seq="65"
+	region="881,909,2934,2425"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [26v] <b>tibi parce peccatis ut quos conscientię reat<i>ur</i> accussat<br>
@@ -667,12 +668,14 @@ usque . benedictus deus . Gloria ET SIC P<sup>O</sup>NGG OM<i>N</i>IA<br><!--CHE
 CVLPIS REVELATIS ACCIPIAT PENITENS<br>
 PENITENTIA MISERICORDITER ME VIAM<br>
 <param ve-image seq="66"
+	region="2091,1092,2510,2074"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [27r] ET MEMORIT<i>ER</i> OBSERVET <i>ET</i> IMPLEAT EA<i>M</i> ET ITERU<i>M</i><br>
 DICAT EI SACERDOS · <b>D<i>omi</i>n<i>u</i>s custodite ab omni malo</b><br>
 usque in finem . Et recedat humiliter ab eo in domum sua<i>m</i>;<br>
 <param ve-image seq="67"
+	region="1016,869,2934,2425"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="de-laude-short">[Summary of <i>De laude psalmorum</i> (<i><a href="#de-laude-short-comm">link to commentary</a></i>)]</h4>
@@ -699,6 +702,7 @@ Saluu<i>m</i> me fac d<i>eus</i>.</b> Usq<i>ue</i> quod· <b>Exaudi d<i>omi</i>n
 D<i>eu</i>s d<i>eu</i>s m<i>eu</i>s respice· Ad te d<i>omi</i>ne leuaui · Iudica me<br>
 d<i>omi</i>ne q<i>ua</i>m · D<i>omi</i>n<i>u</i>s inluminatio mea · Beati quor<i>um</i></b><br>
 <param ve-image seq="67"
+	region="893,1446,2934,2425"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [27v] <b>Benedica d<i>omi</i>n<i>u</i>m · D<i>omi</i>ne ne in furore tuo</b> ·ii· <b>Que<i>m</i> ad<br><!--CHECK THIS PAGE, SOME ABBREVIATIONS NOT CORRECT?-->
@@ -717,6 +721,7 @@ D<i>omi</i>ne clamaui · Uoce mea · D<i>omi</i>ne exaudi or[ationem]<br>
 Exaltabo te d<i>eu</i>s m<i>eu</i>s. Laudate d<i>omi</i>n<i>u</i>m de celis&nbsp;·<br>
 Benedicite om<i>n</i>ia op<i>er</i>a d<i>omi</i>ni d<i>omi</i>no ·</b><br>
 <param ve-image seq="68"
+	region="2084,1033,2510,2074"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="dicti-sancti">[<i>Dicti sancti Augustini</i> (<i><a href="#dicti-sancti-comm">link to commentary</a></i>)]</h4>
@@ -731,6 +736,7 @@ dit · Uoluntate<i>m</i> illicita<i>m</i> exunguit · Oleu<i>m</i> mis<i>eri</i>
 Sors angelor<i>um</i> ęlecta · Asperitate<i>m</i> deicit · Omne<i>m</i><br>
 furore<i>m</i> deprimit · Iracundia<i>m</i> frangit · Laus dei&nbsp;·<br>
 <param ve-image seq="68"
+	region="1890,3638,3012,2489"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [28r] assidua similis est melli · Canticu<i>m</i> psalmor<i>um</i> · canticu<i>m</i><br>
@@ -757,6 +763,7 @@ utilitas tristia corda consolat<i>ur</i> · gratiores inertes<br>
 facit · inertes excitat · fastidioses oblectat pecca-<br>
 tores ad lamentu<i>m</i> inuitat;
 <param ve-image seq="69"
+	region="1019,888,2994,2474"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="de-septiformes">[<i>De septiformes Spiritus Sanctus/Isaias se witega</i>: homily on the Holy Spirit (<i><a href="#de-septiformes-comm">link to commentary</a></i>)]</h4>
@@ -766,6 +773,7 @@ ph<i>et</i>a testante septiformis esse credatur<br>
 in bono · Sp<i>iritu</i>s a <i>et</i>iam nequa<i>m</i> septiformis desig<br> 
 nat<i>ur</i> · Sp<i>iritu</i>s bon<i>us</i> sp<i>iritu</i>s sapientię cui ę contrario in aliis<br>
 <param ve-image seq="69"
+	region="978,4269,2994,2474"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [28v] opponit<i>ur</i> · Sp<i>iritu</i>s insipientię· alt<i>er</i> peior · simulatio sapientię·<br>
@@ -807,9 +815,11 @@ be þa<i>m</i>þehi<i>m</i> gewyrð · ælcu<i>m</i> be his mæðe · <i>and</i>
 <sub>defere                      þ<i>æt</i>      man</sub><br>
 geornfulnysse · Se man hæfð wisdom · þe wislice<br>
 <param ve-image seq="70"
+	region="1927,1009,3012,2489"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-[29r] drihtnes willan · mid godu<i>m</i> weorcu<i>m</i> symle · Ane se hafð<br> 
+[29r]leofað.  And se hæfð 7gyt þe hit awent to gode to his
+drihtnes willan · mid godu<i>m</i> weorcu<i>m</i> symle · Ane se hafð<br> 
 godne ræd þehi<i>m</i> geredaþ æfre hwæt him to dorme sy&nbsp;·<br>
 <i>and</i> hwæt to forlætenne · And se hæfð modes stregðe<br>
 þe micel mæg forberan · <i>and</i> on eallu<i>m</i> earfoð nyssu<i>m</i>&nbsp;·<br>
@@ -834,9 +844,11 @@ spræce In sapientia · þ<i>æt</i> is dysig · oððe dwæsnys · Stidtitia<br
 þ<i>æt</i> is sumt ny· In p<i>ro</i>uidentia · þ<i>æt</i> is rectleafnys&nbsp;·<br>
 butriifo re scrawunge; Ignauia · þ<i>æt</i> is abraðennys<br>
 <param ve-image seq="71"
+	region="1032,901,2964,2449"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-[29v] þ<i>æt</i> is arleasnys · temeritas · þis dyfelic dyrstignys · alc<br>
+[29v]oððe naht nys· Ignorantia ·þ<i>æt</i> is nytennys · Impietas·
+þ<i>æt</i> is arleasnys · temeritas · þis dyfelic dyrstignys · alc<br>
 wisdom is of gode · for ðam þe god sylf is wisdom <i>and</i> ælc<br><!--CHECK "IS"-->
 man bið eadig þe hæfð þone wisdom · gif helm gen<br><!--NOT SURE, CHECK-->
 lif gelodgað mid wisdome · Se wisdom is halig þæt hal<br>
@@ -861,6 +873,7 @@ l--------------------------------------------------------------------<br>
 s------------·r---c þ<i>æt</i> hi hiwi----f-------------ce---------ban<br>
 ------------------------þearu<i>m</i> ma---------------g· þone<br>
 <param ve-image seq="72"
+	region="1845,989,2532,2093"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [30r]--------------onwunge .<br>
