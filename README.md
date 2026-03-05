@@ -921,12 +921,6 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 	region="411,3216,4225,3535"
 	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
 
-<!--h3 id="de-laude-8-comm">Commentary on section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8">link to edition</a></i>)</h3>
-<i>Image shown: XXX</i><br>FIND AN IMAGE FOR THIS SECTION
-<br>
-Jonathan Black has prepared a full comparative edition of this text, of which Tiberius C VI contains only the eighth section (ff. 22v-23r) and a summary (f. 27r-v).<br>
-<i><b>in via qui ambulaveris</b></i>: these words do not appear in the sources edited by Black.<br>-->
-
 <h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
 <i>Image shown: Cambridge, Corpus Christi MS 265, p. 72.</i><br>
 <br>
