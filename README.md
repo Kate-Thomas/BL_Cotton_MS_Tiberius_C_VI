@@ -942,7 +942,8 @@ Tiberius C VI differs from the other manuscripts in some ways:<br>
 <i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
 <br>
 <i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.
-<manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/78">
+<param ve-image
+	manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/78">
 
 
 # References
