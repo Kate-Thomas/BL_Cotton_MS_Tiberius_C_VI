@@ -927,8 +927,8 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v.<br>
 <br>
 See Black, p. 43.<br>
-<param ve-image
-manifest="https://digi.vatlib.it/view/bav_pal_lat_39/0086">
+<param ve-image seq="86"
+manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
 
 
 # References
