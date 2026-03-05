@@ -941,7 +941,7 @@ Tiberius C VI differs from the other manuscripts in some ways:<br>
 <br>
 <i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.
 <param ve-image seq="77"
-       manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537">
+       manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json">
 
 
 # References
