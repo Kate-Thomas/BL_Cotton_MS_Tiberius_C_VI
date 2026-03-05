@@ -923,27 +923,12 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 	region="411,3216,4225,3535"
 	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
 
-<h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
-<i>Image shown: Cambridge, Corpus Christi MS 265, p. 72.</i><br>
+<h3 id="de-laude-short-comm">Commentary on the summary of <i><i>De laude psalmorum</i></i> (<i><a href="#de-laude-short">link to edition</a></i>)</h3>
+Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v.<br>
 <br>
-See Roger Fowler, ‘A Late Old English Handbook for the use of a Confessor’ (1965) for an edition of this and five other texts which are associated with it in the manuscript record.[^9]  Fowler does not include Tiberius C VI, but does edit the same text in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>; Cambridge, Corpus Christi College MS 265; twice in Cambridge, Corpus Christi College MS 201, pp. 114-15 (incomplete) and XXXXX; and London, British Library Cotton MS Tiberius A III.  I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^10]<br>
-<br>
-Tiberius C VI differs from the other manuscripts in some ways:<br>
-<i><b>ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem</b></i>: the other manuscripts simply have ‘ordo confessionis Sancti Heronimi’, except for CCCC 201, which has no heading at all.<br>
-<br>
-<i><b>ita dicendo tribus vicibus</b></i>: this instruction does not appear in the other sources.<br>
-<br>
-<i><b>Sancta maria ora pro me</b></i>: the other sources do not give the litany in full.<br>
-<br>
-<i><b>credo in unum deum</b></i>: the other sources do not give the creed in full.<br>
-<br>
-<i><b>Confessio eni<i>m sanat · Confessio iustificat</b></i>: the first version in CCCC 201, pp. 114-15, ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
-<br>
-<i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
-<br>
-<i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.
-<param ve-image seq="78"
-		manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537">
+See Black, p. 43.<br>
+<param ve-image
+manifest="https://digi.vatlib.it/view/bav_pal_lat_39/0086">
 
 
 # References
