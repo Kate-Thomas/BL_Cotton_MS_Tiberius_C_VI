@@ -3,7 +3,7 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/full/800,/0/info.json"
+       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x000025/786,818,626,5024/500,/90/default.jpg"
        layout="vertical"><!--https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/6106,2342,2908,1896/800,/0/default.jpg-->
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -922,13 +922,6 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 <param ve-image seq="173"
 	region="411,3216,4225,3535"
 	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
-
-<h3 id="de-laude-short-comm">Commentary on the summary of <i><i>De laude psalmorum</i></i> (<i><a href="#de-laude-short">link to edition</a></i>)</h3>
-Images from Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, ff. 39v-41v.<br>
-<br>
-See Black, p. 43.<br>
-<param ve-image
-manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/0086">
 
 
 # References
