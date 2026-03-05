@@ -914,13 +914,8 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 
 ## Commentary
 <h3 id="oratio-cuiusdam-comm">Commentary on <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam">link to edition</a></i>)</h3><br>
-<i>Image shown: Cambridge, University Library, MS Ll.1.10, f. 60r</i><br>
-This text, unknown elsewhere, is of great interest, as it gives advice on how to pray alone at the beginning of the day, asking forgiveness of sins.<br>
-<br>
-<i>qui pecularius orare uoluerit et furtiua orationes quesierit</i>: this marks out the text as being for individual use.<br>
-<br>
-<i>Sancta trinitas esto mihi cooperatrix</i>: this incipit may possibly refer to a variant of the prayer ‘Auxiliatrix es tu mihi, trinitas sancta’, which appears in the <i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10) and the Royal Prayerbook, as well as forming part of the longer prayer ‘Domine Iesu Christe, qui in hunc mundum’, which can be found in London, British Library Cotton MS Galba XIV and the <i>Portiforium of St Wulstan</i> (Cambridge, Corpus Christi College MS 391).  The image shown is from the Book of Cerne, f. 60r.
-<!--something is wrong here: manifest loading in a sort of thumbnail but not in the actual main panel-->
+<i><b>Sancta trinitas esto mihi cooperatrix</i></b>: see also the similar prayers ‘Auxiliatrix es tu mihi, trinitas sancta’ (<i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10), Royal Prayerbook), and ‘Domine Iesu Christe, qui in hunc mundum’ (London, British Library Cotton MS Galba XIV; Cambridge, Corpus Christi College MS 391).<br>
+<i><b>Omnipotens sempiterne deus, rex regum</b></i>: see also <a href="https://digi.vatlib.it/view/MSS_Reg.lat.12/0001", target="_blank">Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, f. 179r</a> and <a href="https://bl.digirati.io/iiif/ark:/81055/vdc_100064359517.0x000001">London, Cotton MS Nero A II, ff. 11v-12v</a>.  A copy in Latin and Old English can be found in <a href="https://bl.digirati.io/iiif/ark:/81055/vdc_100058085292.0x000001", target="_blank">London, British Library Cotton MS Galba A XIV, ff. 3r-6r</a>.<br>
 <param ve-image seq="173"
 	region="411,3216,4225,3535"
 	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
