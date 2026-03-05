@@ -914,8 +914,10 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 
 ## Commentary
 <h3 id="oratio-cuiusdam-comm">Commentary on <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam">link to edition</a></i>)</h3>
-<i>Image shown: Cambridge, University Library MS Ll.1.10, f. 60r</i>
+<i>Image shown: Cambridge, University Library MS Ll.1.10, f. 60r</i><br>
+<br>
 <i><b>Sancta trinitas esto mihi cooperatrix</i></b>: see also the similar prayers ‘Auxiliatrix es tu mihi, trinitas sancta’ (<i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10), Royal Prayerbook), and ‘Domine Iesu Christe, qui in hunc mundum’ (London, British Library Cotton MS Galba XIV; Cambridge, Corpus Christi College MS 391).<br>
+	<br>
 <i><b>Omnipotens sempiterne deus, rex regum</b></i>: see also <a href="https://digi.vatlib.it/view/MSS_Reg.lat.12/0001", target="_blank">Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, f. 179r</a> and <a href="https://bl.digirati.io/iiif/ark:/81055/vdc_100064359517.0x000001">London, Cotton MS Nero A II, ff. 11v-12v</a>.  A copy in Latin and Old English can be found in <a href="https://bl.digirati.io/iiif/ark:/81055/vdc_100058085292.0x000001", target="_blank">London, British Library Cotton MS Galba A XIV, ff. 3r-6r</a>.<br>
 <param ve-image seq="173"
 	region="411,3216,4225,3535"
@@ -940,8 +942,8 @@ Tiberius C VI differs from the other manuscripts in some ways:<br>
 <i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
 <br>
 <i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.
-<param ve-image seq="77"
-       manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/manifest.json">
+<param ve-image seq="78"
+       manifest="https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/78">
 
 
 # References
