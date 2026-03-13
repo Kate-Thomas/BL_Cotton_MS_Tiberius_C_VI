@@ -945,8 +945,8 @@ Tiberius C VI differs from the other manuscripts in some ways:<br>
 <br>
 <b><i>Ego confiteor tibi pater cęli et terrę</i></b>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388, ff. 6r-9v, where there is a response by a priest.<br>
 <br>
-<b><i>Adesto, domine ... Domine Deus noster, qui offensione nostra</i></b>: see also <a href="https://portail.biblissima.fr/ark:/43093/mdatabdbe189b8d625de6cc16fcf04654577e673911ac">Rouen, Bibliothèque municipale, 368 (A. 027)</a>a>, fols. 112v-13r.[^11]<br>
-<param ve-image seq="13"
+<b><i>Adesto, domine ... Domine Deus noster, qui offensione nostra</i></b>: see also <a href="https://portail.biblissima.fr/ark:/43093/mdatabdbe189b8d625de6cc16fcf04654577e673911ac">Rouen, Bibliothèque municipale, 368 (A. 027)</a>, fols. 112v-13r.[^11]<br>
+	<param ve-image seq="13"
 manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105423611/manifest.json">
 
 # References
