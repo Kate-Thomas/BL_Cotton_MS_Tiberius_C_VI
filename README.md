@@ -930,17 +930,6 @@ See Roger Fowler, ‘A Late Old English Handbook for the use of a Confessor’ (
 Tiberius C VI differs from the other manuscripts in some ways:<br>
 <br>
 <i><b>ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem</b></i>: the other manuscripts simply have ‘ordo confessionis Sancti Heronimi’, except for CCCC 201, which has no heading at all.<br>
-<br>
-<i><b>ita dicendo tribus vicibus</b></i>: this instruction does not appear in the other sources.<br>
-<br>
-<i><b>Sancta maria ora pro me</b></i>: the other sources do not give the litany in full.<br>
-<br>
-<i><b>credo in unum deum</b></i>: the other sources do not give the creed in full.<br>
-<br>
-<i><b>Confessio eni<i>m sanat · Confessio iustificat</b></i>: the first version in CCCC 201, pp. 114-15, ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
-<br>
-<i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
-<br>
 <param ve-image seq="13"
 	region="-507,160,3628,2998"
 manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105423611/manifest.json">
