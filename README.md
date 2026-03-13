@@ -928,7 +928,7 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 Jonathan Black has prepared a full comparative edition of this text, of which Tiberius C VI contains only the eighth section (ff. 22v-23r) and a summary (f. 27r-v).<br>
 <i><b>in via qui ambulaveris</b></i>: these words do not appear in the sources edited by Black.<br>
 <param ve-image seq="89"
-manifest="https://digi.vatlib.it/view/bav_pal_lat_39/0089">
+manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
 
 <h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
 <i>Image shown: Paris, Bibliothèque nationale, Latin 13388.</i><br>
