@@ -936,15 +936,10 @@ Tiberius C VI differs from the other manuscripts in some ways:<br>
 <br>
 <i><b>credo in unum deum</b></i>: the other sources do not give the creed in full.<br>
 <br>
-<i><b>Confessio eni<i>m sanat · Confessio iustificat</b></i>: the first version in CCCC 201, pp. 114-15, ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
+<i><b>Confessio eni<i>m</i> sanat · Confessio iustificat</b></i>: the first version in CCCC 201, pp. 114-15, ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
 <br>
 <i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
 <br>
-<i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.
-<br>
-<i><b>Ego confiteor tibi pater cęli et terrę</b></i>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388, ff. 6r-9v, where there is a response by a priest.<br>
-<br>
-<i><b>Adesto, domine ... Domine Deus noster, qui offensione nostra</b></i>: see also <a href="https://portail.biblissima.fr/ark:/43093/mdatabdbe189b8d625de6cc16fcf04654577e673911ac">Rouen, Bibliothèque municipale, 368 (A. 027)</a>, fols. 112v-13r.[^11]<br>
 <param ve-image seq="13"
 	region="-507,160,3628,2998"
 manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105423611/manifest.json">
