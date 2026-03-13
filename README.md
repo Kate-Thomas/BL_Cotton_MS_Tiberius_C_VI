@@ -3,7 +3,7 @@
        title="An edition of British Library, Cotton MS Tiberius C VI, ff. 16v-30r"
        tagline="A collection of prayers and devotional texts from the 11th century"
        author="Kate Thomas"
-       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x000025/786,818,626,5024/500,/90/default.jpg"
+       banner="https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/864,941,979,4769/800,/90/default.jpg"
        layout="vertical"><!--https://bl.digirati.io/images/ark:/81055/vdc_100190274416.0x00003d/6106,2342,2908,1896/800,/0/default.jpg-->
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -923,6 +923,14 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 	region="411,3216,4225,3535"
 	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
 
+<h3 id="ego-confiteor-comm">Commentary on ‘Ego confiteor tibi’ (<i><a href="#ego-confiteor">link to edition</a></i>)</h3>
+<i>Image shown: Paris, Bibliothèque nationale, Latin 13388.</i><br>
+<br>
+<b><i>Ego confiteor tibi pater cęli et terrę</i></b>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388.<br>
+<br>
+<b><i>Adesto, domine ... Domine Deus noster, qui offensione nostra</i></b>: see also <a href="https://portail.biblissima.fr/ark:/43093/mdatabdbe189b8d625de6cc16fcf04654577e673911ac">Rouen, Bibliothèque municipale, 368 (A. 027)</a>a>, fols. 112v-13r.[^11]<br>
+<param ve-image seq="158"
+manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105423611/manifest.json">
 
 # References
 
