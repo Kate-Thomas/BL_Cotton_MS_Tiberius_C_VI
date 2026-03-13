@@ -503,7 +503,6 @@ post morte<i>m</i> · Credo me resurgere in die iudicii<br>
 	region="976,932,2934,2425"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-<h4 id="ego-confiteor">['Ego confiteor tibi': a confessional prayer (<i><a href="#ego-confiteor-comm">link to commentary</a></i>)]</h4>
 P<i>OST</i> HĘC ITERU<i>M</i><br>
 DICAT HVMILITER CORA<i>M</i> D[EO] ET [CORA]M<br>
 SACERDOTE CONFITENS P[ECCAT]A [SV]A<br>
@@ -923,13 +922,30 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 	region="411,3216,4225,3535"
 	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
 
-<h3 id="ego-confiteor-comm">Commentary on ‘Ego confiteor tibi’ (<i><a href="#ego-confiteor">link to edition</a></i>)</h3>
+<h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
 <i>Image shown: Paris, Bibliothèque nationale, Latin 13388.</i><br>
 <br>
-<b><i>Ego confiteor tibi pater cęli et terrę</i></b>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388.<br>
+See Roger Fowler, ‘A Late Old English Handbook for the use of a Confessor’ (1965) for an edition of this and five other texts which are associated with it in the manuscript record.[^9]  Fowler does not include Tiberius C VI, but does edit the same text in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>; Cambridge, Corpus Christi College MS 265; twice in Cambridge, Corpus Christi College MS 201, pp. 114-15 (incomplete) and XXXXX; and London, British Library Cotton MS Tiberius A III.  I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^10]<br>
+<br>
+Tiberius C VI differs from the other manuscripts in some ways:<br>
+<i><b>ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem</b></i>: the other manuscripts simply have ‘ordo confessionis Sancti Heronimi’, except for CCCC 201, which has no heading at all.<br>
+<br>
+<i><b>ita dicendo tribus vicibus</b></i>: this instruction does not appear in the other sources.<br>
+<br>
+<i><b>Sancta maria ora pro me</b></i>: the other sources do not give the litany in full.<br>
+<br>
+<i><b>credo in unum deum</b></i>: the other sources do not give the creed in full.<br>
+<br>
+<i><b>Confessio eni<i>m sanat · Confessio iustificat</b></i>: the first version in CCCC 201, pp. 114-15, ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
+<br>
+<i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
+<br>
+<i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.
+<br>
+<b><i>Ego confiteor tibi pater cęli et terrę</i></b>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388, ff. 6r-9v, where there is a response by a priest.<br>
 <br>
 <b><i>Adesto, domine ... Domine Deus noster, qui offensione nostra</i></b>: see also <a href="https://portail.biblissima.fr/ark:/43093/mdatabdbe189b8d625de6cc16fcf04654577e673911ac">Rouen, Bibliothèque municipale, 368 (A. 027)</a>a>, fols. 112v-13r.[^11]<br>
-<param ve-image seq="158"
+<param ve-image seq="13"
 manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105423611/manifest.json">
 
 # References
