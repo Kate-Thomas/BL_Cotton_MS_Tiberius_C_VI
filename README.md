@@ -922,6 +922,14 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 	region="411,3216,4225,3535"
 	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
 
+<h3 id="de-laude-8-comm">Commentary on section 8 and epilogue of <i>De laude psalmorum</i> (<i><a href="#de-laude-8">link to edition</a></i>)</h3>
+<i>Image shown: Vatican City, Bibliotheca Apostolica Vaticana Pal. lat. 39, f. 41r</i><br>
+<br>
+Jonathan Black has prepared a full comparative edition of this text, of which Tiberius C VI contains only the eighth section (ff. 22v-23r) and a summary (f. 27r-v).<br>
+<i><b>in via qui ambulaveris</b></i>: these words do not appear in the sources edited by Black.<br>
+<param ve-image seq="89"
+manifest="https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json">
+
 <h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
 <i>Image shown: Paris, Bibliothèque nationale, Latin 13388.</i><br>
 <br>
@@ -930,6 +938,7 @@ See Roger Fowler, ‘A Late Old English Handbook for the use of a Confessor’ (
 Tiberius C VI differs from the other manuscripts in some ways:<br>
 <br>
 <i><b>ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem</b></i>: the other manuscripts simply have ‘ordo confessionis Sancti Heronimi’, except for CCCC 201, which has no heading at all.<br>
+<br>
 <i><b>ita dicendo tribus vicibus</b></i>: this instruction does not appear in the other sources.<br>
 <br>
 <i><b>Sancta maria ora pro me</b></i>: the other sources do not give the litany in full.<br>
@@ -940,7 +949,7 @@ Tiberius C VI differs from the other manuscripts in some ways:<br>
 <br>
 <i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
 <br>
-<i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.
+<i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.<br>
 <br>
 <i><b>Ego confiteor tibi pater cęli et terrę</b></i>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388, ff. 6r-9v, where there is a response by a priest.<br>
 <br>
