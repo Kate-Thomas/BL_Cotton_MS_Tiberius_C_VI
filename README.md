@@ -72,10 +72,10 @@ ff. 31r-129v: Gallican psalter (imperfect), ending at Ps. 113:11, with an Old En
 ## Edition
 <h4 id="nabulum-est">[<i>Nabulum est quod grece dicitur tympanum</i>: an illustrated text on Biblical musical instruments (<i><a href="#nabulum-est-comm">link to commentary</a></i>)]</h4>
 [16v] Nabulum est quod grece<br>
-dicit psalteriu<i>m</i> quod a psa<br>
-lendo dicitur ad similitu<br>
-dinem del dae id est in<br>
-modum del dae littere<br>
+dicit<i>ur</i> psalteriu<i>m</i> quod a psa<br>
+lendo dicitur ad similitu-<br>
+dinem deldae id est in<br>
+modum deldae littere<br>
 ad similitudinem cy-<br>
 thare<br>
 <param ve-image seq="46"
@@ -86,16 +86,16 @@ Psalterium est<br>
 quasi in modum<br>
 clypei quadrati <i>et</i><br>
 corde eius contrarię<br>
-sunt abimo · in altum<br>
+sunt ab imo · in altum<br>
 <param ve-image seq="46"
      manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
 	region="3090,950,2054,1719">
 
 Hoc est tympanum<br>
-hoc est forma tympanitym<br>
+hoc est forma tympani tym<br>
 panum pellis pillacis est<br>
 in flaxa abens calamos<br>
-is in labiis <i>et</i> unum<br>
+·ii· os in labiis <i>et</i> unum<br>
 in collo<br>
 <param ve-image seq="46"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
@@ -103,10 +103,10 @@ in collo<br>
 	
 Hoc est forma cy-<br>
 thare quis prius<br>
-fuit cytharista · id est&nbsp;·<br>
+fuit cytharista · id est<br>
 toba filius stellę <i>et</i>iem res<br><!--CHECK-->
 <i>et</i> psalterium ab eis<br>
-ortum distar ut<br>
+ortum distat ut<br>
 in modulo<br>
 <param ve-image seq="46"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
@@ -119,27 +119,27 @@ suo q<i>ui</i>d concitat<i>ur et</i> c<i>on</i>cutitur<br>
 manu tenentis<br>
 <i>et</i> suscitat<br>
 adoratione<i>m</i> hec<br>
-est forma<br>
+est forma ·<br>
 <param ve-image seq="47"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001"
 	   region="773,1017,1429,1195">
 
 Sabuca i<i>n</i> musicis genus informe in-<br>
-libro damelis dr <!--CHECK ABBREVIATION-->.  Nesco quando<br>
+libro danielis dr <!--CHECK ABBREVIATION-->.  Nescio quando<br>
 dr<!--CHECK ABBREVIATION-->. cinares ut quidam putant<br>
-a citabulum q<i>ui</i><!--CHECK ABBREVIATION--> per cusa inmodu-<br>
+a citabulum q<i>ui</i><!--CHECK ABBREVIATION--> percusa inmodu-<br>
 los concitatur quidam putant<br>
-fistula est · <i>ve</i>l calamus scapuli· <i>ve</i>l era<br>
-menti· <i>ve</i> decortice·<br>
+fistula est · <i>ve</i>l calamus scapuli · <i>ve</i>l era<br>
+menti · <i>ve</i> decortice ·<br>
 <param ve-image seq="47"
        region="2057,993,1429,1195"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-Haec manus musica canticum est<br>
-duo calami sunt de auri calco more sonantur omnem –<br>
-canticum quod more cantatur musicum eft · hęc for<br>
-ma tubae tertie fistule in capite angusto · iiii· ucae<br>
-deductae<br>
+Haec manus musica canticum est ·<br>
+duo calami sunt de auri calco in ore sonantur omnem –<br>
+canticum quod in ore cantatur musicum est · hęc for<br>
+ma tubae tertie fistule in capite angusto ·iiii· ucae<br>
+deductae;<br>
 <param ve-image seq="47"
        region="1032,1833,2460,2065"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
@@ -153,7 +153,7 @@ hęc forma&nbsp;·<br>
 
 Corus est pellis<br>
 simplex cum dua<br>
-bus cicutis<br>
+bus cicutisa&nbsp;·<br>
 <param ve-image seq="47"
        region="2174,3545,1429,1195"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
@@ -173,10 +173,10 @@ Hęc est forma psalterii&nbsp;·<br>
 
 Hęc est forma fistulę hoc<br>
 bunibulum cum fistulo aereo<br>
-hoc xv bunibula aerea<br>
+hoc xv bunibula aerea -<br>
 cum fistulis in medio positis<br>
 sed tria tamen bunibula<br>
-muno quo que latera<br>
+in uno quoque latere<br>
 <param ve-image seq="49"
 	region="1022,1763,1713,1433"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
@@ -198,27 +198,27 @@ chorus est&nbsp;·<br>
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
-[19r]  Origo prophetie de re<br>
+[19r]  Origo prophetie LD de re<br>
 gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
 Da<br>
 vid<br>
 filivs<br>
-iesse cum esset in -----<br>
-quattuor elegti qui psalmos facerent<br>
-Id est asaph · ęman · a<i>et</i>han · <i>et</i> iditbun<br><!--??-->
+iesse cum esset in regnos<br>
+quattuor elegit qui psalmos facerent<br>
+Id est asaph · ęman · a<i>et</i>han · <i>et</i> idithun<br>
 Octoginta octo ergo dicebant psal-<br>
 mos · <i>et</i>cc · sub psalma <i>et</i> cythara&nbsp;·<br>
-p<i>er</i>cutiebat abiuth · Cu<i>m</i> david redux<br>
-issed archa<i>m</i> inhier<i>ve</i>lin post annos<br><!--??-->
-xx · reuocata<i>m</i> abatoris <i>et</i> mansit in<br><!--I HAD MARISIT NOT MANSIT, CHECK-->
-domo amma dab · hane inposuit-<br>
-in subiugulali nouo · Et adduxit in-<br>
+p<i>er</i>cutiebat abiuth · Cu<i>m</i> david redux-<br>
+issed archa<i>m</i> inhier<i>ve</i>lim post annos<br><!--??-->
+xx · reuocata<i>m</i> abazotis <i>et</i> mansit in<br><!--I HAD MARISIT NOT MANSIT, CHECK-->
+domo aminadab · hanc inposuit-<br>
+in subiuguali nouo · Et adduxit in-<br>
 <param ve-image seq="51"
 	region="772,732,3012,2489"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-[19v] in hier <i>ve</i>l m[<i>lac.</i>] lectis viris exormi genere filior<i>um</i> isrt<br>
+[19v] in hier <i>ve</i>lim[<i>lac.</i>] lectis viris exormi genere filior<i>um</i> isrt<br>
 l ex milia a [<i>lac.</i>] ros . De tribuaute<i>m</i> leui · cclxx octa<br>
 milia in ros exquibus quattuor principes preess<i>et</i><br>
 cantionib<i>us</i> instituit  Asaph · ęm--n · --ethan&nbsp;·<br>
