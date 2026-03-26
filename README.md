@@ -36,7 +36,7 @@
 ## About the manuscript
 London, British Library Cotton MS Tiberius C VI, or the Tiberius Psalter, is a glossed Gallican psalter which ends incomplete at Psalm 113, and originates perhaps from the Old Minster in Winchester, probably dating from the mid-1060s.[^1]<sup>,</sup>[^2]  The main psalter text, complete with the unglossed collects which follow each psalm, was edited in 1974 by Alistair Campbell.[^3]  The prefatory cycle of images of the lives of David and Christ (ff. 7v-16r, 18v, 30v) - the earliest extant psalter cycle of this kind[^4] - has been studied by Francis Wormald,[^5]<!--Does Wormald's edition include all of these, and does he include the musical instruments?--> and Warren's edition of the Leofric Missal (Oxford, Bodleian Library MS Bodley 579) is cross-referenced with the computistical texts on ff. 2r-7r of the Tiberius Psalter.[^6] <!--CHECK WHAT WARREN INCLUDES.  MAYBE HE DOESN'T INCLUDE THE DIAGRAMS ON FF. 6 AND 7.  SHOULD I EDIT ALL THE COMPUTISTICAL TEXTS?--> This leaves a number of interesting texts related to prayer and the psalter, including an illustrated guide to Biblical musical instruments (ff. 16v-18r), psalter prefaces (ff. 19r-20v, 27v-28v), and guides to prayer and confession (ff. 21v-27v).  Of these, Jonathan Black has identified the excerpt from and a ‘summary’ of the widespread prayer programme known as <i>De laude psalmorum</i> and edited it in his wide-ranging 2002 edition of that text.[^7]<br>
 <br>
-A particularly important part of the present edition is the text on ff. 23r-27r, the first part of the so-called <i>Old English Handbook</i>, a guide to confessional prayer, which, as I have discussed elsewhere,[^8] was edited by Roger Fowler from a number of manuscripts not including Tiberius C VI.  Here, I compare the text in Tiberius C VI with its analogue manuscripts in particular detail.
+A particularly important part of the present edition is the text on ff. 23r-27r, the first part of the so-called <i>Old English Handbook</i>, a guide to confessional prayer, which, as I have discussed elsewhere,[^8] was edited by Roger Fowler from a number of manuscripts not including Tiberius C VI.[^9]  Here, I compare the text in Tiberius C VI with its analogue manuscripts in particular detail.
 <param ve-entity eid="Q172157"> <!-- Winchester -->
 <param ve-entity eid="Q2193676"> <!-- Old Minster -->
 <param ve-entity eid="Q23308"> <!-- British Library -->
@@ -911,44 +911,7 @@ cantare · per dominum n<i>ost</i>r<i>u</i>m;</b><br>
 <param ve-image seq="74"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-## Commentary
-<h3 id="oratio-cuiusdam-comm">Commentary on <i>Oratio cuiusdam nominis Dei</i>: a guide to morning prayer (<i><a href="#oratio-cuiusdam">link to edition</a></i>)</h3>
-<i>Image shown: Cambridge, University Library MS Ll.1.10, f. 60r</i><br>
-<br>
-<i><b>Sancta trinitas esto mihi cooperatrix</i></b>: see also the similar prayers ‘Auxiliatrix es tu mihi, trinitas sancta’ (<i>Libellus Parisinus</i>, <i>Libellus Trecensis</i>, Paris 2731A, the Book of Cerne (Cambridge, University Library MS Ll.1.10), Royal Prayerbook), and ‘Domine Iesu Christe, qui in hunc mundum’ (London, British Library Cotton MS Galba XIV; Cambridge, Corpus Christi College MS 391).<br>
-	<br>
-<i><b>Omnipotens sempiterne deus, rex regum</b></i>: see also <a href="https://digi.vatlib.it/view/MSS_Reg.lat.12/0001", target="_blank">Vatican City, Bibliotheca Apostolica Vaticana MS Reg. lat. 12, f. 179r</a> and <a href="https://bl.digirati.io/iiif/ark:/81055/vdc_100064359517.0x000001">London, Cotton MS Nero A II, ff. 11v-12v</a>.  A copy in Latin and Old English can be found in <a href="https://bl.digirati.io/iiif/ark:/81055/vdc_100058085292.0x000001", target="_blank">London, British Library Cotton MS Galba A XIV, ff. 3r-6r</a>.<br>
-<param ve-image seq="173"
-	region="411,3216,4225,3535"
-	manifest="https://cudl.lib.cam.ac.uk/iiif/MS-LL-00001-00010">
 
-<h3 id="oe-handbook-comm">Commentary on the <i>Old English Handbook</i> I (<i><a href="#oe-handbook">link to edition</a></i>)</h3>
-<i>Image shown: Paris, Bibliothèque nationale, Latin 13388.</i><br>
-<br>
-See Roger Fowler, ‘A Late Old English Handbook for the use of a Confessor’ (1965) for an edition of this and five other texts which are associated with it in the manuscript record.[^9]  Fowler does not include Tiberius C VI, but does edit the same text in: <a href="https://uurl.kbr.be/1609340", target="_blank">Brussels, Bibliothèque Royale 8558-63 (2498), f. 132r-v (image no. 269)</a>; Cambridge, Corpus Christi College MS 265; twice in Cambridge, Corpus Christi College MS 201, pp. 114-15 (incomplete) and XXXXX; and London, British Library Cotton MS Tiberius A III.  I have discussed this text, and its presence in Tiberius C VI, elsewhere.[^10]<br>
-<br>
-Tiberius C VI differs from the other manuscripts in some ways:<br>
-<br>
-<i><b>ordo confessionis sacerdotum et omnium clericorum secundum hiernonimum tractatorem</b></i>: the other manuscripts simply have ‘ordo confessionis Sancti Heronimi’, except for CCCC 201, which has no heading at all.<br>
-<br>
-<i><b>ita dicendo tribus vicibus</b></i>: this instruction does not appear in the other sources.<br>
-<br>
-<i><b>Sancta maria ora pro me</b></i>: the other sources do not give the litany in full.<br>
-<br>
-<i><b>credo in unum deum</b></i>: the other sources do not give the creed in full.<br>
-<br>
-<i><b>Confessio eni<i>m</i> sanat · Confessio iustificat</b></i>: the first version in CCCC 201, pp. 114-15, ends here, followed by a blank space of about thirteen lines and ‘Preueniat hunc famulum tuum’ (see below).<br>
-<br>
-<i><b>'sapientam perfectam et ueram intellegentiam'</b></i>: the version on CCCC 201, p. 170, ends here.<br>
-<br>
-<i><b>‘post hęc iterum dicat hvmiliter coram d[eo] et [cora]m sacerdote confitens p[eccat]a [su]a’</b></i>: the manuscript is damaged here, and insertions have been supplied from Fowler’s edition.<br>
-<br>
-<i><b>Ego confiteor tibi pater cęli et terrę</b></i>: this prayer also appears in Paris, Bibliothèque nationale de France MS Latin 13388, ff. 6r-9v, where there is a response by a priest.<br>
-<br>
-<i><b>Adesto, domine ... Domine Deus noster, qui offensione nostra</b></i>: see also <a href="https://portail.biblissima.fr/ark:/43093/mdatabdbe189b8d625de6cc16fcf04654577e673911ac">Rouen, Bibliothèque municipale, 368 (A. 027)</a>, fols. 112v-13r.[^11]<br>
-<param ve-image seq="13"
-	region="-507,160,3628,2998"
-manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b105423611/manifest.json">
 
 # References
 
@@ -961,5 +924,3 @@ manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10542361
 [^7]: Black, Jonathan, ed., ‘Psalm Uses in Carolingian Prayerbooks: Alcuin and the Preface to De psalmorum usu,’ <i>Mediaeval Studies</i> 64 (2002), 1-60.
 [^8]: Kate H. Thomas, <i>Late Anglo-Saxon Prayer in Practice: Before the Books of Hours</i><!--GET FULL REFERENCE-->
 [^9]: Fowler, 'An Old English Handbook'<!--GET FULL REFERENCE!! -->
-[^10]: Thomas, <i>Late Anglo-Saxon Prayer in Practice</i>, pp. 94, 273-74.
-[^11]: G. H. Doble, ed., Pontificale Lanaletense, p. 77.
