@@ -197,7 +197,7 @@ chorus est&nbsp;·<br>
 	region="0,915,5205,4301"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-<h4 id="-prophetie">[<i> prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
+<h4 id="origo-prophetie">[<i>Origo prophetie de regis psalmorum</i>: psalter preface (<i><a href="#-prophetie-comm">link to commentary</a></i>)]</h4>
 [19r]  Origo prophetie LD de re<br>
 gis psalmoru<i>m</i> nvme<br><!--IS THIS CAPITALISED?-->
 ro:- cl<br>
@@ -218,48 +218,48 @@ in subiuguali nouo · Et adduxit in-<br>
 	region="772,732,3012,2489"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-[19v] in hier <i>ve</i>lim[<i>lac.</i>] lectis viris exormi genere filior<i>um</i> isrt<br>
-l ex milia a [<i>lac.</i>] ros . De tribuaute<i>m</i> leui · cclxx octa<br>
-milia in ros exquibus quattuor principes preess<i>et</i><br>
-cantionib<i>us</i> instituit  Asaph · ęm--n · --ethan&nbsp;·<br>
-Et idithun ·  Vniunq<i>ue</i> eor<i>um</i> diuidens · Lx--n uiros<br>
-succlamantes laude<i>m</i> cantionu<i>m</i> d<i>omi</i>no; Et un<i>ius</i>quisqu<i>os</i> .<br>
+[19v] in hier <i>ve</i>lim [<i>lac.</i>]lectis uiris exomi genere filior<i>um</i> isr<i>ve</i>l;<br>
+lxx milia u[<i>lac.</i>]ros . De tribu aute<i>m</i> leui · cclxx octo<br>
+milia uiros exquib<i>us</i> quattuor principes preess<i>et</i><br>
+cantionib<i>us</i> instituit  Asaph · ęm[<i>lac.</i>]n · Aethan&nbsp;·<br>
+Et idithun ·  Vnicuiq<i>ue</i> eor<i>um</i> diuidens · Lxxii · uiros<br>
+succlamantes laude<i>m</i> cantionu<i>m</i> d<i>omi</i>no; Et un<i>ius</i>quisqu<i>ue</i><br>
 eor<i>um</i> feriebat cymbalum alius cythara<i>m</i> · alius<br>
 tuba cornea exaltans · In medio aute<i>m</i> eoru<i>m</i><br>
-stabat dauid labor iste . desudat qua<i>m</i> eos<br>
+stabat dauid labor iste desudat qua<i>m</i> eos<br>
 qui exemplaria istius modi habere uolue-<br>
-rint utque diligenter ęmendaui cumcura et<br>
-diligentia transscribant<i>ur</i> · Not<i>et</i> sibi un<i>ius</i>quisqu<i>os</i> .<br>
-uel --ocente<i>m</i> lineam uel signa radianta idest<br>
-uel abelos ÷ uel asteriscos x et ubicu<i>m</i>q<i>ue</i> ungu-<br><!--WHAT DOES DIVISION SIGN MEAN AGAIN??-->
-lam ÷ uiderit precedente<i>m</i> abea usq<i>ue</i> ad duo punc<br>
-ta<i>us</i> quę impressim<i>ur</i> sciat in septuaginta trans<br>
-latorib<i>us</i> plus haberi · Vbi aute<i>m</i> stelle x simi<br>
+rint utque diligenter ęmendaui cu<i>m</i> cura <i>et</i><br>
+diligentia transscribant<i>ur</i> · Not<i>et</i> sibi un<i>ius</i>quisqu<i>ue</i> .<br>
+uel acente<i>m</i> linea<i>m</i> uel signa radianta id est<br>
+uel abelos ÷ uel asteriscos x <i>et</i> ubicu<i>m</i>q<i>ue</i> uirgu-<br>
+lam ÷ uiderit precedente<i>m</i> ab ea usq<i>ue</i> ad duo punc-<br>
+ta : quę inpressim<i>ur</i> sciat in septuaginta trans<br>
+latorib<i>us</i> plus haberi · Vbi aute<i>m</i> stelle x simi-<br>
 litudine<i>m</i> p<i>er</i>spexerit de hebręis uoluminib<i>us</i><br>
-additu<i>m</i> nouerit; Aeq<i>ue</i> usq<i>ue</i> adduo puncta .<br>
+additu<i>m</i> nouerit; Aeq<i>ue</i> usq<i>ue</i> ad duo puncta&nbsp;:<br>
 iuxta teodotionis dumtaxat ęditionę<i>m</i> qui sim<br>
-pliitate sermonis alxx interpretib<i>us</i> non dis<br>
-cordat · Haec scribta <i>et</i> uobis <i>et</i> studio locuiq<i>ue</i><br>
-fecisse inescieris non ambigo multos qui uel<br>
-inuidia u<i>e</i>l sup<i>er</i>cilio · mallent conte<i>m</i>pnere&nbsp;·<br>
----lere ---lara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
+plicitate sermonis a lxx interpretib<i>us</i> non dis<br>
+cordat · Haec scribta <i>et</i> uobis <i>et</i> studioso cuiq<i>ue</i><br>
+fecisse mesciens non ambigo multos qui uel<br>
+inuidia u<i>e</i>l · sup<i>er</i>cilio mallent conte<i>m</i>pnere&nbsp;·<br>
+uidere preclara qua<i>m</i> discere <i>et</i> det<i>ur</i>ba lente<br>
 <param ve-image seq="52"
 	region="2027,923,2511,2075"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-[20r] magis riuo qua<i>m</i> de purissimo fontat portare&nbsp;·<br>
+[20r] magis riuo qua<i>m</i> de purissimo fontae portare&nbsp;·<br>
 <param ve-image seq="53"
 	region="1035,967,2498,2064"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 <h4 id="incipit-expositio">[<i>Incipit expositio Psalteri</i>: psalter preface (<i><a href="#incipit-expositio-comm">link to commentary</a></i>)]</h4>
-Incipit ex positio psal-------ans<br>
---rpirv<i>m</i> qve pver sr cantic--n-----<br>
+Incipit ex positio psalterii· vel [<i>lac.</i>]<br>
+rarv<i>m</i> qvę pver sr capiti cognoscit<br>
 Psalteriu<i>m</i> dicitur psallentiu<i>m</i> multoru<i>m</i><br>
-modolamine uoce quia <i>et</i> ipse dauid te<br>
-nens psalteriu<i>m</i> non manib<i>us</i> sed cu<i>m</i> lxxxiiii ym<br>
+modolamine uoce quia <i>et</i> ipse dauid te-<br>
+nens psalteriu<i>m</i> non manib<i>us</i> sed cu<i>m</i> ·lxxxiiii· ym-<br>
 nificabant canens hoc · Dum ergo requirens<br>
-hoc legere psallere uersu<i>m</i> litera eni<i>m</i> inueniens<br>
+hoc legere psallere uersu<i>m</i> litem eni<i>m</i> inueniens<br>
 gręca<i>m</i> titulata p<i>er</i> qua<i>m</i> nuneru<i>m</i> cognoscis quod <i>et</i><br>
 quanti uoce psallebant cu<i>m</i> rege · Rex incipiebat<br>
 <i>et</i> numerus litteraru<i>m</i> tot uoce cordaru<i>m</i> Cum<br>
