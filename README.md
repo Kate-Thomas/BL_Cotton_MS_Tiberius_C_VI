@@ -282,14 +282,14 @@ festabat sicut <i>et</i> populus · qui respondentes<br>
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
 [20v] notarii supra memorati Adnuntiabant regi<br>
-omnia uera esse · Sicut <i>et</i> isti uoce testant<i>ur</i> ita .<br>
-<i>et</i> tu domine rex loquut<i>ur</i> es nocte · Mirabantur aute<i>m</i><br>
+omnia uera esse · Sicut <i>et</i> isti uoce testant<i>ur</i> ita<br>
+<i>et</i> tu d<i>omi</i>ne rex loquut<i>ur</i>es nocte · Mirabantur aute<i>m</i><br>
 quia sicut ipse dixerat ita <i>et</i> populus hymnifi -<br>
 cabat · Hic ergo cognoscim<i>ur</i> om<i>nis</i> psalmos esse<br>
-dauid quia noct<i>ur</i>no te<i>m</i>pore priusqua<i>m</i> populus</i>
+dauid quia noct<i>ur</i>no te<i>m</i>pore priusqua<i>m</i> populus</i><br>
 ille adnuntiauit quod isti testant<i>ur</i> ·  Asaph ·</br>
-ęman · ęthan · <i>et</i> idithum · In dieb<i>us</i> eni<i>m</i> quinque<br>
-hoc excipientes · Narrabant hosquinq<i>ue</i> libros</br>
+ęman · ęthan · <i>et</i> idithun · In dieb<i>us</i> eni<i>m</i> quinque<br>
+hoc excipientes · Narrabant hos quinq<i>ue</i> libros</br>
 qui in fine<i>m</i> ita habent · <i>et</i> ita inuenies in finem<br>
 libri · fiat fiat · Liber primvs<br><!--IS THIS CAPITALISED?-->
 Explicit in fine<i>m</i> psalm<i>um</i> .xl. qui sic habet fiat fiat&nbsp;·<br>
@@ -300,8 +300,8 @@ qui sic habet fiat fiat · Liber IIII<br>
 Explicit in finem psalm<i>um</i> ·cv·<br>
 qui sic habet fiat fiat · Liber ·v<br>
 Explicit in fine<i>m</i> psalm<i>um</i> cl. qui sic habeth<br>
-anins spiritus laudet dominum&nbsp;·<br>
---est fiat fiat quod est amen quodest om<i>n</i>is<br>
+omnis spiritus laudet dominum&nbsp;·<br>
+[H]oc est fiat fiat quod est amen quod est om<i>n</i>is<br>
 spiritus laudet dominu<i>m</i>&nbsp;·<br>
 om<i>ni</i>p<i>oten</i>s quod est fiat fiat quod est spiritus req<i>uir</i>es;<br>
 Quod est sp<i>iritu</i>s laudat · Quod est sp<i>iritu</i>s pausat&nbsp;·<br>
