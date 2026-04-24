@@ -314,23 +314,25 @@ Quod est pausatio sp<i>iritu</i>s · Quod est · am<i>en</i>; Quod est<br>
 Incipit interpretatio · all<i>eluia</i><br>
 A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi soli<br>
 A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi exercituum<br>
-A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi trinitati<br>
+A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi trinitats<br>
 A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi fortis<br>
 A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus dulcis<br>
 A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus pie<br>
 A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus<br>
 A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aua crus<br>
-A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi benedicta<br>
-A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;ibi laus ęterne<br>
+A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi benedicte<br>
+A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;ibi laus ęternę<br>
 A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;ibi lux lucis<br>
-A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi in lum<br>
-A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp; ucis qui nec ----- nubilo regeris rex ęternę glori--- intipitiniti pretatio gloria aput  ----<br>
+A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;aus tibi in luminatio<br>
+A&nbsp;&nbsp;&nbsp;&nbsp;ll<i>eluia</i>&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp; ucis qui nec tempore [<i>lac.</i>]<br>
+&nbsp;&nbsp;&nbsp;vid&nbsp;&nbsp;&nbsp;&nbsp;nubilo regeris rex ęternę glorię<br>
+Incipit interpretatio gloria apud [<i>lac.</i>]<br>
 Q&nbsp;&nbsp;&nbsp;&nbsp;vid&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;loria<br>
-G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;--------<br>
+G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra laudet creatorem<br>
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra magnificat<br>
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra miratur<br>
-G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;----------<br>
-G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra tibi dei et ----<br>
+G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra tremit in laude<br>
+G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra tibi deo exultat<br>
 G&nbsp;&nbsp;&nbsp;&nbsp;loria&nbsp;&nbsp;&nbsp;&nbsp;est&nbsp;&nbsp;&nbsp;&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp;erra<br>
 <param ve-image seq="55"
 	region="1050,1019,2467,2039"
