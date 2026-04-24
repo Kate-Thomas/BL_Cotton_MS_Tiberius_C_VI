@@ -262,26 +262,26 @@ nificabant canens hoc · Dum ergo requirens<br>
 hoc legere psallere uersu<i>m</i> litem eni<i>m</i> inueniens<br>
 gręca<i>m</i> titulata p<i>er</i> qua<i>m</i> nuneru<i>m</i> cognoscis quod <i>et</i><br>
 quanti uoce psallebant cu<i>m</i> rege · Rex incipiebat<br>
-<i>et</i> numerus litteraru<i>m</i> tot uoce cordaru<i>m</i> Cum<br>
-tympanis u<i>e</i>l emeri aut cytharis uel tubaru<i>m</i><br>
+<i>et</i> numerus litteraru<i>m</i> tot uoce cordaru<i>m</i>· Cum<br>
+tympanis u<i>e</i>l cineri aut cytharis uel tubaru<i>m</i><br>
 corneu<i>m</i> cu<i>m christ</i>o hoc eft uncto psallebant can-<br>
-tantes hoc · Nam nosolum Lxxxviiii · Canta-<br>
-bant cum david ueru<i>m et</i> Lxx uiror<i>um</i> uox ulula<br>
+tantes hoc · Nam non solu<i>m</i> ·Lxxxviiii· Canta-<br>
+bant cum david ueru<i>m et</i> Lxx· uiror<i>um</i> uox ulula<br>
 bant · Cum hymniticum uero · Lxxxiiii prima<br>
-uoce damabant · Ergo conoscis de hos · Lxxxiiii·
+uoce clamabant · Ergo conoscis de hos · Lxxxiiii·<br>
 p<i>er</i> singulas litteras quod canebant · Isti enim<br>
 incipiebant <i>et</i> populus respondebat quierat<br>
-numeru<i>m</i> lxxmilia inror<i>um</i> · David ciii rex noc-<br>
+numeru<i>m</i> lxx milia uiror<i>um</i> · David eni<i>m</i> rex noc-<br>
 turno tempore hymnificabat quod Lxxxiiii<br>
 ullulabant · Interrogabat aute<i>m</i> dauid rex<br>
 notarios suos id est · asaph · ęman · ęthan · <i>et</i><br>
-idithun · sut a textus exceptionis eor<i>um</i> mani-<br>
-sestabat sicut <i>et</i> populus · quintspondentes<br>
+idithun · siit a textus exceptionis eor<i>um</i> mani-<br>
+festabat sicut <i>et</i> populus · qui respondentes<br>
 <param ve-image seq="53"
 	region="842,1187,2997,2477"
        manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100189742516.0x000001">
 
-[20v] notaru supra memorati Adnuntiabant regi<br>
+[20v] notarii supra memorati Adnuntiabant regi<br>
 omnia uera esse · Sicut <i>et</i> isti uoce testant<i>ur</i> ita .<br>
 <i>et</i> tu domine rex loquut<i>ur</i> es nocte · Mirabantur aute<i>m</i><br>
 quia sicut ipse dixerat ita <i>et</i> populus hymnifi -<br>
